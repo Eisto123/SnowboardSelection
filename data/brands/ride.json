@@ -1,0 +1,2690 @@
+[
+  {
+    "id": "ride-deep-fake-2027",
+    "brand": "RIDE",
+    "model": "Deep Fake",
+    "family": "Deep Fake",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Response: Aggressive",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "155",
+      "157",
+      "157W",
+      "159",
+      "161W",
+      "162",
+      "165W"
+    ],
+    "fit": [
+      {
+        "length": "155",
+        "weightKg": [
+          52,
+          88
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          55,
+          91
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          73,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          77,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850"
+      }
+    ],
+    "price": {
+      "amount": 799.95,
+      "maxAmount": 799.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-algorhythm-2027",
+    "brand": "RIDE",
+    "model": "Algorhythm",
+    "family": "Algorhythm",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Response: Medium",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "155W",
+      "157",
+      "160W",
+      "161",
+      "164W"
+    ],
+    "fit": [
+      {
+        "length": "151",
+        "weightKg": [
+          45,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          52,
+          88
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          73,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          77,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853"
+      }
+    ],
+    "price": {
+      "amount": 679.95,
+      "maxAmount": 679.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-current-2027",
+    "brand": "RIDE",
+    "model": "Current",
+    "family": "Current",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Response: Aggressive",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "145",
+      "148",
+      "151",
+      "154",
+      "157",
+      "157W",
+      "160",
+      "160W",
+      "163",
+      "163W",
+      "166"
+    ],
+    "fit": [
+      {
+        "length": "145",
+        "weightKg": [
+          46,
+          64
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          50,
+          68
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          50,
+          68
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          64,
+          91
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          64,
+          91
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          68,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888"
+      },
+      {
+        "length": "163W",
+        "weightKg": [
+          68,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888"
+      },
+      {
+        "length": "166",
+        "weightKg": [
+          73,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888"
+      }
+    ],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-moderator-2027",
+    "brand": "RIDE",
+    "model": "Moderator",
+    "family": "Moderator",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Response: Medium",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "144",
+      "148",
+      "151",
+      "155",
+      "157",
+      "157W",
+      "159",
+      "161W",
+      "162",
+      "165W"
+    ],
+    "fit": [
+      {
+        "length": "144",
+        "weightKg": [
+          27,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          34,
+          75
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          45,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          52,
+          88
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          55,
+          91
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          73,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          77,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852"
+      }
+    ],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-superpig-2027",
+    "brand": "RIDE",
+    "model": "SUPERPIG",
+    "family": "SUPERPIG",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Response: Aggressive",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "142",
+      "148",
+      "151",
+      "154",
+      "158"
+    ],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          27,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          64,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          77,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854"
+      }
+    ],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-burnout-2027",
+    "brand": "RIDE",
+    "model": "Burnout",
+    "family": "Burnout",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官方原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Response: Medium",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "152",
+      "154W",
+      "155",
+      "157W",
+      "158"
+    ],
+    "fit": [
+      {
+        "length": "152",
+        "weightKg": [
+          45,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          64,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855"
+      }
+    ],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-berzerker-2027",
+    "brand": "RIDE",
+    "model": "Berzerker",
+    "family": "Berzerker",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Response: Aggressive",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "153",
+      "156",
+      "157W",
+      "159",
+      "160W",
+      "162",
+      "163W",
+      "167W"
+    ],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          45,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          59,
+          91
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          64,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          64,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          68,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856"
+      },
+      {
+        "length": "163W",
+        "weightKg": [
+          73,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856"
+      },
+      {
+        "length": "167W",
+        "weightKg": [
+          77,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856"
+      }
+    ],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-warpig-2027",
+    "brand": "RIDE",
+    "model": "WARPIG",
+    "family": "WARPIG",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Response: Medium",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "142",
+      "148",
+      "151",
+      "154",
+      "158"
+    ],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          27,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          64,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          77,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857"
+      }
+    ],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_warpig_RD261857_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_warpig_RD261857_2?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_warpig_RD261857_3?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_warpig_RD261857_4?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+    ]
+  },
+  {
+    "id": "ride-benchwarmer-2027",
+    "brand": "RIDE",
+    "model": "Benchwarmer",
+    "family": "Benchwarmer",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官方 Asymmetrical Twin；前后双向、左右侧切不对称，归入 True Twin 导航组。",
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Response: Aggressive",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "147",
+      "151",
+      "154W",
+      "155",
+      "157W",
+      "159"
+    ],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          36,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          45,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          59,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          64,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858"
+      }
+    ],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-vantum-2027",
+    "brand": "RIDE",
+    "model": "Vantum",
+    "family": "Vantum",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Response: Medium",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "145",
+      "148",
+      "151",
+      "153",
+      "155",
+      "157",
+      "159",
+      "162",
+      "166"
+    ],
+    "fit": [
+      {
+        "length": "145",
+        "weightKg": [
+          27,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          30,
+          74
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          34,
+          75
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          45,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          52,
+          88
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          55,
+          91
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028"
+      }
+    ],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-shadowban-2027",
+    "brand": "RIDE",
+    "model": "Shadowban",
+    "family": "Shadowban",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Response: Mellow",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "147",
+      "151",
+      "154",
+      "155W",
+      "157",
+      "160W",
+      "161",
+      "164W"
+    ],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          34,
+          75
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          45,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          52,
+          88
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          73,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          77,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861"
+      }
+    ],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_shadowban_RD261861_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_shadowban_RD261861_2?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_shadowban_RD261861_3?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_shadowban_RD261861_4?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+    ]
+  },
+  {
+    "id": "ride-zero-2027",
+    "brand": "RIDE",
+    "model": "Zero",
+    "family": "Zero",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官方 Asymmetrical Twin；前后双向、左右侧切不对称，归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Response: Medium",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859"
+    },
+    "gender": null,
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "142",
+      "147",
+      "151",
+      "154W",
+      "155",
+      "157W",
+      "159",
+      "161W"
+    ],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          27,
+          68
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          36,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          45,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          59,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          64,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          64,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859"
+      }
+    ],
+    "price": {
+      "amount": 569.95,
+      "maxAmount": 569.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-twinpig-2027",
+    "brand": "RIDE",
+    "model": "TWINPIG",
+    "family": "TWINPIG",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官方 Asymmetrical Twin；前后双向、左右侧切不对称，归入 True Twin 导航组。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Response: Mellow",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860"
+    },
+    "gender": null,
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "136",
+      "142",
+      "148",
+      "151",
+      "154",
+      "156W",
+      "157"
+    ],
+    "fit": [
+      {
+        "length": "136",
+        "weightKg": [
+          27,
+          59
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          27,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          64,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          77,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          73,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860"
+      }
+    ],
+    "price": {
+      "amount": 569.95,
+      "maxAmount": 569.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_twinpig_RD261860_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_twinpig_RD261860_2?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_twinpig_RD261860_3?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_twinpig_RD261860_4?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+    ]
+  },
+  {
+    "id": "ride-smokescreen-2027",
+    "brand": "RIDE",
+    "model": "Smokescreen",
+    "family": "Smokescreen",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Response: Mellow",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "153",
+      "155",
+      "157W",
+      "158",
+      "162"
+    ],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          45,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          64,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          64,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862"
+      }
+    ],
+    "price": {
+      "amount": 539.95,
+      "maxAmount": 539.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-kink-2027",
+    "brand": "RIDE",
+    "model": "Kink",
+    "family": "Kink",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官方原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Response: Mellow",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863"
+    },
+    "gender": null,
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "143",
+      "147",
+      "151",
+      "154W",
+      "155",
+      "157W",
+      "158"
+    ],
+    "fit": [
+      {
+        "length": "143",
+        "weightKg": [
+          27,
+          68
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          36,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          45,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          59,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          64,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863"
+      }
+    ],
+    "price": {
+      "amount": 499.95,
+      "maxAmount": 499.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-manic-2027",
+    "brand": "RIDE",
+    "model": "Manic",
+    "family": "Manic",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Response: Mellow",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864"
+    },
+    "gender": null,
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "157",
+      "158W",
+      "160",
+      "161W",
+      "163"
+    ],
+    "fit": [
+      {
+        "length": "151",
+        "weightKg": [
+          45,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          64,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          73,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          68,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          73,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864"
+      }
+    ],
+    "price": {
+      "amount": 489.95,
+      "maxAmount": 489.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-agenda-2027",
+    "brand": "RIDE",
+    "model": "Agenda",
+    "family": "Agenda",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官方原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Response: Mellow",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865"
+    },
+    "gender": null,
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "149",
+      "152",
+      "154W",
+      "155",
+      "157W",
+      "158",
+      "161W"
+    ],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          34,
+          75
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          45,
+          82
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          57,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          64,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          68,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865"
+      }
+    ],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-psychocandy-2027",
+    "brand": "RIDE",
+    "model": "Psychocandy",
+    "family": "Psychocandy",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Response: Medium",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "138",
+      "142",
+      "146",
+      "150",
+      "154",
+      "158"
+    ],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          27,
+          59
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          27,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          93
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          64,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          77,
+          100
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866"
+      }
+    ],
+    "price": {
+      "amount": 589.95,
+      "maxAmount": 589.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-magic-stick-2027",
+    "brand": "RIDE",
+    "model": "Magic Stick",
+    "family": "Magic Stick",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Response: Medium",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "143",
+      "147",
+      "151",
+      "154"
+    ],
+    "fit": [
+      {
+        "length": "143",
+        "weightKg": [
+          27,
+          45
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          39,
+          59
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          52,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867"
+      }
+    ],
+    "price": {
+      "amount": 539.95,
+      "maxAmount": 539.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-saturday-2027",
+    "brand": "RIDE",
+    "model": "Saturday",
+    "family": "Saturday",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官方原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Response: Medium",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "138",
+      "142",
+      "146",
+      "150",
+      "154"
+    ],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          27,
+          45
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          32,
+          50
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          39,
+          59
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          52,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868"
+      }
+    ],
+    "price": {
+      "amount": 519.95,
+      "maxAmount": 519.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_saturday_RD261868_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_saturday_RD261868_2?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_saturday_RD261868_3?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/ride/ride_2627_saturday_RD261868_4?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+    ]
+  },
+  {
+    "id": "ride-compact-2027",
+    "brand": "RIDE",
+    "model": "Compact",
+    "family": "Compact",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Response: Mellow",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869"
+    },
+    "gender": null,
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "138",
+      "142",
+      "146",
+      "150",
+      "154"
+    ],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          27,
+          45
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          32,
+          50
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          39,
+          59
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          52,
+          73
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869"
+      }
+    ],
+    "price": {
+      "amount": 489.95,
+      "maxAmount": 489.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-heartbreaker-2027",
+    "brand": "RIDE",
+    "model": "Heartbreaker",
+    "family": "Heartbreaker",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官方原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Response: Mellow",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870"
+    },
+    "gender": null,
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "139",
+      "143",
+      "147",
+      "150"
+    ],
+    "fit": [
+      {
+        "length": "139",
+        "weightKg": [
+          27,
+          45
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          32,
+          50
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          39,
+          59
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870"
+      }
+    ],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-zero-jr-2027",
+    "brand": "RIDE",
+    "model": "Zero Jr",
+    "family": "Zero Jr",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官方 Asymmetrical Twin；前后双向、左右侧切不对称，归入 True Twin 导航组。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Response: Mellow",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/zero-jr-snowboard-rd261871"
+    },
+    "gender": null,
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "135",
+      "142",
+      "147"
+    ],
+    "fit": [
+      {
+        "length": "135",
+        "weightKg": [
+          23,
+          45
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/zero-jr-snowboard-rd261871"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          36,
+          59
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/zero-jr-snowboard-rd261871"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          36,
+          59
+        ],
+        "source": "https://ridesnowboards.com/en-us/p/zero-jr-snowboard-rd261871"
+      }
+    ],
+    "price": {
+      "amount": 329.95,
+      "maxAmount": 329.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/zero-jr-snowboard-rd261871",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "ride-lowride-2027",
+    "brand": "RIDE",
+    "model": "Lowride",
+    "family": "Lowride",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官方原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Response: Mellow",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://ridesnowboards.com/en-us/p/lowride-snowboard-rd240293"
+    },
+    "gender": null,
+    "levels": [
+      "入门"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "75",
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 269.95,
+      "maxAmount": 269.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://ridesnowboards.com/en-us/p/lowride-snowboard-rd240293",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网仅给体重上限：75cm <41kg；90cm <45kg；100cm <50kg；110cm <54kg；120cm <54kg；130cm <59kg。未虚构下限，暂不参与自动长度匹配。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  }
+]

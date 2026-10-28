@@ -1,0 +1,2835 @@
+[
+  {
+    "id": "k2-alchemist-2027",
+    "brand": "K2",
+    "model": "Alchemist",
+    "family": "Alchemist",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": "官方板型备注：Tapered Directional, Traditional Shape",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "148",
+      "151",
+      "154",
+      "157",
+      "160",
+      "160W",
+      "163",
+      "163W",
+      "166"
+    ],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          50,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          64,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          64,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          68,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025"
+      },
+      {
+        "length": "163W",
+        "weightKg": [
+          68,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025"
+      },
+      {
+        "length": "166",
+        "weightKg": [
+          73,
+          113
+        ],
+        "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025"
+      }
+    ],
+    "price": {
+      "amount": 849.95,
+      "maxAmount": 849.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-copycat-2027",
+    "brand": "K2",
+    "model": "Copycat",
+    "family": "Copycat",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "138",
+      "141",
+      "144",
+      "147",
+      "150",
+      "153"
+    ],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          32,
+          54
+        ],
+        "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026"
+      },
+      {
+        "length": "141",
+        "weightKg": [
+          32,
+          54
+        ],
+        "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          36,
+          59
+        ],
+        "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          41,
+          64
+        ],
+        "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          45,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          50,
+          77
+        ],
+        "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026"
+      }
+    ],
+    "price": {
+      "amount": 539.95,
+      "maxAmount": 539.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-commonwealth-2027",
+    "brand": "K2",
+    "model": "Commonwealth",
+    "family": "Commonwealth",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": "官方板型备注：Tapered Directional, Traditional Shape",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "146",
+      "149",
+      "151",
+      "154",
+      "154W",
+      "157",
+      "157W",
+      "159W",
+      "160",
+      "162W",
+      "163"
+    ],
+    "fit": [
+      {
+        "length": "146",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686"
+      }
+    ],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官网概述写至166W，但Features和尺寸表最大163；长度采用Features与尺寸表。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-extravision-2027",
+    "brand": "K2",
+    "model": "Extravision",
+    "family": "Extravision",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "139",
+      "142",
+      "145",
+      "147",
+      "149",
+      "149W",
+      "152",
+      "152W"
+    ],
+    "fit": [
+      {
+        "length": "139",
+        "weightKg": [
+          32,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          32,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700"
+      },
+      {
+        "length": "149W",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          50,
+          82
+        ],
+        "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700"
+      },
+      {
+        "length": "152W",
+        "weightKg": [
+          50,
+          82
+        ],
+        "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700"
+      }
+    ],
+    "price": {
+      "amount": 539.95,
+      "maxAmount": 539.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-antidote-2027",
+    "brand": "K2",
+    "model": "Antidote",
+    "family": "Antidote",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "154",
+      "157",
+      "158W",
+      "159",
+      "161W",
+      "163W"
+    ],
+    "fit": [
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684"
+      },
+      {
+        "length": "163W",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684"
+      }
+    ],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-manifest-2027",
+    "brand": "K2",
+    "model": "Manifest",
+    "family": "Manifest",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "mid-flexing",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "147",
+      "150",
+      "153",
+      "156",
+      "157W",
+      "159",
+      "160W",
+      "162",
+      "164W"
+    ],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688"
+      }
+    ],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-hypnotist-2027",
+    "brand": "K2",
+    "model": "Hypnotist",
+    "family": "Hypnotist",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "149",
+      "152",
+      "154W",
+      "155",
+      "157W",
+      "158",
+      "160W",
+      "161"
+    ],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          47,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          50,
+          82
+        ],
+        "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          59,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          59,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          59,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691"
+      }
+    ],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-excavator-2027",
+    "brand": "K2",
+    "model": "Excavator",
+    "family": "Excavator",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": "官方板型备注：Tapered Directional, Volume Shift™",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "142",
+      "146",
+      "150",
+      "154",
+      "158",
+      "162"
+    ],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687"
+      }
+    ],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-sky-pilot-2027",
+    "brand": "K2",
+    "model": "Sky Pilot",
+    "family": "Sky Pilot",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": "官方板型备注：Tapered Directional, Volume Shift™",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "medium flex",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "148",
+      "151",
+      "154",
+      "157",
+      "160",
+      "163"
+    ],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          45,
+          77
+        ],
+        "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          50,
+          82
+        ],
+        "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          59,
+          91
+        ],
+        "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          59,
+          91
+        ],
+        "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685"
+      }
+    ],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-passport-2027",
+    "brand": "K2",
+    "model": "Passport",
+    "family": "Passport",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": "官方板型备注：Tapered Directional, Traditional Shape",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "146",
+      "149",
+      "151",
+      "151W",
+      "154",
+      "154W",
+      "157",
+      "157W",
+      "159W",
+      "160",
+      "162W",
+      "163",
+      "166W"
+    ],
+    "fit": [
+      {
+        "length": "146",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      },
+      {
+        "length": "151W",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      },
+      {
+        "length": "166W",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689"
+      }
+    ],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_passport_KB261689_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_passport_KB261689_2?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_passport_KB261689_3?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_passport_KB261689_4?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+    ]
+  },
+  {
+    "id": "k2-medium-2027",
+    "brand": "K2",
+    "model": "Medium",
+    "family": "Medium",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "147",
+      "149",
+      "152",
+      "154W",
+      "155",
+      "157",
+      "158W"
+    ],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          50,
+          82
+        ],
+        "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          59,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          59,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692"
+      }
+    ],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官网概述写141–159，但Features和尺寸表为147–158W；长度采用Features与尺寸表，概述待品牌修正。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-almanac-2027",
+    "brand": "K2",
+    "model": "Almanac",
+    "family": "Almanac",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": "官方板型备注：Tapered Directional, Volume Shift™",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "137",
+      "141",
+      "145",
+      "149",
+      "153",
+      "157",
+      "161"
+    ],
+    "fit": [
+      {
+        "length": "137",
+        "weightKg": [
+          32,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693"
+      },
+      {
+        "length": "141",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          50,
+          82
+        ],
+        "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          59,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          59,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693"
+      }
+    ],
+    "price": {
+      "amount": 559.95,
+      "maxAmount": 559.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-embassy-2027",
+    "brand": "K2",
+    "model": "Embassy",
+    "family": "Embassy",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "152",
+      "155",
+      "157",
+      "157W",
+      "159",
+      "159W",
+      "162",
+      "162W",
+      "165W"
+    ],
+    "fit": [
+      {
+        "length": "152",
+        "weightKg": [
+          50,
+          82
+        ],
+        "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          50,
+          82
+        ],
+        "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694"
+      }
+    ],
+    "price": {
+      "amount": 539.95,
+      "maxAmount": 539.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-afterblack-2027",
+    "brand": "K2",
+    "model": "Afterblack",
+    "family": "Afterblack",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "mid-flexing",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695"
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "149",
+      "151",
+      "154",
+      "156W",
+      "157",
+      "159W",
+      "160"
+    ],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          50,
+          82
+        ],
+        "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          59,
+          91
+        ],
+        "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          59,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695"
+      }
+    ],
+    "price": {
+      "amount": 539.95,
+      "maxAmount": 539.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_afterblack_KB261695_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_afterblack_KB261695_2?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_afterblack_KB261695_3?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_afterblack_KB261695_4?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+    ]
+  },
+  {
+    "id": "k2-world-peace-2027",
+    "brand": "K2",
+    "model": "World Peace",
+    "family": "World Peace",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "148",
+      "151",
+      "152W",
+      "154",
+      "155W",
+      "157",
+      "158W"
+    ],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698"
+      },
+      {
+        "length": "152W",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698"
+      }
+    ],
+    "price": {
+      "amount": 499.95,
+      "maxAmount": 499.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-gateway-pop-2027",
+    "brand": "K2",
+    "model": "Gateway Pop",
+    "family": "Gateway Pop",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "mid-flex",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "150",
+      "153",
+      "156",
+      "157W",
+      "159",
+      "160W",
+      "162",
+      "164W"
+    ],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          50,
+          82
+        ],
+        "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          59,
+          91
+        ],
+        "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696"
+      }
+    ],
+    "price": {
+      "amount": 489.95,
+      "maxAmount": 489.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-courier-2027",
+    "brand": "K2",
+    "model": "Courier",
+    "family": "Courier",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "入门"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "147",
+      "149",
+      "152",
+      "154W",
+      "155",
+      "157",
+      "158W",
+      "159",
+      "162W"
+    ],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          50,
+          82
+        ],
+        "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          59,
+          100
+        ],
+        "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          59,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          59,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          59,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699"
+      }
+    ],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-dreamsicle-2027",
+    "brand": "K2",
+    "model": "Dreamsicle",
+    "family": "Dreamsicle",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "138",
+      "142",
+      "146",
+      "149",
+      "153"
+    ],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          77
+        ],
+        "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          77
+        ],
+        "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          50,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701"
+      }
+    ],
+    "price": {
+      "amount": 489.95,
+      "maxAmount": 489.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_dreamsicle_KB261701_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_dreamsicle_KB261701_2?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_dreamsicle_KB261701_3?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_dreamsicle_KB261701_4?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
+        "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+    ]
+  },
+  {
+    "id": "k2-metropolitan-2027",
+    "brand": "K2",
+    "model": "Metropolitan",
+    "family": "Metropolitan",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "138",
+      "142",
+      "146",
+      "149",
+      "153"
+    ],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/metropolitan-womens-snowboard-kb261702"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/metropolitan-womens-snowboard-kb261702"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          77
+        ],
+        "source": "https://k2snow.com/en-us/p/metropolitan-womens-snowboard-kb261702"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          77
+        ],
+        "source": "https://k2snow.com/en-us/p/metropolitan-womens-snowboard-kb261702"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          50,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/metropolitan-womens-snowboard-kb261702"
+      }
+    ],
+    "price": {
+      "amount": 499.95,
+      "maxAmount": 499.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/metropolitan-womens-snowboard-kb261702",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-chloro-2027",
+    "brand": "K2",
+    "model": "Chloro",
+    "family": "Chloro",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [
+      "入门"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "138",
+      "142",
+      "146",
+      "150",
+      "154"
+    ],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/chloro-womens-snowboard-kb261703"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/chloro-womens-snowboard-kb261703"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          77
+        ],
+        "source": "https://k2snow.com/en-us/p/chloro-womens-snowboard-kb261703"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          45,
+          77
+        ],
+        "source": "https://k2snow.com/en-us/p/chloro-womens-snowboard-kb261703"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          50,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/chloro-womens-snowboard-kb261703"
+      }
+    ],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/chloro-womens-snowboard-kb261703",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官网 Chloro 正文仍写 Lime Lite；旧型号描述可能未更新，未据该段 soft flex 换算。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-passport-jr-2027",
+    "brand": "K2",
+    "model": "Passport JR",
+    "family": "Passport JR",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "127",
+      "131",
+      "135",
+      "139",
+      "143"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 379.95,
+      "maxAmount": 379.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/passport-jr-youth-snowboard-kb262027",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官网仅给体重上限：127cm <45kg；131cm <50kg；135cm <54kg；139cm <54kg；143cm <59kg。未虚构下限，暂不参与自动长度匹配。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-sidecar-2027",
+    "brand": "K2",
+    "model": "Sidecar",
+    "family": "Sidecar",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "129",
+      "132",
+      "134",
+      "137",
+      "142",
+      "145W",
+      "148W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 324.95,
+      "maxAmount": 324.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/sidecar-youth-snowboard-kb262054?color=black",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官网仅给体重上限：129cm <54kg；132cm <54kg；134cm <59kg；137cm <59kg；142cm <59kg；145Wcm <68kg；148Wcm <73kg。未虚构下限，暂不参与自动长度匹配。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-marauder-splitboard-package-2027",
+    "brand": "K2",
+    "model": "Marauder Splitboard Package",
+    "family": "Marauder Splitboard Package",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "Directional",
+    "shapeNote": "官方板型备注：Traditional Shape, Tapered Directional",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "147",
+      "151",
+      "156",
+      "158W",
+      "159",
+      "162",
+      "163W",
+      "166W"
+    ],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          41,
+          73
+        ],
+        "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002"
+      },
+      {
+        "length": "163W",
+        "weightKg": [
+          59,
+          95
+        ],
+        "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002"
+      },
+      {
+        "length": "166W",
+        "weightKg": [
+          64,
+          104
+        ],
+        "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002"
+      }
+    ],
+    "price": {
+      "amount": 1159.95,
+      "maxAmount": 1159.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": "官方整套分离板套装价格，不能与单板板身价格直接比较。",
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+      "官网2027目录列为Marauder整套分离板套装；产品页标题未单独显示年份，雪季依据当前目录。",
+      "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-lil-mini-2027",
+    "brand": "K2",
+    "model": "Lil Mini",
+    "family": "Lil Mini",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "soft-flexing",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://k2snow.com/en-us/p/lil-mini-youth-snowboard-kb240324"
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "75",
+      "90",
+      "100",
+      "110",
+      "120",
+      "130"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 249.95,
+      "maxAmount": 249.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/lil-mini-youth-snowboard-kb240324",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网仅给体重上限：75cm <41kg；90cm <45kg；100cm <50kg；110cm <54kg；120cm <54kg；130cm <59kg。未虚构下限，暂不参与自动长度匹配。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  },
+  {
+    "id": "k2-lil-kat-2027",
+    "brand": "K2",
+    "model": "Lil Kat",
+    "family": "Lil Kat",
+    "season": "2026/27",
+    "seasonEvidence": "官网当前2027目录及对应产品页",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin；归入 True Twin 导航组，未独立实测对称性。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "soft-flexing",
+      "method": "编辑文字映射：soft≈3，mid/medium≈5，Aggressive≈8；约±1，非厂商官方1–10原值。",
+      "source": "https://k2snow.com/en-us/p/lil-kat-youth-snowboard-kb240322"
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "75",
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 249.95,
+      "maxAmount": 249.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国官方目录标价；税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://k2snow.com/en-us/p/lil-kat-youth-snowboard-kb240322",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网仅给体重上限：75cm <41kg；90cm <45kg；100cm <50kg；110cm <54kg；120cm <54kg。未虚构下限，暂不参与自动长度匹配。",
+      "官方板花图片直链待核实，暂显示占位图。"
+    ]
+  }
+]

@@ -1,0 +1,17 @@
+{
+  "name": "snowboard-atlas",
+  "version": "1.2.0",
+  "private": true,
+  "type": "module",
+  "description": "可追溯来源的单板选购清单，GitHub Pages 纯静态网站",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test tests/*.test.mjs",
+    "validate": "node scripts/validate.mjs",
+    "dev": "node scripts/serve.mjs",
+    "preview": "node scripts/serve.mjs dist"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}

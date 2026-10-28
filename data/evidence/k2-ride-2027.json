@@ -1,0 +1,3294 @@
+{
+  "checkedAt": "2026-10-28",
+  "catalogs": [
+    {
+      "brand": "K2",
+      "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+      "expectedItems": 25,
+      "importedItems": 25,
+      "scope": "当前美国官方 All Snowboard 目录25项，含青少年板及Marauder分离板套装",
+      "priceEvidence": "work/k2ride-k2-list.txt"
+    },
+    {
+      "brand": "RIDE",
+      "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+      "expectedItems": 24,
+      "importedItems": 24,
+      "scope": "当前美国官方 Snowboards 目录24项，含青少年板",
+      "priceEvidence": "work/k2ride-catalogs-current.txt"
+    }
+  ],
+  "products": [
+    {
+      "id": "k2-alchemist-2027",
+      "brand": "K2",
+      "model": "Alchemist",
+      "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025",
+      "sku": "kb262025",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025",
+          "original": "148, 151, 154, 157, 160, 160W, 163, 163W, 166"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025",
+          "rows": 9,
+          "originalRows": [
+            {
+              "length": "148",
+              "weightKgOriginal": "45 - 68+"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "50 - 73+"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "54 - 77+"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "68 - 91+"
+            },
+            {
+              "length": "160",
+              "weightKgOriginal": "64 - 95+"
+            },
+            {
+              "length": "160W",
+              "weightKgOriginal": "64 - 95+"
+            },
+            {
+              "length": "163",
+              "weightKgOriginal": "68 - 104+"
+            },
+            {
+              "length": "163W",
+              "weightKgOriginal": "68 - 104+"
+            },
+            {
+              "length": "166",
+              "weightKgOriginal": "73 - 113+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 849.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-0-0.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-copycat-2027",
+      "brand": "K2",
+      "model": "Copycat",
+      "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026",
+      "sku": "kb262026",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026",
+          "original": "Twin"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026",
+          "original": "138, 141, 144, 147, 150, 153"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026",
+          "rows": 6,
+          "originalRows": [
+            {
+              "length": "138",
+              "weightKgOriginal": "32 - 54+"
+            },
+            {
+              "length": "141",
+              "weightKgOriginal": "32 - 54+"
+            },
+            {
+              "length": "144",
+              "weightKgOriginal": "36 - 59+"
+            },
+            {
+              "length": "147",
+              "weightKgOriginal": "41 - 64+"
+            },
+            {
+              "length": "150",
+              "weightKgOriginal": "45 - 73+"
+            },
+            {
+              "length": "153",
+              "weightKgOriginal": "50 - 77+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 539.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-0-1.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-commonwealth-2027",
+      "brand": "K2",
+      "model": "Commonwealth",
+      "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686",
+      "sku": "kb261686",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686",
+          "original": "146, 149, 151, 154, 154W, 157, 157W, 159W, 160, 162W, 163"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686",
+          "rows": 11,
+          "originalRows": [
+            {
+              "length": "146",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "149",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "154W",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "159W",
+              "weightKgOriginal": "59 - 95+"
+            },
+            {
+              "length": "160",
+              "weightKgOriginal": "59 - 95+"
+            },
+            {
+              "length": "162W",
+              "weightKgOriginal": "64 - 104+"
+            },
+            {
+              "length": "163",
+              "weightKgOriginal": "64 - 104+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 699.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-0-2.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官网概述写至166W，但Features和尺寸表最大163；长度采用Features与尺寸表。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-extravision-2027",
+      "brand": "K2",
+      "model": "Extravision",
+      "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700",
+      "sku": "kb261700",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700",
+          "original": "139, 142, 145, 147, 149, 149W, 152, 152W"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700",
+          "rows": 8,
+          "originalRows": [
+            {
+              "length": "139",
+              "weightKgOriginal": "32 - 73+"
+            },
+            {
+              "length": "142",
+              "weightKgOriginal": "32 - 73+"
+            },
+            {
+              "length": "145",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "147",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "149",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "149W",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "152",
+              "weightKgOriginal": "50 - 82+"
+            },
+            {
+              "length": "152W",
+              "weightKgOriginal": "50 - 82+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 539.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-0-3.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-antidote-2027",
+      "brand": "K2",
+      "model": "Antidote",
+      "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684",
+      "sku": "kb261684",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684",
+          "original": "Directional, Twin"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684",
+          "original": "154, 157, 158W, 159, 161W, 163W"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684",
+          "rows": 6,
+          "originalRows": [
+            {
+              "length": "154",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "158W",
+              "weightKgOriginal": "59 - 95+"
+            },
+            {
+              "length": "159",
+              "weightKgOriginal": "59 - 95+"
+            },
+            {
+              "length": "161W",
+              "weightKgOriginal": "64 - 104+"
+            },
+            {
+              "length": "163W",
+              "weightKgOriginal": "64 - 104+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 699.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-0-4.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-manifest-2027",
+      "brand": "K2",
+      "model": "Manifest",
+      "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688",
+      "sku": "kb261688",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688",
+          "original": "mid-flexing"
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688",
+          "original": "147, 150, 153, 156, 157W, 159, 160W, 162, 164W"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688",
+          "rows": 9,
+          "originalRows": [
+            {
+              "length": "147",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "150",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "153",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "156",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "159",
+              "weightKgOriginal": "59 - 95+"
+            },
+            {
+              "length": "160W",
+              "weightKgOriginal": "59 - 95+"
+            },
+            {
+              "length": "162",
+              "weightKgOriginal": "64 - 104+"
+            },
+            {
+              "length": "164W",
+              "weightKgOriginal": "64 - 104+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 649.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-0-5.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-hypnotist-2027",
+      "brand": "K2",
+      "model": "Hypnotist",
+      "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691",
+      "sku": "kb261691",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691",
+          "original": "Twin"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691",
+          "original": "149, 152, 154W, 155, 157W, 158, 160W, 161"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691",
+          "rows": 8,
+          "originalRows": [
+            {
+              "length": "149",
+              "weightKgOriginal": "47 - 73+"
+            },
+            {
+              "length": "152",
+              "weightKgOriginal": "50 - 82+"
+            },
+            {
+              "length": "154W",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "155",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "59 - 104+"
+            },
+            {
+              "length": "158",
+              "weightKgOriginal": "59 - 100+"
+            },
+            {
+              "length": "160W",
+              "weightKgOriginal": "59 - 104+"
+            },
+            {
+              "length": "161",
+              "weightKgOriginal": "59 - 104+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 649.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-0-6.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-excavator-2027",
+      "brand": "K2",
+      "model": "Excavator",
+      "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687",
+      "sku": "kb261687",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687",
+          "original": "142, 146, 150, 154, 158, 162"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687",
+          "rows": 6,
+          "originalRows": [
+            {
+              "length": "142",
+              "weightKgOriginal": "41kg - 73kg +"
+            },
+            {
+              "length": "146",
+              "weightKgOriginal": "41kg - 73kg +"
+            },
+            {
+              "length": "150",
+              "weightKgOriginal": "54kg - 86kg +"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "54kg - 86kg +"
+            },
+            {
+              "length": "158",
+              "weightKgOriginal": "59kg - 95kg +"
+            },
+            {
+              "length": "162",
+              "weightKgOriginal": "59kg - 95kg +"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 629.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-0-7.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-sky-pilot-2027",
+      "brand": "K2",
+      "model": "Sky Pilot",
+      "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685",
+      "sku": "kb261685",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685",
+          "original": "medium flex"
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685",
+          "original": "148, 151, 154, 157, 160, 163"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685",
+          "rows": 6,
+          "originalRows": [
+            {
+              "length": "148",
+              "weightKgOriginal": "41-73+"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "45-77+"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "50-82+"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "54-86+"
+            },
+            {
+              "length": "160",
+              "weightKgOriginal": "59-91+"
+            },
+            {
+              "length": "163",
+              "weightKgOriginal": "59-91+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 629.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-1-0.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-passport-2027",
+      "brand": "K2",
+      "model": "Passport",
+      "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689",
+      "sku": "kb261689",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689",
+          "original": "146, 149, 151, 151W, 154, 154W, 157, 157W, 159W, 160, 162W, 163, 166W"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689",
+          "rows": 13,
+          "originalRows": [
+            {
+              "length": "146",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "149",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "151W",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "154W",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "159W",
+              "weightKgOriginal": "59 - 95+"
+            },
+            {
+              "length": "160",
+              "weightKgOriginal": "59 - 95+"
+            },
+            {
+              "length": "162W",
+              "weightKgOriginal": "64 - 104+"
+            },
+            {
+              "length": "163",
+              "weightKgOriginal": "64 - 104+"
+            },
+            {
+              "length": "166W",
+              "weightKgOriginal": "64 - 104+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 599.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": false,
+      "snapshot": "work/k2ride-k2-spec-1-1.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+      ]
+    },
+    {
+      "id": "k2-medium-2027",
+      "brand": "K2",
+      "model": "Medium",
+      "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692",
+      "sku": "kb261692",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692",
+          "original": "Twin"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692",
+          "original": "147, 149, 152, 154W, 155, 157, 158W"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692",
+          "rows": 7,
+          "originalRows": [
+            {
+              "length": "147",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "149",
+              "weightKgOriginal": "50 - 82+"
+            },
+            {
+              "length": "152",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "154W",
+              "weightKgOriginal": "59 - 100+"
+            },
+            {
+              "length": "155",
+              "weightKgOriginal": "59 - 104+"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "59 - 100+"
+            },
+            {
+              "length": "158W",
+              "weightKgOriginal": "59 - 104+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 599.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-1-2.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官网概述写141–159，但Features和尺寸表为147–158W；长度采用Features与尺寸表，概述待品牌修正。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-almanac-2027",
+      "brand": "K2",
+      "model": "Almanac",
+      "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693",
+      "sku": "kb261693",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693",
+          "original": "137, 141, 145, 149, 153, 157, 161"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693",
+          "rows": 7,
+          "originalRows": [
+            {
+              "length": "137",
+              "weightKgOriginal": "32 - 73+"
+            },
+            {
+              "length": "141",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "145",
+              "weightKgOriginal": "50 - 82+"
+            },
+            {
+              "length": "149",
+              "weightKgOriginal": "59 - 104+"
+            },
+            {
+              "length": "153",
+              "weightKgOriginal": "59 - 104+"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "59 - 104+"
+            },
+            {
+              "length": "161",
+              "weightKgOriginal": "64 - 104+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 559.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-1-3.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-embassy-2027",
+      "brand": "K2",
+      "model": "Embassy",
+      "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694",
+      "sku": "kb261694",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694",
+          "original": "152, 155, 157, 157W, 159, 159W, 162, 162W, 165W"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694",
+          "rows": 9,
+          "originalRows": [
+            {
+              "length": "152",
+              "weightKgOriginal": "50 - 82+"
+            },
+            {
+              "length": "155",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "50 - 82+"
+            },
+            {
+              "length": "159",
+              "weightKgOriginal": "59 - 100+"
+            },
+            {
+              "length": "159W",
+              "weightKgOriginal": "59 - 100+"
+            },
+            {
+              "length": "162",
+              "weightKgOriginal": "64 - 104+"
+            },
+            {
+              "length": "162W",
+              "weightKgOriginal": "64 - 104+"
+            },
+            {
+              "length": "165W",
+              "weightKgOriginal": "64 - 104+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 539.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-1-4.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-afterblack-2027",
+      "brand": "K2",
+      "model": "Afterblack",
+      "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695",
+      "sku": "kb261695",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695",
+          "original": "Twin"
+        },
+        "flex": {
+          "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695",
+          "original": "mid-flexing"
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695",
+          "original": "149, 151, 154, 156W, 157, 159W, 160"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695",
+          "rows": 7,
+          "originalRows": [
+            {
+              "length": "149",
+              "weightKgOriginal": "50-82+"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "54-86+"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "54-86+"
+            },
+            {
+              "length": "156W",
+              "weightKgOriginal": "59-100+"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "59-91+"
+            },
+            {
+              "length": "159W",
+              "weightKgOriginal": "59-104+"
+            },
+            {
+              "length": "160",
+              "weightKgOriginal": "59-100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 539.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": false,
+      "snapshot": "work/k2ride-k2-spec-1-5.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+      ]
+    },
+    {
+      "id": "k2-world-peace-2027",
+      "brand": "K2",
+      "model": "World Peace",
+      "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698",
+      "sku": "kb261698",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698",
+          "original": "Twin"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698",
+          "original": "148, 151, 152W, 154, 155W, 157, 158W"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698",
+          "rows": 7,
+          "originalRows": [
+            {
+              "length": "148",
+              "weightKgOriginal": "41-73+"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "54-86+"
+            },
+            {
+              "length": "152W",
+              "weightKgOriginal": "54-86+"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "54-86+"
+            },
+            {
+              "length": "155W",
+              "weightKgOriginal": "54-86+"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "59-95+"
+            },
+            {
+              "length": "158W",
+              "weightKgOriginal": "59-95+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 499.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-1-6.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-gateway-pop-2027",
+      "brand": "K2",
+      "model": "Gateway Pop",
+      "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696",
+      "sku": "kb261696",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696",
+          "original": "mid-flex"
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696",
+          "original": "150, 153, 156, 157W, 159, 160W, 162, 164W"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696",
+          "rows": 8,
+          "originalRows": [
+            {
+              "length": "150",
+              "weightKgOriginal": "50 - 82+"
+            },
+            {
+              "length": "153",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "156",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "59 - 100+"
+            },
+            {
+              "length": "159",
+              "weightKgOriginal": "59 - 91+"
+            },
+            {
+              "length": "160W",
+              "weightKgOriginal": "59 - 100+"
+            },
+            {
+              "length": "162",
+              "weightKgOriginal": "59 - 100+"
+            },
+            {
+              "length": "164W",
+              "weightKgOriginal": "64 - 104+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 489.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-1-7.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-courier-2027",
+      "brand": "K2",
+      "model": "Courier",
+      "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699",
+      "sku": "kb261699",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699",
+          "original": "Twin"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699",
+          "original": "147, 149, 152, 154W, 155, 157, 158W, 159, 162W"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699",
+          "rows": 9,
+          "originalRows": [
+            {
+              "length": "147",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "149",
+              "weightKgOriginal": "50 - 82+"
+            },
+            {
+              "length": "152",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "154W",
+              "weightKgOriginal": "59 - 100+"
+            },
+            {
+              "length": "155",
+              "weightKgOriginal": "59 - 100+"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "59 - 100+"
+            },
+            {
+              "length": "158W",
+              "weightKgOriginal": "59 - 104+"
+            },
+            {
+              "length": "159",
+              "weightKgOriginal": "59 - 104+"
+            },
+            {
+              "length": "162W",
+              "weightKgOriginal": "59 - 104+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 449.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-2-0.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-dreamsicle-2027",
+      "brand": "K2",
+      "model": "Dreamsicle",
+      "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701",
+      "sku": "kb261701",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701",
+          "original": "138, 142, 146, 149, 153"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701",
+          "rows": 5,
+          "originalRows": [
+            {
+              "length": "138",
+              "weightKgOriginal": "41kg - 73kg +"
+            },
+            {
+              "length": "142",
+              "weightKgOriginal": "41kg - 73kg +"
+            },
+            {
+              "length": "146",
+              "weightKgOriginal": "45kg - 77kg +"
+            },
+            {
+              "length": "149",
+              "weightKgOriginal": "45kg - 77kg +"
+            },
+            {
+              "length": "153",
+              "weightKgOriginal": "50kg - 86kg +"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 489.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": false,
+      "snapshot": "work/k2ride-k2-spec-2-1.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+      ]
+    },
+    {
+      "id": "k2-metropolitan-2027",
+      "brand": "K2",
+      "model": "Metropolitan",
+      "source": "https://k2snow.com/en-us/p/metropolitan-womens-snowboard-kb261702",
+      "sku": "kb261702",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/metropolitan-womens-snowboard-kb261702",
+          "original": "Twin"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/metropolitan-womens-snowboard-kb261702",
+          "original": "138, 142, 146, 149, 153"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/metropolitan-womens-snowboard-kb261702",
+          "rows": 5,
+          "originalRows": [
+            {
+              "length": "138",
+              "weightKgOriginal": "41-73+"
+            },
+            {
+              "length": "142",
+              "weightKgOriginal": "41-73+"
+            },
+            {
+              "length": "146",
+              "weightKgOriginal": "45-77+"
+            },
+            {
+              "length": "149",
+              "weightKgOriginal": "45-77+"
+            },
+            {
+              "length": "153",
+              "weightKgOriginal": "50-86+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 499.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-2-2.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-chloro-2027",
+      "brand": "K2",
+      "model": "Chloro",
+      "source": "https://k2snow.com/en-us/p/chloro-womens-snowboard-kb261703",
+      "sku": "kb261703",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/chloro-womens-snowboard-kb261703",
+          "original": "Twin"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/chloro-womens-snowboard-kb261703",
+          "original": "138, 142, 146, 150, 154"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/chloro-womens-snowboard-kb261703",
+          "rows": 5,
+          "originalRows": [
+            {
+              "length": "138",
+              "weightKgOriginal": "41-73+"
+            },
+            {
+              "length": "142",
+              "weightKgOriginal": "41-73+"
+            },
+            {
+              "length": "146",
+              "weightKgOriginal": "45-77+"
+            },
+            {
+              "length": "150",
+              "weightKgOriginal": "45-77+"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "50-86+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 449.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-2-3.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官网 Chloro 正文仍写 Lime Lite；旧型号描述可能未更新，未据该段 soft flex 换算。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-passport-jr-2027",
+      "brand": "K2",
+      "model": "Passport JR",
+      "source": "https://k2snow.com/en-us/p/passport-jr-youth-snowboard-kb262027",
+      "sku": "kb262027",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/passport-jr-youth-snowboard-kb262027",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/passport-jr-youth-snowboard-kb262027",
+          "original": "127, 131, 135, 139, 143"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/passport-jr-youth-snowboard-kb262027",
+          "rows": 0,
+          "originalRows": [
+            {
+              "length": "127",
+              "weightKgOriginal": "<45"
+            },
+            {
+              "length": "131",
+              "weightKgOriginal": "<50"
+            },
+            {
+              "length": "135",
+              "weightKgOriginal": "<54"
+            },
+            {
+              "length": "139",
+              "weightKgOriginal": "<54"
+            },
+            {
+              "length": "143",
+              "weightKgOriginal": "<59"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 379.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-2-4.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官网仅给体重上限：127cm <45kg；131cm <50kg；135cm <54kg；139cm <54kg；143cm <59kg。未虚构下限，暂不参与自动长度匹配。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-sidecar-2027",
+      "brand": "K2",
+      "model": "Sidecar",
+      "source": "https://k2snow.com/en-us/p/sidecar-youth-snowboard-kb262054?color=black",
+      "sku": "kb262054",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/sidecar-youth-snowboard-kb262054?color=black",
+          "original": "Twin"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/sidecar-youth-snowboard-kb262054?color=black",
+          "original": "129, 132, 134, 137, 142, 145W, 148W"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/sidecar-youth-snowboard-kb262054?color=black",
+          "rows": 0,
+          "originalRows": [
+            {
+              "length": "129",
+              "weightKgOriginal": "<54"
+            },
+            {
+              "length": "132",
+              "weightKgOriginal": "<54"
+            },
+            {
+              "length": "134",
+              "weightKgOriginal": "<59"
+            },
+            {
+              "length": "137",
+              "weightKgOriginal": "<59"
+            },
+            {
+              "length": "142",
+              "weightKgOriginal": "<59"
+            },
+            {
+              "length": "145W",
+              "weightKgOriginal": "<68"
+            },
+            {
+              "length": "148W",
+              "weightKgOriginal": "<73"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 324.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-2-5.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官网仅给体重上限：129cm <54kg；132cm <54kg；134cm <59kg；137cm <59kg；142cm <59kg；145Wcm <68kg；148Wcm <73kg。未虚构下限，暂不参与自动长度匹配。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-marauder-splitboard-package-2027",
+      "brand": "K2",
+      "model": "Marauder Splitboard Package",
+      "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002",
+      "sku": "b2302002",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002",
+          "original": "Directional"
+        },
+        "flex": {
+          "source": null,
+          "original": null
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002",
+          "original": "147, 151, 156, 158W, 159, 162, 163W, 166W"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002",
+          "rows": 8,
+          "originalRows": [
+            {
+              "length": "147",
+              "weightKgOriginal": "41 - 73+"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "156",
+              "weightKgOriginal": "54 - 86+"
+            },
+            {
+              "length": "159",
+              "weightKgOriginal": "59 - 95+"
+            },
+            {
+              "length": "162",
+              "weightKgOriginal": "59 - 95+"
+            },
+            {
+              "length": "158W",
+              "weightKgOriginal": "59 - 95+"
+            },
+            {
+              "length": "163W",
+              "weightKgOriginal": "59 - 95+"
+            },
+            {
+              "length": "166W",
+              "weightKgOriginal": "64 - 104+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 1159.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-2-6.txt",
+      "notes": [
+        "官网 Flex/Feel 图形表未读取到可核实数字，硬度待核实；不把 Playful–Precise 两端文字当作数值。",
+        "官网2027目录列为Marauder整套分离板套装；产品页标题未单独显示年份，雪季依据当前目录。",
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-lil-mini-2027",
+      "brand": "K2",
+      "model": "Lil Mini",
+      "source": "https://k2snow.com/en-us/p/lil-mini-youth-snowboard-kb240324",
+      "sku": "kb240324",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/lil-mini-youth-snowboard-kb240324",
+          "original": "Twin"
+        },
+        "flex": {
+          "source": "https://k2snow.com/en-us/p/lil-mini-youth-snowboard-kb240324",
+          "original": "soft-flexing"
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/lil-mini-youth-snowboard-kb240324",
+          "original": "75, 90, 100, 110, 120, 130"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/lil-mini-youth-snowboard-kb240324",
+          "rows": 0,
+          "originalRows": [
+            {
+              "length": "75",
+              "weightKgOriginal": "<41"
+            },
+            {
+              "length": "90",
+              "weightKgOriginal": "<45"
+            },
+            {
+              "length": "100",
+              "weightKgOriginal": "<50"
+            },
+            {
+              "length": "110",
+              "weightKgOriginal": "<54"
+            },
+            {
+              "length": "120",
+              "weightKgOriginal": "<54"
+            },
+            {
+              "length": "130",
+              "weightKgOriginal": "<59"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 249.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-2-7.txt",
+      "notes": [
+        "官网仅给体重上限：75cm <41kg；90cm <45kg；100cm <50kg；110cm <54kg；120cm <54kg；130cm <59kg。未虚构下限，暂不参与自动长度匹配。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "k2-lil-kat-2027",
+      "brand": "K2",
+      "model": "Lil Kat",
+      "source": "https://k2snow.com/en-us/p/lil-kat-youth-snowboard-kb240322",
+      "sku": "kb240322",
+      "fields": {
+        "shape": {
+          "source": "https://k2snow.com/en-us/p/lil-kat-youth-snowboard-kb240322",
+          "original": "Twin"
+        },
+        "flex": {
+          "source": "https://k2snow.com/en-us/p/lil-kat-youth-snowboard-kb240322",
+          "original": "soft-flexing"
+        },
+        "sizes": {
+          "source": "https://k2snow.com/en-us/p/lil-kat-youth-snowboard-kb240322",
+          "original": "75, 90, 100, 110, 120"
+        },
+        "fit": {
+          "source": "https://k2snow.com/en-us/p/lil-kat-youth-snowboard-kb240322",
+          "rows": 0,
+          "originalRows": [
+            {
+              "length": "75",
+              "weightKgOriginal": "<41"
+            },
+            {
+              "length": "90",
+              "weightKgOriginal": "<45"
+            },
+            {
+              "length": "100",
+              "weightKgOriginal": "<50"
+            },
+            {
+              "length": "110",
+              "weightKgOriginal": "<54"
+            },
+            {
+              "length": "120",
+              "weightKgOriginal": "<54"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://k2snow.com/en-us/c/snowboards-by-collection/",
+          "amount": 249.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-k2-spec-2-8.txt",
+      "notes": [
+        "官网仅给体重上限：75cm <41kg；90cm <45kg；100cm <50kg；110cm <54kg；120cm <54kg。未虚构下限，暂不参与自动长度匹配。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-deep-fake-2027",
+      "brand": "RIDE",
+      "model": "Deep Fake",
+      "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850",
+      "sku": "rd261850",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850",
+          "original": "##### Directional\n\nDesigned to be ridden in one direction. More nose than tail, set back stance, and a sidecut to match. Can you still ride it switch? Yeah, of course. Is it going to be as good riding switch all day long? Probably not."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850",
+          "original": "Response: Aggressive"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850",
+          "original": "155, 157, 157W, 159, 161W, 162, 165W"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850",
+          "rows": 7,
+          "originalRows": [
+            {
+              "length": "155",
+              "weightKgOriginal": "52 - 88"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "55 - 91"
+            },
+            {
+              "length": "159",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "162",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "161W",
+              "weightKgOriginal": "73 - 100+"
+            },
+            {
+              "length": "165W",
+              "weightKgOriginal": "77 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 799.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-0-0.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-algorhythm-2027",
+      "brand": "RIDE",
+      "model": "Algorhythm",
+      "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853",
+      "sku": "rd261853",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853",
+          "original": "##### Directional\n\nDesigned to be ridden in one direction. More nose than tail, set back stance, and a sidecut to match. Can you still ride it switch? Yeah, of course. Is it going to be as good riding switch all day long? Probably not.\n\n##### Twin\n\nGreat for going both directions, same shape on the nose and tail of the board. Great for park riding, going switch, or just looking nice."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853",
+          "original": "Response: Medium"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853",
+          "original": "151, 154, 155W, 157, 160W, 161, 164W"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853",
+          "rows": 7,
+          "originalRows": [
+            {
+              "length": "151",
+              "weightKgOriginal": "45 - 82"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "52 - 88"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "161",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "155W",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "160W",
+              "weightKgOriginal": "73 - 100+"
+            },
+            {
+              "length": "164W",
+              "weightKgOriginal": "77 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 679.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-0-1.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-current-2027",
+      "brand": "RIDE",
+      "model": "Current",
+      "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888",
+      "sku": "rd261888",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888",
+          "original": "##### Directional\n\nDesigned to be ridden in one direction. More nose than tail, set back stance, and a sidecut to match. Can you still ride it switch? Yeah, of course. Is it going to be as good riding switch all day long? Probably not."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888",
+          "original": "Response: Aggressive"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888",
+          "original": "145, 148, 151, 154, 157, 157W, 160, 160W, 163, 163W, 166"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888",
+          "rows": 11,
+          "originalRows": [
+            {
+              "length": "145",
+              "weightKgOriginal": "46-64"
+            },
+            {
+              "length": "148",
+              "weightKgOriginal": "50-68"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "50-68"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "54-73"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "59-82"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "59-82"
+            },
+            {
+              "length": "160",
+              "weightKgOriginal": "64-91"
+            },
+            {
+              "length": "160W",
+              "weightKgOriginal": "64-91"
+            },
+            {
+              "length": "163",
+              "weightKgOriginal": "68-100"
+            },
+            {
+              "length": "163W",
+              "weightKgOriginal": "68-100"
+            },
+            {
+              "length": "166",
+              "weightKgOriginal": "73-100"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 649.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-0-2.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-moderator-2027",
+      "brand": "RIDE",
+      "model": "Moderator",
+      "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852",
+      "sku": "rd261852",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852",
+          "original": "##### Directional\n\nDesigned to be ridden in one direction. More nose than tail, set back stance, and a sidecut to match. Can you still ride it switch? Yeah, of course. Is it going to be as good riding switch all day long? Probably not."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852",
+          "original": "Response: Medium"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852",
+          "original": "144, 148, 151, 155, 157, 157W, 159, 161W, 162, 165W"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852",
+          "rows": 10,
+          "originalRows": [
+            {
+              "length": "144",
+              "weightKgOriginal": "27 - 73"
+            },
+            {
+              "length": "148",
+              "weightKgOriginal": "34 - 75"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "45 - 82"
+            },
+            {
+              "length": "155",
+              "weightKgOriginal": "52 - 88"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "55 - 91"
+            },
+            {
+              "length": "159",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "162",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "161W",
+              "weightKgOriginal": "73 - 100+"
+            },
+            {
+              "length": "165W",
+              "weightKgOriginal": "77 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 649.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-0-3.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-superpig-2027",
+      "brand": "RIDE",
+      "model": "SUPERPIG",
+      "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854",
+      "sku": "rd261854",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854",
+          "original": "##### Directional\n\nDesigned to be ridden in one direction. More nose than tail, set back stance, and a sidecut to match. Can you still ride it switch? Yeah, of course. Is it going to be as good riding switch all day long? Probably not."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854",
+          "original": "Response: Aggressive"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854",
+          "original": "142, 148, 151, 154, 158"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854",
+          "rows": 5,
+          "originalRows": [
+            {
+              "length": "142",
+              "weightKgOriginal": "27 - 73"
+            },
+            {
+              "length": "148",
+              "weightKgOriginal": "45 - 93"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "64 - 100+"
+            },
+            {
+              "length": "158",
+              "weightKgOriginal": "77 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 649.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-0-4.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-burnout-2027",
+      "brand": "RIDE",
+      "model": "Burnout",
+      "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855",
+      "sku": "rd261855",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855",
+          "original": "##### Twin\n\nGreat for going both directions, same shape on the nose and tail of the board. Great for park riding, going switch, or just looking nice."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855",
+          "original": "Response: Medium"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855",
+          "original": "152, 154W, 155, 157W, 158"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855",
+          "rows": 5,
+          "originalRows": [
+            {
+              "length": "152",
+              "weightKgOriginal": "45 - 82"
+            },
+            {
+              "length": "155",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "158",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "154W",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "64 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 649.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-0-5.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-berzerker-2027",
+      "brand": "RIDE",
+      "model": "Berzerker",
+      "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856",
+      "sku": "rd261856",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856",
+          "original": "### Features\nThe Berzerker is designed by one of the world’s smoothest snowboarders, Jake Blauvelt. Jake wanted a board that matched his smooth and effortless style in all terrain and conditions. You'll be impressed at how smooth the transition between turns is because of the tip rocker and a small amount of taper in the tail that improves edge-to-edge speed and float in powder. The Tapered Quadratic Sidecut has been enhanced to improve stability and edge hold.\nCarbon Slimerods® 2.0 have carbon for pop and a urethane core to smooth out the landings. The Berzerker is built for an all-mountain r…（完整技术说明见官网）"
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856",
+          "original": "Response: Aggressive"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856",
+          "original": "153, 156, 157W, 159, 160W, 162, 163W, 167W"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856",
+          "rows": 8,
+          "originalRows": [
+            {
+              "length": "153",
+              "weightKgOriginal": "45 - 82"
+            },
+            {
+              "length": "156",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "159",
+              "weightKgOriginal": "59 - 91"
+            },
+            {
+              "length": "162",
+              "weightKgOriginal": "64 - 95"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "64 - 95"
+            },
+            {
+              "length": "160W",
+              "weightKgOriginal": "68 - 100+"
+            },
+            {
+              "length": "163W",
+              "weightKgOriginal": "73 - 100+"
+            },
+            {
+              "length": "167W",
+              "weightKgOriginal": "77 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 629.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-0-6.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-warpig-2027",
+      "brand": "RIDE",
+      "model": "WARPIG",
+      "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857",
+      "sku": "rd261857",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857",
+          "original": "##### Directional\n\nDesigned to be ridden in one direction. More nose than tail, set back stance, and a sidecut to match. Can you still ride it switch? Yeah, of course. Is it going to be as good riding switch all day long? Probably not."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857",
+          "original": "Response: Medium"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857",
+          "original": "142, 148, 151, 154, 158"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857",
+          "rows": 5,
+          "originalRows": [
+            {
+              "length": "142",
+              "weightKgOriginal": "27 - 73"
+            },
+            {
+              "length": "148",
+              "weightKgOriginal": "45 - 93"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "64 - 100+"
+            },
+            {
+              "length": "158",
+              "weightKgOriginal": "77 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 599.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": false,
+      "snapshot": "work/k2ride-ride-verified-0-7.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+      ]
+    },
+    {
+      "id": "ride-benchwarmer-2027",
+      "brand": "RIDE",
+      "model": "Benchwarmer",
+      "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858",
+      "sku": "rd261858",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858",
+          "original": "### Features\nThe Benchwarmer is an aggressive twin shape suited to riders seeking hardpack performance in the park. The Benchwarmer offers our most aggressive camber profile for the riders demanding a precise and crisp ride. The Benchwarmer is at home on the big line of the park and on firm snow. The Extra Camber profile provides stability for jumping as well as aggressive high-speed turns. Asymmetric shaping improves heelside turn initiation and control with different radii for the heel and toeside edges.\nCarbon Array 3™ gives you extra pop without adding stiffness. Carbon Slim Walls reduce w…（完整技术说明见官网）"
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858",
+          "original": "Response: Aggressive"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858",
+          "original": "147, 151, 154W, 155, 157W, 159"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858",
+          "rows": 6,
+          "originalRows": [
+            {
+              "length": "147",
+              "weightKgOriginal": "36 - 73"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "45 - 82"
+            },
+            {
+              "length": "155",
+              "weightKgOriginal": "59 - 93"
+            },
+            {
+              "length": "159",
+              "weightKgOriginal": "64 - 95"
+            },
+            {
+              "length": "154W",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "59 - 95"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 599.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-1-0.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-vantum-2027",
+      "brand": "RIDE",
+      "model": "Vantum",
+      "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028",
+      "sku": "rd262028",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028",
+          "original": "### Features\nVantum, sounds pretty futuristic right? Well guess what? We’re living in the future, get on a board that’s built for these futuristic times. The Vantum is engineered to be at home on groomers, side hits, in the pow, hell even in the park if you’re feeling sporty. Vantum is meant to be ridden in a traditional length and features RIDE’s directional standard camber, keeping the board stable and ready for takeoff, landing, and everything in between.\nThe new Urethane Channel (technology from the future) uses milled out sections of the core that are then filled with RIDE’s urethane mate…（完整技术说明见官网）"
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028",
+          "original": "Response: Medium"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028",
+          "original": "145, 148, 151, 153, 155, 157, 159, 162, 166"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028",
+          "rows": 8,
+          "originalRows": [
+            {
+              "length": "145",
+              "weightKgOriginal": "27 - 73"
+            },
+            {
+              "length": "148",
+              "weightKgOriginal": "30 - 74"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "34 - 75"
+            },
+            {
+              "length": "153",
+              "weightKgOriginal": "45 - 82"
+            },
+            {
+              "length": "155",
+              "weightKgOriginal": "52 - 88"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "55 - 91"
+            },
+            {
+              "length": "159",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "162",
+              "weightKgOriginal": "59 - 95"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 579.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-1-1.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-shadowban-2027",
+      "brand": "RIDE",
+      "model": "Shadowban",
+      "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861",
+      "sku": "rd261861",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861",
+          "original": "##### Directional\n\nDesigned to be ridden in one direction. More nose than tail, set back stance, and a sidecut to match. Can you still ride it switch? Yeah, of course. Is it going to be as good riding switch all day long? Probably not.\n\n##### Twin\n\nGreat for going both directions, same shape on the nose and tail of the board. Great for park riding, going switch, or just looking nice."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861",
+          "original": "Response: Mellow"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861",
+          "original": "147, 151, 154, 155W, 157, 160W, 161, 164W"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861",
+          "rows": 8,
+          "originalRows": [
+            {
+              "length": "147",
+              "weightKgOriginal": "34 - 75"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "45 - 82"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "52 - 88"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "161",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "155W",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "160W",
+              "weightKgOriginal": "73 - 100+"
+            },
+            {
+              "length": "164W",
+              "weightKgOriginal": "77 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 599.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": false,
+      "snapshot": "work/k2ride-ride-verified-1-2.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+      ]
+    },
+    {
+      "id": "ride-zero-2027",
+      "brand": "RIDE",
+      "model": "Zero",
+      "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859",
+      "sku": "rd261859",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859",
+          "original": "##### Asymmetrical\n\nAsymmetric sidecut shaping improves heelside turn initiation and control. Offering perfect balance while turning through different radii for the heel and toe side edges, the board just feels right!\n\n##### Twin\n\nGreat for going both directions, same shape on the nose and tail of the board. Great for park riding, going switch, or just looking nice."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859",
+          "original": "Response: Medium"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859",
+          "original": "142, 147, 151, 154W, 155, 157W, 159, 161W"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859",
+          "rows": 8,
+          "originalRows": [
+            {
+              "length": "142",
+              "weightKgOriginal": "27 - 68"
+            },
+            {
+              "length": "147",
+              "weightKgOriginal": "36 - 73"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "45 - 82"
+            },
+            {
+              "length": "155",
+              "weightKgOriginal": "59 - 93"
+            },
+            {
+              "length": "159",
+              "weightKgOriginal": "64 - 95"
+            },
+            {
+              "length": "154W",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "161W",
+              "weightKgOriginal": "64 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 569.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-1-3.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-twinpig-2027",
+      "brand": "RIDE",
+      "model": "TWINPIG",
+      "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860",
+      "sku": "rd261860",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860",
+          "original": "##### Asymmetrical\n\nAsymmetric sidecut shaping improves heelside turn initiation and control. Offering perfect balance while turning through different radii for the heel and toe side edges, the board just feels right!\n\n##### Twin\n\nGreat for going both directions, same shape on the nose and tail of the board. Great for park riding, going switch, or just looking nice."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860",
+          "original": "Response: Mellow"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860",
+          "original": "136, 142, 148, 151, 154, 156W, 157"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860",
+          "rows": 7,
+          "originalRows": [
+            {
+              "length": "136",
+              "weightKgOriginal": "27 - 59"
+            },
+            {
+              "length": "142",
+              "weightKgOriginal": "27 - 73"
+            },
+            {
+              "length": "148",
+              "weightKgOriginal": "45 - 93"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "64 - 100+"
+            },
+            {
+              "length": "156W",
+              "weightKgOriginal": "77 - 100+"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "73 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 569.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": false,
+      "snapshot": "work/k2ride-ride-verified-1-4.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+      ]
+    },
+    {
+      "id": "ride-smokescreen-2027",
+      "brand": "RIDE",
+      "model": "Smokescreen",
+      "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862",
+      "sku": "rd261862",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862",
+          "original": "##### Directional\n\nDesigned to be ridden in one direction. More nose than tail, set back stance, and a sidecut to match. Can you still ride it switch? Yeah, of course. Is it going to be as good riding switch all day long? Probably not.\n#### Elliptical Progressive Sidecut\n\nDesigned exclusively for the Commissioner, this sidecut combines tight elliptical curvature at the tip and tail to provide low-speed initiation and response with a larger radial section between the feet for high-speed stability and tracking."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862",
+          "original": "Response: Mellow"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862",
+          "original": "153, 155, 157W, 158, 162"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862",
+          "rows": 5,
+          "originalRows": [
+            {
+              "length": "153",
+              "weightKgOriginal": "45 - 82"
+            },
+            {
+              "length": "155",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "158",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "162",
+              "weightKgOriginal": "64 - 100+"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "64 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 539.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-1-5.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-kink-2027",
+      "brand": "RIDE",
+      "model": "Kink",
+      "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863",
+      "sku": "rd261863",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863",
+          "original": "##### Twin\n\nGreat for going both directions, same shape on the nose and tail of the board. Great for park riding, going switch, or just looking nice."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863",
+          "original": "Response: Mellow"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863",
+          "original": "143, 147, 151, 154W, 155, 157W, 158"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863",
+          "rows": 7,
+          "originalRows": [
+            {
+              "length": "143",
+              "weightKgOriginal": "27 - 68"
+            },
+            {
+              "length": "147",
+              "weightKgOriginal": "36 - 73"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "45 - 82"
+            },
+            {
+              "length": "155",
+              "weightKgOriginal": "59 - 93"
+            },
+            {
+              "length": "158",
+              "weightKgOriginal": "64 - 95"
+            },
+            {
+              "length": "154W",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "59 - 95"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 499.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-1-6.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-manic-2027",
+      "brand": "RIDE",
+      "model": "Manic",
+      "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864",
+      "sku": "rd261864",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864",
+          "original": "### Features\nThe Manic is designed to take on the entire mountain. The Directional Standard Camber shape has camber between the bindings for snap and control with rocker at the tip and tail, providing effortless turn initiation and performance. The Quadratic Sidecut improves turn initiation/exit and edge grip. Slimewalls® provide a smooth ride and increased durability. Linear Carbon is positioned below the core for snap and ollie power without added stiffness.\nThe softer flex of the Manic makes it a solid all-mountain board for beginner to intermediate riders\n"
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864",
+          "original": "Response: Mellow"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864",
+          "original": "151, 154, 157, 158W, 160, 161W, 163"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864",
+          "rows": 7,
+          "originalRows": [
+            {
+              "length": "151",
+              "weightKgOriginal": "45 - 82"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "157",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "160",
+              "weightKgOriginal": "64 - 100"
+            },
+            {
+              "length": "163",
+              "weightKgOriginal": "73 - 100+"
+            },
+            {
+              "length": "158W",
+              "weightKgOriginal": "68 - 100+"
+            },
+            {
+              "length": "161W",
+              "weightKgOriginal": "73 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 489.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-1-7.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-agenda-2027",
+      "brand": "RIDE",
+      "model": "Agenda",
+      "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865",
+      "sku": "rd261865",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865",
+          "original": "##### Twin\n\nGreat for going both directions, same shape on the nose and tail of the board. Great for park riding, going switch, or just looking nice."
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865",
+          "original": "Response: Mellow"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865",
+          "original": "149, 152, 154W, 155, 157W, 158, 161W"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865",
+          "rows": 7,
+          "originalRows": [
+            {
+              "length": "149",
+              "weightKgOriginal": "34 - 75"
+            },
+            {
+              "length": "152",
+              "weightKgOriginal": "45 - 82"
+            },
+            {
+              "length": "155",
+              "weightKgOriginal": "57 - 93"
+            },
+            {
+              "length": "158",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "154W",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "157W",
+              "weightKgOriginal": "64 - 100+"
+            },
+            {
+              "length": "161W",
+              "weightKgOriginal": "68 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 449.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-2-0.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-psychocandy-2027",
+      "brand": "RIDE",
+      "model": "Psychocandy",
+      "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866",
+      "sku": "rd261866",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866",
+          "original": "### Features\nThe PSYCHOCANDY’s shape is based on the innovative WARPIG, so the board is designed to be ridden 3 to 6 cms shorter than your standard board and approaches the mountain with the same ideology attitude that the WARPIG is known for. A Tapered Bi-Radial Sidecut maximizes grip and allows the PSYCHOCANDY to maintain speed in all conditions. Carbon Slimewalls® enhance response and stability.\nThe PSYCHOCANDY is a UNISEX directional all-mountain board designed to ride like a WARPIG so you can tackle any and all terrain the mountain has to offer, be it park, pipe, pow or slush.\n【58†Psychoc…（完整技术说明见官网）"
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866",
+          "original": "Response: Medium"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866",
+          "original": "138, 142, 146, 150, 154, 158"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866",
+          "rows": 6,
+          "originalRows": [
+            {
+              "length": "138",
+              "weightKgOriginal": "27 - 59"
+            },
+            {
+              "length": "142",
+              "weightKgOriginal": "27 - 73"
+            },
+            {
+              "length": "146",
+              "weightKgOriginal": "45 - 93"
+            },
+            {
+              "length": "150",
+              "weightKgOriginal": "59 - 95"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "64 - 100+"
+            },
+            {
+              "length": "158",
+              "weightKgOriginal": "77 - 100+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 589.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-2-1.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-magic-stick-2027",
+      "brand": "RIDE",
+      "model": "Magic Stick",
+      "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867",
+      "sku": "rd261867",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867",
+          "original": "### Features\nThe Magic Stick is designed for all-mountain performance. The tapered directional hybrid shape will ensure float in softer snow, while providing stability on harder snow. The camber between the bindings provides snap and response and the slightly longer nose has more rocker than the narrower tail, which both provide float and control in all conditions. A Tapered Bi-Radial sidecut provides effortless turn initiation and a smooth and stable turn/exit.\nSlimewalls® provide a smooth ride and increase durability underfoot. Carbon Array 3™ provides extra pop and control without adding st…（完整技术说明见官网）"
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867",
+          "original": "Response: Medium"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867",
+          "original": "143, 147, 151, 154"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867",
+          "rows": 4,
+          "originalRows": [
+            {
+              "length": "143",
+              "weightKgOriginal": "27 - 45"
+            },
+            {
+              "length": "147",
+              "weightKgOriginal": "39 - 59"
+            },
+            {
+              "length": "151",
+              "weightKgOriginal": "45 - 68"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "52 - 73+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 539.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-2-2.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-saturday-2027",
+      "brand": "RIDE",
+      "model": "Saturday",
+      "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868",
+      "sku": "rd261868",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868",
+          "original": "### Features\nThe Saturday is a twin shape that is at home anywhere on the mountain. The standard camber profile provides camber between your bindings for snap and control and rocker at the tip and tail for catch-free riding and float. A Quadratic Sidecut improves turn initiation and exit as well as edge grip. Slimewalls® provide a smooth ride and increase durability by absorbing impact. Carbon Array 3™ provides extra pop and control without adding stiffness.\nThe Saturday is a mid-flexing twin built for the intermediate to advanced riders that want one board for all conditions.\n【58†Saturday Sno…（完整技术说明见官网）"
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868",
+          "original": "Response: Medium"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868",
+          "original": "138, 142, 146, 150, 154"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868",
+          "rows": 5,
+          "originalRows": [
+            {
+              "length": "138",
+              "weightKgOriginal": "27 - 45"
+            },
+            {
+              "length": "142",
+              "weightKgOriginal": "32 - 50"
+            },
+            {
+              "length": "146",
+              "weightKgOriginal": "39 - 59"
+            },
+            {
+              "length": "150",
+              "weightKgOriginal": "45 - 68"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "52 - 73+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 519.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": false,
+      "snapshot": "work/k2ride-ride-verified-2-3.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。"
+      ]
+    },
+    {
+      "id": "ride-compact-2027",
+      "brand": "RIDE",
+      "model": "Compact",
+      "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869",
+      "sku": "rd261869",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869",
+          "original": "### Features\nThe Compact is built for all-mountain performance. The standard camber profile provides camber underfoot for snap and response with a long, rockered nose for float and turn initiation. Quadratic Sidecut improves turn initiation, exit and edge grip as well. Slimewalls® offer up a smoother ride and increase durability by absorbing impact. Roll-In sidewall construction increases board strength and reduces board weight.\nThe Compact is a soft-flexing directional all-mountain board that allows riders of all ability levels to have fun on the mountain.\n"
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869",
+          "original": "Response: Mellow"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869",
+          "original": "138, 142, 146, 150, 154"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869",
+          "rows": 5,
+          "originalRows": [
+            {
+              "length": "138",
+              "weightKgOriginal": "27 - 45"
+            },
+            {
+              "length": "142",
+              "weightKgOriginal": "32 - 50"
+            },
+            {
+              "length": "146",
+              "weightKgOriginal": "39 - 59"
+            },
+            {
+              "length": "150",
+              "weightKgOriginal": "45 - 68"
+            },
+            {
+              "length": "154",
+              "weightKgOriginal": "52 - 73+"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 489.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-2-4.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-heartbreaker-2027",
+      "brand": "RIDE",
+      "model": "Heartbreaker",
+      "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870",
+      "sku": "rd261870",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870",
+          "original": "### Features\n\nThe Heartbreaker is made for all-mountain progression. The standard camber profile combines camber underfoot with rocker at the tip and tail for the perfect combination of snap and easy turn initiation. A Quadratic Sidecut improves turn initiation, exit and edge grip. Slimewalls® provide a smooth ride and increase durability by absorbing impact. The Heartbreaker is a soft-flexing all-mountain board for riders of all ability.\n\n"
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870",
+          "original": "Response: Mellow"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870",
+          "original": "139, 143, 147, 150"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870",
+          "rows": 4,
+          "originalRows": [
+            {
+              "length": "139",
+              "weightKgOriginal": "27 - 45"
+            },
+            {
+              "length": "143",
+              "weightKgOriginal": "32 - 50"
+            },
+            {
+              "length": "147",
+              "weightKgOriginal": "39 - 59"
+            },
+            {
+              "length": "150",
+              "weightKgOriginal": "45 - 68"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 449.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-2-5.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-zero-jr-2027",
+      "brand": "RIDE",
+      "model": "Zero Jr",
+      "source": "https://ridesnowboards.com/en-us/p/zero-jr-snowboard-rd261871",
+      "sku": "rd261871",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/zero-jr-snowboard-rd261871",
+          "original": "### Features\nFor little tykes that wanna go big, the Zero Jr. is a Twin Standard Camber board that aims to reduce edge catching, make it easier to initiate turns so they can get the hang of the edge-to-edge transition of riding groomers and soften the vibrations that can cause kids to fall. Packed with similar construction as our adult-size Zero model, the Zero Jr.\nis the perfect way to introduce your little one to riding or let them take it to the next level if they have their feet solidly under them after a few winters on the hill.\n"
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/zero-jr-snowboard-rd261871",
+          "original": "Response: Mellow"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/zero-jr-snowboard-rd261871",
+          "original": "135, 142, 147"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/zero-jr-snowboard-rd261871",
+          "rows": 3,
+          "originalRows": [
+            {
+              "length": "135",
+              "weightKgOriginal": "23 - 45"
+            },
+            {
+              "length": "142",
+              "weightKgOriginal": "36 - 59"
+            },
+            {
+              "length": "147",
+              "weightKgOriginal": "36 - 59"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 329.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-2-6.txt",
+      "notes": [
+        "官方部分体重上限带“+”；自动建议仅使用官网明示数字区间，不推断无限上限。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    },
+    {
+      "id": "ride-lowride-2027",
+      "brand": "RIDE",
+      "model": "Lowride",
+      "source": "https://ridesnowboards.com/en-us/p/lowride-snowboard-rd240293",
+      "sku": "rd240293",
+      "fields": {
+        "shape": {
+          "source": "https://ridesnowboards.com/en-us/p/lowride-snowboard-rd240293",
+          "original": "### Features\n\nZero Camber provides a stable platform for young riders to progress while a Quadratic Sidecut improves turn initiation, exit and overall edge grip. Board flex is optimized for small children allowing for easy turn initiation. The Lowride is a kid’s board for riders focused on progression and durability.\n\n"
+        },
+        "flex": {
+          "source": "https://ridesnowboards.com/en-us/p/lowride-snowboard-rd240293",
+          "original": "Response: Mellow"
+        },
+        "sizes": {
+          "source": "https://ridesnowboards.com/en-us/p/lowride-snowboard-rd240293",
+          "original": "75, 90, 100, 110, 120, 130"
+        },
+        "fit": {
+          "source": "https://ridesnowboards.com/en-us/p/lowride-snowboard-rd240293",
+          "rows": 0,
+          "originalRows": [
+            {
+              "length": "75",
+              "weightKgOriginal": "<41"
+            },
+            {
+              "length": "90",
+              "weightKgOriginal": "<45"
+            },
+            {
+              "length": "100",
+              "weightKgOriginal": "<50"
+            },
+            {
+              "length": "110",
+              "weightKgOriginal": "<54"
+            },
+            {
+              "length": "120",
+              "weightKgOriginal": "<54"
+            },
+            {
+              "length": "130",
+              "weightKgOriginal": "<59"
+            }
+          ]
+        },
+        "price": {
+          "source": "https://ridesnowboards.com/en-us/c/snowboards/",
+          "amount": 269.95,
+          "currency": "USD",
+          "region": "US"
+        }
+      },
+      "imagePending": true,
+      "snapshot": "work/k2ride-ride-verified-2-7.txt",
+      "notes": [
+        "官网仅给体重上限：75cm <41kg；90cm <45kg；100cm <50kg；110cm <54kg；120cm <54kg；130cm <59kg。未虚构下限，暂不参与自动长度匹配。",
+        "官方板花图片直链待核实，暂显示占位图。"
+      ]
+    }
+  ]
+}

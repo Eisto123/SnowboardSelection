@@ -1,0 +1,1478 @@
+[
+  {
+    "id": "thirtytwo-middle-earth-pro",
+    "brand": "thirtytwo",
+    "model": "Middle Earth Pro",
+    "family": "Middle Earth Pro",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin Tip；归入 True Twin 导航组，保留厂商命名。",
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "5/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/middle-earth-pro"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "149",
+      "152",
+      "155",
+      "157",
+      "158W",
+      "159"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/middle-earth-pro"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.MEP.000-gallery-1.webp?v=1790258907",
+        "source": "https://thirtytwo.com/products/middle-earth-pro",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.MEP.000-gallery-2.webp?v=1788446774",
+        "source": "https://thirtytwo.com/products/middle-earth-pro",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.MEP.000-gallery-3.webp?v=1788446593",
+        "source": "https://thirtytwo.com/products/middle-earth-pro",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.MEP.000-gallery-4.webp?v=1788497174",
+        "source": "https://thirtytwo.com/products/middle-earth-pro",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/middle-earth-pro",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-atmosphere",
+    "brand": "thirtytwo",
+    "model": "Atmosphere",
+    "family": "Atmosphere",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "Directional",
+    "shapeNote": "官网原名 Tapered Directional；归入 Directional 导航组，保留厂商命名。",
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "6/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/atmosphere"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "150",
+      "154",
+      "158",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/atmosphere"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.ATM.000-gallery-1.webp?v=1788447496",
+        "source": "https://thirtytwo.com/products/atmosphere",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.ATM.000-gallery-2.webp?v=1788496034",
+        "source": "https://thirtytwo.com/products/atmosphere",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.ATM.000-gallery-3.webp?v=1788495978",
+        "source": "https://thirtytwo.com/products/atmosphere",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.ATM.000-gallery-4.webp?v=1788448015",
+        "source": "https://thirtytwo.com/products/atmosphere",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/atmosphere",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-permanent-vacation",
+    "brand": "thirtytwo",
+    "model": "Permanent Vacation",
+    "family": "Permanent Vacation",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "5/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/permanent-vacation"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "154",
+      "156",
+      "156W",
+      "158",
+      "159W",
+      "161",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 499.95,
+      "maxAmount": 499.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/permanent-vacation"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.PMV.000-gallery-1.webp?v=1788495858",
+        "source": "https://thirtytwo.com/products/permanent-vacation",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.PMV.000-gallery-2.webp?v=1788495793",
+        "source": "https://thirtytwo.com/products/permanent-vacation",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.PMV.000-gallery-3.webp?v=1788495734",
+        "source": "https://thirtytwo.com/products/permanent-vacation",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.PMV.000-gallery-4.webp?v=1788446540",
+        "source": "https://thirtytwo.com/products/permanent-vacation",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/permanent-vacation",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-volcom-creedler",
+    "brand": "thirtytwo",
+    "model": "VOLCOM Creedler",
+    "family": "VOLCOM Creedler",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin Tip；归入 True Twin 导航组，保留厂商命名。",
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "6/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/volcom-creedler"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "148",
+      "151",
+      "154",
+      "156",
+      "157W",
+      "158",
+      "160W",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/volcom-creedler"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.CRE.000-gallery-1.webp?v=1788456799",
+        "source": "https://thirtytwo.com/products/volcom-creedler",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.CRE.000-gallery-2.webp?v=1788456738",
+        "source": "https://thirtytwo.com/products/volcom-creedler",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.CRE.000-gallery-3.webp?v=1788456679",
+        "source": "https://thirtytwo.com/products/volcom-creedler",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.CRE.000-gallery-4.webp?v=1788456618",
+        "source": "https://thirtytwo.com/products/volcom-creedler",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/volcom-creedler",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-thrill-pill",
+    "brand": "thirtytwo",
+    "model": "Thrill Pill",
+    "family": "Thrill Pill",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin Tip；归入 True Twin 导航组，保留厂商命名。",
+    "flex": {
+      "value": 4,
+      "kind": "official",
+      "original": "4/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/thrill-pill"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "132"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 399.95,
+      "maxAmount": 399.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/thrill-pill"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.TRP.000-gallery-1.webp?v=1788477557",
+        "source": "https://thirtytwo.com/products/thrill-pill",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.TRP.000-gallery-2.webp?v=1788477497",
+        "source": "https://thirtytwo.com/products/thrill-pill",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.TRP.000-gallery-3.webp?v=1788477438",
+        "source": "https://thirtytwo.com/products/thrill-pill",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.TRP.000-gallery-4.webp?v=1788477379",
+        "source": "https://thirtytwo.com/products/thrill-pill",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/thrill-pill",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-cold-world",
+    "brand": "thirtytwo",
+    "model": "Cold World",
+    "family": "Cold World",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin Tip；归入 True Twin 导航组，保留厂商命名。",
+    "flex": {
+      "value": 4,
+      "kind": "official",
+      "original": "4/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/cold-world"
+    },
+    "gender": null,
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "146",
+      "149",
+      "152",
+      "155",
+      "157",
+      "158W",
+      "159"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/cold-world"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.CDW.000-gallery-1.webp?v=1788497117",
+        "source": "https://thirtytwo.com/products/cold-world",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.CDW.000-gallery-2.webp?v=1788497053",
+        "source": "https://thirtytwo.com/products/cold-world",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.CDW.000-gallery-3.webp?v=1788446835",
+        "source": "https://thirtytwo.com/products/cold-world",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.CDW.000-gallery-4.webp?v=1788496997",
+        "source": "https://thirtytwo.com/products/cold-world",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/cold-world",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-women-crucible",
+    "brand": "thirtytwo",
+    "model": "Crucible",
+    "family": "Crucible",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "5/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/women-crucible"
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "139",
+      "142",
+      "145",
+      "148",
+      "151"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/women-crucible"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNW.CRU.000-gallery-1.webp?v=1788477798",
+        "source": "https://thirtytwo.com/products/women-crucible",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNW.CRU.000-gallery-2.webp?v=1788477737",
+        "source": "https://thirtytwo.com/products/women-crucible",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNW.CRU.000-gallery-3.webp?v=1788477678",
+        "source": "https://thirtytwo.com/products/women-crucible",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNW.CRU.000-gallery-4.webp?v=1788477618",
+        "source": "https://thirtytwo.com/products/women-crucible",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/women-crucible",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-t32m",
+    "brand": "thirtytwo",
+    "model": "T32M",
+    "family": "T32M",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin Tip；归入 True Twin 导航组，保留厂商命名。",
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "6/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/t32m"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "148",
+      "151",
+      "154",
+      "156",
+      "157W",
+      "158",
+      "160W",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/t32m"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.TEM.000-gallery-1.webp?v=1788496816",
+        "source": "https://thirtytwo.com/products/t32m",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.TEM.000-gallery-2.webp?v=1788496753",
+        "source": "https://thirtytwo.com/products/t32m",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.TEM.000-gallery-3.webp?v=1788446361",
+        "source": "https://thirtytwo.com/products/t32m",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.TEM.000-gallery-4.webp?v=1788496695",
+        "source": "https://thirtytwo.com/products/t32m",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/t32m",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-xxx-fava-pro",
+    "brand": "thirtytwo",
+    "model": "XXX Fava Pro",
+    "family": "XXX Fava Pro",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": null,
+    "shapeNote": "官网原名 Hybrid Twin；三分类映射待核实。",
+    "flex": {
+      "value": 8,
+      "kind": "official",
+      "original": "8/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/xxx-fava-pro"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "152",
+      "155",
+      "158",
+      "159W",
+      "161",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/xxx-fava-pro"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.PAT.000-gallery-1.webp?v=1788489976",
+        "source": "https://thirtytwo.com/products/xxx-fava-pro",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.PAT.000-gallery-2.webp?v=1788489913",
+        "source": "https://thirtytwo.com/products/xxx-fava-pro",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.PAT.000-gallery-3.webp?v=1788489853",
+        "source": "https://thirtytwo.com/products/xxx-fava-pro",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.PAT.000-gallery-4.webp?v=1788447678",
+        "source": "https://thirtytwo.com/products/xxx-fava-pro",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/xxx-fava-pro",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-snafu",
+    "brand": "thirtytwo",
+    "model": "SNAFU",
+    "family": "SNAFU",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "Directional",
+    "shapeNote": "官网原名 Tapered Directional；归入 Directional 导航组，保留厂商命名。",
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "6/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/snafu"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "153",
+      "156",
+      "158W",
+      "159",
+      "161W",
+      "162",
+      "164W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 529.95,
+      "maxAmount": 529.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/snafu"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.SFU.000-gallery-1.webp?v=1788496516",
+        "source": "https://thirtytwo.com/products/snafu",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.SFU.000-gallery-2.webp?v=1788496455",
+        "source": "https://thirtytwo.com/products/snafu",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.SFU.000-gallery-3.webp?v=1788496396",
+        "source": "https://thirtytwo.com/products/snafu",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.SFU.000-gallery-4.webp?v=1788496336",
+        "source": "https://thirtytwo.com/products/snafu",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/snafu",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-women-gemini",
+    "brand": "thirtytwo",
+    "model": "Gemini",
+    "family": "Gemini",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin Tip；归入 True Twin 导航组，保留厂商命名。",
+    "flex": {
+      "value": 4,
+      "kind": "official",
+      "original": "4/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/women-gemini"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "140",
+      "143",
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 529.95,
+      "maxAmount": 529.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/women-gemini"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNW.GEM.000-gallery-1.webp?v=1788478279",
+        "source": "https://thirtytwo.com/products/women-gemini",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNW.GEM.000-gallery-2.webp?v=1788478094",
+        "source": "https://thirtytwo.com/products/women-gemini",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNW.GEM.000-gallery-3.webp?v=1788478039",
+        "source": "https://thirtytwo.com/products/women-gemini",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNW.GEM.000-gallery-4.webp?v=1788477977",
+        "source": "https://thirtytwo.com/products/women-gemini",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/women-gemini",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-volcom-moclov",
+    "brand": "thirtytwo",
+    "model": "VOLCOM Moclov",
+    "family": "VOLCOM Moclov",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "5/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/volcom-moclov"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "平花"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "154",
+      "156",
+      "156W",
+      "158",
+      "159W",
+      "161",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/volcom-moclov"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.MOC.000-gallery-1.webp?v=1788448965",
+        "source": "https://thirtytwo.com/products/volcom-moclov",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.MOC.000-gallery-2.webp?v=1788449085",
+        "source": "https://thirtytwo.com/products/volcom-moclov",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.MOC.000-gallery-3.webp?v=1788489556",
+        "source": "https://thirtytwo.com/products/volcom-moclov",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.MOC.000-gallery-4.webp?v=1788489500",
+        "source": "https://thirtytwo.com/products/volcom-moclov",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/volcom-moclov",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-women-reiki",
+    "brand": "thirtytwo",
+    "model": "Reiki",
+    "family": "Reiki",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "Directional",
+    "shapeNote": "官网原名 Tapered Directional；归入 Directional 导航组，保留厂商命名。",
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "6/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/women-reiki"
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "142",
+      "145",
+      "148",
+      "151",
+      "154"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 499.95,
+      "maxAmount": 499.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/women-reiki"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNW.REK.000-gallery-1.webp?v=1788499999",
+        "source": "https://thirtytwo.com/products/women-reiki",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNW.REK.000-gallery-2.webp?v=1788499936",
+        "source": "https://thirtytwo.com/products/women-reiki",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNW.REK.000-gallery-3.webp?v=1788499874",
+        "source": "https://thirtytwo.com/products/women-reiki",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNW.REK.000-gallery-4.webp?v=1788499816",
+        "source": "https://thirtytwo.com/products/women-reiki",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/women-reiki",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-permanent-vacation-carbon",
+    "brand": "thirtytwo",
+    "model": "Permanent Vacation Carbon",
+    "family": "Permanent Vacation Carbon",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 9,
+      "kind": "official",
+      "original": "9/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/permanent-vacation-carbon"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "154",
+      "156",
+      "156W",
+      "158",
+      "159W",
+      "161",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/permanent-vacation-carbon"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.PVC.000-gallery-1.webp?v=1788461057",
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.PVC.000-gallery-2.webp?v=1788460996",
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.PVC.000-gallery-3.webp?v=1788460939",
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.PVC.000-gallery-4.webp?v=1788460878",
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/permanent-vacation-carbon",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-t32m-carbon",
+    "brand": "thirtytwo",
+    "model": "T32M Carbon",
+    "family": "T32M Carbon",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin Tip；归入 True Twin 导航组，保留厂商命名。",
+    "flex": {
+      "value": 9,
+      "kind": "official",
+      "original": "9/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/t32m-carbon"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "148",
+      "151",
+      "154",
+      "156",
+      "157W",
+      "158",
+      "160W",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/t32m-carbon"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.TMC.000-gallery-1.webp?v=1788446420",
+        "source": "https://thirtytwo.com/products/t32m-carbon",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.TMC.000-gallery-2.webp?v=1788499755",
+        "source": "https://thirtytwo.com/products/t32m-carbon",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.TMC.000-gallery-3.webp?v=1788445785",
+        "source": "https://thirtytwo.com/products/t32m-carbon",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.TMC.000-gallery-4.webp?v=1788446147",
+        "source": "https://thirtytwo.com/products/t32m-carbon",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/t32m-carbon",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-t32m-youth",
+    "brand": "thirtytwo",
+    "model": "T32M Youth",
+    "family": "T32M Youth",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "True Twin",
+    "shapeNote": "官网原名 Twin Tip；归入 True Twin 导航组，保留厂商命名。",
+    "flex": {
+      "value": 3,
+      "kind": "official",
+      "original": "3/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/t32m-youth"
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "125",
+      "130",
+      "135",
+      "140",
+      "145"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 349.95,
+      "maxAmount": 349.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/t32m-youth"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.TMY.000-gallery-1.webp?v=1788499577",
+        "source": "https://thirtytwo.com/products/t32m-youth",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.TMY.000-gallery-2.webp?v=1788499517",
+        "source": "https://thirtytwo.com/products/t32m-youth",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.TMY.000-gallery-3.webp?v=1788445881",
+        "source": "https://thirtytwo.com/products/t32m-youth",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.TMY.000-gallery-4.webp?v=1788499457",
+        "source": "https://thirtytwo.com/products/t32m-youth",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/t32m-youth",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-volcom-byh-youth",
+    "brand": "thirtytwo",
+    "model": "VOLCOM BYH Youth",
+    "family": "VOLCOM BYH Youth",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "True Twin",
+    "shapeNote": "官网产品介绍标题明确 True twin；独立Shape参数区未显示。",
+    "flex": {
+      "value": 3,
+      "kind": "official",
+      "original": "3/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/volcom-byh-youth"
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "125",
+      "130",
+      "135",
+      "140",
+      "145"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 369.95,
+      "maxAmount": 369.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/volcom-byh-youth"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.BYH.000-gallery-1.webp?v=1788496277",
+        "source": "https://thirtytwo.com/products/volcom-byh-youth",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.BYH.000-gallery-2.webp?v=1788496217",
+        "source": "https://thirtytwo.com/products/volcom-byh-youth",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.BYH.000-gallery-3.webp?v=1788496155",
+        "source": "https://thirtytwo.com/products/volcom-byh-youth",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNU.BYH.000-gallery-4.webp?v=1788496099",
+        "source": "https://thirtytwo.com/products/volcom-byh-youth",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/volcom-byh-youth",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "thirtytwo-volcom-cosm",
+    "brand": "thirtytwo",
+    "model": "VOLCOM Cosm",
+    "family": "VOLCOM Cosm",
+    "season": "2026/27",
+    "seasonEvidence": "官方目录标签 202627",
+    "shape": "Directional",
+    "shapeNote": "官网原名 Tapered Directional；归入 Directional 导航组，保留厂商命名。",
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "6/10",
+      "method": null,
+      "source": "https://thirtytwo.com/products/volcom-cosm"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "153",
+      "156",
+      "158W",
+      "159",
+      "161W",
+      "162",
+      "164W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://thirtytwo.com/products/volcom-cosm"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.COS.000-gallery-1.webp?v=1788456442",
+        "source": "https://thirtytwo.com/products/volcom-cosm",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.COS.000-gallery-2.webp?v=1788456380",
+        "source": "https://thirtytwo.com/products/volcom-cosm",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.COS.000-gallery-3.webp?v=1788456318",
+        "source": "https://thirtytwo.com/products/volcom-cosm",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0532/0278/0351/files/T.27.SNM.COS.000-gallery-4.webp?v=1788456260",
+        "source": "https://thirtytwo.com/products/volcom-cosm",
+        "credit": "thirtytwo",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://thirtytwo.com/products/volcom-cosm",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  }
+]

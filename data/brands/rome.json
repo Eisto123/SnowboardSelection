@@ -1,0 +1,2086 @@
+[
+  {
+    "id": "rome-rome-ravine-pro-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Ravine Pro Men's",
+    "family": "Ravine Pro Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "152",
+      "155",
+      "158",
+      "159W",
+      "161",
+      "162W",
+      "165W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 669.95,
+      "maxAmount": 669.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_ravine-pro_1.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_ravine-pro_2.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_ravine-pro_3.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_ravine-pro_4.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-stale-crewzer-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Stale Crewzer Men's",
+    "family": "Stale Crewzer Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "157",
+      "158W",
+      "160",
+      "161W",
+      "164W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_stale-crewzer_1.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_stale-crewzer_2.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_stale-crewzer_3.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_stale-crewzer_4.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-rene-pro-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Rene Pro Men's",
+    "family": "Rene Pro Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "153",
+      "156",
+      "157W",
+      "159",
+      "160W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-rene-pro-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_rene-pro_1.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-rene-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_rene-pro_2.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-rene-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_rene-pro_3.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-rene-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_rene-pro_4.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-rene-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-rene-pro-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-agent-pro-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Agent Pro Men's",
+    "family": "Agent Pro Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "148",
+      "151",
+      "154",
+      "155W",
+      "157",
+      "158W",
+      "160",
+      "161W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_agent-pro_1.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_agent-pro_2.jpg?v=1787636967",
+        "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_agent-pro_3.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_agent-pro_4.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-viper-pro-2627-unisex-snowboard",
+    "brand": "Rome",
+    "model": "Viper Pro Unisex",
+    "family": "Viper Pro Unisex",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "142N",
+      "146N",
+      "150N",
+      "154",
+      "156",
+      "158",
+      "160W",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_viper-pro_1.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_viper-pro_2.jpg?v=1786613606",
+        "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_viper-pro_3.jpg?v=1786613606",
+        "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_viper-pro_4.jpg?v=1786613606",
+        "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-stale-fish-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Stale Fish Men's",
+    "family": "Stale Fish Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "公园",
+      "平花",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "157",
+      "160",
+      "163"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-stale-fish-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_stale-fish_1.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-stale-fish-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_stale-fish_2.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-stale-fish-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_stale-fish_3.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-stale-fish-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_stale-fish_4.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-stale-fish-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-stale-fish-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-womens-ravine-2627-womens-snowboard",
+    "brand": "Rome",
+    "model": "Women's Ravine",
+    "family": "Women's Ravine",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "144",
+      "147",
+      "150",
+      "153"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-womens-ravine-2627-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_womens-ravine_1.jpg?v=1787636963",
+        "source": "https://romesnowboards.com/products/rome-womens-ravine-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_womens-ravine_2.jpg?v=1787636963",
+        "source": "https://romesnowboards.com/products/rome-womens-ravine-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_womens-ravine_3.jpg?v=1787636963",
+        "source": "https://romesnowboards.com/products/rome-womens-ravine-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_womens-ravine_4.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-womens-ravine-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-womens-ravine-2627-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-ravine-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Ravine Men's",
+    "family": "Ravine Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "152",
+      "155",
+      "158",
+      "159W",
+      "161",
+      "162W",
+      "165W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_ravine_1.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_ravine_2.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_ravine_3.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_ravine_4.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-party-mod-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Party Mod Men's",
+    "family": "Party Mod Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "公园",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "152",
+      "155",
+      "156W",
+      "158",
+      "159W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-party-mod-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_party-mod_1.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-party-mod-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_party-mod_2.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-party-mod-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_party-mod_3.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-party-mod-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_party-mod_4.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-party-mod-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-party-mod-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-womens-viper-2627-womens-snowboard",
+    "brand": "Rome",
+    "model": "Women's Viper",
+    "family": "Women's Viper",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "142N",
+      "146N",
+      "150N"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 569.95,
+      "maxAmount": 569.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-womens-viper-2627-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_womens-viper_1.jpg?v=1787636963",
+        "source": "https://romesnowboards.com/products/rome-womens-viper-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_womens-viper_2.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-womens-viper-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_womens-viper_3.jpg?v=1787636963",
+        "source": "https://romesnowboards.com/products/rome-womens-viper-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_womens-viper_4.jpg?v=1787636963",
+        "source": "https://romesnowboards.com/products/rome-womens-viper-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-womens-viper-2627-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-mens-viper-2627-snowboard",
+    "brand": "Rome",
+    "model": "Men's Viper",
+    "family": "Men's Viper",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "154",
+      "156",
+      "158",
+      "160W",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 569.95,
+      "maxAmount": 569.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-mens-viper-2627-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_mens-viper_1.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-mens-viper-2627-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_mens-viper_2.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-mens-viper-2627-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_mens-viper_3.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-mens-viper-2627-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_mens-viper_4.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-mens-viper-2627-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-mens-viper-2627-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-rene-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Rene Men's",
+    "family": "Rene Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "softer flex",
+      "method": "编辑文字映射：soft/softer=3，mid-soft=4，medium=5，mid-stiff=7，stiff=8；仅导航估值，误差约±1，非跨品牌实测。",
+      "source": "https://romesnowboards.com/products/rome-rene-2627-mens-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "153",
+      "156",
+      "157W",
+      "159",
+      "160W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 569.95,
+      "maxAmount": 569.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-rene-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_rene_1.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-rene-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_rene_2.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-rene-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_rene_3.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-rene-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_rene_4.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-rene-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-rene-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-agent-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Agent Men's",
+    "family": "Agent Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "公园",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "148",
+      "151",
+      "154",
+      "155W",
+      "157",
+      "158W",
+      "160",
+      "161W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 569.95,
+      "maxAmount": 569.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_agent_1.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_agent_2.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_agent_3.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_agent_4.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-artifact-pro-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Artifact Pro Men's",
+    "family": "Artifact Pro Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "公园",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "147",
+      "150",
+      "153",
+      "154W",
+      "156",
+      "157W",
+      "159",
+      "160W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 559.95,
+      "maxAmount": 559.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_artifact-pro_1.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_artifact-pro_2.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_artifact-pro_3.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_artifact-pro_4.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-hype-pro-2627-womens-snowboard",
+    "brand": "Rome",
+    "model": "Hype Pro Women's",
+    "family": "Hype Pro Women's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "139",
+      "143",
+      "147",
+      "151"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-hype-pro-2627-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_hype-pro_1.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-hype-pro-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_hype-pro_2.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-hype-pro-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_hype-pro_3.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-hype-pro-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_hype-pro_4.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-hype-pro-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-hype-pro-2627-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-boneless-2627-unisex-snowboard",
+    "brand": "Rome",
+    "model": "Boneless Unisex",
+    "family": "Boneless Unisex",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138N",
+      "141N",
+      "144N",
+      "147N",
+      "150",
+      "153",
+      "156",
+      "157W",
+      "159",
+      "160W",
+      "163W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 529.95,
+      "maxAmount": 529.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_boneless_1.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_boneless_2.jpg?v=1787636966",
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_boneless_3.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_boneless_4.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-service-dog-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Service Dog Men's",
+    "family": "Service Dog Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "147",
+      "151",
+      "155",
+      "159"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 499.95,
+      "maxAmount": 499.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-service-dog-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_service-dog_1.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-service-dog-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_service-dog_2.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-service-dog-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_service-dog_3.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-service-dog-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_service-dog_4.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-service-dog-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-service-dog-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-artifact-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Artifact Men's",
+    "family": "Artifact Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "soft-flex",
+      "method": "编辑文字映射：soft/softer=3，mid-soft=4，medium=5，mid-stiff=7，stiff=8；仅导航估值，误差约±1，非跨品牌实测。",
+      "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard"
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "公园",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "147",
+      "150",
+      "153",
+      "154W",
+      "156",
+      "157W",
+      "159",
+      "160W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 499.95,
+      "maxAmount": 499.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_artifact_1.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_artifact_2.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_artifact_3.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_artifact_4.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-warden-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Warden Men's",
+    "family": "Warden Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "157",
+      "158W",
+      "160",
+      "161W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 469.95,
+      "maxAmount": 469.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-warden-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_warden_1.jpg?v=1787636963",
+        "source": "https://romesnowboards.com/products/rome-warden-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_warden_2.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-warden-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_warden_3.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-warden-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_warden_4.jpg?v=1787636963",
+        "source": "https://romesnowboards.com/products/rome-warden-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-warden-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-mechanic-2627-mens-snowboard",
+    "brand": "Rome",
+    "model": "Mechanic Men's",
+    "family": "Mechanic Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "147",
+      "150",
+      "153",
+      "156",
+      "157W",
+      "159",
+      "160W",
+      "163W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_mechanic_1.jpg?v=1787636963",
+        "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_mechanic_2.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_mechanic_3.jpg?v=1787636963",
+        "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_mechanic_4.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-royal-2627-womens-snowboard",
+    "brand": "Rome",
+    "model": "Royal Women's",
+    "family": "Royal Women's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "official",
+      "original": "Flex 3 Playful",
+      "method": null,
+      "source": "https://romesnowboards.com/products/rome-royal-2627-womens-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138",
+      "141",
+      "144",
+      "147",
+      "150"
+    ],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          35,
+          55
+        ],
+        "source": "https://romesnowboards.com/products/rome-royal-2627-womens-snowboard"
+      },
+      {
+        "length": "141",
+        "weightKg": [
+          38,
+          58
+        ],
+        "source": "https://romesnowboards.com/products/rome-royal-2627-womens-snowboard"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          41,
+          61
+        ],
+        "source": "https://romesnowboards.com/products/rome-royal-2627-womens-snowboard"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          44,
+          64
+        ],
+        "source": "https://romesnowboards.com/products/rome-royal-2627-womens-snowboard"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          47,
+          67
+        ],
+        "source": "https://romesnowboards.com/products/rome-royal-2627-womens-snowboard"
+      }
+    ],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-royal-2627-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_royal_1.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-royal-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_royal_2.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-royal-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_royal_3.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-royal-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_royal_4.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-royal-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-royal-2627-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-hype-2627-womens-snowboard",
+    "brand": "Rome",
+    "model": "Hype Women's",
+    "family": "Hype Women's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 4,
+      "kind": "official",
+      "original": "Flex 4 Playful",
+      "method": null,
+      "source": "https://romesnowboards.com/products/rome-hype-2627-womens-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "139",
+      "143",
+      "147",
+      "151"
+    ],
+    "fit": [
+      {
+        "length": "139",
+        "weightKg": [
+          36,
+          56
+        ],
+        "source": "https://romesnowboards.com/products/rome-hype-2627-womens-snowboard"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          40,
+          60
+        ],
+        "source": "https://romesnowboards.com/products/rome-hype-2627-womens-snowboard"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          44,
+          64
+        ],
+        "source": "https://romesnowboards.com/products/rome-hype-2627-womens-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://romesnowboards.com/products/rome-hype-2627-womens-snowboard"
+      }
+    ],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-hype-2627-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_hype_1.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-hype-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_hype_2.jpg?v=1787636967",
+        "source": "https://romesnowboards.com/products/rome-hype-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_hype_3.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-hype-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_hype_4.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-hype-2627-womens-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-hype-2627-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-slapstick-2627-youth-snowboard",
+    "brand": "Rome",
+    "model": "Slapstick Youth",
+    "family": "Slapstick Youth",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "132",
+      "135",
+      "138",
+      "141",
+      "144",
+      "147"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 359.95,
+      "maxAmount": 359.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-slapstick-2627-youth-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_slapstick_1.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-slapstick-2627-youth-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_slapstick_2.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-slapstick-2627-youth-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_slapstick_3.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-slapstick-2627-youth-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_slapstick_4.jpg?v=1787636964",
+        "source": "https://romesnowboards.com/products/rome-slapstick-2627-youth-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-slapstick-2627-youth-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "rome-rome-minishred-2627-youth-snowboard",
+    "brand": "Rome",
+    "model": "Minishred Youth",
+    "family": "Minishred Youth",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 249.95,
+      "maxAmount": 249.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://romesnowboards.com/products/rome-minishred-2627-youth-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_minishred_1.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-minishred-2627-youth-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_minishred_2.jpg?v=1787636966",
+        "source": "https://romesnowboards.com/products/rome-minishred-2627-youth-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_minishred_3.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-minishred-2627-youth-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/4055/4115/files/2627_rome_web_bd_minishred_4.jpg?v=1787636965",
+        "source": "https://romesnowboards.com/products/rome-minishred-2627-youth-snowboard",
+        "credit": "Rome",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://romesnowboards.com/products/rome-minishred-2627-youth-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  }
+]

@@ -1,0 +1,803 @@
+{
+  "checkedAt": "2026-10-28",
+  "catalog": "https://www.yonex.co.jp/assets/pdf/catalog/snowboards/2026_snowboards_catalog.pdf",
+  "notes": [
+    "官方目录与单页规格表部分几何数字不同，本次尺寸及FT/SW以26_SNOWBORDS_SPEC.pdf为准。"
+  ],
+  "products": [
+    {
+      "id": "yonex-re26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "150",
+          "noseFt": 85,
+          "tailFt": 87,
+          "swingWeight": 79,
+          "raw": "150 1505 1165 1130 190 185 282 241 282 8050/7600 480～600 10BACK 85 87 79"
+        },
+        {
+          "length": "153",
+          "noseFt": 89,
+          "tailFt": 91,
+          "swingWeight": 82,
+          "raw": "153 1535 1195 1160 190 185 285 244 285 8450/8000 500～620 10BACK 89 91 82"
+        },
+        {
+          "length": "156",
+          "noseFt": 91,
+          "tailFt": 93,
+          "swingWeight": 85,
+          "raw": "156 1565 1225 1190 190 185 288 247 288 8900/8450 500～620 10BACK 91 93 85"
+        },
+        {
+          "length": "159",
+          "noseFt": 94,
+          "tailFt": 96,
+          "swingWeight": 88,
+          "raw": "159 1595 1245 1210 195 190 292 250 292 9000/8550 500～620 10BACK 94 96 88"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_RE26_1/",
+      "shapeClassification": null,
+      "shapeBasis": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+      "imageDiscoverySource": null,
+      "imageFetchStatus": "沿用此前核实图源或待补"
+    },
+    {
+      "id": "yonex-sm26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "139",
+          "noseFt": 76,
+          "tailFt": 70,
+          "swingWeight": 68,
+          "raw": "139 1395 1075 1040 180 175 277 235 277 6500/6900/6300/6900/6500 420～540 10BACK 76 70 68"
+        },
+        {
+          "length": "143",
+          "noseFt": 80,
+          "tailFt": 74,
+          "swingWeight": 71,
+          "raw": "143 1435 1095 1060 190 185 281 239 281 6800/7200/6600/7200/6800 440～560 10BACK 80 74 71"
+        },
+        {
+          "length": "147",
+          "noseFt": 84,
+          "tailFt": 78,
+          "swingWeight": 75,
+          "raw": "147 1475 1125 1090 195 190 285 243 285 7100/7600/7000/7600/7100 460～580 10BACK 84 78 75"
+        },
+        {
+          "length": "151",
+          "noseFt": 86,
+          "tailFt": 84,
+          "swingWeight": 79,
+          "raw": "151 1515 1165 1130 195 190 292 249 292 7450/7850/7250/7850/7450 500～620 10BACK 86 84 79"
+        },
+        {
+          "length": "154",
+          "noseFt": 88,
+          "tailFt": 86,
+          "swingWeight": 85,
+          "raw": "154 1535 1185 1150 195 190 294 251 294 7600/8000/7400/8000/7600 500～620 10BACK 88 86 85"
+        },
+        {
+          "length": "155W",
+          "noseFt": 90,
+          "tailFt": 83,
+          "swingWeight": 87,
+          "raw": "155W 1545 1195 1160 195 190 298 257 298 8000/8400/8000 500～620 10BACK 90 83 87"
+        },
+        {
+          "length": "157",
+          "noseFt": 91,
+          "tailFt": 89,
+          "swingWeight": 87,
+          "raw": "157 1575 1215 1180 200 195 296 254 296 7900/8300/7700/8300/7900 500～620 10BACK 91 89 87"
+        },
+        {
+          "length": "158W",
+          "noseFt": 94,
+          "tailFt": 83,
+          "swingWeight": 90,
+          "raw": "158W 1585 1225 1190 200 195 301 260 301 8450/8850/8450 500～620 10BACK 94 83 90"
+        },
+        {
+          "length": "162W",
+          "noseFt": 94,
+          "tailFt": 85,
+          "swingWeight": 93,
+          "raw": "162W 1625 1265 1230 200 195 304 263 304 8900/9300/8900 500～620 10BACK 94 85 93"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_SM26_1/",
+      "shapeClassification": null,
+      "shapeBasis": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-sl26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "138",
+          "noseFt": 70,
+          "tailFt": 73,
+          "swingWeight": 66,
+          "raw": "138 1385 1065 1030 180 175 270 231 270 6600/7050/6600 420～540 10BACK 70 73 66"
+        },
+        {
+          "length": "142",
+          "noseFt": 73,
+          "tailFt": 76,
+          "swingWeight": 69,
+          "raw": "142 1425 1085 1050 190 185 273 234 273 6900/7300/6900 440～560 10BACK 73 76 69"
+        },
+        {
+          "length": "146",
+          "noseFt": 77,
+          "tailFt": 80,
+          "swingWeight": 72,
+          "raw": "146 1465 1125 1090 190 185 278 238 278 7250/7650/7250 460～580 10BACK 77 80 72"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_SL26_1/",
+      "shapeClassification": null,
+      "shapeBasis": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-nx26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "142",
+          "noseFt": 68,
+          "tailFt": 67,
+          "swingWeight": 80,
+          "raw": "142 1425 1085 1050 190 185 273 234 273 6900/7300/6900 440～560 10BACK 68 67 80"
+        },
+        {
+          "length": "146",
+          "noseFt": 71,
+          "tailFt": 70,
+          "swingWeight": 84,
+          "raw": "146 1465 1125 1090 190 185 278 238 278 7250/7650/7250 460～580 10BACK 71 70 84"
+        },
+        {
+          "length": "150",
+          "noseFt": 74,
+          "tailFt": 73,
+          "swingWeight": 88,
+          "raw": "150 1505 1165 1120 195 190 283 243 283 7650/8050/7650 480～600 10BACK 74 73 88"
+        },
+        {
+          "length": "154",
+          "noseFt": 77,
+          "tailFt": 76,
+          "swingWeight": 92,
+          "raw": "154 1545 1195 1160 195 190 287 246 287 8000/8400/8000 500～620 10BACK 77 76 92"
+        },
+        {
+          "length": "158",
+          "noseFt": 81,
+          "tailFt": 79,
+          "swingWeight": 96,
+          "raw": "158 1585 1225 1190 200 195 290 249 290 8450/8850/8450 500～620 10BACK 81 79 96"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_NX26_1/",
+      "shapeClassification": null,
+      "shapeBasis": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-ss26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "120",
+          "noseFt": 54,
+          "tailFt": 50,
+          "swingWeight": 66,
+          "raw": "120 1205 905 870 170 165 243 212 243 6300/5900 340～460 10BACK 54 50 66"
+        },
+        {
+          "length": "126",
+          "noseFt": 60,
+          "tailFt": 53,
+          "swingWeight": 69,
+          "raw": "126 1265 955 920 175 170 251 217 251 6500/6100 340～460 10BACK 60 53 69"
+        },
+        {
+          "length": "132",
+          "noseFt": 65,
+          "tailFt": 56,
+          "swingWeight": 72,
+          "raw": "132 1325 1015 980 175 170 259 222 259 6750/6350 380～500 10BACK 65 56 72"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_SS26_1/",
+      "shapeClassification": null,
+      "shapeBasis": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-rg26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "154",
+          "noseFt": 80,
+          "tailFt": 86,
+          "swingWeight": 69,
+          "raw": "154 1535 1195 1160 205 170 286 246 286 8200/7750 500～620 10BACK 80 86 69"
+        },
+        {
+          "length": "158",
+          "noseFt": 82,
+          "tailFt": 88,
+          "swingWeight": 74,
+          "raw": "158 1575 1225 1190 210 175 289 249 289 8600/8150 500～620 10BACK 82 88 74"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_RG26_1/",
+      "shapeClassification": null,
+      "shapeBasis": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-lu26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "148",
+          "noseFt": 81,
+          "tailFt": 88,
+          "swingWeight": 100,
+          "raw": "148 1480 1090 (1060) (295) 125 297 251 273 8100 440～560 (30BACK) 81 88 100"
+        },
+        {
+          "length": "153",
+          "noseFt": 87,
+          "tailFt": 95,
+          "swingWeight": 103,
+          "raw": "153 1530 1125 (1105) (300) 125 305 258 281 8300 460～580 (30BACK) 87 95 103"
+        },
+        {
+          "length": "158",
+          "noseFt": 90,
+          "tailFt": 97,
+          "swingWeight": 106,
+          "raw": "158 1580 1160 (1140) (310) 130 312 264 288 8500 460～580 (30BACK) 90 97 106"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_LU26_1/",
+      "shapeClassification": "Directional",
+      "shapeBasis": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-gl26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "157",
+          "noseFt": 87,
+          "tailFt": 90,
+          "swingWeight": 102,
+          "raw": "157 1575 1175 （1130） (255) 190 300 248 279 7500 480～600 (20BACK) 87 90 102"
+        },
+        {
+          "length": "161",
+          "noseFt": 90,
+          "tailFt": 94,
+          "swingWeight": 105,
+          "raw": "161 1615 1215 （1170） (255) 190 303 252 283 7850 500～620 (20BACK) 90 94 105"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_GL26_1/",
+      "shapeClassification": "Directional",
+      "shapeBasis": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-gr26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "147",
+          "noseFt": 78,
+          "tailFt": 84,
+          "swingWeight": 91,
+          "raw": "147 1475 1085 （1040） (250) 185 289 239 269 6700 440～560 (20BACK) 78 84 91"
+        },
+        {
+          "length": "151",
+          "noseFt": 82,
+          "tailFt": 88,
+          "swingWeight": 96,
+          "raw": "151 1515 1125 （1080） (250) 185 295 244 274 7050 460～580 (20BACK) 82 88 96"
+        }
+      ],
+      "priceSource": "https://www.yonex.co.jp/assets/pdf/catalog/snowboards/2026_snowboards_catalog.pdf",
+      "shapeClassification": "Directional",
+      "shapeBasis": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-xp26p",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "155W",
+          "noseFt": 87,
+          "tailFt": 86,
+          "swingWeight": 100,
+          "raw": "155W 1545 1160 （1090） （227.5） （227.5） 300 261 300 8000 500～620 CENTERED 87 86 100"
+        },
+        {
+          "length": "158W",
+          "noseFt": 91,
+          "tailFt": 90,
+          "swingWeight": 101,
+          "raw": "158W 1575 1190 （1120） （227.5） （227.5） 303 264 303 8300 500～620 CENTERED 91 90 101"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_XP26P_1/",
+      "shapeClassification": null,
+      "shapeBasis": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-sh26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "138",
+          "noseFt": 76,
+          "tailFt": 66,
+          "swingWeight": 68,
+          "raw": "138 1380 1050 980 200 200 275 238 275 7000 420～540 CENTERED 76 66 68"
+        },
+        {
+          "length": "143",
+          "noseFt": 79,
+          "tailFt": 69,
+          "swingWeight": 71,
+          "raw": "143 1430 1100 1030 200 200 282 243 282 7350 440～560 CENTERED 79 69 71"
+        },
+        {
+          "length": "148",
+          "noseFt": 86,
+          "tailFt": 75,
+          "swingWeight": 75,
+          "raw": "148 1480 1140 1070 205 205 288 248 288 7600 480～600 CENTERED 86 75 75"
+        },
+        {
+          "length": "151",
+          "noseFt": 89,
+          "tailFt": 78,
+          "swingWeight": 79,
+          "raw": "151 1510 1160 1090 210 210 291 251 291 7850 500～620 CENTERED 89 78 79"
+        },
+        {
+          "length": "154",
+          "noseFt": 92,
+          "tailFt": 80,
+          "swingWeight": 82,
+          "raw": "154 1540 1190 1120 210 210 295 254 295 8100 500～620 CENTERED 92 80 82"
+        },
+        {
+          "length": "157W",
+          "noseFt": 88,
+          "tailFt": 78,
+          "swingWeight": 86,
+          "raw": "157W 1570 1210 1140 215 215 306 265 306 8350 500～620 CENTERED 88 78 86"
+        },
+        {
+          "length": "160W",
+          "noseFt": 91,
+          "tailFt": 78,
+          "swingWeight": 89,
+          "raw": "160W 1600 1240 1170 215 215 309 268 309 8600 500～620 CENTERED 91 78 89"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_SH26_1/",
+      "shapeClassification": null,
+      "shapeBasis": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-xp26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "138",
+          "noseFt": 61,
+          "tailFt": 60,
+          "swingWeight": 77,
+          "raw": "138 1380 1050 （980） (200) (200) 275 238 275 7000 420～540 CENTERED 61 60 77"
+        },
+        {
+          "length": "143",
+          "noseFt": 65,
+          "tailFt": 64,
+          "swingWeight": 82,
+          "raw": "143 1430 1100 （1030） (200) (200) 282 243 282 7350 440～560 CENTERED 65 64 82"
+        },
+        {
+          "length": "148",
+          "noseFt": 72,
+          "tailFt": 70,
+          "swingWeight": 86,
+          "raw": "148 1480 1140 (1070) (205) (205) 288 248 288 7600 480～600 CENTERED 72 70 86"
+        },
+        {
+          "length": "151",
+          "noseFt": 74,
+          "tailFt": 73,
+          "swingWeight": 90,
+          "raw": "151 1510 1160 (1090) (210) (210) 291 251 291 7850 500～620 CENTERED 74 73 90"
+        },
+        {
+          "length": "154",
+          "noseFt": 76,
+          "tailFt": 75,
+          "swingWeight": 95,
+          "raw": "154 1540 1190 (1120) (210) (210) 295 254 295 8100 500～620 CENTERED 76 75 95"
+        },
+        {
+          "length": "157W",
+          "noseFt": 72,
+          "tailFt": 72,
+          "swingWeight": 97,
+          "raw": "157W 1570 1210 (1140) (215) (215) 306 265 306 8350 500～620 CENTERED 72 72 97"
+        },
+        {
+          "length": "160W",
+          "noseFt": 73,
+          "tailFt": 72,
+          "swingWeight": 100,
+          "raw": "160W 1600 1240 (1170) (215) (215) 309 268 309 8600 500～620 CENTERED 73 72 100"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_XP26_1/",
+      "shapeClassification": null,
+      "shapeBasis": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-ah26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "138",
+          "noseFt": 57,
+          "tailFt": 54,
+          "swingWeight": 74,
+          "raw": "138 1375 1030 (990) (192.5) (192.5) 278 232 278 4900 400～520 CENTERED 57 54 74"
+        },
+        {
+          "length": "141",
+          "noseFt": 60,
+          "tailFt": 57,
+          "swingWeight": 77,
+          "raw": "141 1405 1050 (1010) (197.5) (197.5) 282 235 282 5000 420～540 CENTERED 60 57 77"
+        },
+        {
+          "length": "144",
+          "noseFt": 63,
+          "tailFt": 60,
+          "swingWeight": 80,
+          "raw": "144 1435 1080 (1040) (197.5) (197.5) 286 238 286 5150 440～560 CENTERED 63 60 80"
+        },
+        {
+          "length": "147",
+          "noseFt": 67,
+          "tailFt": 64,
+          "swingWeight": 86,
+          "raw": "147 1465 1100 (1060) (202.5) (202.5) 293 246 293 5300 460～580 CENTERED 67 64 86"
+        },
+        {
+          "length": "150",
+          "noseFt": 70,
+          "tailFt": 67,
+          "swingWeight": 89,
+          "raw": "150 1495 1130 (1090) (202.5) (202.5) 296 248 296 5500 460～580 CENTERED 70 67 89"
+        },
+        {
+          "length": "153",
+          "noseFt": 73,
+          "tailFt": 70,
+          "swingWeight": 92,
+          "raw": "153 1525 1150 (1110) (207.5) (207.5) 299 250 299 5700 480～600 CENTERED 73 70 92"
+        },
+        {
+          "length": "156",
+          "noseFt": 76,
+          "tailFt": 73,
+          "swingWeight": 95,
+          "raw": "156 1555 1180 (1140) (207.5) (207.5) 302 252 302 6000 480～600 CENTERED 76 73 95"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_AH26_1/",
+      "shapeClassification": null,
+      "shapeBasis": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-gw26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "147",
+          "noseFt": 64,
+          "tailFt": 61,
+          "swingWeight": 85,
+          "raw": "147 1465 1100 (1060) (202.5) (202.5) 293 246 293 5300 460～580 CENTERED 64 61 85"
+        },
+        {
+          "length": "150",
+          "noseFt": 67,
+          "tailFt": 64,
+          "swingWeight": 88,
+          "raw": "150 1495 1130 (1090) (202.5) (202.5) 296 248 296 5500 460～580 CENTERED 67 64 88"
+        },
+        {
+          "length": "153",
+          "noseFt": 70,
+          "tailFt": 67,
+          "swingWeight": 91,
+          "raw": "153 1525 1150 (1110) (207.5) (207.5) 299 250 299 5700 480～600 CENTERED 70 67 91"
+        },
+        {
+          "length": "156",
+          "noseFt": 73,
+          "tailFt": 70,
+          "swingWeight": 94,
+          "raw": "156 1555 1180 (1140) (207.5) (207.5) 302 252 302 6000 480～600 CENTERED 73 70 94"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_GW26_1/",
+      "shapeClassification": null,
+      "shapeBasis": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-de26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "135",
+          "noseFt": 51,
+          "tailFt": 49,
+          "swingWeight": 68,
+          "raw": "135 1345 1000 (960) (192.5) (192.5) 274 229 274 4800 380～500 CENTERED 51 49 68"
+        },
+        {
+          "length": "138",
+          "noseFt": 54,
+          "tailFt": 52,
+          "swingWeight": 72,
+          "raw": "138 1375 1030 (990) (192.5) (192.5) 278 232 278 4900 400～520 CENTERED 54 52 72"
+        },
+        {
+          "length": "141",
+          "noseFt": 57,
+          "tailFt": 55,
+          "swingWeight": 76,
+          "raw": "141 1405 1050 (1010) (197.5) (197.5) 282 235 282 5000 420～540 CENTERED 57 55 76"
+        },
+        {
+          "length": "144",
+          "noseFt": 60,
+          "tailFt": 58,
+          "swingWeight": 79,
+          "raw": "144 1435 1080 (1040) (197.5) (197.5) 286 238 286 5150 440～560 CENTERED 60 58 79"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_DE26_1/",
+      "shapeClassification": null,
+      "shapeBasis": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-tc26sf",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "162",
+          "noseFt": 108,
+          "tailFt": 95,
+          "swingWeight": 108,
+          "raw": "162 1620 1490 (1490) (90) (40) 253 200 242 11000/12000 440～560 (30BACK) 108 95 108"
+        },
+        {
+          "length": "172",
+          "noseFt": 99,
+          "tailFt": 90,
+          "swingWeight": 108,
+          "raw": "172 1720 1590 (1590) (90) (40) 243 200 232 16000/17000 440～560 (50BACK) 99 90 108"
+        },
+        {
+          "length": "182",
+          "noseFt": 124,
+          "tailFt": 95,
+          "swingWeight": 113,
+          "raw": "182 1820 1700 (1700) (80) (40) 244 201 231 19000/20000 440～560 (60BACK) 124 95 113"
+        }
+      ],
+      "priceSource": "https://www.yonex.co.jp/assets/pdf/catalog/snowboards/2026_snowboards_catalog.pdf",
+      "shapeClassification": "Directional",
+      "shapeBasis": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-tc26hf",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "162",
+          "noseFt": 184,
+          "tailFt": 116,
+          "swingWeight": 133,
+          "raw": "162 1620 1490 (1490) (90) (40) 253 200 242 11000/12000 440～560 (30BACK) 184 116 133"
+        },
+        {
+          "length": "172",
+          "noseFt": 138,
+          "tailFt": 90,
+          "swingWeight": 112,
+          "raw": "172 1720 1590 (1590) (90) (40) 243 200 232 16000/17000 440～560 (50BACK) 138 90 112"
+        },
+        {
+          "length": "182",
+          "noseFt": 201,
+          "tailFt": 104,
+          "swingWeight": 140,
+          "raw": "182 1820 1700 (1700) (80) (40) 244 201 231 19000/20000 440～560 (60BACK) 201 104 140"
+        }
+      ],
+      "priceSource": "https://www.yonex.co.jp/assets/pdf/catalog/snowboards/2026_snowboards_catalog.pdf",
+      "shapeClassification": "Directional",
+      "shapeBasis": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+      "imageDiscoverySource": null,
+      "imageFetchStatus": "沿用此前核实图源或待补"
+    },
+    {
+      "id": "yonex-sy26m",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "151",
+          "noseFt": 135,
+          "tailFt": 94,
+          "swingWeight": 134,
+          "raw": "151 1505 1300 (1200) (160) (145) 295 244 285 8800/8200/9000 460～580 (40BACK) 135 94 134"
+        },
+        {
+          "length": "156",
+          "noseFt": 174,
+          "tailFt": 103,
+          "swingWeight": 140,
+          "raw": "156 1565 1360 (1260) (160) (145) 300 250 290 9900/9200/10200 480～600 (40BACK) 174 103 140"
+        },
+        {
+          "length": "160",
+          "noseFt": 176,
+          "tailFt": 105,
+          "swingWeight": 145,
+          "raw": "160 1605 1400 (1300) (160) (145) 304 255 294 10800/10000/11300 500～620 (40BACK) 176 105 145"
+        },
+        {
+          "length": "164",
+          "noseFt": 162,
+          "tailFt": 126,
+          "swingWeight": 150,
+          "raw": "164 1645 1440 (1340) (160) (145) 307 260 297 11800/11200/13000 500～620 (40BACK) 162 126 150"
+        }
+      ],
+      "priceSource": "https://www.yonex.co.jp/assets/pdf/catalog/snowboards/2026_snowboards_catalog.pdf",
+      "shapeClassification": "Directional",
+      "shapeBasis": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-sy26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "151",
+          "noseFt": 104,
+          "tailFt": 75,
+          "swingWeight": 112,
+          "raw": "151 1505 1300 (1200) (160) (145) 295 244 285 8800/8200/9000 460～580 (40BACK) 104 75 112"
+        },
+        {
+          "length": "156",
+          "noseFt": 116,
+          "tailFt": 79,
+          "swingWeight": 117,
+          "raw": "156 1565 1360 (1260) (160) (145) 300 250 290 9900/9200/10200 480～600 (40BACK) 116 79 117"
+        },
+        {
+          "length": "160",
+          "noseFt": 118,
+          "tailFt": 81,
+          "swingWeight": 122,
+          "raw": "160 1605 1400 (1300) (160) (145) 304 255 294 10800/10000/11300 500～620 (40BACK) 118 81 122"
+        },
+        {
+          "length": "164",
+          "noseFt": 118,
+          "tailFt": 93,
+          "swingWeight": 127,
+          "raw": "164 1645 1440 (1340) (160) (145) 307 260 297 11800/11200/13000 500～620 (40BACK) 118 93 127"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_SY26_1/",
+      "shapeClassification": "Directional",
+      "shapeBasis": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    },
+    {
+      "id": "yonex-th26",
+      "source": "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "metrics": [
+        {
+          "length": "157",
+          "noseFt": 114,
+          "tailFt": 95,
+          "swingWeight": 110,
+          "raw": "157 1575 1295 (1250) (170) 155 299 252 289 9900/9200/10200 500～620 (40BACK) 114 95 110"
+        },
+        {
+          "length": "161",
+          "noseFt": 116,
+          "tailFt": 98,
+          "swingWeight": 113,
+          "raw": "161 1615 1335 (1290) (170) 155 303 257 293 10800/10000/11300 500～620 (40BACK) 116 98 113"
+        },
+        {
+          "length": "165",
+          "noseFt": 118,
+          "tailFt": 99,
+          "swingWeight": 115,
+          "raw": "165 1655 1375 (1330) (170) 155 302 254 292 11050/10250/11550 500～620 (40BACK) 118 99 115"
+        },
+        {
+          "length": "169",
+          "noseFt": 118,
+          "tailFt": 99,
+          "swingWeight": 118,
+          "raw": "169 1695 1415 (1370) (170) 155 303 254 293 11300/10500/11800 500～620 (40BACK) 118 99 118"
+        }
+      ],
+      "priceSource": "https://yonexshop.jp/item/detail/1_1_TH26_1/",
+      "shapeClassification": "Directional",
+      "shapeBasis": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+      "imageDiscoverySource": "https://www.yonex.com/snowboarding/boards",
+      "imageFetchStatus": "官方列表可追溯；web图片缓存未命中，需部署前检查"
+    }
+  ]
+}

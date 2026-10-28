@@ -1,0 +1,861 @@
+{
+  "brand": "Salomon",
+  "checkedAt": "2026-10-28",
+  "scope": "Official US snowboard catalog; category union: 17 all-mountain + 10 freestyle + 5 freeride + 4 splitboard = 36 (includes 8 youth boards and one TEAM PACKAGE bundle).",
+  "catalogSources": [
+    "https://www.salomon.com/en-us/c/sports/snowboarding/snowboards/all-mountain",
+    "https://www.salomon.com/en-us/c/sports/snowboarding/snowboards/freestyle",
+    "https://www.salomon.com/en-us/c/sports/snowboarding/snowboards/freeride",
+    "https://www.salomon.com/en-us/c/sports/snowboarding/snowboards/splitboarding"
+  ],
+  "japanOfficialVerification": {
+    "url": "https://salomon.jp/policies/legal-notice",
+    "operator": "アメアスポーツジャパン株式会社",
+    "storeName": "SALOMON 公式オンラインストア",
+    "purpose": "Same article code verification for four shapes only; US list price retained."
+  },
+  "products": [
+    {
+      "model": "HIGHPATH",
+      "article": "L45434200",
+      "source": "https://www.salomon.com/en-us/product/highpath-li1557/L45434200",
+      "originalFlex": "Stiff",
+      "originalShape": "Tapered Directional",
+      "originalLevel": "Advanced, Intermediate",
+      "originalBestFor": "Freeride, All-Mountain",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "147",
+        "151",
+        "153",
+        "156",
+        "159",
+        "159W",
+        "162",
+        "162W",
+        "165W"
+      ],
+      "officialListPriceUSD": 699.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/e1b85444-cfc5-4445-b859-b3b801009fcf/L45434200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/d6d51b80-5600-4d16-8087-b3b801068e31/L45434200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "RUMBLE FISH",
+      "article": "L49294400",
+      "source": "https://www.salomon.com/en-us/product/rumble-fish-li1338/L49294400",
+      "originalFlex": "Medium, Stiff",
+      "originalShape": "Directional Twin",
+      "originalLevel": "Advanced, Intermediate",
+      "originalBestFor": "Freeride, All-Mountain, Freestyle",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "140",
+        "144",
+        "148",
+        "152",
+        "155"
+      ],
+      "officialListPriceUSD": 649.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/bdc1c6dd-3f90-4c6a-b1cd-b3b801009f8b/L49294400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/edcc168d-5864-4206-a0a1-b3b801069750/L49294400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "JETSTREAM",
+      "article": "L49292600",
+      "source": "https://www.salomon.com/en-us/product/jetstream-li1322/L49292600",
+      "originalFlex": "Medium",
+      "originalShape": "Tapered Directional",
+      "originalLevel": "Expert, Advanced",
+      "originalBestFor": "All-Mountain, Freeride",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "146",
+        "149",
+        "153",
+        "157",
+        "160",
+        "163",
+        "166"
+      ],
+      "officialListPriceUSD": 649.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/cfa2435b-6330-4006-8516-b3b801009583/L49292600/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/938db070-a7c7-4493-affa-b3b8010692af/L49292600/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "DANCEHAUL",
+      "article": "L49291600",
+      "source": "https://www.salomon.com/en-us/product/dancehaul-li1299/L49291600",
+      "originalFlex": "Medium",
+      "originalShape": "Tapered Directional",
+      "originalLevel": "Advanced, Intermediate",
+      "originalBestFor": "Freeride, All-Mountain, Freestyle",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "139",
+        "143",
+        "147",
+        "152",
+        "154",
+        "157"
+      ],
+      "officialListPriceUSD": 549.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/d0309a0a-315b-4db8-ab69-b4720097575a/L49291600/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/798ea570-2c73-48d3-88d1-b47100e918c4/L49291600/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "WONDER",
+      "article": "L49292800",
+      "source": "https://www.salomon.com/en-us/product/wonder-li1324/L49292800",
+      "originalFlex": "Medium",
+      "originalShape": "Directional Twin",
+      "originalLevel": "Advanced, Intermediate",
+      "originalBestFor": "Freeride, All-Mountain, Freestyle",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "140",
+        "144",
+        "148",
+        "152",
+        "155"
+      ],
+      "officialListPriceUSD": 479.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/54be7c2f-ae47-41eb-beeb-b3b8010097fb/L49292800/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/5b0de4cc-3026-478c-b015-b3b8010693fb/L49292800/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "CRAFT",
+      "article": "L49292100",
+      "source": "https://www.salomon.com/en-us/product/craft-li1302/L49292100",
+      "originalFlex": "Medium",
+      "originalShape": "Directional Twin",
+      "originalLevel": "Advanced, Intermediate",
+      "originalBestFor": "Freeride, All-Mountain, Freestyle",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "150",
+        "153",
+        "155",
+        "157W",
+        "158",
+        "160W",
+        "162W"
+      ],
+      "officialListPriceUSD": 479.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/29c12df1-5c78-48e6-9d45-b3b8010091b1/L49292100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/d2a73c39-1322-48f1-bee6-b472009d94e7/L49292100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "LOTUS",
+      "article": "L49293800",
+      "source": "https://www.salomon.com/en-us/product/lotus-li1306/L49293800",
+      "originalFlex": "Soft",
+      "originalShape": "Directional Twin",
+      "originalLevel": "Beginner, Intermediate",
+      "originalBestFor": "All-Mountain, Freestyle",
+      "profile": "Flat Out Camber",
+      "sizes": [
+        "135",
+        "138",
+        "142",
+        "146",
+        "151",
+        "155"
+      ],
+      "officialListPriceUSD": 399.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/ada973e9-1933-4ab3-962f-b3b801009d2b/L49293800/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/9d5e7e3c-e28a-4972-984b-b3b80106960a/L49293800/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "SIGHT",
+      "article": "L49293000",
+      "source": "https://www.salomon.com/en-us/product/sight-li1327/L49293000",
+      "originalFlex": "Medium",
+      "originalShape": "Tapered Directional",
+      "originalLevel": "Beginner, Intermediate",
+      "originalBestFor": "Freeride, All-Mountain",
+      "profile": "Cross Profile",
+      "sizes": [
+        "147",
+        "150",
+        "153",
+        "155W",
+        "156",
+        "158W",
+        "159",
+        "162W",
+        "166W"
+      ],
+      "officialListPriceUSD": 449.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/c6f537cd-b864-4106-bca4-b3b80100983c/L49293000/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/6744cad1-c17d-488b-a1ea-b3b801069566/L49293000/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "DANCEHAUL GROM",
+      "article": "L49293400",
+      "source": "https://www.salomon.com/en-us/product/dancehaul-grom-li1331/L49293400",
+      "originalFlex": "Stiff",
+      "originalShape": null,
+      "originalLevel": "Advanced, Intermediate",
+      "originalBestFor": "Freeride, All-Mountain, Freestyle",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "125",
+        "135"
+      ],
+      "officialListPriceUSD": 379.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/b88ee4ce-8312-47c8-9de7-b47200971bf4/L49293400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/5f3b6732-a612-4667-8fce-b47100e882da/L49293400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "ASSASSIN PRO",
+      "article": "L49292000",
+      "source": "https://www.salomon.com/en-us/product/assassin-pro-li1301/L49292000",
+      "originalFlex": "Stiff",
+      "originalShape": "Directional Twin",
+      "originalLevel": "Expert, Advanced",
+      "originalBestFor": "Freeride, All-Mountain, Freestyle",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "150",
+        "153",
+        "156",
+        "158W",
+        "159",
+        "162",
+        "163W"
+      ],
+      "officialListPriceUSD": 699.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/27ef3c33-710b-4b27-8734-b3b801009110/L49292000/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/bb1098f2-e0c4-45b9-a5d9-b3b801069178/L49292000/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "PULSE",
+      "article": "L49292900",
+      "source": "https://www.salomon.com/en-us/product/pulse-li1326/L49292900",
+      "originalFlex": "Soft",
+      "originalShape": "Directional Twin",
+      "originalLevel": "Beginner, Intermediate",
+      "originalBestFor": "All-Mountain, Freestyle",
+      "profile": "Flat Out Camber",
+      "sizes": [
+        "142",
+        "145",
+        "149",
+        "152",
+        "156",
+        "158W",
+        "160",
+        "162W",
+        "163"
+      ],
+      "officialListPriceUSD": 399.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/d31a10d0-a688-4757-b7fe-b3b801009807/L49292900/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/d3fc49f3-2224-4eec-b817-b3b8010694c3/L49292900/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "TEAM PACKAGE",
+      "article": "L47924400",
+      "source": "https://www.salomon.com/en-us/product/team-package-li8597/L47924400",
+      "originalFlex": "Soft",
+      "originalShape": "True Twin",
+      "originalLevel": "Beginner, Intermediate",
+      "originalBestFor": "All-Mountain",
+      "profile": "Super Flat",
+      "sizes": [
+        "80",
+        "90",
+        "100"
+      ],
+      "officialListPriceUSD": 359.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/d0be10de-2d9e-402a-961b-b3df00d76930/L47924400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "GRAIL",
+      "article": "L47924200",
+      "source": "https://www.salomon.com/en-us/product/grail-li8595/L47924200",
+      "originalFlex": "Soft",
+      "originalShape": null,
+      "originalLevel": "Beginner, Intermediate",
+      "originalBestFor": "All-Mountain, Freestyle",
+      "profile": "Super Flat",
+      "sizes": [
+        "110",
+        "115",
+        "120",
+        "125",
+        "130"
+      ],
+      "officialListPriceUSD": 259.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/9c5dd9c1-c238-4a9e-bf96-b3df00aff783/L47924200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/c2a59b69-d98e-4b6c-b8c5-b2f4008da6f0/L47924200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": [
+        {
+          "url": "https://salomon.jp/products/grail-l479242",
+          "fact": "True Twin"
+        }
+      ]
+    },
+    {
+      "model": "TEAM",
+      "article": "L47924300",
+      "source": "https://www.salomon.com/en-us/product/team-li8596/L47924300",
+      "originalFlex": "Soft",
+      "originalShape": "True Twin",
+      "originalLevel": "Beginner, Intermediate",
+      "originalBestFor": "All-Mountain",
+      "profile": "Super Flat",
+      "sizes": [
+        "70",
+        "80",
+        "90",
+        "100",
+        "110"
+      ],
+      "officialListPriceUSD": 239.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/ba17dcaf-e116-4230-a270-b31b00b47fec/L47924300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/65a67632-fcfe-44bc-9801-b2f3013ea02e/L47924300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "GRACE",
+      "article": "L47924100",
+      "source": "https://www.salomon.com/en-us/product/grace-li8594/L47924100",
+      "originalFlex": "Soft",
+      "originalShape": null,
+      "originalLevel": "Beginner, Intermediate",
+      "originalBestFor": "All-Mountain, Freestyle",
+      "profile": "Super Flat",
+      "sizes": [
+        "110",
+        "115",
+        "120",
+        "125",
+        "130"
+      ],
+      "officialListPriceUSD": 259.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/66204e6b-536b-4f47-b1a0-b3df00afc6ee/L47924100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/d40dfa1b-5dfb-4752-ae8e-b31b00b47c39/L47924100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": [
+        {
+          "url": "https://salomon.jp/products/grace-l479241",
+          "fact": "True Twin"
+        }
+      ]
+    },
+    {
+      "model": "HUCK KNIFE PRO",
+      "article": "L49292300",
+      "source": "https://www.salomon.com/en-us/product/huck-knife-pro-li1305/L49292300",
+      "originalFlex": "Stiff",
+      "originalShape": "True Twin",
+      "originalLevel": "Expert, Advanced",
+      "originalBestFor": "Freestyle",
+      "profile": "Quad Camber",
+      "sizes": [
+        "149",
+        "153",
+        "156",
+        "156W",
+        "159",
+        "159W"
+      ],
+      "officialListPriceUSD": 679.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/5498bf2f-9852-4ef1-9414-b3b8010093ee/L49292300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/9dd31c8e-5d0f-49e7-801a-b46c00f43a35/L49292300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "NO DRAMA",
+      "article": "L49292400",
+      "source": "https://www.salomon.com/en-us/product/no-drama-li1307/L49292400",
+      "originalFlex": "Stiff",
+      "originalShape": "True Twin",
+      "originalLevel": "Advanced, Intermediate",
+      "originalBestFor": "Freestyle",
+      "profile": "Quad Camber",
+      "sizes": [
+        "139",
+        "143",
+        "146",
+        "149",
+        "152"
+      ],
+      "officialListPriceUSD": 579.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/d33ec348-5be4-406c-8060-b3b8010094a5/L49292400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/4210efd7-fe3c-4b23-9664-b3b8010691ff/L49292400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "KICKBACK",
+      "article": "L49293200",
+      "source": "https://www.salomon.com/en-us/product/kickback-li1329/L49293200",
+      "originalFlex": "Soft",
+      "originalShape": "True Twin",
+      "originalLevel": "Beginner, Intermediate",
+      "originalBestFor": "Freestyle",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "148",
+        "151",
+        "153",
+        "155",
+        "155W",
+        "158",
+        "158W"
+      ],
+      "officialListPriceUSD": 429.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/bc4776a3-63e0-4707-816e-b3b8010099d1/L49293200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/40fe3328-556d-4a47-b304-b47200976ee6/L49293200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "OH YEAH GROM",
+      "article": "L49293500",
+      "source": "https://www.salomon.com/en-us/product/oh-yeah-grom-li1332/L49293500",
+      "originalFlex": "Medium",
+      "originalShape": null,
+      "originalLevel": "Beginner, Intermediate",
+      "originalBestFor": "All-Mountain, Freestyle",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "127",
+        "133",
+        "138"
+      ],
+      "officialListPriceUSD": 319.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/90d848ab-a9bf-4e16-8790-b3b801009bd5/L49293500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/b946c5cf-109b-4081-8062-b46c00f451a6/L49293500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "SLEEPWALKER GROM",
+      "article": "L49293300",
+      "source": "https://www.salomon.com/en-us/product/sleepwalker-grom-li1333/L49293300",
+      "originalFlex": "Medium",
+      "originalShape": null,
+      "originalLevel": "Beginner, Intermediate",
+      "originalBestFor": "All-Mountain, Freestyle",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "127",
+        "133",
+        "138",
+        "143",
+        "145",
+        "145W"
+      ],
+      "officialListPriceUSD": 319.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/cdc7ee99-4aa4-464d-8985-b3b8010099ed/L49293300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/47fedf4d-13f2-463e-8e79-b46c00f46125/L49293300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "ABSTRACT",
+      "article": "L49293700",
+      "source": "https://www.salomon.com/en-us/product/abstract-li1303/L49293700",
+      "originalFlex": "Medium",
+      "originalShape": "True Twin",
+      "originalLevel": "Expert, Advanced, Intermediate",
+      "originalBestFor": "Freestyle",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "138",
+        "143",
+        "147",
+        "151",
+        "153",
+        "155",
+        "155W",
+        "158",
+        "158W",
+        "162"
+      ],
+      "officialListPriceUSD": 549.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/952a91a1-77dc-4243-9975-b3b801009c2d/L49293700/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/8df33b24-327e-4288-86db-b472009f8e81/L49293700/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "SLEEPWALKER",
+      "article": "L49293100",
+      "source": "https://www.salomon.com/en-us/product/sleepwalker-li1328/L49293100",
+      "originalFlex": "Medium",
+      "originalShape": "True Twin",
+      "originalLevel": "Advanced, Intermediate",
+      "originalBestFor": "Freestyle",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "148",
+        "151",
+        "153",
+        "155",
+        "155W",
+        "158",
+        "158W"
+      ],
+      "officialListPriceUSD": 449.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/9d5febc1-80db-4aec-8e30-b3b801009887/L49293100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/ac378fdf-c2ad-4cb0-8f85-b46c00f45909/L49293100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "HUCK KNIFE GROM",
+      "article": "L49293600",
+      "source": "https://www.salomon.com/en-us/product/huck-knife-grom-li1330/L49293600",
+      "originalFlex": "Stiff",
+      "originalShape": null,
+      "originalLevel": "Advanced, Intermediate",
+      "originalBestFor": "Freestyle",
+      "profile": "Quad Camber",
+      "sizes": [
+        "125",
+        "130",
+        "135",
+        "140",
+        "140W",
+        "143",
+        "145W"
+      ],
+      "officialListPriceUSD": 379.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/efb4a40b-19b0-4055-b413-b3b801009bf9/L49293600/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/88d2c228-781c-4f7a-be54-b46c00f424cf/L49293600/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": [
+        {
+          "url": "https://salomon.jp/products/huck-knife-grom-l492936",
+          "fact": "True Twin"
+        }
+      ]
+    },
+    {
+      "model": "FASTLANE",
+      "article": "L49292700",
+      "source": "https://www.salomon.com/en-us/product/fastlane-li1323/L49292700",
+      "originalFlex": "Stiff",
+      "originalShape": "Tapered Directional",
+      "originalLevel": "Expert, Advanced",
+      "originalBestFor": "All-Mountain, Freeride",
+      "profile": "Backseat Camber",
+      "sizes": [
+        "149",
+        "153",
+        "157",
+        "160",
+        "163",
+        "166",
+        "170"
+      ],
+      "officialListPriceUSD": 749.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/aea607eb-9b29-4028-a635-b3b8010095be/L49292700/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/002bff14-5808-49d8-818f-b3b80106935f/L49292700/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "HPS - SICKSTICK",
+      "article": "L49299100",
+      "source": "https://www.salomon.com/en-us/product/hps-sickstick-li1368/L49299100",
+      "originalFlex": "Medium",
+      "originalShape": "Tapered Twin",
+      "originalLevel": "Expert",
+      "originalBestFor": "Freeride, All-Mountain, Freestyle",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "145",
+        "149",
+        "153",
+        "156",
+        "159",
+        "163"
+      ],
+      "officialListPriceUSD": 699.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/0f88af73-2b19-4763-a0af-b3b801009fae/L49299100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/30586f65-e292-4eac-bac9-b472007e63e9/L49299100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "HPS - LOUIF PARADIS",
+      "article": "L45438800",
+      "source": "https://www.salomon.com/en-us/product/hps-louif-paradis-li1598/L45438800",
+      "originalFlex": "Medium",
+      "originalShape": "Tapered Directional",
+      "originalLevel": "Expert",
+      "originalBestFor": "Freeride, All-Mountain",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "156",
+        "160",
+        "164"
+      ],
+      "officialListPriceUSD": 699.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/dee61233-8375-4e0f-bebe-b3b80100a33d/L45438800/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/836e08e5-c3e4-4144-a2f5-b46c00f4031e/L45438800/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "HPS - WOLLE NYVELT FISH",
+      "article": "L45434400",
+      "source": "https://www.salomon.com/en-us/product/hps-wolle-nyvelt-fish-li1569/L45434400",
+      "originalFlex": "Stiff",
+      "originalShape": "Tapered Directional",
+      "originalLevel": "Expert",
+      "originalBestFor": "Freeride",
+      "profile": "Powder Camber",
+      "sizes": [
+        "148",
+        "152",
+        "157",
+        "162"
+      ],
+      "officialListPriceUSD": 699.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/16c6c891-02fe-4afc-9419-b3b80100a079/L45434400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/6cd9b69b-e59b-4417-a0b7-b46c00f3e914/L45434400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "INDICATOR",
+      "article": "L45434300",
+      "source": "https://www.salomon.com/en-us/product/indicator-li1568/L45434300",
+      "originalFlex": "Medium",
+      "originalShape": "Tapered Directional",
+      "originalLevel": "Advanced, Expert",
+      "originalBestFor": "All-Mountain, Freeride",
+      "profile": "Powder Camber",
+      "sizes": [
+        "148",
+        "152",
+        "155",
+        "158",
+        "161",
+        "165W"
+      ],
+      "officialListPriceUSD": 699.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/4979c9c7-cc2c-441e-95ad-b3b80100a001/L45434300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/6c5528c5-3215-4fe0-abab-b3b801068eb9/L45434300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "BELLEVUE SPLIT",
+      "article": "L47017500",
+      "source": "https://www.salomon.com/en-us/product/bellevue-split-li3453/L47017500",
+      "originalFlex": "Medium",
+      "originalShape": null,
+      "originalLevel": "Expert, Advanced, Intermediate",
+      "originalBestFor": "Touring, Freeride",
+      "profile": "Backseat Camber",
+      "sizes": [
+        "148",
+        "152"
+      ],
+      "officialListPriceUSD": 999.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/bd75e12e-46e5-495c-b73e-b3df00ae1a02/L47017500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/0f2c5db8-c87e-418f-935e-b2f800af0b12/L47017500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": [
+        {
+          "url": "https://salomon.jp/products/bellevue-split-l470175",
+          "fact": "Tapered Directional"
+        }
+      ]
+    },
+    {
+      "model": "HIGHPATH SPLIT",
+      "article": "L47017000",
+      "source": "https://www.salomon.com/en-us/product/highpath-split-li3449/L47017000",
+      "originalFlex": "Stiff",
+      "originalShape": "Tapered Directional",
+      "originalLevel": "Expert, Advanced, Intermediate",
+      "originalBestFor": "Touring, Freeride",
+      "profile": "Rock Out Camber",
+      "sizes": [
+        "156",
+        "159",
+        "162"
+      ],
+      "officialListPriceUSD": 999.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/8e04d36e-636f-4a59-9c76-b2f800aee154/L47017000/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/50cce8c8-7ba4-476b-b13a-b2f800af2b7e/L47017000/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "PREMIERE",
+      "article": "L47031500",
+      "source": "https://www.salomon.com/en-us/product/premiere-li3533/L47031500",
+      "originalFlex": "Stiff",
+      "originalShape": "Tapered Directional",
+      "originalLevel": "Expert",
+      "originalBestFor": "Freeride, Touring",
+      "profile": "Cross Profile",
+      "sizes": [
+        "154",
+        "159",
+        "165"
+      ],
+      "officialListPriceUSD": 1699.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/8704b0fd-234d-4042-9ee5-b2f800af2370/L47031500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/f0c7009b-a4a5-4125-bf00-b2f800aee0be/L47031500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    },
+    {
+      "model": "HPS - TAKA SPLIT 2.0",
+      "article": "L47033500",
+      "source": "https://www.salomon.com/en-us/product/hps-taka-split-2-0-li3550/L47033500",
+      "originalFlex": "Medium",
+      "originalShape": "Tapered Directional",
+      "originalLevel": "Expert, Advanced, Intermediate",
+      "originalBestFor": "Touring, Freeride",
+      "profile": "Powder Camber",
+      "sizes": [
+        "155",
+        "158",
+        "161"
+      ],
+      "officialListPriceUSD": 1099.95,
+      "season": "待核实",
+      "imageUrls": [
+        "https://cdn.dam.salomon.com/5ec0be88-25fe-4c8f-9bce-b2f800aeec52/L47033500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "https://cdn.dam.salomon.com/93560b3d-5d44-462d-ae7b-b2f800af0274/L47033500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840"
+      ],
+      "imageStatus": "Resolved from official product gallery hyperlinks; DAM fetch failed in research tool, actual availability not confirmed.",
+      "supplement": []
+    }
+  ],
+  "gaps": [
+    "No explicit current season found on product pages. Archived catalogs were not merged into unverified current-season records.",
+    "No reliable per-length rider weight table in the current US pages inspected. Taka Split default rider range is not reliably bound to a selected length, so fit stays empty.",
+    "Images retain official provenance; availability needs separate image pipeline checks."
+  ]
+}

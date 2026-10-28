@@ -1,0 +1,1245 @@
+[
+  {
+    "id": "yonex-re26",
+    "brand": "YONEX",
+    "model": "REV",
+    "family": "REV",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": null,
+    "shapeNote": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "150",
+      "153",
+      "156",
+      "159"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 127600,
+      "maxAmount": 127600,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_RE26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://yonexshop.jp/photo/SBBD/RE26/z-RE26_100-1.jpg?12",
+        "source": "https://yonexshop.jp/item/detail/1_1_RE26_1/",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://yonexshop.jp/photo/SBBD/RE26/z-RE26_100-5.jpg?12",
+        "source": "https://yonexshop.jp/item/detail/1_1_RE26_1/",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://yonexshop.jp/photo/SBBD/RE26/z-RE26_100-2.jpg?12",
+        "source": "https://yonexshop.jp/item/detail/1_1_RE26_1/",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_RE26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：150cm F85/T87，SW79；153cm F89/T91，SW82；156cm F91/T93，SW85；159cm F94/T96，SW88。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-sm26",
+    "brand": "YONEX",
+    "model": "SMOOTH",
+    "family": "SMOOTH",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": null,
+    "shapeNote": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "139",
+      "143",
+      "147",
+      "151",
+      "154",
+      "155W",
+      "157",
+      "158W",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 116600,
+      "maxAmount": 116600,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_SM26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://yonexshop.jp/photo/SBBD/SM26/z-SM26_691-1.jpg?8",
+        "source": "https://yonexshop.jp/item/detail/1_1_SM26_1/",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://yonexshop.jp/photo/SBBD/SM26/z-SM26_691-5.jpg?8",
+        "source": "https://yonexshop.jp/item/detail/1_1_SM26_1/",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://yonexshop.jp/photo/SBBD/SM26/z-SM26_691-2.jpg?8",
+        "source": "https://yonexshop.jp/item/detail/1_1_SM26_1/",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_SM26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：139cm F76/T70，SW68；143cm F80/T74，SW71；147cm F84/T78，SW75；151cm F86/T84，SW79；154cm F88/T86，SW85；155Wcm F90/T83，SW87；157cm F91/T89，SW87；158Wcm F94/T83，SW90；162Wcm F94/T85，SW93。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-sl26",
+    "brand": "YONEX",
+    "model": "SLEEK",
+    "family": "SLEEK",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": null,
+    "shapeNote": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "138",
+      "142",
+      "146"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 112200,
+      "maxAmount": 112200,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_SL26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://yonexshop.jp/photo/SBBD/SL26/z-SL26_161-1.jpg?50",
+        "source": "https://yonexshop.jp/item/detail/1_1_SL26_1/",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://yonexshop.jp/photo/SBBD/SL26/z-SL26_161-5.jpg?50",
+        "source": "https://yonexshop.jp/item/detail/1_1_SL26_1/",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://yonexshop.jp/photo/SBBD/SL26/z-SL26_161-2.jpg?50",
+        "source": "https://yonexshop.jp/item/detail/1_1_SL26_1/",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_SL26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：138cm F70/T73，SW66；142cm F73/T76，SW69；146cm F77/T80，SW72。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-nx26",
+    "brand": "YONEX",
+    "model": "NEXTAGE",
+    "family": "NEXTAGE",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": null,
+    "shapeNote": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "142",
+      "146",
+      "150",
+      "154",
+      "158"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 103400,
+      "maxAmount": 103400,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_NX26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/n/e/nextage_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.yonex.com/snowboarding/boards",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：142cm F68/T67，SW80；146cm F71/T70，SW84；150cm F74/T73，SW88；154cm F77/T76，SW92；158cm F81/T79，SW96。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-ss26",
+    "brand": "YONEX",
+    "model": "SMOOTH SHORTIE",
+    "family": "SMOOTH SHORTIE",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": null,
+    "shapeNote": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "120",
+      "126",
+      "132"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 70400,
+      "maxAmount": 70400,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_SS26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/s/m/smooth_shortie_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_SS26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：120cm F54/T50，SW66；126cm F60/T53，SW69；132cm F65/T56，SW72。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-rg26",
+    "brand": "YONEX",
+    "model": "REGNA",
+    "family": "REGNA",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": null,
+    "shapeNote": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "154",
+      "158"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 247500,
+      "maxAmount": 247500,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_RG26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/r/e/regna_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_RG26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：154cm F80/T86，SW69；158cm F82/T88，SW74。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-lu26",
+    "brand": "YONEX",
+    "model": "LUVARTH",
+    "family": "LUVARTH",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": "Directional",
+    "shapeNote": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "148",
+      "153",
+      "158"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 124300,
+      "maxAmount": 124300,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_LU26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/l/u/luvarth_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_LU26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：148cm F81/T88，SW100；153cm F87/T95，SW103；158cm F90/T97，SW106。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-gl26",
+    "brand": "YONEX",
+    "model": "GLIDE",
+    "family": "GLIDE",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": "Directional",
+    "shapeNote": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "157",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 115500,
+      "maxAmount": 115500,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_GL26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/g/l/glide_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_GL26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：157cm F87/T90，SW102；161cm F90/T94，SW105。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-gr26",
+    "brand": "YONEX",
+    "model": "GRACE",
+    "family": "GRACE",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": "Directional",
+    "shapeNote": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "147",
+      "151"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 114400,
+      "maxAmount": 114400,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.yonex.co.jp/assets/pdf/catalog/snowboards/2026_snowboards_catalog.pdf"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/g/r/grace_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.yonex.com/snowboarding/boards",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：147cm F78/T84，SW91；151cm F82/T88，SW96。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-xp26p",
+    "brand": "YONEX",
+    "model": "4XP POWTWIN",
+    "family": "4XP POWTWIN",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": null,
+    "shapeNote": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "155W",
+      "158W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 92400,
+      "maxAmount": 92400,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_XP26P_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/4/x/4xp_powtwin_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_XP26P_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：155Wcm F87/T86，SW100；158Wcm F91/T90，SW101。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-sh26",
+    "brand": "YONEX",
+    "model": "STYLAHOLIC",
+    "family": "STYLAHOLIC",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": null,
+    "shapeNote": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "138",
+      "143",
+      "148",
+      "151",
+      "154",
+      "157W",
+      "160W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 115500,
+      "maxAmount": 115500,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_SH26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/s/t/stylaholic_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_SH26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：138cm F76/T66，SW68；143cm F79/T69，SW71；148cm F86/T75，SW75；151cm F89/T78，SW79；154cm F92/T80，SW82；157Wcm F88/T78，SW86；160Wcm F91/T78，SW89。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-xp26",
+    "brand": "YONEX",
+    "model": "4XP",
+    "family": "4XP",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": null,
+    "shapeNote": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "平花",
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "138",
+      "143",
+      "148",
+      "151",
+      "154",
+      "157W",
+      "160W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 92400,
+      "maxAmount": 92400,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_XP26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/4/x/4xp_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_XP26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：138cm F61/T60，SW77；143cm F65/T64，SW82；148cm F72/T70，SW86；151cm F74/T73，SW90；154cm F76/T75，SW95；157Wcm F72/T72，SW97；160Wcm F73/T72，SW100。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-ah26",
+    "brand": "YONEX",
+    "model": "ACHSE",
+    "family": "ACHSE",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": null,
+    "shapeNote": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "平花"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "138",
+      "141",
+      "144",
+      "147",
+      "150",
+      "153",
+      "156"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 103400,
+      "maxAmount": 103400,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_AH26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://yonexshop.jp/photo/SBBD/AH26/z-AH26_418-1.jpg?21",
+        "source": "https://yonexshop.jp/item/detail/1_1_AH26_1/",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://yonexshop.jp/photo/SBBD/AH26/z-AH26_418-5.jpg?21",
+        "source": "https://yonexshop.jp/item/detail/1_1_AH26_1/",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://yonexshop.jp/photo/SBBD/AH26/z-AH26_418-2.jpg?21",
+        "source": "https://yonexshop.jp/item/detail/1_1_AH26_1/",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_AH26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：138cm F57/T54，SW74；141cm F60/T57，SW77；144cm F63/T60，SW80；147cm F67/T64，SW86；150cm F70/T67，SW89；153cm F73/T70，SW92；156cm F76/T73，SW95。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-gw26",
+    "brand": "YONEX",
+    "model": "GROWENT",
+    "family": "GROWENT",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": null,
+    "shapeNote": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "平花"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "147",
+      "150",
+      "153",
+      "156"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 80300,
+      "maxAmount": 80300,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_GW26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/g/r/growent_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_GW26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：147cm F64/T61，SW85；150cm F67/T64，SW88；153cm F70/T67，SW91；156cm F73/T70，SW94。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-de26",
+    "brand": "YONEX",
+    "model": "DECLIC",
+    "family": "DECLIC",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": null,
+    "shapeNote": "官方尺寸表含头尾长度、宽度及站姿；未找到足以确认 True Twin / Directional Twin 的完整定义，继续待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "平花"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "135",
+      "138",
+      "141",
+      "144"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 80300,
+      "maxAmount": 80300,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_DE26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/d/e/declic_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_DE26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：135cm F51/T49，SW68；138cm F54/T52，SW72；141cm F57/T55，SW76；144cm F60/T58，SW79。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-tc26sf",
+    "brand": "YONEX",
+    "model": "THE C SOFT FLEX",
+    "family": "THE C",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": "Directional",
+    "shapeNote": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "162",
+      "172",
+      "182"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 190300,
+      "maxAmount": 190300,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.yonex.co.jp/assets/pdf/catalog/snowboards/2026_snowboards_catalog.pdf"
+    },
+    "priceNote": "标准版；官方目录另列 ALLFLEX 插孔版 ¥212,300（含税），不混作标准版价格。",
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/t/h/the_c_sf_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.yonex.com/snowboarding/boards",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：162cm F108/T95，SW108；172cm F99/T90，SW108；182cm F124/T95，SW113。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-tc26hf",
+    "brand": "YONEX",
+    "model": "THE C HARD FLEX",
+    "family": "THE C",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": "Directional",
+    "shapeNote": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "162",
+      "172",
+      "182"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 190300,
+      "maxAmount": 190300,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.yonex.co.jp/assets/pdf/catalog/snowboards/2026_snowboards_catalog.pdf"
+    },
+    "priceNote": null,
+    "images": [],
+    "source": "https://www.yonex.com/snowboarding/boards",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：162cm F184/T116，SW133；172cm F138/T90，SW112；182cm F201/T104，SW140。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-sy26m",
+    "brand": "YONEX",
+    "model": "SYMARC Mg",
+    "family": "SYMARC Mg",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": "Directional",
+    "shapeNote": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "151",
+      "156",
+      "160",
+      "164"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 166100,
+      "maxAmount": 166100,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.yonex.co.jp/assets/pdf/catalog/snowboards/2026_snowboards_catalog.pdf"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/s/y/symarc_mg_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.yonex.com/snowboarding/boards",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：151cm F135/T94，SW134；156cm F174/T103，SW140；160cm F176/T105，SW145；164cm F162/T126，SW150。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-sy26",
+    "brand": "YONEX",
+    "model": "SYMARC",
+    "family": "SYMARC",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": "Directional",
+    "shapeNote": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "151",
+      "156",
+      "160",
+      "164"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 127600,
+      "maxAmount": 127600,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_SY26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/s/y/symarc_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_SY26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：151cm F104/T75，SW112；156cm F116/T79，SW117；160cm F118/T81，SW122；164cm F118/T93，SW127。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  },
+  {
+    "id": "yonex-th26",
+    "brand": "YONEX",
+    "model": "THRUST",
+    "family": "THRUST",
+    "season": "2026/27",
+    "seasonEvidence": "26年度官方规格表及26-27官网商店/同年度官方目录交叉核对",
+    "shape": "Directional",
+    "shapeNote": "依据官方26年度规格表的不同头尾轮廓、收窄板尾和后移站姿归类；原始尺寸表可核查。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品分类/描述整理；板型如有归类以 shapeNote 为准；体重适配未核实不推测。",
+    "sizes": [
+      "157",
+      "161",
+      "165",
+      "169"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 146300,
+      "maxAmount": 146300,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网含税价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://yonexshop.jp/item/detail/1_1_TH26_1/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.yonex.com/media/catalog/product/t/h/thrust_26_deck.png?bg-color=248%2C248%2C248%2C0.75&canvas=240%3A300&fit=bounds&height=300&quality=80&width=240",
+        "source": "https://www.yonex.com/snowboarding/boards",
+        "credit": "YONEX",
+        "season": "2026/27",
+        "label": "官方26年款板面图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yonexshop.jp/item/detail/1_1_TH26_1/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网原生 FT(F/T) 与 SW，随尺寸变化，不能与其他品牌 1–10 直接比较：157cm F114/T95，SW110；161cm F116/T98，SW113；165cm F118/T99，SW115；169cm F118/T99，SW118。来源：https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "所列长度为官方可选尺寸，不等于个人建议长度；未找到逐尺码骑手体重表，需结合体重、靴码与用途另作选长。"
+    ]
+  }
+]

@@ -1,0 +1,2131 @@
+{
+  "brand": "Burton",
+  "checkedAt": "2026-10-28",
+  "scope": "40款既有官方API目录；逐产品URL匹配官方产品页的专属参数与长度表。Twin Flex只表示对称性，不视为软硬数值。",
+  "products": [
+    {
+      "id": "burton-mens-burton-process-camber-snowboard-106921",
+      "model": "Process",
+      "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      "season": {
+        "sku": "27WIN-106921",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 14,
+        "tables": [
+          {
+            "sizes": [
+              "143",
+              "146",
+              "149",
+              "152",
+              "155",
+              "157",
+              "159",
+              "162",
+              "152W",
+              "155W",
+              "157W",
+              "159W",
+              "162W",
+              "165W"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      "snapshots": [
+        "burton-extra-0.txt",
+        "burton-fit-0.txt",
+        "burton-top-0.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-cultivator-flat-top-snowboard-311741",
+      "model": "Cultivator Flat Top",
+      "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+      },
+      "flex": {
+        "original": "Soft & Playful",
+        "value": 3,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+      },
+      "season": {
+        "sku": "27WIN-311741",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 9,
+        "tables": [
+          {
+            "sizes": [
+              "135",
+              "140",
+              "145",
+              "150",
+              "155",
+              "160",
+              "155W",
+              "160W",
+              "165W"
+            ],
+            "weightOriginal": [
+              "80-120 lb. / 36-54kg",
+              "80-120 lb. / 36-54kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "180-260 lb.+ / 82-118kg+",
+              "120-180 lb. / 54-82kg",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+      },
+      "snapshots": [
+        "burton-fit-0.txt",
+        "burton-top-0.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-mens-burton-custom-camber-snowboard-106881",
+      "model": "Custom Camber",
+      "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881",
+      "shape": {
+        "original": "Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 10,
+        "tables": [
+          {
+            "sizes": [
+              "150",
+              "154",
+              "156",
+              "158",
+              "162",
+              "154W",
+              "158W",
+              "162W",
+              "166W",
+              "170W"
+            ],
+            "weightOriginal": [
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      },
+      "snapshots": [
+        "burton-fit-0.txt",
+        "burton-top-0.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-blossom-camber-snowboard-229431",
+      "model": "Blossom Camber",
+      "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+      },
+      "flex": {
+        "original": "Stiff & Aggressive",
+        "value": 8,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+      },
+      "season": {
+        "sku": "27WIN-229431",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 7,
+        "tables": [
+          {
+            "sizes": [
+              "144",
+              "149",
+              "152",
+              "155",
+              "158",
+              "162",
+              "162W"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+      },
+      "snapshots": [
+        "burton-fit-1.txt",
+        "burton-top-1.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-spellbinder-purepop-camber-snowboard-307841",
+      "model": "Spellbinder PurePop Camber",
+      "source": "https://www.burton.com/en-us/products/burton-spellbinder-purepop-camber-snowboard-307841",
+      "shape": {
+        "original": null,
+        "mapped": null,
+        "source": null
+      },
+      "flex": {
+        "original": null,
+        "value": null,
+        "kind": "unknown",
+        "source": null
+      },
+      "season": {
+        "sku": null,
+        "title2027": false,
+        "season": "待核实"
+      },
+      "fit": {
+        "parsedHeader": false,
+        "rows": 0,
+        "tables": [],
+        "source": null
+      },
+      "snapshots": [],
+      "gaps": [
+        "专属板型参数待核实",
+        "Personality待核实",
+        "可匹配的逐长度体重表待核实"
+      ]
+    },
+    {
+      "id": "burton-burton-mystery-process-snowboard-303611",
+      "model": "Mystery Process",
+      "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+      },
+      "season": {
+        "sku": "27WIN-303611",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 7,
+        "tables": [
+          {
+            "sizes": [
+              "149",
+              "152",
+              "155",
+              "157",
+              "159",
+              "159W",
+              "162W"
+            ],
+            "weightOriginal": [
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "150-200 lb. / 68-91kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+      },
+      "snapshots": [
+        "burton-fit-1.txt",
+        "burton-top-1.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-mens-burton-custom-x-camber-snowboard-106891",
+      "model": "Custom X Camber",
+      "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891",
+      "shape": {
+        "original": "Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+      },
+      "flex": {
+        "original": "Stiff & Aggressive",
+        "value": 8,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+      },
+      "season": {
+        "sku": "27WIN-106891",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 8,
+        "tables": [
+          {
+            "sizes": [
+              "150",
+              "154",
+              "156",
+              "158",
+              "162",
+              "158W",
+              "162W",
+              "166W"
+            ],
+            "weightOriginal": [
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+      },
+      "snapshots": [
+        "burton-fit-2.txt",
+        "burton-top-2.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-womens-burton-yeasayer-camber-snowboard-132221",
+      "model": "Yeasayer",
+      "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-camber-snowboard-132221",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://eu.burton.com/en-gb/products/womens-burton-yeasayer-camber-snowboard-132221"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://eu.burton.com/en-gb/products/womens-burton-yeasayer-camber-snowboard-132221"
+      },
+      "season": {
+        "sku": "27WIN-132221",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 4,
+        "tables": [
+          {
+            "sizes": [
+              "140",
+              "144",
+              "148",
+              "152"
+            ],
+            "weightOriginal": [
+              "80-120 lb. / 36-54kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb.+ / 68-91kg+"
+            ],
+            "source": "https://eu.burton.com/en-gb/products/womens-burton-yeasayer-camber-snowboard-132221"
+          }
+        ],
+        "source": "https://eu.burton.com/en-gb/products/womens-burton-yeasayer-camber-snowboard-132221"
+      },
+      "snapshots": [
+        "burton-extra-8.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-womens-burton-talent-scout-camber-snowboard-132181",
+      "model": "Talent Scout Camber",
+      "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181"
+      },
+      "season": {
+        "sku": "27WIN-132181",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 5,
+        "tables": [
+          {
+            "sizes": [
+              "138",
+              "141",
+              "146",
+              "149",
+              "152"
+            ],
+            "weightOriginal": [
+              "80-120 lb. / 36-54kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb.+ / 68-91kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181"
+      },
+      "snapshots": [
+        "burton-fit-2.txt",
+        "burton-top-2.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-rewind-camber-snowboard-198541",
+      "model": "Rewind Camber",
+      "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+      },
+      "season": {
+        "sku": "27WIN-198541",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 6,
+        "tables": [
+          {
+            "sizes": [
+              "140",
+              "145",
+              "148",
+              "151",
+              "155",
+              "158"
+            ],
+            "weightOriginal": [
+              "80-120 lb. / 36-54kg",
+              "100-150 lb. / 45-68kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+          },
+          {
+            "sizes": [
+              "140",
+              "145",
+              "148",
+              "151",
+              "155",
+              "158"
+            ],
+            "weightOriginal": [
+              "80-120 lb. / 36-54kg",
+              "100-150 lb. / 45-68kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+      },
+      "snapshots": [
+        "burton-extra-3.txt",
+        "burton-fit-3.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-counterbalance-camber-snowboard-302881",
+      "model": "Counterbalance Camber",
+      "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881",
+      "shape": {
+        "original": "Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+      },
+      "season": {
+        "sku": "27WIN-302881",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 9,
+        "tables": [
+          {
+            "sizes": [
+              "142",
+              "146",
+              "150",
+              "154",
+              "158",
+              "162",
+              "154W",
+              "158W",
+              "162W"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+      },
+      "snapshots": [
+        "burton-fit-3.txt",
+        "burton-top-3.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-mens-burton-process-flying-v-snowboard-107121",
+      "model": "Process Flying V",
+      "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      "season": {
+        "sku": "27WIN-107121",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 14,
+        "tables": [
+          {
+            "sizes": [
+              "143",
+              "146",
+              "149",
+              "152",
+              "155",
+              "157",
+              "159",
+              "162",
+              "152W",
+              "155W",
+              "157W",
+              "159W",
+              "162W",
+              "165W"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      "snapshots": [
+        "burton-extra-4.txt",
+        "burton-fit-3.txt",
+        "burton-top-3.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-family-tree-sketch-artist-camber-snowboard-302901",
+      "model": "Family Tree Sketch Artist Camber",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901",
+      "shape": {
+        "original": "Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901"
+      },
+      "flex": {
+        "original": "Stiff & Aggressive",
+        "value": 8,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901"
+      },
+      "season": {
+        "sku": "27WIN-302901",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 5,
+        "tables": [
+          {
+            "sizes": [
+              "147",
+              "151",
+              "155",
+              "159",
+              "163"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901"
+      },
+      "snapshots": [
+        "burton-fit-4.txt",
+        "burton-top-4.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-family-tree-smooth-operator-camber-snowboard-302911",
+      "model": "Family Tree Smooth Operator Camber",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911",
+      "shape": {
+        "original": "Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 6,
+        "tables": [
+          {
+            "sizes": [
+              "144",
+              "148",
+              "152",
+              "156",
+              "160",
+              "164"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911"
+      },
+      "snapshots": [
+        "burton-fit-4.txt",
+        "burton-top-4.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-family-tree-time-thief-camber-snowboard-311101",
+      "model": "Family Tree Time Thief Camber",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101",
+      "shape": {
+        "original": "Freeride DIrectional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101"
+      },
+      "season": {
+        "sku": "27WIN-311101",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 6,
+        "tables": [
+          {
+            "sizes": [
+              "144",
+              "148",
+              "152",
+              "156",
+              "160",
+              "164"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101"
+      },
+      "snapshots": [
+        "burton-fit-4.txt",
+        "burton-top-4.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-kids-burton-family-tree-hometown-hero-camber-snowboard-222371",
+      "model": "Family Tree Hometown Hero",
+      "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371",
+      "shape": {
+        "original": "Freeride DIrectional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 2,
+        "tables": [
+          {
+            "sizes": [
+              "130",
+              "140"
+            ],
+            "weightOriginal": [
+              "70-100 lb. / 32-45kg",
+              "90-120 lb. / 41-54kg"
+            ],
+            "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371"
+      },
+      "snapshots": [
+        "burton-fit-5.txt",
+        "burton-top-5.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-womens-burton-feelgood-camber-snowboard-106911",
+      "model": "Feelgood Camber",
+      "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911",
+      "shape": {
+        "original": "Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911"
+      },
+      "season": {
+        "sku": "27WIN-106911",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 4,
+        "tables": [
+          {
+            "sizes": [
+              "142",
+              "146",
+              "149",
+              "152"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb.+ / 68-91kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911"
+      },
+      "snapshots": [
+        "burton-fit-5.txt",
+        "burton-top-5.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-family-tree-hometown-hero-camber-snowboard-222451",
+      "model": "Family Tree Hometown Hero Camber",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451",
+      "shape": {
+        "original": "Freeride Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 8,
+        "tables": [
+          {
+            "sizes": [
+              "144",
+              "148",
+              "152",
+              "156",
+              "160",
+              "156W",
+              "160W",
+              "165W"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+      },
+      "snapshots": [
+        "burton-fit-5.txt",
+        "burton-top-5.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-cultivator-flat-top-snowboard-302891",
+      "model": "Cultivator Flat Top",
+      "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+      },
+      "flex": {
+        "original": "Soft & Playful",
+        "value": 3,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+      },
+      "season": {
+        "sku": "27WIN-302891",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 9,
+        "tables": [
+          {
+            "sizes": [
+              "135",
+              "140",
+              "145",
+              "150",
+              "155",
+              "160",
+              "155W",
+              "160W",
+              "165W"
+            ],
+            "weightOriginal": [
+              "80-120 lbs. / 36-54kg",
+              "80-120 lbs. / 36-54kg",
+              "100-150 lbs. / 45-68kg",
+              "120-180 lbs. / 54-82kg",
+              "120-180 lbs. / 54-82kg",
+              "180-260 lbs.+ / 82-118kg+",
+              "120-180 lbs. / 54-82kg",
+              "180-260 lbs.+ / 82-118kg+",
+              "180-260 lbs.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+      },
+      "snapshots": [
+        "burton-fit-6.txt",
+        "burton-top-6.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-kids-burton-grom-camber-snowboard-243811",
+      "model": "Grom Camber",
+      "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811"
+      },
+      "flex": {
+        "original": "Soft & Playful",
+        "value": 3,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 3,
+        "tables": [
+          {
+            "sizes": [
+              "110",
+              "120",
+              "130"
+            ],
+            "weightOriginal": [
+              "40-55 lbs. / 18-25kg",
+              "50-80 lbs. / 23-36kg",
+              "70-100 lbs. / 32-45kg"
+            ],
+            "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811"
+      },
+      "snapshots": [
+        "burton-fit-6.txt",
+        "burton-top-6.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-kids-burton-mini-grom-flat-top-snowboard-236001",
+      "model": "Mini Grom Flat Top",
+      "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001"
+      },
+      "flex": {
+        "original": "Soft & Playful",
+        "value": 3,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 3,
+        "tables": [
+          {
+            "sizes": [
+              "80",
+              "90",
+              "100"
+            ],
+            "weightOriginal": [
+              "25-50 lbs. / 11-23kg",
+              "25-50 lbs. / 11-23kg",
+              "40-55 lbs. / 18-25kg"
+            ],
+            "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001"
+      },
+      "snapshots": [
+        "burton-fit-6.txt",
+        "burton-top-6.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-mens-burton-custom-flying-v-snowboard-107071",
+      "model": "Custom Flying V",
+      "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071",
+      "shape": {
+        "original": "Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 9,
+        "tables": [
+          {
+            "sizes": [
+              "150",
+              "154",
+              "156",
+              "158",
+              "162",
+              "154W",
+              "158W",
+              "162W",
+              "166W"
+            ],
+            "weightOriginal": [
+              "180-260 lbs.+ / 82-118kg+",
+              "120-180 lbs. / 54-82kg",
+              "150-200 lbs. / 68-91kg",
+              "150-200 lbs. / 68-91kg",
+              "180-260 lbs.+ / 82-118kg+",
+              "120-180 lbs. / 54-82kg",
+              "150-200 lbs. / 68-91kg",
+              "180-260 lbs.+ / 82-118kg+",
+              "180-260 lbs.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+      },
+      "snapshots": [
+        "burton-fit-7.txt",
+        "burton-top-7.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-3d-fish-directional-flat-top-snowboard-222351",
+      "model": "3D Fish Directional Flat Top",
+      "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351",
+      "shape": {
+        "original": "Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 4,
+        "tables": [
+          {
+            "sizes": [
+              "146",
+              "151",
+              "156",
+              "161"
+            ],
+            "weightOriginal": [
+              "100-150 lbs. / 45-68kg",
+              "120-180 lbs. / 54-82kg",
+              "150-200 lbs. / 68-91kg",
+              "180-260 lbs.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351"
+      },
+      "snapshots": [
+        "burton-fit-7.txt",
+        "burton-top-7.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-kids-burton-family-tree-hometown-hero-smalls-splitboard-243721",
+      "model": "Family Tree Hometown Hero Smalls Splitboard",
+      "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721",
+      "shape": {
+        "original": "Freeride Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 1,
+        "tables": [
+          {
+            "sizes": [
+              "135"
+            ],
+            "weightOriginal": [
+              "80-110 lbs. / 36-50kg"
+            ],
+            "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721"
+      },
+      "snapshots": [
+        "burton-fit-7.txt",
+        "burton-top-7.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-kids-burton-grom-flat-top-snowboard-235991",
+      "model": "Grom Flat Top",
+      "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991"
+      },
+      "flex": {
+        "original": "Soft & Playful",
+        "value": 3,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 3,
+        "tables": [
+          {
+            "sizes": [
+              "110",
+              "120",
+              "130"
+            ],
+            "weightOriginal": [
+              "40-55 lbs. / 18-25kg",
+              "50-80 lbs. / 23-36kg",
+              "70-100 lbs. / 32-45kg"
+            ],
+            "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991"
+      },
+      "snapshots": [
+        "burton-fit-8.txt",
+        "burton-top-8.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-good-company-camber-snowboard-235951",
+      "model": "Good Company Camber",
+      "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      },
+      "season": {
+        "sku": "27WIN-235951",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 10,
+        "tables": [
+          {
+            "sizes": [
+              "135",
+              "140",
+              "145",
+              "148",
+              "152",
+              "155",
+              "159",
+              "155W",
+              "159W",
+              "162W"
+            ],
+            "weightOriginal": [
+              "80-120 lb. / 36-54kg",
+              "80-120 lb. / 36-54kg",
+              "100-150 lb. / 45-68kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      },
+      "snapshots": [
+        "burton-fit-8.txt",
+        "burton-top-8.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-mens-burton-instigator-purepop-camber-snowboard-229441",
+      "model": "Instigator PurePop Camber",
+      "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441",
+      "shape": {
+        "original": "Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+      },
+      "flex": {
+        "original": "Soft & Playful",
+        "value": 3,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 7,
+        "tables": [
+          {
+            "sizes": [
+              "145",
+              "150",
+              "155",
+              "160",
+              "155W",
+              "160W",
+              "165W"
+            ],
+            "weightOriginal": [
+              "100-150 lbs. / 45-68kg",
+              "120-180 lbs. / 54-82kg",
+              "120-180 lbs. / 54-82kg",
+              "180-260 lbs.+ / 82-118kg+",
+              "120-180 lbs. / 54-82kg",
+              "180-260 lbs.+ / 82-118kg+",
+              "180-260 lbs.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+      },
+      "snapshots": [
+        "burton-fit-8.txt",
+        "burton-top-8.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-kids-burton-feelgood-smalls-camber-snowboard-201961",
+      "model": "Feelgood Smalls Camber",
+      "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 3,
+        "tables": [
+          {
+            "sizes": [
+              "130",
+              "135",
+              "140"
+            ],
+            "weightOriginal": [
+              "70-100 lb. / 32-45kg",
+              "80-110 lbs. / 36-50kg",
+              "90-120 lbs. / 41-54kg"
+            ],
+            "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961"
+      },
+      "snapshots": [
+        "burton-fit-9.txt",
+        "burton-top-9.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-kids-burton-custom-smalls-camber-snowboard-201951",
+      "model": "Custom Smalls Camber",
+      "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 5,
+        "tables": [
+          {
+            "sizes": [
+              "125",
+              "130",
+              "135",
+              "140",
+              "145"
+            ],
+            "weightOriginal": [
+              "70-100 lb. / 32-45kg",
+              "70-100 lb. / 32-45kg",
+              "80-110 lb. / 36-50kg",
+              "90-120 lb. / 41-54kg",
+              "100-150 lb. / 45-68kg"
+            ],
+            "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951"
+      },
+      "snapshots": [
+        "burton-fit-9.txt",
+        "burton-top-9.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-womens-burton-feelgood-flying-v-snowboard-107091",
+      "model": "Feelgood Flying V",
+      "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091",
+      "shape": {
+        "original": "Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 4,
+        "tables": [
+          {
+            "sizes": [
+              "142",
+              "146",
+              "149",
+              "152"
+            ],
+            "weightOriginal": [
+              "100-150 lbs. / 45-68kg",
+              "120-180 lbs. / 54-82kg",
+              "120-180 lbs. / 54-82kg",
+              "150-200 lbs.+ / 68-91kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091"
+      },
+      "snapshots": [
+        "burton-fit-9.txt",
+        "burton-top-9.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-cartographer-camber-snowboard-229421",
+      "model": "Cartographer Camber",
+      "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421",
+      "shape": {
+        "original": "Freeride DIrectional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 7,
+        "tables": [
+          {
+            "sizes": [
+              "144",
+              "149",
+              "154",
+              "159",
+              "162",
+              "154W",
+              "159W"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+      },
+      "snapshots": [
+        "burton-fit-10.txt",
+        "burton-top-10.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-3d-fish-directional-flat-top-splitboard-243741",
+      "model": "3D Fish Flat Top Splitboard",
+      "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741",
+      "shape": {
+        "original": "Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741"
+      },
+      "season": {
+        "sku": "27WIN-243741",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 3,
+        "tables": [
+          {
+            "sizes": [
+              "146",
+              "151",
+              "156"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741"
+      },
+      "snapshots": [
+        "burton-fit-10.txt",
+        "burton-top-10.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-family-tree-full-nelson-camber-snowboard-307831",
+      "model": "Family Tree Full Nelson Camber",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831",
+      "shape": {
+        "original": "Directional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831"
+      },
+      "flex": {
+        "original": "Stiff & Aggressive",
+        "value": 8,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831"
+      },
+      "season": {
+        "sku": "27WIN-307831",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 5,
+        "tables": [
+          {
+            "sizes": [
+              "149",
+              "153",
+              "157",
+              "161",
+              "165"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831"
+      },
+      "snapshots": [
+        "burton-fit-10.txt",
+        "burton-top-10.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-family-tree-high-fidelity-camber-snowboard-243701",
+      "model": "Family Tree High Fidelity Camber",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701",
+      "shape": {
+        "original": "Freeride DIrectional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+      },
+      "flex": {
+        "original": "Stiff & Aggressive",
+        "value": 8,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+      },
+      "season": {
+        "sku": null,
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 7,
+        "tables": [
+          {
+            "sizes": [
+              "150",
+              "154",
+              "158",
+              "162",
+              "166",
+              "158W",
+              "162W"
+            ],
+            "weightOriginal": [
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+      },
+      "snapshots": [
+        "burton-fit-11.txt",
+        "burton-top-11.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-family-tree-high-fidelity-camber-splitboard-243731",
+      "model": "Family Tree High Fidelity Camber Splitboard",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731",
+      "shape": {
+        "original": "Freeride DIrectional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731"
+      },
+      "flex": {
+        "original": "Stiff & Aggressive",
+        "value": 8,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731"
+      },
+      "season": {
+        "sku": "27WIN-243731",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 3,
+        "tables": [
+          {
+            "sizes": [
+              "154",
+              "158",
+              "162"
+            ],
+            "weightOriginal": [
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731"
+      },
+      "snapshots": [
+        "burton-fit-11.txt",
+        "burton-top-11.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-family-tree-hometown-hero-splitboard-222401",
+      "model": "Family Tree Hometown Hero Splitboard",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401",
+      "shape": {
+        "original": "Freeride DIrectional",
+        "mapped": "Directional",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+      },
+      "season": {
+        "sku": "27WIN-222401",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 8,
+        "tables": [
+          {
+            "sizes": [
+              "146",
+              "150",
+              "154",
+              "158",
+              "162",
+              "168",
+              "158W",
+              "162W"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+",
+              "180-260 lb.+ / 82-118kg+",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+      },
+      "snapshots": [
+        "burton-fit-11.txt",
+        "burton-top-11.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-womens-burton-yeasayer-flying-v-snowboard-107081",
+      "model": "Yeasayer Flying V",
+      "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081"
+      },
+      "season": {
+        "sku": "27WIN-107081",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 4,
+        "tables": [
+          {
+            "sizes": [
+              "140",
+              "144",
+              "148",
+              "152"
+            ],
+            "weightOriginal": [
+              "80-120 lb. / 36-54kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb.+ / 68-91kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081"
+      },
+      "snapshots": [
+        "burton-fit-12.txt",
+        "burton-top-12.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-50th-94s-twin-camber-snowboard-313681",
+      "model": "50th 94's Twin Camber",
+      "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681"
+      },
+      "season": {
+        "sku": "27WIN-313681",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 4,
+        "tables": [
+          {
+            "sizes": [
+              "146",
+              "150",
+              "156",
+              "162"
+            ],
+            "weightOriginal": [
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "180-260 lb.+ / 82-118kg+"
+            ],
+            "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681"
+          }
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681"
+      },
+      "snapshots": [
+        "burton-fit-12.txt",
+        "burton-top-12.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-kids-burton-smalls-flat-top-snowboard-239231",
+      "model": "Smalls",
+      "source": "https://www.burton.com/en-us/products/kids-burton-smalls-flat-top-snowboard-239231",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-ca/products/kids-burton-smalls-flat-top-snowboard-239231"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-ca/products/kids-burton-smalls-flat-top-snowboard-239231"
+      },
+      "season": {
+        "sku": "27WIN-239231",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 5,
+        "tables": [
+          {
+            "sizes": [
+              "125",
+              "130",
+              "134",
+              "138",
+              "142"
+            ],
+            "weightOriginal": [
+              "70-100 lb. / 32-45kg",
+              "70-100 lb. / 32-45kg",
+              "80-110 lb. / 36-50kg",
+              "90-120 lb. / 41-54kg",
+              "100-150 lb. / 45-68kg"
+            ],
+            "source": "https://www.burton.com/en-ca/products/kids-burton-smalls-flat-top-snowboard-239231"
+          },
+          {
+            "sizes": [
+              "125",
+              "130",
+              "134",
+              "138",
+              "142"
+            ],
+            "weightOriginal": [
+              "70-100 lb. / 32-45kg",
+              "70-100 lb. / 32-45kg",
+              "80-110 lb. / 36-50kg",
+              "90-120 lb. / 41-54kg",
+              "100-150 lb. / 45-68kg"
+            ],
+            "source": "https://www.burton.com/en-nz/products/kids-burton-smalls-flat-top-snowboard-239231"
+          },
+          {
+            "sizes": [
+              "125",
+              "130",
+              "134",
+              "138",
+              "142"
+            ],
+            "weightOriginal": [
+              "70-100 lb. / 32-45kg",
+              "70-100 lb. / 32-45kg",
+              "80-110 lb. / 36-50kg",
+              "90-120 lb. / 41-54kg",
+              "100-150 lb. / 45-68kg"
+            ],
+            "source": "https://www.burton.com/en-ca/products/kids-burton-smalls-flat-top-snowboard-239231"
+          }
+        ],
+        "source": "https://www.burton.com/en-ca/products/kids-burton-smalls-flat-top-snowboard-239231"
+      },
+      "snapshots": [
+        "burton-extra-12.txt",
+        "burton-extra-13.txt"
+      ],
+      "gaps": []
+    },
+    {
+      "id": "burton-burton-pretty-good-company-camber-snowboard-311751",
+      "model": "Pretty Good Company Camber",
+      "source": "https://www.burton.com/en-us/products/burton-pretty-good-company-camber-snowboard-311751",
+      "shape": {
+        "original": "Twin",
+        "mapped": "True Twin",
+        "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+      },
+      "flex": {
+        "original": "Happy Medium",
+        "value": 5,
+        "kind": "converted",
+        "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+      },
+      "season": {
+        "sku": "27WIN-311751",
+        "title2027": true,
+        "season": "2026/27"
+      },
+      "fit": {
+        "parsedHeader": true,
+        "rows": 8,
+        "tables": [
+          {
+            "sizes": [
+              "135",
+              "145",
+              "148",
+              "152",
+              "155",
+              "159",
+              "155W",
+              "159W"
+            ],
+            "weightOriginal": [
+              "80-120 lb. / 36-54kg",
+              "100-150 lb. / 45-68kg",
+              "100-150 lb. / 45-68kg",
+              "120-180 lb. / 54-82kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg",
+              "120-180 lb. / 54-82kg",
+              "150-200 lb. / 68-91kg"
+            ],
+            "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+          }
+        ],
+        "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+      },
+      "snapshots": [
+        "burton-extra-9.txt"
+      ],
+      "gaps": []
+    }
+  ]
+}

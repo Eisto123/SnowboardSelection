@@ -1,0 +1,3068 @@
+[
+  {
+    "id": "jones-mens-mountain-twin-snowboard",
+    "brand": "Jones",
+    "model": "Men's Mountain Twin",
+    "family": "Men's Mountain Twin",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Personality/Flex Medium & balanced 6 /10",
+      "method": null,
+      "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "151",
+      "153W",
+      "154",
+      "156W",
+      "157",
+      "158UW",
+      "159W",
+      "160",
+      "161UW",
+      "162W",
+      "163",
+      "164UW",
+      "165W",
+      "168W"
+    ],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "153W",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "158UW",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "161UW",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          73,
+          95
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "164UW",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      },
+      {
+        "length": "168W",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+      }
+    ],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.MTN-gallery-1_971313d3-abd1-4615-9b46-e1e7d8b23a47.webp?v=1792466494",
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.MTN-gallery-2.webp?v=1773324825",
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.MTN-gallery-3_c78e13f2-2478-453c-bcf3-bc6fa73cd53e.webp?v=1792466494",
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.MTN-gallery-4_3bd95131-5164-4c4d-ba17-7a747b235e60.webp?v=1792466494",
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "jones-mens-howler-snowboard",
+    "brand": "Jones",
+    "model": "Men's Howler",
+    "family": "Men's Howler",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "152",
+      "155",
+      "157W",
+      "158",
+      "160W",
+      "161",
+      "163W",
+      "164"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.HOV-gallery-1.webp?v=1785146483",
+        "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.HOV-gallery-3.webp?v=1785146482",
+        "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.HOV-gallery-4.webp?v=1785146482",
+        "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.HOV-gallery-5.webp?v=1785146482",
+        "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-mens-flagship-snowboard",
+    "brand": "Jones",
+    "model": "Men's Flagship",
+    "family": "Men's Flagship",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "156W",
+      "158",
+      "159W",
+      "161",
+      "162W",
+      "164",
+      "165W",
+      "167",
+      "169W",
+      "172"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 749.95,
+      "maxAmount": 749.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.FLA-gallery-1.webp?v=1782443915",
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.FLA-gallery-3.webp?v=1782443931",
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.FLA-gallery-4.webp?v=1782443915",
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.FLA-gallery-5.webp?v=1782443915",
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-mens-stratos-snowboard",
+    "brand": "Jones",
+    "model": "Men's Stratos",
+    "family": "Men's Stratos",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "153",
+      "154W",
+      "156",
+      "158W",
+      "159",
+      "161W",
+      "162",
+      "164W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 679.95,
+      "maxAmount": 679.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mens-stratos-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNM.STR-gallery-1.webp?v=1768450584",
+        "source": "https://www.jonessnowboards.com/products/mens-stratos-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNM.STR-gallery-2.webp?v=1768450584",
+        "source": "https://www.jonessnowboards.com/products/mens-stratos-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNM.STR-gallery-3.webp?v=1768450584",
+        "source": "https://www.jonessnowboards.com/products/mens-stratos-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNM.STR-gallery-4.webp?v=1768450584",
+        "source": "https://www.jonessnowboards.com/products/mens-stratos-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mens-stratos-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-mens-flagship-pro-snowboard",
+    "brand": "Jones",
+    "model": "Men's Flagship [PRO]",
+    "family": "Men's Flagship [PRO]",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "154",
+      "158",
+      "159W",
+      "161",
+      "162W",
+      "164",
+      "165W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 949.95,
+      "maxAmount": 949.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.UFL-gallery-1.webp?v=1782443801",
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.UFL-gallery-3.webp?v=1782443801",
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.UFL-gallery-4.webp?v=1782443818",
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.UFL-gallery-5.webp?v=1782443801",
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-mens-rally-cat-snowboard",
+    "brand": "Jones",
+    "model": "Men's Rally Cat",
+    "family": "Men's Rally Cat",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "155W",
+      "156",
+      "158",
+      "159W",
+      "161",
+      "162W",
+      "166W",
+      "170W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 499.95,
+      "maxAmount": 499.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.MND-gallery-1.webp?v=1782443822",
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.MND-gallery-3.webp?v=1782443840",
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.MND-gallery-4.webp?v=1782443840",
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.MND-gallery-5.webp?v=1782443840",
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-mens-mountain-twin-pro-snowboard",
+    "brand": "Jones",
+    "model": "Men's Mountain Twin [PRO]",
+    "family": "Men's Mountain Twin [PRO]",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "official",
+      "original": "Personality/Flex Mid-stiff & responsive 8 /10",
+      "method": null,
+      "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "154",
+      "156W",
+      "157",
+      "159W",
+      "160",
+      "162W",
+      "163",
+      "165W"
+    ],
+    "fit": [
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          73,
+          95
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard"
+      }
+    ],
+    "price": {
+      "amount": 729.95,
+      "maxAmount": 729.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.UMT-gallery-1.webp?v=1782443687",
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.UMT-gallery-3.webp?v=1782443686",
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.UMT-gallery-4.webp?v=1782443686",
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.UMT-gallery-5.webp?v=1782443704",
+        "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mens-mountain-twin-pro-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "jones-hovercraft-20-snowboard",
+    "brand": "Jones",
+    "model": "Hovercraft 2.0",
+    "family": "Hovercraft 2.0",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "144",
+      "148",
+      "152",
+      "156",
+      "160",
+      "164"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/hovercraft-20-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNU.HVC-gallery-1.webp?v=1768452295",
+        "source": "https://www.jonessnowboards.com/products/hovercraft-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNU.HVC-gallery-2.webp?v=1768452295",
+        "source": "https://www.jonessnowboards.com/products/hovercraft-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNU.HVC-gallery-3.webp?v=1768452295",
+        "source": "https://www.jonessnowboards.com/products/hovercraft-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNU.HVC-gallery-4.webp?v=1768452295",
+        "source": "https://www.jonessnowboards.com/products/hovercraft-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/hovercraft-20-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-mind-expander-20-snowboard",
+    "brand": "Jones",
+    "model": "Mind Expander 2.0",
+    "family": "Mind Expander 2.0",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "142",
+      "146",
+      "150",
+      "154",
+      "158",
+      "162",
+      "166"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.MEX-gallery-1.webp?v=1782443855",
+        "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.MEX-gallery-3.webp?v=1782443855",
+        "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.MEX-gallery-4.webp?v=1782443855",
+        "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.MEX-gallery-5.webp?v=1782443871",
+        "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-mens-frontier-20-snowboard",
+    "brand": "Jones",
+    "model": "Men's Frontier 2.0",
+    "family": "Men's Frontier 2.0",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "150",
+      "153",
+      "155W",
+      "156",
+      "158W",
+      "159",
+      "161W",
+      "162",
+      "164W",
+      "165",
+      "167W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.FRT-gallery-1.webp?v=1782443696",
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.FRT-gallery-3.webp?v=1782443680",
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.FRT-gallery-4.webp?v=1782443696",
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.FRT-gallery-5.webp?v=1782443696",
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-mens-ultralight-project-x-snowboard",
+    "brand": "Jones",
+    "model": "Men's [ULTRALIGHT] Project X",
+    "family": "Men's [ULTRALIGHT] Project X",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "156",
+      "159",
+      "161W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 1900,
+      "maxAmount": 1900,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mens-ultralight-project-x-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.24.SNM.PJX-gallery-1.webp?v=1773849493",
+        "source": "https://www.jonessnowboards.com/products/mens-ultralight-project-x-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.24.SNM.PJX-gallery-2.webp?v=1773849493",
+        "source": "https://www.jonessnowboards.com/products/mens-ultralight-project-x-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.24.SNM.PJX-gallery-3.webp?v=1773849493",
+        "source": "https://www.jonessnowboards.com/products/mens-ultralight-project-x-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.24.SNM.PJX-gallery-4.webp?v=1773849493",
+        "source": "https://www.jonessnowboards.com/products/mens-ultralight-project-x-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mens-ultralight-project-x-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-freecarver-6000s-snowboard",
+    "brand": "Jones",
+    "model": "Freecarver 6000s",
+    "family": "Freecarver 6000s",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "150N",
+      "150",
+      "154N",
+      "154",
+      "158N",
+      "158",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.FRS-gallery-1.webp?v=1782443909",
+        "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.FRS-gallery-3.webp?v=1782443925",
+        "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.FRS-gallery-4.webp?v=1782443909",
+        "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.FRS-gallery-5.webp?v=1782443909",
+        "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-storm-chaser-snowboard",
+    "brand": "Jones",
+    "model": "Storm Chaser",
+    "family": "Storm Chaser",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "142",
+      "147",
+      "152",
+      "157"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 729.95,
+      "maxAmount": 729.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/storm-chaser-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.STC-gallery-1.webp?v=1782443829",
+        "source": "https://www.jonessnowboards.com/products/storm-chaser-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.STC-gallery-3.webp?v=1782443829",
+        "source": "https://www.jonessnowboards.com/products/storm-chaser-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.STC-gallery-4.webp?v=1782443829",
+        "source": "https://www.jonessnowboards.com/products/storm-chaser-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.STC-gallery-5.webp?v=1782443829",
+        "source": "https://www.jonessnowboards.com/products/storm-chaser-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/storm-chaser-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-womens-stratos-snowboard",
+    "brand": "Jones",
+    "model": "Women's Stratos",
+    "family": "Women's Stratos",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "140",
+      "143",
+      "146",
+      "149",
+      "152",
+      "155"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 679.95,
+      "maxAmount": 679.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/womens-stratos-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNW.WST-gallery-1.webp?v=1768450830",
+        "source": "https://www.jonessnowboards.com/products/womens-stratos-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNW.WST-gallery-2.webp?v=1768450830",
+        "source": "https://www.jonessnowboards.com/products/womens-stratos-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNW.WST-gallery-3.webp?v=1768450830",
+        "source": "https://www.jonessnowboards.com/products/womens-stratos-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNW.WST-gallery-4.webp?v=1768450830",
+        "source": "https://www.jonessnowboards.com/products/womens-stratos-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/womens-stratos-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-womens-twin-sister-snowboard",
+    "brand": "Jones",
+    "model": "Women's Twin Sister",
+    "family": "Women's Twin Sister",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Personality/Flex Medium & balanced 6 /10",
+      "method": null,
+      "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard"
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "140",
+      "143",
+      "146",
+      "149",
+      "152",
+      "155"
+    ],
+    "fit": [
+      {
+        "length": "140",
+        "weightKg": [
+          41,
+          63
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard"
+      }
+    ],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.TWS-gallery-1.webp?v=1773324878",
+        "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.TWS-gallery-2.webp?v=1773324878",
+        "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.TWS-gallery-3_2a34e6f2-fb9e-45f5-802f-e16731ce7d47.webp?v=1792466159",
+        "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.TWS-gallery-4_7e8a1486-aeb1-4e04-9e87-31792957b925.webp?v=1792466159",
+        "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/womens-twin-sister-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "jones-womens-dream-weaver-20-snowboard",
+    "brand": "Jones",
+    "model": "Women's Dream Weaver 2.0",
+    "family": "Women's Dream Weaver 2.0",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "Personality/Flex MID-soft & playful 5 /10",
+      "method": null,
+      "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "139",
+      "142",
+      "145",
+      "148",
+      "151",
+      "154",
+      "156"
+    ],
+    "fit": [
+      {
+        "length": "139",
+        "weightKg": [
+          41,
+          63
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          41,
+          63
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard"
+      }
+    ],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.DRC-gallery-1.webp?v=1782443912",
+        "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.DRC-gallery-3.webp?v=1782443912",
+        "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.DRC-gallery-4.webp?v=1782443896",
+        "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.DRC-gallery-5.webp?v=1782443896",
+        "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/womens-dream-weaver-20-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "jones-mens-tweaker-pro-20-snowboard",
+    "brand": "Jones",
+    "model": "Men's Tweaker [PRO] 2.0",
+    "family": "Men's Tweaker [PRO] 2.0",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "151",
+      "154",
+      "156",
+      "157W",
+      "159"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mens-tweaker-pro-20-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.TTP-gallery-1.webp?v=1782443665",
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-pro-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.TTP-gallery-3.webp?v=1782443684",
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-pro-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.TTP-gallery-4.webp?v=1782443666",
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-pro-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.TTP-gallery-5.webp?v=1782443666",
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-pro-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mens-tweaker-pro-20-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-womens-howler-snowboard",
+    "brand": "Jones",
+    "model": "Women's Howler",
+    "family": "Women's Howler",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "142",
+      "145",
+      "148",
+      "151"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/womens-howler-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.HOE-gallery-1.webp?v=1782443747",
+        "source": "https://www.jonessnowboards.com/products/womens-howler-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.HOE-gallery-3.webp?v=1782443748",
+        "source": "https://www.jonessnowboards.com/products/womens-howler-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.HOE-gallery-4.webp?v=1782443766",
+        "source": "https://www.jonessnowboards.com/products/womens-howler-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.HOE-gallery-5.webp?v=1782443766",
+        "source": "https://www.jonessnowboards.com/products/womens-howler-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/womens-howler-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-womens-rally-cat-snowboard",
+    "brand": "Jones",
+    "model": "Women's Rally Cat",
+    "family": "Women's Rally Cat",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "139",
+      "142",
+      "145",
+      "148",
+      "151",
+      "154"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 499.95,
+      "maxAmount": 499.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/womens-rally-cat-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.WND-gallery-1.webp?v=1782443743",
+        "source": "https://www.jonessnowboards.com/products/womens-rally-cat-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.WND-gallery-3.webp?v=1782443762",
+        "source": "https://www.jonessnowboards.com/products/womens-rally-cat-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.WND-gallery-4.webp?v=1782443743",
+        "source": "https://www.jonessnowboards.com/products/womens-rally-cat-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.WND-gallery-5.webp?v=1782443762",
+        "source": "https://www.jonessnowboards.com/products/womens-rally-cat-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/womens-rally-cat-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-twincraft-snowboard",
+    "brand": "Jones",
+    "model": "Twincraft",
+    "family": "Twincraft",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园",
+      "平花",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "146",
+      "150",
+      "154",
+      "158",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.92,
+      "maxAmount": 599.92,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/twincraft-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.TWC-gallery-1.webp?v=1782443865",
+        "source": "https://www.jonessnowboards.com/products/twincraft-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.TWC-gallery-3.webp?v=1782443849",
+        "source": "https://www.jonessnowboards.com/products/twincraft-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.TWC-gallery-4.webp?v=1782443849",
+        "source": "https://www.jonessnowboards.com/products/twincraft-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.TWC-gallery-5.webp?v=1782443849",
+        "source": "https://www.jonessnowboards.com/products/twincraft-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/twincraft-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-womens-flagship-snowboard",
+    "brand": "Jones",
+    "model": "Women's Flagship",
+    "family": "Women's Flagship",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "143",
+      "146",
+      "149",
+      "152",
+      "155"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 749.95,
+      "maxAmount": 749.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/womens-flagship-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.WFL-gallery-1.webp?v=1782443844",
+        "source": "https://www.jonessnowboards.com/products/womens-flagship-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.WFL-gallery-3.webp?v=1782443861",
+        "source": "https://www.jonessnowboards.com/products/womens-flagship-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.WFL-gallery-4.webp?v=1782443861",
+        "source": "https://www.jonessnowboards.com/products/womens-flagship-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.WFL-gallery-5.webp?v=1782443861",
+        "source": "https://www.jonessnowboards.com/products/womens-flagship-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/womens-flagship-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-mountain-twin-junior-snowboard",
+    "brand": "Jones",
+    "model": "Mountain Twin Junior",
+    "family": "Mountain Twin Junior",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Youth",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "120",
+      "125",
+      "130",
+      "135",
+      "140",
+      "145"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 379.95,
+      "maxAmount": 379.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mountain-twin-junior-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.MTJ-gallery-1.webp?v=1782443787",
+        "source": "https://www.jonessnowboards.com/products/mountain-twin-junior-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.MTJ-gallery-4.webp?v=1782443805",
+        "source": "https://www.jonessnowboards.com/products/mountain-twin-junior-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.MTJ-gallery-5.webp?v=1782443805",
+        "source": "https://www.jonessnowboards.com/products/mountain-twin-junior-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.MTJ-gallery-6.webp?v=1782443805",
+        "source": "https://www.jonessnowboards.com/products/mountain-twin-junior-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mountain-twin-junior-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-mens-tweaker-20-snowboard",
+    "brand": "Jones",
+    "model": "Men's Tweaker 2.0",
+    "family": "Men's Tweaker 2.0",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "151",
+      "154",
+      "156",
+      "157W",
+      "159",
+      "160W",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.TTR-gallery-1.webp?v=1782443904",
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.TTR-gallery-3.webp?v=1782443920",
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.TTR-gallery-4.webp?v=1782443920",
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNM.TTR-gallery-5.webp?v=1782443904",
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-storm-wolf-snowboard",
+    "brand": "Jones",
+    "model": "Storm Wolf",
+    "family": "Storm Wolf",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "150",
+      "154",
+      "158",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/storm-wolf-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.STW-gallery-1.webp?v=1782443690",
+        "source": "https://www.jonessnowboards.com/products/storm-wolf-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.STW-gallery-3.webp?v=1792466093",
+        "source": "https://www.jonessnowboards.com/products/storm-wolf-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.STW-gallery-4.webp?v=1782443673",
+        "source": "https://www.jonessnowboards.com/products/storm-wolf-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.STW-gallery-5.webp?v=1782443690",
+        "source": "https://www.jonessnowboards.com/products/storm-wolf-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/storm-wolf-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-freecarver-9000s-snowboard",
+    "brand": "Jones",
+    "model": "Freecarver 9000s",
+    "family": "Freecarver 9000s",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "152N",
+      "152",
+      "156N",
+      "156",
+      "160",
+      "164"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/freecarver-9000s-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.FRE-gallery-1.webp?v=1782443837",
+        "source": "https://www.jonessnowboards.com/products/freecarver-9000s-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.FRE-gallery-3.webp?v=1782443837",
+        "source": "https://www.jonessnowboards.com/products/freecarver-9000s-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.FRE-gallery-4.webp?v=1782443837",
+        "source": "https://www.jonessnowboards.com/products/freecarver-9000s-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.FRE-gallery-5.webp?v=1782443854",
+        "source": "https://www.jonessnowboards.com/products/freecarver-9000s-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/freecarver-9000s-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-flagship-junior-snowboard",
+    "brand": "Jones",
+    "model": "Flagship Junior",
+    "family": "Flagship Junior",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "127",
+      "132",
+      "137",
+      "142",
+      "147"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 399.95,
+      "maxAmount": 399.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/flagship-junior-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.YFL-gallery-1.webp?v=1785146459",
+        "source": "https://www.jonessnowboards.com/products/flagship-junior-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.YFL-gallery-4.webp?v=1785208552",
+        "source": "https://www.jonessnowboards.com/products/flagship-junior-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.YFL-gallery-5.webp?v=1785208551",
+        "source": "https://www.jonessnowboards.com/products/flagship-junior-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNU.YFL-gallery-6.webp?v=1785208551",
+        "source": "https://www.jonessnowboards.com/products/flagship-junior-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/flagship-junior-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-twin-sister-junior-snowboard",
+    "brand": "Jones",
+    "model": "Twin Sister Junior",
+    "family": "Twin Sister Junior",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Personality/Flex Medium & balanced 6 /10",
+      "method": null,
+      "source": "https://www.jonessnowboards.com/products/twin-sister-junior-snowboard"
+    },
+    "gender": "Youth",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "120",
+      "125",
+      "130",
+      "135"
+    ],
+    "fit": [
+      {
+        "length": "120",
+        "weightKg": [
+          29,
+          39
+        ],
+        "source": "https://www.jonessnowboards.com/products/twin-sister-junior-snowboard"
+      },
+      {
+        "length": "125",
+        "weightKg": [
+          31,
+          42
+        ],
+        "source": "https://www.jonessnowboards.com/products/twin-sister-junior-snowboard"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          34,
+          45
+        ],
+        "source": "https://www.jonessnowboards.com/products/twin-sister-junior-snowboard"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          50
+        ],
+        "source": "https://www.jonessnowboards.com/products/twin-sister-junior-snowboard"
+      }
+    ],
+    "price": {
+      "amount": 379.95,
+      "maxAmount": 379.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/twin-sister-junior-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.TSJ-gallery-1.webp?v=1782443722",
+        "source": "https://www.jonessnowboards.com/products/twin-sister-junior-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.TSJ-gallery-4.webp?v=1782443741",
+        "source": "https://www.jonessnowboards.com/products/twin-sister-junior-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.TSJ-gallery-5.webp?v=1782443723",
+        "source": "https://www.jonessnowboards.com/products/twin-sister-junior-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.TSJ-gallery-6.webp?v=1782443723",
+        "source": "https://www.jonessnowboards.com/products/twin-sister-junior-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/twin-sister-junior-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "jones-womens-tweaker-20-snowboard",
+    "brand": "Jones",
+    "model": "Women's Tweaker 2.0",
+    "family": "Women's Tweaker 2.0",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "Personality/Flex MID-soft & playful 5 /10",
+      "method": null,
+      "source": "https://www.jonessnowboards.com/products/womens-tweaker-20-snowboard"
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "140",
+      "143",
+      "146",
+      "149",
+      "151"
+    ],
+    "fit": [
+      {
+        "length": "140",
+        "weightKg": [
+          41,
+          63
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-tweaker-20-snowboard"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          41,
+          63
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-tweaker-20-snowboard"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-tweaker-20-snowboard"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-tweaker-20-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-tweaker-20-snowboard"
+      }
+    ],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/womens-tweaker-20-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.TTW-gallery-1.webp?v=1782443833",
+        "source": "https://www.jonessnowboards.com/products/womens-tweaker-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.TTW-gallery-3.webp?v=1782443833",
+        "source": "https://www.jonessnowboards.com/products/womens-tweaker-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.TTW-gallery-4.webp?v=1782443833",
+        "source": "https://www.jonessnowboards.com/products/womens-tweaker-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.27.SNW.TTW-gallery-5.webp?v=1782443815",
+        "source": "https://www.jonessnowboards.com/products/womens-tweaker-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/womens-tweaker-20-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "jones-kids-happy-mountain-snowboard",
+    "brand": "Jones",
+    "model": "Kids' Happy Mountain",
+    "family": "Kids' Happy Mountain",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "90"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 269.95,
+      "maxAmount": 269.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/kids-happy-mountain-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNU.KID-gallery-3.webp?v=1768453189",
+        "source": "https://www.jonessnowboards.com/products/kids-happy-mountain-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNU.KID-gallery-2.webp?v=1768453189",
+        "source": "https://www.jonessnowboards.com/products/kids-happy-mountain-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNU.KID-gallery-4.webp?v=1768453189",
+        "source": "https://www.jonessnowboards.com/products/kids-happy-mountain-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNU.KID-gallery-5.webp?v=1768453189",
+        "source": "https://www.jonessnowboards.com/products/kids-happy-mountain-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/kids-happy-mountain-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-mens-aviator-20-snowboard",
+    "brand": "Jones",
+    "model": "Men's Aviator 2.0",
+    "family": "Men's Aviator 2.0",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "147",
+      "150",
+      "153W",
+      "154",
+      "156",
+      "157W",
+      "158",
+      "159W",
+      "160",
+      "162",
+      "163W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/mens-aviator-20-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNM.AVI-gallery-1.webp?v=1768452771",
+        "source": "https://www.jonessnowboards.com/products/mens-aviator-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNM.AVI-gallery-2.webp?v=1768452771",
+        "source": "https://www.jonessnowboards.com/products/mens-aviator-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNM.AVI-gallery-3.webp?v=1768452771",
+        "source": "https://www.jonessnowboards.com/products/mens-aviator-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNM.AVI-gallery-4.webp?v=1768452771",
+        "source": "https://www.jonessnowboards.com/products/mens-aviator-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/mens-aviator-20-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-youth-prodigy-snowboard",
+    "brand": "Jones",
+    "model": "Youth Prodigy",
+    "family": "Youth Prodigy",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "80",
+      "90",
+      "100",
+      "110",
+      "115",
+      "120",
+      "125",
+      "130",
+      "135",
+      "140",
+      "145"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 299.95,
+      "maxAmount": 299.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.25.SNU.PRD-gallery-1.webp?v=1768451063",
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.25.SNU.PRD-gallery-2.webp?v=1768451063",
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.25.SNU.PRD-gallery-3.webp?v=1768451063",
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.25.SNU.PRD-gallery-4.webp?v=1768451063",
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "jones-womens-airheart-20-snowboard",
+    "brand": "Jones",
+    "model": "Women's Airheart 2.0",
+    "family": "Women's Airheart 2.0",
+    "season": "2026/27",
+    "seasonEvidence": "官方 SKU J.27",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "143",
+      "146",
+      "149",
+      "152",
+      "155"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.jonessnowboards.com/products/womens-airheart-20-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNW.AIR-gallery-1.webp?v=1768453032",
+        "source": "https://www.jonessnowboards.com/products/womens-airheart-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNW.AIR-gallery-2.webp?v=1768453032",
+        "source": "https://www.jonessnowboards.com/products/womens-airheart-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNW.AIR-gallery-3.webp?v=1768453032",
+        "source": "https://www.jonessnowboards.com/products/womens-airheart-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0694/6291/7272/files/J.26.SNW.AIR-gallery-4.webp?v=1768453032",
+        "source": "https://www.jonessnowboards.com/products/womens-airheart-20-snowboard",
+        "credit": "Jones",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.jonessnowboards.com/products/womens-airheart-20-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  }
+]

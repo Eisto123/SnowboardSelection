@@ -1,0 +1,5296 @@
+[
+  {
+    "id": "burton-mens-burton-process-camber-snowboard-106921",
+    "brand": "Burton",
+    "model": "Process",
+    "family": "Process",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-106921 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "143",
+      "146",
+      "149",
+      "152",
+      "155",
+      "157",
+      "159",
+      "162",
+      "152W",
+      "155W",
+      "157W",
+      "159W",
+      "162W",
+      "165W"
+    ],
+    "fit": [
+      {
+        "length": "143",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "152W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+      }
+    ],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/106921EE9I_1.webp?v=1791989442",
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/106921EE9I_6ML.webp?v=1791989440",
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/106921EE9I_2ML.webp?v=1791989440",
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/106921EE9I_3ML.webp?v=1791989440",
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/mens-burton-process-camber-snowboard-106921",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-cultivator-flat-top-snowboard-311741",
+    "brand": "Burton",
+    "model": "Cultivator Flat Top",
+    "family": "Cultivator Flat Top",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-311741 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Personality: Soft & Playful",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "135",
+      "140",
+      "145",
+      "150",
+      "155",
+      "160",
+      "155W",
+      "160W",
+      "165W"
+    ],
+    "fit": [
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          54
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          36,
+          54
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+      }
+    ],
+    "price": {
+      "amount": 399.95,
+      "maxAmount": 399.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/311741148Q_1.webp?v=1783957378",
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/311721048Q_7ML.webp?v=1785771571",
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/311721048Q_6ML.webp?v=1785771571",
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/311721048Q_3ML.webp?v=1785771572",
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-311741",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-mens-burton-custom-camber-snowboard-106881",
+    "brand": "Burton",
+    "model": "Custom Camber",
+    "family": "Custom Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "150",
+      "154",
+      "156",
+      "158",
+      "162",
+      "154W",
+      "158W",
+      "162W",
+      "166W",
+      "170W"
+    ],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      },
+      {
+        "length": "166W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      },
+      {
+        "length": "170W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+      }
+    ],
+    "price": {
+      "amount": 679.95,
+      "maxAmount": 679.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/106881997D_1.webp?v=1791989436",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/106881997D_7ML.webp?v=1791989436",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/106881997D_LML4.webp?v=1791989436",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/106881997D_2ML.webp?v=1791989436",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/mens-burton-custom-camber-snowboard-106881",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-blossom-camber-snowboard-229431",
+    "brand": "Burton",
+    "model": "Blossom Camber",
+    "family": "Blossom Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-229431 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Personality: Stiff & Aggressive",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "144",
+      "149",
+      "152",
+      "155",
+      "158",
+      "162",
+      "162W"
+    ],
+    "fit": [
+      {
+        "length": "144",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+      }
+    ],
+    "price": {
+      "amount": 559.95,
+      "maxAmount": 559.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2294315FAM_1.webp?v=1791989427",
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2294315FAM_6ML.webp?v=1791989423",
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2294315FAM_2ML.webp?v=1791989423",
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2294315FAM_3ML.webp?v=1791989423",
+        "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-blossom-camber-snowboard-229431",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-spellbinder-purepop-camber-snowboard-307841",
+    "brand": "Burton",
+    "model": "Spellbinder PurePop Camber",
+    "family": "Spellbinder PurePop Camber",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "139",
+      "144",
+      "147",
+      "150",
+      "153",
+      "156",
+      "159",
+      "153W",
+      "156W",
+      "159W",
+      "162W",
+      "165W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-spellbinder-purepop-camber-snowboard-307841"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3078411FD5_1.webp?v=1791989434",
+        "source": "https://www.burton.com/en-us/products/burton-spellbinder-purepop-camber-snowboard-307841",
+        "credit": "Burton",
+        "season": "待核实",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3078411FD5_2ML.webp?v=1791989434",
+        "source": "https://www.burton.com/en-us/products/burton-spellbinder-purepop-camber-snowboard-307841",
+        "credit": "Burton",
+        "season": "待核实",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3078411FD5_3ML.webp?v=1791989434",
+        "source": "https://www.burton.com/en-us/products/burton-spellbinder-purepop-camber-snowboard-307841",
+        "credit": "Burton",
+        "season": "待核实",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3078411FD5_4ML.webp?v=1791989434",
+        "source": "https://www.burton.com/en-us/products/burton-spellbinder-purepop-camber-snowboard-307841",
+        "credit": "Burton",
+        "season": "待核实",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-spellbinder-purepop-camber-snowboard-307841",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网产品详情页本次未可靠读取，板型、硬度与体重表继续待核实。"
+    ]
+  },
+  {
+    "id": "burton-burton-mystery-process-snowboard-303611",
+    "brand": "Burton",
+    "model": "Mystery Process",
+    "family": "Mystery Process",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-303611 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "149",
+      "152",
+      "155",
+      "157",
+      "159",
+      "159W",
+      "162W"
+    ],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+      }
+    ],
+    "price": {
+      "amount": 1899.95,
+      "maxAmount": 1899.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3036110FC6_1.webp?v=1783957394",
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3036110FC6_2ML.webp?v=1789063647",
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3036110FC6_3ML.webp?v=1789063647",
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3036110FC6_4ML.webp?v=1789063647",
+        "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-mystery-process-snowboard-303611",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-mens-burton-custom-x-camber-snowboard-106891",
+    "brand": "Burton",
+    "model": "Custom X Camber",
+    "family": "Custom X Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-106891 确认27WIN雪季",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Personality: Stiff & Aggressive",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "150",
+      "154",
+      "156",
+      "158",
+      "162",
+      "158W",
+      "162W",
+      "166W"
+    ],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+      },
+      {
+        "length": "166W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+      }
+    ],
+    "price": {
+      "amount": 899.95,
+      "maxAmount": 899.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/106891CA03_1.webp?v=1791989438",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/106891CA03_6ML.webp?v=1791989443",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/106891CA03_2ML.webp?v=1791989443",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/106891CA03_3ML.webp?v=1791989442",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/mens-burton-custom-x-camber-snowboard-106891",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-womens-burton-yeasayer-camber-snowboard-132221",
+    "brand": "Burton",
+    "model": "Yeasayer",
+    "family": "Yeasayer",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-132221 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://eu.burton.com/en-gb/products/womens-burton-yeasayer-camber-snowboard-132221"
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "140",
+      "144",
+      "148",
+      "152"
+    ],
+    "fit": [
+      {
+        "length": "140",
+        "weightKg": [
+          36,
+          54
+        ],
+        "source": "https://eu.burton.com/en-gb/products/womens-burton-yeasayer-camber-snowboard-132221"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://eu.burton.com/en-gb/products/womens-burton-yeasayer-camber-snowboard-132221"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://eu.burton.com/en-gb/products/womens-burton-yeasayer-camber-snowboard-132221"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          68,
+          null
+        ],
+        "source": "https://eu.burton.com/en-gb/products/womens-burton-yeasayer-camber-snowboard-132221"
+      }
+    ],
+    "price": {
+      "amount": 529.95,
+      "maxAmount": 529.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-camber-snowboard-132221"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/132221C34P_1.webp?v=1791989447",
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-camber-snowboard-132221",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/132221C34P_6ML.webp?v=1791989446",
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-camber-snowboard-132221",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/132221C34P_2ML.webp?v=1791989446",
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-camber-snowboard-132221",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/132221C34P_3ML.webp?v=1791989446",
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-camber-snowboard-132221",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-camber-snowboard-132221",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-womens-burton-talent-scout-camber-snowboard-132181",
+    "brand": "Burton",
+    "model": "Talent Scout Camber",
+    "family": "Talent Scout Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-132181 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181"
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "138",
+      "141",
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          36,
+          54
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181"
+      },
+      {
+        "length": "141",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          68,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181"
+      }
+    ],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/132181CBO2_1.webp?v=1791989446",
+        "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/132181BBO2_6ML.webp?v=1791989444",
+        "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/132181BBO2_5ML.webp?v=1791989444",
+        "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/132181BBO2_2ML.webp?v=1791989444",
+        "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/womens-burton-talent-scout-camber-snowboard-132181",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-rewind-camber-snowboard-198541",
+    "brand": "Burton",
+    "model": "Rewind Camber",
+    "family": "Rewind Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-198541 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "140",
+      "145",
+      "148",
+      "151",
+      "155",
+      "158"
+    ],
+    "fit": [
+      {
+        "length": "140",
+        "weightKg": [
+          36,
+          54
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+      }
+    ],
+    "price": {
+      "amount": 529.95,
+      "maxAmount": 529.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/1985419E0G_1.webp?v=1783957402",
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/1985419E0G_6ML.webp?v=1783957402",
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/1985419E0G_2ML.webp?v=1783957402",
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/1985419E0G_3ML.webp?v=1783957402",
+        "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-rewind-camber-snowboard-198541",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-counterbalance-camber-snowboard-302881",
+    "brand": "Burton",
+    "model": "Counterbalance Camber",
+    "family": "Counterbalance Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-302881 确认27WIN雪季",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "142",
+      "146",
+      "150",
+      "154",
+      "158",
+      "162",
+      "154W",
+      "158W",
+      "162W"
+    ],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+      }
+    ],
+    "price": {
+      "amount": 659.95,
+      "maxAmount": 659.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3028811FAR_1.webp?v=1791989430",
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3028811FAR_6ML.webp?v=1791989425",
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3028811FAR_2ML.webp?v=1791989425",
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3028811FAR_3ML.webp?v=1791989425",
+        "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-counterbalance-camber-snowboard-302881",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-mens-burton-process-flying-v-snowboard-107121",
+    "brand": "Burton",
+    "model": "Process Flying V",
+    "family": "Process Flying V",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-107121 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "143",
+      "146",
+      "149",
+      "152",
+      "155",
+      "157",
+      "159",
+      "162",
+      "152W",
+      "155W",
+      "157W",
+      "159W",
+      "162W",
+      "165W"
+    ],
+    "fit": [
+      {
+        "length": "143",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "152W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+      }
+    ],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/107121EE9I_1.webp?v=1785422053",
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/107121EE9I_6ML.webp?v=1783957417",
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/107121EE9I_7ML.webp?v=1783957417",
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/107121EE9I_2ML.webp?v=1783957417",
+        "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/mens-burton-process-flying-v-snowboard-107121",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-family-tree-sketch-artist-camber-snowboard-302901",
+    "brand": "Burton",
+    "model": "Family Tree Sketch Artist Camber",
+    "family": "Family Tree Sketch Artist Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-302901 确认27WIN雪季",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Personality: Stiff & Aggressive",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "平花",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "147",
+      "151",
+      "155",
+      "159",
+      "163"
+    ],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901"
+      }
+    ],
+    "price": {
+      "amount": 729.95,
+      "maxAmount": 729.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3029011E8Y_1.webp?v=1791989428",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3029011E8Y_6ML.webp?v=1791989428",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3029011E8Y_2ML.webp?v=1791989428",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3029011E8Y_3ML.webp?v=1791989428",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-family-tree-sketch-artist-camber-snowboard-302901",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-family-tree-smooth-operator-camber-snowboard-302911",
+    "brand": "Burton",
+    "model": "Family Tree Smooth Operator Camber",
+    "family": "Family Tree Smooth Operator Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "平花",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "144",
+      "148",
+      "152",
+      "156",
+      "160",
+      "164"
+    ],
+    "fit": [
+      {
+        "length": "144",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911"
+      },
+      {
+        "length": "164",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911"
+      }
+    ],
+    "price": {
+      "amount": 899.95,
+      "maxAmount": 899.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3029110APC_1.webp?v=1791989430",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3029110APC_2ML.webp?v=1791989431",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3029110APC_3ML.webp?v=1791989430",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3029110APC_4ML.webp?v=1791989430",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-family-tree-smooth-operator-camber-snowboard-302911",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-family-tree-time-thief-camber-snowboard-311101",
+    "brand": "Burton",
+    "model": "Family Tree Time Thief Camber",
+    "family": "Family Tree Time Thief Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-311101 确认27WIN雪季",
+    "shape": "Directional",
+    "shapeNote": "官网专属参数原名 Freeride DIrectional；归入 Directional。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "144",
+      "148",
+      "152",
+      "156",
+      "160",
+      "164"
+    ],
+    "fit": [
+      {
+        "length": "144",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101"
+      },
+      {
+        "length": "164",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101"
+      }
+    ],
+    "price": {
+      "amount": 729.95,
+      "maxAmount": 729.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/311101115E_1.webp?v=1791989429",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/311101115E_6ML.webp?v=1791989430",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/311101115E_3ML.webp?v=1791989430",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/311101115E_2ML.webp?v=1791989429",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-family-tree-time-thief-camber-snowboard-311101",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-kids-burton-family-tree-hometown-hero-camber-snowboard-222371",
+    "brand": "Burton",
+    "model": "Family Tree Hometown Hero",
+    "family": "Family Tree Hometown Hero",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "Directional",
+    "shapeNote": "官网专属参数原名 Freeride DIrectional；归入 Directional。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371"
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "130",
+      "140"
+    ],
+    "fit": [
+      {
+        "length": "130",
+        "weightKg": [
+          32,
+          45
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          41,
+          54
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371"
+      }
+    ],
+    "price": {
+      "amount": 399.95,
+      "maxAmount": 399.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2223715BO2_1.webp?v=1785359432",
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2223715BO2_6ML.webp?v=1783957408",
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2223715BO2_7ML.webp?v=1783957408",
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2223715BO2_2ML.webp?v=1783957408",
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-camber-snowboard-222371",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-womens-burton-feelgood-camber-snowboard-106911",
+    "brand": "Burton",
+    "model": "Feelgood Camber",
+    "family": "Feelgood Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-106911 确认27WIN雪季",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911"
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "142",
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          68,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911"
+      }
+    ],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/1069119E1V_1.webp?v=1791989442",
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/1069119E1V_6ML.webp?v=1791989442",
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/1069119E1V_2ML.webp?v=1791989442",
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/1069119E1V_3ML.webp?v=1791989442",
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-camber-snowboard-106911",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-family-tree-hometown-hero-camber-snowboard-222451",
+    "brand": "Burton",
+    "model": "Family Tree Hometown Hero Camber",
+    "family": "Family Tree Hometown Hero Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "Directional",
+    "shapeNote": "官网专属参数原名 Freeride Directional；归入 Directional。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "144",
+      "148",
+      "152",
+      "156",
+      "160",
+      "156W",
+      "160W",
+      "165W"
+    ],
+    "fit": [
+      {
+        "length": "144",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+      }
+    ],
+    "price": {
+      "amount": 679.95,
+      "maxAmount": 679.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2224513E1Q_1.webp?v=1791989427",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2224513E1Q_8ML.webp?v=1791989427",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2224513E1Q_LML3.webp?v=1791989431",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2224513E1Q_3ML.webp?v=1791989427",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-camber-snowboard-222451",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-cultivator-flat-top-snowboard-302891",
+    "brand": "Burton",
+    "model": "Cultivator Flat Top",
+    "family": "Cultivator Flat Top",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-302891 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Personality: Soft & Playful",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "135",
+      "140",
+      "145",
+      "150",
+      "155",
+      "160",
+      "155W",
+      "160W",
+      "165W"
+    ],
+    "fit": [
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          54
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          36,
+          54
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+      }
+    ],
+    "price": {
+      "amount": 429.95,
+      "maxAmount": 429.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3028910E4J_1.webp?v=1778421246",
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3028910E4J_7ML.webp?v=1778421246",
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3028910E4J_2ML.webp?v=1778421246",
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3028910E4J_3ML.webp?v=1778421246",
+        "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-cultivator-flat-top-snowboard-302891",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-kids-burton-grom-camber-snowboard-243811",
+    "brand": "Burton",
+    "model": "Grom Camber",
+    "family": "Grom Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Personality: Soft & Playful",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811"
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "110",
+      "120",
+      "130"
+    ],
+    "fit": [
+      {
+        "length": "110",
+        "weightKg": [
+          18,
+          25
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811"
+      },
+      {
+        "length": "120",
+        "weightKg": [
+          23,
+          36
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          32,
+          45
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811"
+      }
+    ],
+    "price": {
+      "amount": 269.95,
+      "maxAmount": 269.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2438110A03_1.webp?v=1778422966",
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2438110A03_6ML.webp?v=1778422966",
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2438110A03_2ML.webp?v=1778422966",
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2438110A03_3ML.webp?v=1778422966",
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/kids-burton-grom-camber-snowboard-243811",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-kids-burton-mini-grom-flat-top-snowboard-236001",
+    "brand": "Burton",
+    "model": "Mini Grom Flat Top",
+    "family": "Mini Grom Flat Top",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Personality: Soft & Playful",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001"
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "80",
+      "90",
+      "100"
+    ],
+    "fit": [
+      {
+        "length": "80",
+        "weightKg": [
+          11,
+          23
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001"
+      },
+      {
+        "length": "90",
+        "weightKg": [
+          11,
+          23
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001"
+      },
+      {
+        "length": "100",
+        "weightKg": [
+          18,
+          25
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001"
+      }
+    ],
+    "price": {
+      "amount": 239.95,
+      "maxAmount": 239.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2360010A03_1.webp?v=1778423036",
+        "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2360010A03_LML.webp?v=1778423036",
+        "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/kids-burton-mini-grom-flat-top-snowboard-236001",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-mens-burton-custom-flying-v-snowboard-107071",
+    "brand": "Burton",
+    "model": "Custom Flying V",
+    "family": "Custom Flying V",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "150",
+      "154",
+      "156",
+      "158",
+      "162",
+      "154W",
+      "158W",
+      "162W",
+      "166W"
+    ],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+      },
+      {
+        "length": "166W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+      }
+    ],
+    "price": {
+      "amount": 679.95,
+      "maxAmount": 679.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/107071997D_1.webp?v=1778459935",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/107071997D_6ML.webp?v=1778459935",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/107071997D_2ML.webp?v=1778459935",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/107071997D_3ML.webp?v=1778459935",
+        "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/mens-burton-custom-flying-v-snowboard-107071",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-3d-fish-directional-flat-top-snowboard-222351",
+    "brand": "Burton",
+    "model": "3D Fish Directional Flat Top",
+    "family": "3D Fish Directional Flat Top",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "146",
+      "151",
+      "156",
+      "161"
+    ],
+    "fit": [
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351"
+      }
+    ],
+    "price": {
+      "amount": 679.95,
+      "maxAmount": 679.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2223515A03_1.webp?v=1778421009",
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2223515A03_8ML.webp?v=1778421009",
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2223515A03_3ML.webp?v=1778421009",
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2223515A03_2ML.webp?v=1778421009",
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-snowboard-222351",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-kids-burton-family-tree-hometown-hero-smalls-splitboard-243721",
+    "brand": "Burton",
+    "model": "Family Tree Hometown Hero Smalls Splitboard",
+    "family": "Family Tree Hometown Hero Smalls Splitboard",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "Directional",
+    "shapeNote": "官网专属参数原名 Freeride Directional；归入 Directional。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721"
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "135"
+    ],
+    "fit": [
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          50
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721"
+      }
+    ],
+    "price": {
+      "amount": 669.95,
+      "maxAmount": 669.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437210A03_1.webp?v=1778422926",
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437210A03_6ML.webp?v=1778422926",
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437210A03_2ML.webp?v=1778422926",
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437210A03_3ML.webp?v=1778422926",
+        "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/kids-burton-family-tree-hometown-hero-smalls-splitboard-243721",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-kids-burton-grom-flat-top-snowboard-235991",
+    "brand": "Burton",
+    "model": "Grom Flat Top",
+    "family": "Grom Flat Top",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Personality: Soft & Playful",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991"
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "110",
+      "120",
+      "130"
+    ],
+    "fit": [
+      {
+        "length": "110",
+        "weightKg": [
+          18,
+          25
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991"
+      },
+      {
+        "length": "120",
+        "weightKg": [
+          23,
+          36
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          32,
+          45
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991"
+      }
+    ],
+    "price": {
+      "amount": 239.95,
+      "maxAmount": 239.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/235991035Q_1.webp?v=1778422977",
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/235991035Q_6ML.webp?v=1778422977",
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/235991035Q_2ML.webp?v=1778422977",
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/235991035Q_3ML.webp?v=1778422977",
+        "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/kids-burton-grom-flat-top-snowboard-235991",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-good-company-camber-snowboard-235951",
+    "brand": "Burton",
+    "model": "Good Company Camber",
+    "family": "Good Company Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-235951 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "135",
+      "140",
+      "145",
+      "148",
+      "152",
+      "155",
+      "159",
+      "155W",
+      "159W",
+      "162W"
+    ],
+    "fit": [
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          54
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          36,
+          54
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+      }
+    ],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2359513A03_1.webp?v=1791989430",
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2359513A03_7ML.webp?v=1791989435",
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2359513A03_2.webp?v=1791989430",
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2359513A03_4ML.webp?v=1791989435",
+        "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-good-company-camber-snowboard-235951",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-mens-burton-instigator-purepop-camber-snowboard-229441",
+    "brand": "Burton",
+    "model": "Instigator PurePop Camber",
+    "family": "Instigator PurePop Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Personality: Soft & Playful",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "145",
+      "150",
+      "155",
+      "160",
+      "155W",
+      "160W",
+      "165W"
+    ],
+    "fit": [
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+      }
+    ],
+    "price": {
+      "amount": 459.95,
+      "maxAmount": 459.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2294411A03_1.webp?v=1778423449",
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2294411A03_6ML.webp?v=1778423449",
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2294411A03_2ML.webp?v=1778423449",
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2294411A03_3.webp?v=1778423449",
+        "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/mens-burton-instigator-purepop-camber-snowboard-229441",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-kids-burton-feelgood-smalls-camber-snowboard-201961",
+    "brand": "Burton",
+    "model": "Feelgood Smalls Camber",
+    "family": "Feelgood Smalls Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961"
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "130",
+      "135",
+      "140"
+    ],
+    "fit": [
+      {
+        "length": "130",
+        "weightKg": [
+          32,
+          45
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          50
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          41,
+          54
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961"
+      }
+    ],
+    "price": {
+      "amount": 359.95,
+      "maxAmount": 359.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2019617A03_1.webp?v=1778422929",
+        "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2019617A03_6ML.webp?v=1778422929",
+        "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2019617A03_3ML.webp?v=1778422930",
+        "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2019617A03_2ML.webp?v=1778422929",
+        "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/kids-burton-feelgood-smalls-camber-snowboard-201961",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-kids-burton-custom-smalls-camber-snowboard-201951",
+    "brand": "Burton",
+    "model": "Custom Smalls Camber",
+    "family": "Custom Smalls Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951"
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "125",
+      "130",
+      "135",
+      "140",
+      "145"
+    ],
+    "fit": [
+      {
+        "length": "125",
+        "weightKg": [
+          32,
+          45
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          32,
+          45
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          50
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          41,
+          54
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951"
+      }
+    ],
+    "price": {
+      "amount": 359.95,
+      "maxAmount": 359.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2019517A03_1.webp?v=1778422909",
+        "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2019517A03_6ML.webp?v=1778422909",
+        "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2019517A03_2ML.webp?v=1778422909",
+        "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2019517A03_3ML.webp?v=1778422909",
+        "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/kids-burton-custom-smalls-camber-snowboard-201951",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-womens-burton-feelgood-flying-v-snowboard-107091",
+    "brand": "Burton",
+    "model": "Feelgood Flying V",
+    "family": "Feelgood Flying V",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091"
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "142",
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          68,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091"
+      }
+    ],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/1070919E1V_1.webp?v=1778423925",
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/1070919E1V_9ML.webp?v=1778423925",
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/1070919E1V_2ML.webp?v=1778423925",
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/1070919E1V_3ML.webp?v=1778423925",
+        "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/womens-burton-feelgood-flying-v-snowboard-107091",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-cartographer-camber-snowboard-229421",
+    "brand": "Burton",
+    "model": "Cartographer Camber",
+    "family": "Cartographer Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "Directional",
+    "shapeNote": "官网专属参数原名 Freeride DIrectional；归入 Directional。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "144",
+      "149",
+      "154",
+      "159",
+      "162",
+      "154W",
+      "159W"
+    ],
+    "fit": [
+      {
+        "length": "144",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+      }
+    ],
+    "price": {
+      "amount": 529.95,
+      "maxAmount": 529.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2294213E8T_1.webp?v=1783957372",
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2294213E8T_6ML.webp?v=1783957372",
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2294213E8T_2ML.webp?v=1783957372",
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2294213E8T_3ML.webp?v=1783957372",
+        "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-cartographer-camber-snowboard-229421",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-3d-fish-directional-flat-top-splitboard-243741",
+    "brand": "Burton",
+    "model": "3D Fish Flat Top Splitboard",
+    "family": "3D Fish Flat Top Splitboard",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-243741 确认27WIN雪季",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "146",
+      "151",
+      "156"
+    ],
+    "fit": [
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741"
+      }
+    ],
+    "price": {
+      "amount": 999.95,
+      "maxAmount": 999.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437410A61_1.webp?v=1783957363",
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437410A61_6ML.webp?v=1783957363",
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437410A61_2ML.webp?v=1783957363",
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437410A61_3ML.webp?v=1783957363",
+        "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-3d-fish-directional-flat-top-splitboard-243741",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-family-tree-full-nelson-camber-snowboard-307831",
+    "brand": "Burton",
+    "model": "Family Tree Full Nelson Camber",
+    "family": "Family Tree Full Nelson Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-307831 确认27WIN雪季",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Personality: Stiff & Aggressive",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "149",
+      "153",
+      "157",
+      "161",
+      "165"
+    ],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831"
+      },
+      {
+        "length": "165",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831"
+      }
+    ],
+    "price": {
+      "amount": 659.95,
+      "maxAmount": 659.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3078311ACF_1.webp?v=1783957381",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3078311ACF_6ML.webp?v=1791989426",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3078311ACF_2ML.webp?v=1791989426",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3078311ACF_3ML.webp?v=1791989426",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-family-tree-full-nelson-camber-snowboard-307831",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-family-tree-high-fidelity-camber-snowboard-243701",
+    "brand": "Burton",
+    "model": "Family Tree High Fidelity Camber",
+    "family": "Family Tree High Fidelity Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品页标题明确2027",
+    "shape": "Directional",
+    "shapeNote": "官网专属参数原名 Freeride DIrectional；归入 Directional。",
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Personality: Stiff & Aggressive",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "150",
+      "154",
+      "158",
+      "162",
+      "166",
+      "158W",
+      "162W"
+    ],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+      },
+      {
+        "length": "166",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+      }
+    ],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437011E9C_1.webp?v=1791989426",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437011E9C_6ML.webp?v=1791989426",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437011E9C_2ML.webp?v=1791989426",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437011E9C_3ML.webp?v=1791989426",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-snowboard-243701",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-family-tree-high-fidelity-camber-splitboard-243731",
+    "brand": "Burton",
+    "model": "Family Tree High Fidelity Camber Splitboard",
+    "family": "Family Tree High Fidelity Camber Splitboard",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-243731 确认27WIN雪季",
+    "shape": "Directional",
+    "shapeNote": "官网专属参数原名 Freeride DIrectional；归入 Directional。",
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Personality: Stiff & Aggressive",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "154",
+      "158",
+      "162"
+    ],
+    "fit": [
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731"
+      }
+    ],
+    "price": {
+      "amount": 999.95,
+      "maxAmount": 999.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437310A61_1.webp?v=1783957385",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437310A61_6ML.webp?v=1783957385",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437310A61_2ML.webp?v=1783957385",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2437310A61_3ML.webp?v=1783957385",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-family-tree-high-fidelity-camber-splitboard-243731",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-family-tree-hometown-hero-splitboard-222401",
+    "brand": "Burton",
+    "model": "Family Tree Hometown Hero Splitboard",
+    "family": "Family Tree Hometown Hero Splitboard",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-222401 确认27WIN雪季",
+    "shape": "Directional",
+    "shapeNote": "官网专属参数原名 Freeride DIrectional；归入 Directional。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "146",
+      "150",
+      "154",
+      "158",
+      "162",
+      "168",
+      "158W",
+      "162W"
+    ],
+    "fit": [
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+      },
+      {
+        "length": "168",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+      }
+    ],
+    "price": {
+      "amount": 999.95,
+      "maxAmount": 999.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2224013A61_1.webp?v=1785437847",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2224013A61_6ML.webp?v=1783957387",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2224013A61_2ML.webp?v=1783957387",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2224013A61_3ML.webp?v=1783957387",
+        "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-family-tree-hometown-hero-splitboard-222401",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-womens-burton-yeasayer-flying-v-snowboard-107081",
+    "brand": "Burton",
+    "model": "Yeasayer Flying V",
+    "family": "Yeasayer Flying V",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-107081 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081"
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "140",
+      "144",
+      "148",
+      "152"
+    ],
+    "fit": [
+      {
+        "length": "140",
+        "weightKg": [
+          36,
+          54
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          68,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081"
+      }
+    ],
+    "price": {
+      "amount": 529.95,
+      "maxAmount": 529.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/107081DEU6_1.webp?v=1783957430",
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/107081DEU6_6ML.webp?v=1783957430",
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/107081DEU6_2ML.webp?v=1783957430",
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/107081DEU6_4ML.webp?v=1783957430",
+        "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/womens-burton-yeasayer-flying-v-snowboard-107081",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-50th-94s-twin-camber-snowboard-313681",
+    "brand": "Burton",
+    "model": "50th 94's Twin Camber",
+    "family": "50th 94's Twin Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-313681 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "146",
+      "150",
+      "156",
+      "162"
+    ],
+    "fit": [
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          82,
+          null
+        ],
+        "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681"
+      }
+    ],
+    "price": {
+      "amount": 659.77,
+      "maxAmount": 659.77,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3136810FB7_1.webp?v=1786989199",
+        "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3136810FB7_2ML.webp?v=1786989199",
+        "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3136810FB7_3ML.webp?v=1786989199",
+        "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3136810FB7_4ML.webp?v=1786989199",
+        "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-50th-94s-twin-camber-snowboard-313681",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-kids-burton-smalls-flat-top-snowboard-239231",
+    "brand": "Burton",
+    "model": "Smalls",
+    "family": "Smalls",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-239231 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-ca/products/kids-burton-smalls-flat-top-snowboard-239231"
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "125",
+      "130",
+      "134",
+      "138",
+      "142"
+    ],
+    "fit": [
+      {
+        "length": "125",
+        "weightKg": [
+          32,
+          45
+        ],
+        "source": "https://www.burton.com/en-ca/products/kids-burton-smalls-flat-top-snowboard-239231"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          32,
+          45
+        ],
+        "source": "https://www.burton.com/en-ca/products/kids-burton-smalls-flat-top-snowboard-239231"
+      },
+      {
+        "length": "134",
+        "weightKg": [
+          36,
+          50
+        ],
+        "source": "https://www.burton.com/en-ca/products/kids-burton-smalls-flat-top-snowboard-239231"
+      },
+      {
+        "length": "138",
+        "weightKg": [
+          41,
+          54
+        ],
+        "source": "https://www.burton.com/en-ca/products/kids-burton-smalls-flat-top-snowboard-239231"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-ca/products/kids-burton-smalls-flat-top-snowboard-239231"
+      }
+    ],
+    "price": {
+      "amount": 349.95,
+      "maxAmount": 349.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/kids-burton-smalls-flat-top-snowboard-239231"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2392311FBL_1.webp?v=1791989440",
+        "source": "https://www.burton.com/en-us/products/kids-burton-smalls-flat-top-snowboard-239231",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2392311FBL_6ML.webp?v=1791989436",
+        "source": "https://www.burton.com/en-us/products/kids-burton-smalls-flat-top-snowboard-239231",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2392311FBL_7ML.webp?v=1791989436",
+        "source": "https://www.burton.com/en-us/products/kids-burton-smalls-flat-top-snowboard-239231",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/2392311FBL_2ML.webp?v=1791989436",
+        "source": "https://www.burton.com/en-us/products/kids-burton-smalls-flat-top-snowboard-239231",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/kids-burton-smalls-flat-top-snowboard-239231",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  },
+  {
+    "id": "burton-burton-pretty-good-company-camber-snowboard-311751",
+    "brand": "Burton",
+    "model": "Pretty Good Company Camber",
+    "family": "Pretty Good Company Camber",
+    "season": "2026/27",
+    "seasonEvidence": "官网对应产品SKU 27WIN-311751 确认27WIN雪季",
+    "shape": "True Twin",
+    "shapeNote": "官网专属参数原名 Twin；归入 True Twin 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Personality: Happy Medium",
+      "method": "编辑定性换算：Soft & Playful≈3、Happy Medium≈5、Stiff & Aggressive≈8；非厂商官方1–10原值，非实测，误差约±1。",
+      "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "135",
+      "145",
+      "148",
+      "152",
+      "155",
+      "159",
+      "155W",
+      "159W"
+    ],
+    "fit": [
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          54
+        ],
+        "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          54,
+          82
+        ],
+        "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          68,
+          91
+        ],
+        "source": "https://www.burton.com/en-au/products/burton-pretty-good-company-camber-snowboard-311751"
+      }
+    ],
+    "price": {
+      "amount": 399.95,
+      "maxAmount": 399.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.burton.com/en-us/products/burton-pretty-good-company-camber-snowboard-311751"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3117511E0O_1.webp?v=1790088897",
+        "source": "https://www.burton.com/en-us/products/burton-pretty-good-company-camber-snowboard-311751",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3117511E0O_2ML.webp?v=1790088897",
+        "source": "https://www.burton.com/en-us/products/burton-pretty-good-company-camber-snowboard-311751",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3117511E0O_3ML.webp?v=1790088897",
+        "source": "https://www.burton.com/en-us/products/burton-pretty-good-company-camber-snowboard-311751",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0804/4062/3361/files/3117511E0O_4ML.webp?v=1790088897",
+        "source": "https://www.burton.com/en-us/products/burton-pretty-good-company-camber-snowboard-311751",
+        "credit": "Burton",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.burton.com/en-us/products/burton-pretty-good-company-camber-snowboard-311751",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "体重范围来自本产品官网逐长度表；kg+按开放上限显示，表内长度不等于当前库存。"
+    ]
+  }
+]

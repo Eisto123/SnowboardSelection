@@ -1,0 +1,2660 @@
+[
+  {
+    "id": "salomon-huck-knife-current",
+    "brand": "Salomon",
+    "model": "HUCK KNIFE",
+    "family": "HUCK KNIFE",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/huck-knife-li1304/L49292200"
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "149",
+      "153",
+      "156",
+      "156W",
+      "159",
+      "159W",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/huck-knife-li1304/L49292200"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/e650fee6-2dae-488b-9c35-b3b80100923d/L49292200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/huck-knife-li1304/L49292200",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/a85c1024-1073-4c7d-b5b0-b46c00f41d2e/L49292200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/huck-knife-li1304/L49292200",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/huck-knife-li1304/L49292200",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网可核实当前型号与货号，但本页未明确雪季；板花雪季待核实。"
+    ]
+  },
+  {
+    "id": "salomon-bliss-current",
+    "brand": "Salomon",
+    "model": "BLISS",
+    "family": "BLISS",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方原名 Tapered Directional，归入 Directional 导航组。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/bliss-li1325/L49293900"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "138",
+      "141",
+      "144",
+      "148",
+      "151",
+      "155"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/bliss-li1325/L49293900"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/cb9c4681-78ab-4938-ab0d-b3b801009ddf/L49293900/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/bliss-li1325/L49293900",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/8dc4598e-d073-4c0a-8322-b3b80106968f/L49293900/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/bliss-li1325/L49293900",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/bliss-li1325/L49293900",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网可核实当前型号与货号，但本页未明确雪季；板花雪季待核实。"
+    ]
+  },
+  {
+    "id": "salomon-assassin-current",
+    "brand": "Salomon",
+    "model": "ASSASSIN",
+    "family": "ASSASSIN",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/assassin-li1300/L49291700"
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "150",
+      "153",
+      "156",
+      "158W",
+      "159",
+      "162",
+      "163W",
+      "165"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/assassin-li1300/L49291700"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/af8e2e75-eeed-4307-9ef2-b3b8010090b3/L49291700/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/assassin-li1300/L49291700",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/ada52dfa-9d41-4ac1-ac42-b3b8010690b1/L49291700/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/assassin-li1300/L49291700",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/assassin-li1300/L49291700",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网可核实当前型号与货号，但本页未明确雪季；板花雪季待核实。"
+    ]
+  },
+  {
+    "id": "salomon-oh-yeah-current",
+    "brand": "Salomon",
+    "model": "OH YEAH",
+    "family": "OH YEAH",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Soft",
+      "method": "编辑文字映射：Soft≈3，Medium≈5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/oh-yeah-li1308/L49292500"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "138",
+      "143",
+      "147",
+      "151"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 429.95,
+      "maxAmount": 429.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/oh-yeah-li1308/L49292500"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/5776186e-bb87-4b97-928c-b3b8010094f7/L49292500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/oh-yeah-li1308/L49292500",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/c3303cb8-08e3-4d29-904d-b46c00f44b05/L49292500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/oh-yeah-li1308/L49292500",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/oh-yeah-li1308/L49292500",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网可核实当前型号与货号，但本页未明确雪季；板花雪季待核实。"
+    ]
+  },
+  {
+    "id": "salomon-highpath-current",
+    "brand": "Salomon",
+    "model": "HIGHPATH",
+    "family": "HIGHPATH",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Stiff",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/highpath-li1557/L45434200"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "147",
+      "151",
+      "153",
+      "156",
+      "159",
+      "159W",
+      "162",
+      "162W",
+      "165W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/highpath-li1557/L45434200"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/e1b85444-cfc5-4445-b859-b3b801009fcf/L45434200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/highpath-li1557/L45434200",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/d6d51b80-5600-4d16-8087-b3b801068e31/L45434200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/highpath-li1557/L45434200",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/highpath-li1557/L45434200",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Advanced, Intermediate。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-rumble-fish-current",
+    "brand": "Salomon",
+    "model": "RUMBLE FISH",
+    "family": "RUMBLE FISH",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6.5,
+      "kind": "converted",
+      "original": "Medium, Stiff",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/rumble-fish-li1338/L49294400"
+    },
+    "gender": "Women",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "140",
+      "144",
+      "148",
+      "152",
+      "155"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/rumble-fish-li1338/L49294400"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/bdc1c6dd-3f90-4c6a-b1cd-b3b801009f8b/L49294400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/rumble-fish-li1338/L49294400",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/edcc168d-5864-4206-a0a1-b3b801069750/L49294400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/rumble-fish-li1338/L49294400",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/rumble-fish-li1338/L49294400",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Advanced, Intermediate。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-jetstream-current",
+    "brand": "Salomon",
+    "model": "JETSTREAM",
+    "family": "JETSTREAM",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/jetstream-li1322/L49292600"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "146",
+      "149",
+      "153",
+      "157",
+      "160",
+      "163",
+      "166"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/jetstream-li1322/L49292600"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/cfa2435b-6330-4006-8516-b3b801009583/L49292600/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/jetstream-li1322/L49292600",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/938db070-a7c7-4493-affa-b3b8010692af/L49292600/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/jetstream-li1322/L49292600",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/jetstream-li1322/L49292600",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Expert, Advanced。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-dancehaul-current",
+    "brand": "Salomon",
+    "model": "DANCEHAUL",
+    "family": "DANCEHAUL",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/dancehaul-li1299/L49291600"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "139",
+      "143",
+      "147",
+      "152",
+      "154",
+      "157"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/dancehaul-li1299/L49291600"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/d0309a0a-315b-4db8-ab69-b4720097575a/L49291600/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/dancehaul-li1299/L49291600",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/798ea570-2c73-48d3-88d1-b47100e918c4/L49291600/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/dancehaul-li1299/L49291600",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/dancehaul-li1299/L49291600",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Advanced, Intermediate。",
+      "弧度原文：Rock Out Camber。",
+      "官网说明为加宽板型；不能仅按传统板长选择，具体体重与短板建议待核实。"
+    ]
+  },
+  {
+    "id": "salomon-wonder-current",
+    "brand": "Salomon",
+    "model": "WONDER",
+    "family": "WONDER",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/wonder-li1324/L49292800"
+    },
+    "gender": "Women",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "140",
+      "144",
+      "148",
+      "152",
+      "155"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 479.95,
+      "maxAmount": 479.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/wonder-li1324/L49292800"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/54be7c2f-ae47-41eb-beeb-b3b8010097fb/L49292800/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/wonder-li1324/L49292800",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/5b0de4cc-3026-478c-b015-b3b8010693fb/L49292800/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/wonder-li1324/L49292800",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/wonder-li1324/L49292800",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Advanced, Intermediate。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-craft-current",
+    "brand": "Salomon",
+    "model": "CRAFT",
+    "family": "CRAFT",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/craft-li1302/L49292100"
+    },
+    "gender": "Men",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "150",
+      "153",
+      "155",
+      "157W",
+      "158",
+      "160W",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 479.95,
+      "maxAmount": 479.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/craft-li1302/L49292100"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/29c12df1-5c78-48e6-9d45-b3b8010091b1/L49292100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/craft-li1302/L49292100",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/d2a73c39-1322-48f1-bee6-b472009d94e7/L49292100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/craft-li1302/L49292100",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/craft-li1302/L49292100",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Advanced, Intermediate。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-lotus-current",
+    "brand": "Salomon",
+    "model": "LOTUS",
+    "family": "LOTUS",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Soft",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/lotus-li1306/L49293800"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "135",
+      "138",
+      "142",
+      "146",
+      "151",
+      "155"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 399.95,
+      "maxAmount": 399.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/lotus-li1306/L49293800"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/ada973e9-1933-4ab3-962f-b3b801009d2b/L49293800/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/lotus-li1306/L49293800",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/9d5e7e3c-e28a-4972-984b-b3b80106960a/L49293800/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/lotus-li1306/L49293800",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/lotus-li1306/L49293800",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Beginner, Intermediate。",
+      "弧度原文：Flat Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-sight-current",
+    "brand": "Salomon",
+    "model": "SIGHT",
+    "family": "SIGHT",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/sight-li1327/L49293000"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "147",
+      "150",
+      "153",
+      "155W",
+      "156",
+      "158W",
+      "159",
+      "162W",
+      "166W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/sight-li1327/L49293000"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/c6f537cd-b864-4106-bca4-b3b80100983c/L49293000/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/sight-li1327/L49293000",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/6744cad1-c17d-488b-a1ea-b3b801069566/L49293000/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/sight-li1327/L49293000",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/sight-li1327/L49293000",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Beginner, Intermediate。",
+      "弧度原文：Cross Profile。"
+    ]
+  },
+  {
+    "id": "salomon-dancehaul-grom-current",
+    "brand": "Salomon",
+    "model": "DANCEHAUL GROM",
+    "family": "DANCEHAUL GROM",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。板型由同一产品编号的英国官网核实：https://www.salomon.com/en-gb/product/dancehaul-grom-li1331/L49293400",
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Stiff",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/dancehaul-grom-li1331/L49293400"
+    },
+    "gender": "Youth",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "125",
+      "135"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 379.95,
+      "maxAmount": 379.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/dancehaul-grom-li1331/L49293400"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/b88ee4ce-8312-47c8-9de7-b47200971bf4/L49293400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/dancehaul-grom-li1331/L49293400",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/5f3b6732-a612-4667-8fce-b47100e882da/L49293400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/dancehaul-grom-li1331/L49293400",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/dancehaul-grom-li1331/L49293400",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Advanced, Intermediate。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-assassin-pro-current",
+    "brand": "Salomon",
+    "model": "ASSASSIN PRO",
+    "family": "ASSASSIN PRO",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Stiff",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/assassin-pro-li1301/L49292000"
+    },
+    "gender": "Men",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "150",
+      "153",
+      "156",
+      "158W",
+      "159",
+      "162",
+      "163W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/assassin-pro-li1301/L49292000"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/27ef3c33-710b-4b27-8734-b3b801009110/L49292000/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/assassin-pro-li1301/L49292000",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/bb1098f2-e0c4-45b9-a5d9-b3b801069178/L49292000/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/assassin-pro-li1301/L49292000",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/assassin-pro-li1301/L49292000",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Expert, Advanced。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-pulse-current",
+    "brand": "Salomon",
+    "model": "PULSE",
+    "family": "PULSE",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Soft",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/pulse-li1326/L49292900"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "142",
+      "145",
+      "149",
+      "152",
+      "156",
+      "158W",
+      "160",
+      "162W",
+      "163"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 399.95,
+      "maxAmount": 399.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/pulse-li1326/L49292900"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/d31a10d0-a688-4757-b7fe-b3b801009807/L49292900/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/pulse-li1326/L49292900",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/d3fc49f3-2224-4eec-b817-b3b8010694c3/L49292900/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/pulse-li1326/L49292900",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/pulse-li1326/L49292900",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Beginner, Intermediate。",
+      "弧度原文：Flat Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-team-package-current",
+    "brand": "Salomon",
+    "model": "TEAM PACKAGE",
+    "family": "TEAM PACKAGE",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Soft",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/team-package-li8597/L47924400"
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "80",
+      "90",
+      "100"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 359.95,
+      "maxAmount": 359.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/team-package-li8597/L47924400"
+    },
+    "priceNote": "官网售价包含雪板与固定器；非单独板价。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/d0be10de-2d9e-402a-961b-b3df00d76930/L47924400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/team-package-li8597/L47924400",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/team-package-li8597/L47924400",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Beginner, Intermediate。",
+      "弧度原文：Super Flat。",
+      "TEAM PACKAGE 为儿童雪板与固定器套装；官网标价为套装总价，不能当作单板单独售价。"
+    ]
+  },
+  {
+    "id": "salomon-grail-current",
+    "brand": "Salomon",
+    "model": "GRAIL",
+    "family": "GRAIL",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": "板型由同一产品编号的日本官网核实：https://salomon.jp/products/grail-l479242",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Soft",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/grail-li8595/L47924200"
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "110",
+      "115",
+      "120",
+      "125",
+      "130"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 259.95,
+      "maxAmount": 259.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/grail-li8595/L47924200"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/9c5dd9c1-c238-4a9e-bf96-b3df00aff783/L47924200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/grail-li8595/L47924200",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/c2a59b69-d98e-4b6c-b8c5-b2f4008da6f0/L47924200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/grail-li8595/L47924200",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/grail-li8595/L47924200",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Beginner, Intermediate。",
+      "弧度原文：Super Flat。"
+    ]
+  },
+  {
+    "id": "salomon-team-current",
+    "brand": "Salomon",
+    "model": "TEAM",
+    "family": "TEAM",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Soft",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/team-li8596/L47924300"
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "70",
+      "80",
+      "90",
+      "100",
+      "110"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 239.95,
+      "maxAmount": 239.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/team-li8596/L47924300"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/ba17dcaf-e116-4230-a270-b31b00b47fec/L47924300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/team-li8596/L47924300",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/65a67632-fcfe-44bc-9801-b2f3013ea02e/L47924300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/team-li8596/L47924300",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/team-li8596/L47924300",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Beginner, Intermediate。",
+      "弧度原文：Super Flat。"
+    ]
+  },
+  {
+    "id": "salomon-grace-current",
+    "brand": "Salomon",
+    "model": "GRACE",
+    "family": "GRACE",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": "板型由同一产品编号的日本官网核实：https://salomon.jp/products/grace-l479241",
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Soft",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/grace-li8594/L47924100"
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "110",
+      "115",
+      "120",
+      "125",
+      "130"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 259.95,
+      "maxAmount": 259.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/grace-li8594/L47924100"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/66204e6b-536b-4f47-b1a0-b3df00afc6ee/L47924100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/grace-li8594/L47924100",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/d40dfa1b-5dfb-4752-ae8e-b31b00b47c39/L47924100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/grace-li8594/L47924100",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/grace-li8594/L47924100",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Beginner, Intermediate。",
+      "弧度原文：Super Flat。"
+    ]
+  },
+  {
+    "id": "salomon-huck-knife-pro-current",
+    "brand": "Salomon",
+    "model": "HUCK KNIFE PRO",
+    "family": "HUCK KNIFE PRO",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Stiff",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/huck-knife-pro-li1305/L49292300"
+    },
+    "gender": "Men",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "149",
+      "153",
+      "156",
+      "156W",
+      "159",
+      "159W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 679.95,
+      "maxAmount": 679.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/huck-knife-pro-li1305/L49292300"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/5498bf2f-9852-4ef1-9414-b3b8010093ee/L49292300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/huck-knife-pro-li1305/L49292300",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/9dd31c8e-5d0f-49e7-801a-b46c00f43a35/L49292300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/huck-knife-pro-li1305/L49292300",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/huck-knife-pro-li1305/L49292300",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Expert, Advanced。",
+      "弧度原文：Quad Camber。"
+    ]
+  },
+  {
+    "id": "salomon-no-drama-current",
+    "brand": "Salomon",
+    "model": "NO DRAMA",
+    "family": "NO DRAMA",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Stiff",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/no-drama-li1307/L49292400"
+    },
+    "gender": "Women",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "139",
+      "143",
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/no-drama-li1307/L49292400"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/d33ec348-5be4-406c-8060-b3b8010094a5/L49292400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/no-drama-li1307/L49292400",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/4210efd7-fe3c-4b23-9664-b3b8010691ff/L49292400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/no-drama-li1307/L49292400",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/no-drama-li1307/L49292400",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Advanced, Intermediate。",
+      "弧度原文：Quad Camber。"
+    ]
+  },
+  {
+    "id": "salomon-kickback-current",
+    "brand": "Salomon",
+    "model": "KICKBACK",
+    "family": "KICKBACK",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "Soft",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/kickback-li1329/L49293200"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "148",
+      "151",
+      "153",
+      "155",
+      "155W",
+      "158",
+      "158W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 429.95,
+      "maxAmount": 429.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/kickback-li1329/L49293200"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/bc4776a3-63e0-4707-816e-b3b8010099d1/L49293200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/kickback-li1329/L49293200",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/40fe3328-556d-4a47-b304-b47200976ee6/L49293200/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/kickback-li1329/L49293200",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/kickback-li1329/L49293200",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Beginner, Intermediate。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-oh-yeah-grom-current",
+    "brand": "Salomon",
+    "model": "OH YEAH GROM",
+    "family": "OH YEAH GROM",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": "板型由同一产品编号的英国官网核实：https://www.salomon.com/en-gb/product/oh-yeah-grom-li1332/L49293500",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/oh-yeah-grom-li1332/L49293500"
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "127",
+      "133",
+      "138"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 319.95,
+      "maxAmount": 319.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/oh-yeah-grom-li1332/L49293500"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/90d848ab-a9bf-4e16-8790-b3b801009bd5/L49293500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/oh-yeah-grom-li1332/L49293500",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/b946c5cf-109b-4081-8062-b46c00f451a6/L49293500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/oh-yeah-grom-li1332/L49293500",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/oh-yeah-grom-li1332/L49293500",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Beginner, Intermediate。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-sleepwalker-grom-current",
+    "brand": "Salomon",
+    "model": "SLEEPWALKER GROM",
+    "family": "SLEEPWALKER GROM",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/sleepwalker-grom-li1333/L49293300"
+    },
+    "gender": "Youth",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "127",
+      "133",
+      "138",
+      "143",
+      "145",
+      "145W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 319.95,
+      "maxAmount": 319.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/sleepwalker-grom-li1333/L49293300"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/cdc7ee99-4aa4-464d-8985-b3b8010099ed/L49293300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/sleepwalker-grom-li1333/L49293300",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/47fedf4d-13f2-463e-8e79-b46c00f46125/L49293300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/sleepwalker-grom-li1333/L49293300",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/sleepwalker-grom-li1333/L49293300",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Beginner, Intermediate。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-abstract-current",
+    "brand": "Salomon",
+    "model": "ABSTRACT",
+    "family": "ABSTRACT",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/abstract-li1303/L49293700"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "138",
+      "143",
+      "147",
+      "151",
+      "153",
+      "155",
+      "155W",
+      "158",
+      "158W",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/abstract-li1303/L49293700"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/952a91a1-77dc-4243-9975-b3b801009c2d/L49293700/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/abstract-li1303/L49293700",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/8df33b24-327e-4288-86db-b472009f8e81/L49293700/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/abstract-li1303/L49293700",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/abstract-li1303/L49293700",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Expert, Advanced, Intermediate。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-sleepwalker-current",
+    "brand": "Salomon",
+    "model": "SLEEPWALKER",
+    "family": "SLEEPWALKER",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/sleepwalker-li1328/L49293100"
+    },
+    "gender": "Men",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "148",
+      "151",
+      "153",
+      "155",
+      "155W",
+      "158",
+      "158W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/sleepwalker-li1328/L49293100"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/9d5febc1-80db-4aec-8e30-b3b801009887/L49293100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/sleepwalker-li1328/L49293100",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/ac378fdf-c2ad-4cb0-8f85-b46c00f45909/L49293100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/sleepwalker-li1328/L49293100",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/sleepwalker-li1328/L49293100",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Advanced, Intermediate。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-huck-knife-grom-current",
+    "brand": "Salomon",
+    "model": "HUCK KNIFE GROM",
+    "family": "HUCK KNIFE GROM",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "True Twin",
+    "shapeNote": "板型由同一产品编号的日本官网核实：https://salomon.jp/products/huck-knife-grom-l492936",
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Stiff",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/huck-knife-grom-li1330/L49293600"
+    },
+    "gender": "Youth",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "125",
+      "130",
+      "135",
+      "140",
+      "140W",
+      "143",
+      "145W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 379.95,
+      "maxAmount": 379.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/huck-knife-grom-li1330/L49293600"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/efb4a40b-19b0-4055-b413-b3b801009bf9/L49293600/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/huck-knife-grom-li1330/L49293600",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/88d2c228-781c-4f7a-be54-b46c00f424cf/L49293600/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/huck-knife-grom-li1330/L49293600",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/huck-knife-grom-li1330/L49293600",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Advanced, Intermediate。",
+      "弧度原文：Quad Camber。"
+    ]
+  },
+  {
+    "id": "salomon-fastlane-current",
+    "brand": "Salomon",
+    "model": "FASTLANE",
+    "family": "FASTLANE",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Stiff",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/fastlane-li1323/L49292700"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "149",
+      "153",
+      "157",
+      "160",
+      "163",
+      "166",
+      "170"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 749.95,
+      "maxAmount": 749.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/fastlane-li1323/L49292700"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/aea607eb-9b29-4028-a635-b3b8010095be/L49292700/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/fastlane-li1323/L49292700",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/002bff14-5808-49d8-818f-b3b80106935f/L49292700/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/fastlane-li1323/L49292700",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/fastlane-li1323/L49292700",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Expert, Advanced。",
+      "弧度原文：Backseat Camber。"
+    ]
+  },
+  {
+    "id": "salomon-hps-sickstick-current",
+    "brand": "Salomon",
+    "model": "HPS - SICKSTICK",
+    "family": "HPS - SICKSTICK",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional Twin",
+    "shapeNote": "官方板型 Tapered Twin；导航归为 Directional Twin。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/hps-sickstick-li1368/L49299100"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "145",
+      "149",
+      "153",
+      "156",
+      "159",
+      "163"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/hps-sickstick-li1368/L49299100"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/0f88af73-2b19-4763-a0af-b3b801009fae/L49299100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/hps-sickstick-li1368/L49299100",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/30586f65-e292-4eac-bac9-b472007e63e9/L49299100/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/hps-sickstick-li1368/L49299100",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/hps-sickstick-li1368/L49299100",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Expert。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-hps-louif-paradis-current",
+    "brand": "Salomon",
+    "model": "HPS - LOUIF PARADIS",
+    "family": "HPS - LOUIF PARADIS",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/hps-louif-paradis-li1598/L45438800"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑",
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "156",
+      "160",
+      "164"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/hps-louif-paradis-li1598/L45438800"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/dee61233-8375-4e0f-bebe-b3b80100a33d/L45438800/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/hps-louif-paradis-li1598/L45438800",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/836e08e5-c3e4-4144-a2f5-b46c00f4031e/L45438800/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/hps-louif-paradis-li1598/L45438800",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/hps-louif-paradis-li1598/L45438800",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Expert。",
+      "弧度原文：Rock Out Camber。"
+    ]
+  },
+  {
+    "id": "salomon-hps-wolle-nyvelt-fish-current",
+    "brand": "Salomon",
+    "model": "HPS - WOLLE NYVELT FISH",
+    "family": "HPS - WOLLE NYVELT FISH",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Stiff",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/hps-wolle-nyvelt-fish-li1569/L45434400"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "148",
+      "152",
+      "157",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/hps-wolle-nyvelt-fish-li1569/L45434400"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/16c6c891-02fe-4afc-9419-b3b80100a079/L45434400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/hps-wolle-nyvelt-fish-li1569/L45434400",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/6cd9b69b-e59b-4417-a0b7-b46c00f3e914/L45434400/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/hps-wolle-nyvelt-fish-li1569/L45434400",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/hps-wolle-nyvelt-fish-li1569/L45434400",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Expert。",
+      "弧度原文：Powder Camber。"
+    ]
+  },
+  {
+    "id": "salomon-indicator-current",
+    "brand": "Salomon",
+    "model": "INDICATOR",
+    "family": "INDICATOR",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/indicator-li1568/L45434300"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "148",
+      "152",
+      "155",
+      "158",
+      "161",
+      "165W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/indicator-li1568/L45434300"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/4979c9c7-cc2c-441e-95ad-b3b80100a001/L45434300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/indicator-li1568/L45434300",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/6c5528c5-3215-4fe0-abab-b3b801068eb9/L45434300/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/indicator-li1568/L45434300",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/indicator-li1568/L45434300",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Advanced, Expert。",
+      "弧度原文：Powder Camber。"
+    ]
+  },
+  {
+    "id": "salomon-bellevue-split-current",
+    "brand": "Salomon",
+    "model": "BELLEVUE SPLIT",
+    "family": "BELLEVUE SPLIT",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。板型由同一产品编号的日本官网核实：https://salomon.jp/products/bellevue-split-l470175",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/bellevue-split-li3453/L47017500"
+    },
+    "gender": "Women",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "148",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 999.95,
+      "maxAmount": 999.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/bellevue-split-li3453/L47017500"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/bd75e12e-46e5-495c-b73e-b3df00ae1a02/L47017500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/bellevue-split-li3453/L47017500",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/0f2c5db8-c87e-418f-935e-b2f800af0b12/L47017500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/bellevue-split-li3453/L47017500",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/bellevue-split-li3453/L47017500",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Expert, Advanced, Intermediate。",
+      "弧度原文：Backseat Camber。",
+      "分体板 / Touring：与普通整板的器材用途不同。"
+    ]
+  },
+  {
+    "id": "salomon-highpath-split-current",
+    "brand": "Salomon",
+    "model": "HIGHPATH SPLIT",
+    "family": "HIGHPATH SPLIT",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Stiff",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/highpath-split-li3449/L47017000"
+    },
+    "gender": "Men",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "156",
+      "159",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 999.95,
+      "maxAmount": 999.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/highpath-split-li3449/L47017000"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/8e04d36e-636f-4a59-9c76-b2f800aee154/L47017000/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/highpath-split-li3449/L47017000",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/50cce8c8-7ba4-476b-b13a-b2f800af2b7e/L47017000/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/highpath-split-li3449/L47017000",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/highpath-split-li3449/L47017000",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Expert, Advanced, Intermediate。",
+      "弧度原文：Rock Out Camber。",
+      "分体板 / Touring：与普通整板的器材用途不同。"
+    ]
+  },
+  {
+    "id": "salomon-premiere-current",
+    "brand": "Salomon",
+    "model": "PREMIERE",
+    "family": "PREMIERE",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
+    "flex": {
+      "value": 8,
+      "kind": "converted",
+      "original": "Stiff",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/premiere-li3533/L47031500"
+    },
+    "gender": "Men",
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "154",
+      "159",
+      "165"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 1699.95,
+      "maxAmount": 1699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/premiere-li3533/L47031500"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/8704b0fd-234d-4042-9ee5-b2f800af2370/L47031500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/premiere-li3533/L47031500",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/f0c7009b-a4a5-4125-bf00-b2f800aee0be/L47031500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/premiere-li3533/L47031500",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/premiere-li3533/L47031500",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Expert。",
+      "弧度原文：Cross Profile。",
+      "分体板 / Touring：与普通整板的器材用途不同。"
+    ]
+  },
+  {
+    "id": "salomon-hps-taka-split-2-0-current",
+    "brand": "Salomon",
+    "model": "HPS - TAKA SPLIT 2.0",
+    "family": "HPS - TAKA SPLIT 2.0",
+    "season": "待核实",
+    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "shape": "Directional",
+    "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
+    "flex": {
+      "value": 5,
+      "kind": "converted",
+      "original": "Medium",
+      "method": "编辑文字映射：Soft≈3，Medium≈5，Stiff≈8；Medium, Stiff≈6.5；约±1，非厂商官方1–10原值。",
+      "source": "https://www.salomon.com/en-us/product/hps-taka-split-2-0-li3550/L47033500"
+    },
+    "gender": "Men",
+    "levels": [
+      "高手",
+      "进阶"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网 Best for 与 Level of Practice 整理；儿童硬度仅在儿童器材范围内理解，非成人板实测比较",
+    "sizes": [
+      "155",
+      "158",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 1099.95,
+      "maxAmount": 1099.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "待核实",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.salomon.com/en-us/product/hps-taka-split-2-0-li3550/L47033500"
+    },
+    "priceNote": "官网标价（非已确认 MSRP）；雪季待核实。",
+    "images": [
+      {
+        "url": "https://cdn.dam.salomon.com/5ec0be88-25fe-4c8f-9bce-b2f800aeec52/L47033500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&canvas=116p%2C144p&fit=cover&format=pjpg&optimize=medium&width=3840",
+        "source": "https://www.salomon.com/en-us/product/hps-taka-split-2-0-li3550/L47033500",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.dam.salomon.com/93560b3d-5d44-462d-ae7b-b2f800af0274/L47033500/PNG-2000px-max-72dpi.png?auto=avif&bg-color=f5f5f5&fit=cover&format=pjpg&optimize=medium&pad=0.08%2C0&width=3840",
+        "source": "https://www.salomon.com/en-us/product/hps-taka-split-2-0-li3550/L47033500",
+        "credit": "Salomon",
+        "season": "待核实",
+        "label": "官网图库第二视图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.salomon.com/en-us/product/hps-taka-split-2-0-li3550/L47033500",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
+      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "官网骑行水平原文：Expert, Advanced, Intermediate。",
+      "弧度原文：Powder Camber。",
+      "分体板 / Touring：与普通整板的器材用途不同。",
+      "官网显示一个选中尺寸的 Rider Weight 132.3–176.4 lbs，但抓取页面未可靠对应选中的长度，因此不填入逐长度体重表。目录显示售罄，产品页仍给出 US$1,099.95。"
+    ]
+  }
+]

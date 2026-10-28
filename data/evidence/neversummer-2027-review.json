@@ -1,0 +1,34 @@
+{
+  "checkedAt": "2026-10-28",
+  "brand": "Never Summer",
+  "scope": "2027 官方目录28条；硬度数值、尺寸和价格由官方产品目录保留。",
+  "conflicts": [
+    {
+      "source": "https://neversummer.com/products/mens-proto-type-3-snowboard",
+      "field": "sizes / fit",
+      "finding": "当前变体151/154/157/160等与页面残留规格图152/155/158/161等不符。以当前变体记录sizes，不转录旧图作为本季fit。"
+    },
+    {
+      "source": "https://neversummer.com/pages/valhalla-size-chart",
+      "field": "fit",
+      "finding": "页面含无雪季的尺寸图和通用身高/体重建议，未确认对全部当前型号逐尺寸适用，不合并。"
+    }
+  ],
+  "unknownShape": [
+    {
+      "id": "neversummer-mens-v-twin-snowboard",
+      "source": "https://neversummer.com/products/mens-v-twin-snowboard",
+      "original": "三分类板型未明确确认"
+    },
+    {
+      "id": "neversummer-mens-llama-snowboard",
+      "source": "https://neversummer.com/products/mens-llama-snowboard",
+      "original": "官网原文 asymmetrical twin；三分类无法完整表达非对称结构，归类待核实，保留原生板型。"
+    },
+    {
+      "id": "neversummer-womens-cascade-snowboard",
+      "source": "https://neversummer.com/products/womens-cascade-snowboard",
+      "original": "三分类板型未明确确认"
+    }
+  ]
+}

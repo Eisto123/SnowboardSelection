@@ -1,0 +1,403 @@
+{
+  "brand": "thirtytwo",
+  "checkedAt": "2026-10-28",
+  "scope": "现有18款逐产品核实，采用官网产品页的Flex数字与Shape分类；不采用经销商目录冲突数字。",
+  "products": [
+    {
+      "id": "thirtytwo-middle-earth-pro",
+      "model": "Middle Earth Pro",
+      "source": "https://thirtytwo.com/products/middle-earth-pro",
+      "flex": {
+        "original": "5/10",
+        "value": 5,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/middle-earth-pro"
+      },
+      "shape": {
+        "original": "Twin Tip",
+        "mapped": "True Twin",
+        "source": "https://thirtytwo.com/products/middle-earth-pro"
+      },
+      "profile": {
+        "original": "True Medium Camber",
+        "source": "https://thirtytwo.com/products/middle-earth-pro"
+      },
+      "snapshot": "work/tt-official-middle-earth-pro.txt"
+    },
+    {
+      "id": "thirtytwo-atmosphere",
+      "model": "Atmosphere",
+      "source": "https://thirtytwo.com/products/atmosphere",
+      "flex": {
+        "original": "6/10",
+        "value": 6,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/atmosphere"
+      },
+      "shape": {
+        "original": "Tapered Directional",
+        "mapped": "Directional",
+        "source": "https://thirtytwo.com/products/atmosphere"
+      },
+      "profile": {
+        "original": "Directional Camber / Rocker",
+        "source": "https://thirtytwo.com/products/atmosphere"
+      },
+      "snapshot": "work/tt-official-atmosphere.txt"
+    },
+    {
+      "id": "thirtytwo-permanent-vacation",
+      "model": "Permanent Vacation",
+      "source": "https://thirtytwo.com/products/permanent-vacation",
+      "flex": {
+        "original": "5/10",
+        "value": 5,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/permanent-vacation"
+      },
+      "shape": {
+        "original": "Directional Twin",
+        "mapped": "Directional Twin",
+        "source": "https://thirtytwo.com/products/permanent-vacation"
+      },
+      "profile": {
+        "original": "CamRock",
+        "source": "https://thirtytwo.com/products/permanent-vacation"
+      },
+      "snapshot": "work/tt-official-permanent-vacation.txt"
+    },
+    {
+      "id": "thirtytwo-volcom-creedler",
+      "model": "VOLCOM Creedler",
+      "source": "https://thirtytwo.com/products/volcom-creedler",
+      "flex": {
+        "original": "6/10",
+        "value": 6,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/volcom-creedler"
+      },
+      "shape": {
+        "original": "Twin Tip",
+        "mapped": "True Twin",
+        "source": "https://thirtytwo.com/products/volcom-creedler"
+      },
+      "profile": {
+        "original": "Hybrid Camber",
+        "source": "https://thirtytwo.com/products/volcom-creedler"
+      },
+      "snapshot": "work/tt-official-volcom-creedler.txt"
+    },
+    {
+      "id": "thirtytwo-thrill-pill",
+      "model": "Thrill Pill",
+      "source": "https://thirtytwo.com/products/thrill-pill",
+      "flex": {
+        "original": "4/10",
+        "value": 4,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/thrill-pill"
+      },
+      "shape": {
+        "original": "Twin Tip",
+        "mapped": "True Twin",
+        "source": "https://thirtytwo.com/products/thrill-pill"
+      },
+      "profile": {
+        "original": "True Medium Camber",
+        "source": "https://thirtytwo.com/products/thrill-pill"
+      },
+      "snapshot": "work/tt-official-thrill-pill.txt"
+    },
+    {
+      "id": "thirtytwo-cold-world",
+      "model": "Cold World",
+      "source": "https://thirtytwo.com/products/cold-world",
+      "flex": {
+        "original": "4/10",
+        "value": 4,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/cold-world"
+      },
+      "shape": {
+        "original": "Twin Tip",
+        "mapped": "True Twin",
+        "source": "https://thirtytwo.com/products/cold-world"
+      },
+      "profile": {
+        "original": "Hybrid Camber",
+        "source": "https://thirtytwo.com/products/cold-world"
+      },
+      "snapshot": "work/tt-official-cold-world.txt"
+    },
+    {
+      "id": "thirtytwo-women-crucible",
+      "model": "Crucible",
+      "source": "https://thirtytwo.com/products/women-crucible",
+      "flex": {
+        "original": "5/10",
+        "value": 5,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/women-crucible"
+      },
+      "shape": {
+        "original": "Directional Twin",
+        "mapped": "Directional Twin",
+        "source": "https://thirtytwo.com/products/women-crucible"
+      },
+      "profile": {
+        "original": "CamRock",
+        "source": "https://thirtytwo.com/products/women-crucible"
+      },
+      "snapshot": "work/tt-official-women-crucible.txt"
+    },
+    {
+      "id": "thirtytwo-t32m",
+      "model": "T32M",
+      "source": "https://thirtytwo.com/products/t32m",
+      "flex": {
+        "original": "6/10",
+        "value": 6,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/t32m"
+      },
+      "shape": {
+        "original": "Twin Tip",
+        "mapped": "True Twin",
+        "source": "https://thirtytwo.com/products/t32m"
+      },
+      "profile": {
+        "original": "Hybrid Camber",
+        "source": "https://thirtytwo.com/products/t32m"
+      },
+      "snapshot": "work/tt-official-t32m.txt"
+    },
+    {
+      "id": "thirtytwo-xxx-fava-pro",
+      "model": "XXX Fava Pro",
+      "source": "https://thirtytwo.com/products/xxx-fava-pro",
+      "flex": {
+        "original": "8/10",
+        "value": 8,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/xxx-fava-pro"
+      },
+      "shape": {
+        "original": "Hybrid Twin",
+        "mapped": null,
+        "source": "https://thirtytwo.com/products/xxx-fava-pro"
+      },
+      "profile": {
+        "original": "True Medium Camber",
+        "source": "https://thirtytwo.com/products/xxx-fava-pro"
+      },
+      "snapshot": "work/tt-official-xxx-fava-pro.txt"
+    },
+    {
+      "id": "thirtytwo-snafu",
+      "model": "SNAFU",
+      "source": "https://thirtytwo.com/products/snafu",
+      "flex": {
+        "original": "6/10",
+        "value": 6,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/snafu"
+      },
+      "shape": {
+        "original": "Tapered Directional",
+        "mapped": "Directional",
+        "source": "https://thirtytwo.com/products/snafu"
+      },
+      "profile": {
+        "original": "Directional Camber / Rocker",
+        "source": "https://thirtytwo.com/products/snafu"
+      },
+      "snapshot": "work/tt-official-snafu.txt"
+    },
+    {
+      "id": "thirtytwo-women-gemini",
+      "model": "Gemini",
+      "source": "https://thirtytwo.com/products/women-gemini",
+      "flex": {
+        "original": "4/10",
+        "value": 4,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/women-gemini"
+      },
+      "shape": {
+        "original": "Twin Tip",
+        "mapped": "True Twin",
+        "source": "https://thirtytwo.com/products/women-gemini"
+      },
+      "profile": {
+        "original": "Hybrid Camber",
+        "source": "https://thirtytwo.com/products/women-gemini"
+      },
+      "snapshot": "work/tt-official-women-gemini.txt"
+    },
+    {
+      "id": "thirtytwo-volcom-moclov",
+      "model": "VOLCOM Moclov",
+      "source": "https://thirtytwo.com/products/volcom-moclov",
+      "flex": {
+        "original": "5/10",
+        "value": 5,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/volcom-moclov"
+      },
+      "shape": {
+        "original": "Directional Twin",
+        "mapped": "Directional Twin",
+        "source": "https://thirtytwo.com/products/volcom-moclov"
+      },
+      "profile": {
+        "original": "CamRock",
+        "source": "https://thirtytwo.com/products/volcom-moclov"
+      },
+      "snapshot": "work/tt-official-volcom-moclov.txt"
+    },
+    {
+      "id": "thirtytwo-women-reiki",
+      "model": "Reiki",
+      "source": "https://thirtytwo.com/products/women-reiki",
+      "flex": {
+        "original": "6/10",
+        "value": 6,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/women-reiki"
+      },
+      "shape": {
+        "original": "Tapered Directional",
+        "mapped": "Directional",
+        "source": "https://thirtytwo.com/products/women-reiki"
+      },
+      "profile": {
+        "original": "Directional Camber / Rocker",
+        "source": "https://thirtytwo.com/products/women-reiki"
+      },
+      "snapshot": "work/tt-official-women-reiki.txt"
+    },
+    {
+      "id": "thirtytwo-permanent-vacation-carbon",
+      "model": "Permanent Vacation Carbon",
+      "source": "https://thirtytwo.com/products/permanent-vacation-carbon",
+      "flex": {
+        "original": "9/10",
+        "value": 9,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon"
+      },
+      "shape": {
+        "original": "Directional Twin",
+        "mapped": "Directional Twin",
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon"
+      },
+      "profile": {
+        "original": "CamRock",
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon"
+      },
+      "snapshot": "work/tt-official-permanent-vacation-carbon.txt"
+    },
+    {
+      "id": "thirtytwo-t32m-carbon",
+      "model": "T32M Carbon",
+      "source": "https://thirtytwo.com/products/t32m-carbon",
+      "flex": {
+        "original": "9/10",
+        "value": 9,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/t32m-carbon"
+      },
+      "shape": {
+        "original": "Twin Tip",
+        "mapped": "True Twin",
+        "source": "https://thirtytwo.com/products/t32m-carbon"
+      },
+      "profile": {
+        "original": "True High Camber",
+        "source": "https://thirtytwo.com/products/t32m-carbon"
+      },
+      "snapshot": "work/tt-official-t32m-carbon.txt"
+    },
+    {
+      "id": "thirtytwo-t32m-youth",
+      "model": "T32M Youth",
+      "source": "https://thirtytwo.com/products/t32m-youth",
+      "flex": {
+        "original": "3/10",
+        "value": 3,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/t32m-youth"
+      },
+      "shape": {
+        "original": "Twin Tip",
+        "mapped": "True Twin",
+        "source": "https://thirtytwo.com/products/t32m-youth"
+      },
+      "profile": {
+        "original": "True Low Camber",
+        "source": "https://thirtytwo.com/products/t32m-youth"
+      },
+      "snapshot": "work/tt-official-t32m-youth.txt"
+    },
+    {
+      "id": "thirtytwo-volcom-byh-youth",
+      "model": "VOLCOM BYH Youth",
+      "source": "https://thirtytwo.com/products/volcom-byh-youth",
+      "flex": {
+        "original": "3/10",
+        "value": 3,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/volcom-byh-youth"
+      },
+      "shape": {
+        "original": "True twin with a friendly flex for developing the next generational park rider",
+        "mapped": "True Twin",
+        "source": "https://thirtytwo.com/products/volcom-byh-youth"
+      },
+      "profile": {
+        "original": null,
+        "source": "https://thirtytwo.com/products/volcom-byh-youth"
+      },
+      "snapshot": "work/tt-official-volcom-byh-youth.txt"
+    },
+    {
+      "id": "thirtytwo-volcom-cosm",
+      "model": "VOLCOM Cosm",
+      "source": "https://thirtytwo.com/products/volcom-cosm",
+      "flex": {
+        "original": "6/10",
+        "value": 6,
+        "scale": 10,
+        "kind": "official",
+        "source": "https://thirtytwo.com/products/volcom-cosm"
+      },
+      "shape": {
+        "original": "Tapered Directional",
+        "mapped": "Directional",
+        "source": "https://thirtytwo.com/products/volcom-cosm"
+      },
+      "profile": {
+        "original": "Directional Camber / Rocker",
+        "source": "https://thirtytwo.com/products/volcom-cosm"
+      },
+      "snapshot": "work/tt-official-volcom-cosm.txt"
+    }
+  ]
+}

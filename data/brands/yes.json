@@ -1,0 +1,1158 @@
+[
+  {
+    "id": "yes-standard-xtrm-dc",
+    "brand": "YES",
+    "model": "Standard Xtrm Dc Men's",
+    "family": "Standard Xtrm Dc Men's",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": "Directional Twin",
+    "shapeNote": "官网原名 Directional Volume Twin，归入定向双向导航组；体积与板头板尾设计请查看官网。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "153",
+      "156",
+      "159",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 689.95,
+      "maxAmount": 689.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/standard-xtrm-dc"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y-26-SNM-SDC-XX-TOP-BASE.jpg?v=1764648393",
+        "source": "https://yessnowboards.com/products/standard-xtrm-dc",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_STANDARD_XTRM_LIFESTYLE-1.webp?v=1764648393",
+        "source": "https://yessnowboards.com/products/standard-xtrm-dc",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_STANDARD_XTRM_LIFESTYLE-2.webp?v=1764648393",
+        "source": "https://yessnowboards.com/products/standard-xtrm-dc",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/yes26-standard-xtrm-angle-2-f-68c31967b936f.webp?v=1764648393",
+        "source": "https://yessnowboards.com/products/standard-xtrm-dc",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/standard-xtrm-dc",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-womens-hell-yes",
+    "brand": "YES",
+    "model": "Women's Hell Yes",
+    "family": "Women's Hell Yes",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "146",
+      "149",
+      "152",
+      "155"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/womens-hell-yes"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y.26.SNW.HEL.XX.TOP_26BASE.webp?v=1764648628",
+        "source": "https://yessnowboards.com/products/womens-hell-yes",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/MNO_4290_20_282_29.webp?v=1764648628",
+        "source": "https://yessnowboards.com/products/womens-hell-yes",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_HEL-YES_ANGLE.webp?v=1764648628",
+        "source": "https://yessnowboards.com/products/womens-hell-yes",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES_20_281_29.webp?v=1764648628",
+        "source": "https://yessnowboards.com/products/womens-hell-yes",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/womens-hell-yes",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-greats-xtrm",
+    "brand": "YES",
+    "model": "Greats Xtrm",
+    "family": "Greats Xtrm",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": "True Twin",
+    "shapeNote": "Asym Twin：左右侧切不对称，前后对称；保留官方名称",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "154",
+      "156",
+      "159"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 749.95,
+      "maxAmount": 749.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/greats-xtrm"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y-26-SNM-GRX-XX-TOP.jpg?v=1764648110",
+        "source": "https://yessnowboards.com/products/greats-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/yes26-greats-xtrm-lifestyle-1-68c3165cef255.webp?v=1764648110",
+        "source": "https://yessnowboards.com/products/greats-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/yes26-greats-xtrm-lifestyle-2-68c3165f121d4.webp?v=1764648110",
+        "source": "https://yessnowboards.com/products/greats-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/yes26-greats-xtrm-angle-2-f-68c3165222bbb.webp?v=1764648110",
+        "source": "https://yessnowboards.com/products/greats-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/greats-xtrm",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-pick-your-line-xtrm",
+    "brand": "YES",
+    "model": "Pick Your Line Xtrm Men's",
+    "family": "Pick Your Line Xtrm Men's",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "155",
+      "157",
+      "159",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/pick-your-line-xtrm"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y-26-SNM-DCP-XX-TOP.jpg?v=1764648529",
+        "source": "https://yessnowboards.com/products/pick-your-line-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_PYL_XTRM_LIFESTYLE-2.webp?v=1764648529",
+        "source": "https://yessnowboards.com/products/pick-your-line-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/yes26-pyl-xtrm-lifestyle-2-68c317089c19e.webp?v=1764648529",
+        "source": "https://yessnowboards.com/products/pick-your-line-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/yes26-pyl-xtrm-lifestyle-1-68c3170728b3a.webp?v=1764648529",
+        "source": "https://yessnowboards.com/products/pick-your-line-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/pick-your-line-xtrm",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-shifter-3d",
+    "brand": "YES",
+    "model": "Shifter 3D Men's",
+    "family": "Shifter 3D Men's",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "145",
+      "148",
+      "151",
+      "154",
+      "156W",
+      "157"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 429.95,
+      "maxAmount": 429.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/shifter-3d"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y.26.SNU.SHF.XX.TOP_26BASE.webp?v=1764648182",
+        "source": "https://yessnowboards.com/products/shifter-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y-26-SNU-SHF-XX-BASE.jpg?v=1764648182",
+        "source": "https://yessnowboards.com/products/shifter-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/shifter-3d",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-cream-halldor-3d",
+    "brand": "YES",
+    "model": "Cream Halldor Men's",
+    "family": "Cream Halldor Men's",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "150",
+      "153",
+      "156",
+      "159"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/cream-halldor-3d"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y.26.SNM.HAL.XX.TOP_26BASE.webp?v=1764648264",
+        "source": "https://yessnowboards.com/products/cream-halldor-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_CREAM_LIFESTYLE-1.webp?v=1764648264",
+        "source": "https://yessnowboards.com/products/cream-halldor-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_CREAM_LIFESTYLE-2.webp?v=1764648264",
+        "source": "https://yessnowboards.com/products/cream-halldor-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y-26-SNM-HAL-XX-TOP.jpg?v=1764648264",
+        "source": "https://yessnowboards.com/products/cream-halldor-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/cream-halldor-3d",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-womens-rival",
+    "brand": "YES",
+    "model": "Women's Rival",
+    "family": "Women's Rival",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "140",
+      "144",
+      "149",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 529.95,
+      "maxAmount": 529.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/womens-rival"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y.26.SNW.RIV.XX.TOP_26BASE.webp?v=1764648583",
+        "source": "https://yessnowboards.com/products/womens-rival",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_RIVAL_LIFESTYLE-1.webp?v=1764648583",
+        "source": "https://yessnowboards.com/products/womens-rival",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_RIVAL_LIFESTYLE-2.webp?v=1764648583",
+        "source": "https://yessnowboards.com/products/womens-rival",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_RIVAL_LIFESTYLE-3.webp?v=1764648583",
+        "source": "https://yessnowboards.com/products/womens-rival",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/womens-rival",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-shifter-xtrm-eiki-3d",
+    "brand": "YES",
+    "model": "Shifter Xtrm Eiki 3D Men's",
+    "family": "Shifter Xtrm Eiki 3D Men's",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "145",
+      "148",
+      "151",
+      "154",
+      "156W",
+      "157"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/shifter-xtrm-eiki-3d"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y.26.SNM.SHE.XX.TOP_26BASE.webp?v=1764648155",
+        "source": "https://yessnowboards.com/products/shifter-xtrm-eiki-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y-26-SNM-SHE-XX-TOP-BASE.jpg?v=1764648155",
+        "source": "https://yessnowboards.com/products/shifter-xtrm-eiki-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/shifter-xtrm-eiki-3d",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-womens-frenzy",
+    "brand": "YES",
+    "model": "Women's Frenzy",
+    "family": "Women's Frenzy",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "143",
+      "146",
+      "149",
+      "152",
+      "155"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/womens-frenzy"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_FRENZY_ANGLE_20FRONT_20_26_20BACK.webp?v=1764648650",
+        "source": "https://yessnowboards.com/products/womens-frenzy",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/MNO_4290_20_281_29.webp?v=1764648650",
+        "source": "https://yessnowboards.com/products/womens-frenzy",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_FRENZY_ANGLE.webp?v=1764648650",
+        "source": "https://yessnowboards.com/products/womens-frenzy",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES.webp?v=1764648650",
+        "source": "https://yessnowboards.com/products/womens-frenzy",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/womens-frenzy",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-sender-xtrm",
+    "brand": "YES",
+    "model": "Sender Xtrm Men's",
+    "family": "Sender Xtrm Men's",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "152",
+      "155",
+      "156W",
+      "158",
+      "159W",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/sender-xtrm"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y.26.SNM.SDX.XX.TOP_26BASE.webp?v=1764648206",
+        "source": "https://yessnowboards.com/products/sender-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y-26-SNM-SDX-XX-TOP-BASE.jpg?v=1764648206",
+        "source": "https://yessnowboards.com/products/sender-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/sender-xtrm",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-airmaster-xtrm-fridge-3d",
+    "brand": "YES",
+    "model": "Airmaster Xtrm Fridge 3D Men's",
+    "family": "Airmaster Xtrm Fridge 3D Men's",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "150",
+      "153",
+      "156",
+      "159",
+      "162",
+      "165"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y.26.SNM.FMX.XX.TOP_26BASE.webp?v=1764648337",
+        "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_AIRMASTERXTRM_LIFESTYLE-1_compressed.webp?v=1764648337",
+        "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_AIRMASTERXTRM_LIFESTYLE-2_compressed.webp?v=1764648337",
+        "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y-26-SNM-FMX-XX-TOP.jpg?v=1764648337",
+        "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-all-in-xtrm",
+    "brand": "YES",
+    "model": "All-In Xtrm Men's",
+    "family": "All-In Xtrm Men's",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "148",
+      "150",
+      "154",
+      "155W",
+      "158",
+      "160W",
+      "162",
+      "164W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/all-in-xtrm"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y.26.SNM.ALX.XX.TOP_26BASE.webp?v=1764648449",
+        "source": "https://yessnowboards.com/products/all-in-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_ALL-IN_XTRM_ANGLE_202_20F.webp?v=1764648449",
+        "source": "https://yessnowboards.com/products/all-in-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_ALL-IN_XTRM_ANGLE_207_20F.webp?v=1764648449",
+        "source": "https://yessnowboards.com/products/all-in-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_ALL-IN_XTRM_ANGLE_206_20F.webp?v=1764648449",
+        "source": "https://yessnowboards.com/products/all-in-xtrm",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/all-in-xtrm",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-first-basic",
+    "brand": "YES",
+    "model": "First Basic Kid's",
+    "family": "First Basic Kid's",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "127",
+      "133",
+      "138",
+      "142"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 299.95,
+      "maxAmount": 299.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/first-basic"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y-26-SNU-JRB-XX-TOP-BASE.jpg?v=1764648671",
+        "source": "https://yessnowboards.com/products/first-basic",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/MNO_4290.webp?v=1764648671",
+        "source": "https://yessnowboards.com/products/first-basic",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_FIRST_BASIC_ANGLE.webp?v=1764648671",
+        "source": "https://yessnowboards.com/products/first-basic",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/first-basic",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-airmaster-3d",
+    "brand": "YES",
+    "model": "Airmaster 3D Men's",
+    "family": "Airmaster 3D Men's",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "150",
+      "153",
+      "156",
+      "159",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 529.95,
+      "maxAmount": 529.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/airmaster-3d"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y.26.SNM.ARM.XX.TOP_26BASE.webp?v=1764648367",
+        "source": "https://yessnowboards.com/products/airmaster-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_AIRMASTER_LIFESTYLE-1.webp?v=1764648367",
+        "source": "https://yessnowboards.com/products/airmaster-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_AIRMASTER_LIFESTYLE-2.webp?v=1764648367",
+        "source": "https://yessnowboards.com/products/airmaster-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y-26-SNM-ARM-XX-TOP-BASE.jpg?v=1764648367",
+        "source": "https://yessnowboards.com/products/airmaster-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/airmaster-3d",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "yes-womens-airmaster-3d",
+    "brand": "YES",
+    "model": "Women's Airmaster 3D",
+    "family": "Women's Airmaster 3D",
+    "season": "2025/26",
+    "seasonEvidence": "官方标签 2526",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 529.95,
+      "maxAmount": 529.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://yessnowboards.com/products/womens-airmaster-3d"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/Y-26-SNW-WAM-XX-TOP-BASE.jpg?v=1764648626",
+        "source": "https://yessnowboards.com/products/womens-airmaster-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_AIRMASTERWOMEN_LIFESTYLE-1.webp?v=1764648626",
+        "source": "https://yessnowboards.com/products/womens-airmaster-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0884/6619/4745/files/YES26_AIRMASTERWOMEN_LIFESTYLE-2.webp?v=1764648626",
+        "source": "https://yessnowboards.com/products/womens-airmaster-3d",
+        "credit": "YES",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://yessnowboards.com/products/womens-airmaster-3d",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "id": "ogasaka-tf-2027",
+    "brand": "OGASAKA",
+    "model": "TF",
+    "family": "TF",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网未明确三分类板型，保留原始系列定位，不由外形推断。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "146",
+      "148",
+      "152",
+      "154"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 100000,
+      "maxAmount": 100000,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "官网英文页明确为未税价（Tax excluded）",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.ogasaka-snowboard.com/product_26_01_tf_e.html"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/01-tf_main02.png",
+        "source": "https://www.ogasaka-snowboard.com/product_26_01_tf_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/01-tf_main01.png",
+        "source": "https://www.ogasaka-snowboard.com/product_26_01_tf_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_01_tf_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。",
+      "官方定性硬度：品牌产品线中最软（softest flex in the lineups）；未提供可换算 1–10 的标定。"
+    ]
+  },
+  {
+    "id": "ogasaka-ct-twin-2027",
+    "brand": "OGASAKA",
+    "model": "CT-TWIN",
+    "family": "CT-TWIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网称 Twin-tip；未明确完整 True Twin 定义，暂不据对称尺寸推断。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "154",
+      "156",
+      "158"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 106000,
+      "maxAmount": 106000,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "官网英文页明确为未税价（Tax excluded）",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.ogasaka-snowboard.com/product_26_02_ct-twin_e.html"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/02_ct-twin.png",
+        "source": "https://www.ogasaka-snowboard.com/product_26_02_ct-twin_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_02_ct-twin_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-ct-2027",
+    "brand": "OGASAKA",
+    "model": "CT",
+    "family": "CT",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网未明确三分类板型，保留原始系列定位，不由外形推断。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "139",
+      "143",
+      "146",
+      "148",
+      "150",
+      "152",
+      "154",
+      "156",
+      "158",
+      "161",
+      "154W",
+      "156W",
+      "158W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 106000,
+      "maxAmount": 108000,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "官网英文页明确为未税价（Tax excluded）",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.ogasaka-snowboard.com/product_26_03_ct_e.html"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/03_ct_02.png",
+        "source": "https://www.ogasaka-snowboard.com/product_26_03_ct_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/03_ct_03.png",
+        "source": "https://www.ogasaka-snowboard.com/product_26_03_ct_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/03_ct_01.png",
+        "source": "https://www.ogasaka-snowboard.com/product_26_03_ct_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_03_ct_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-ct-iz-2027",
+    "brand": "OGASAKA",
+    "model": "CT-IZ",
+    "family": "CT-IZ",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官方型号分类已核实；True Twin / Directional Twin / Directional 的完整定义待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_04.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_04_ct-iz_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-ct-s-2027",
+    "brand": "OGASAKA",
+    "model": "CT-S",
+    "family": "CT-S",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官方型号分类已核实；True Twin / Directional Twin / Directional 的完整定义待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_05.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_05_ct-s_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-orca-2027",
+    "brand": "OGASAKA",
+    "model": "ORCA",
+    "family": "ORCA",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官方型号分类已核实；True Twin / Directional Twin / Directional 的完整定义待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_06.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_06_orca_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-fc-2027",
+    "brand": "OGASAKA",
+    "model": "FC",
+    "family": "FC",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网未明确三分类板型，保留原始系列定位，不由外形推断。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "145",
+      "148",
+      "151",
+      "154",
+      "157",
+      "160",
+      "163",
+      "157W",
+      "160W",
+      "163W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 120000,
+      "maxAmount": 122000,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "官网英文页明确为未税价（Tax excluded）",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.ogasaka-snowboard.com/product_26_08_fc_e.html"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/08_fc_03.png",
+        "source": "https://www.ogasaka-snowboard.com/product_26_08_fc_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/08_fc_02.png",
+        "source": "https://www.ogasaka-snowboard.com/product_26_08_fc_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/08_fc_01.png",
+        "source": "https://www.ogasaka-snowboard.com/product_26_08_fc_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_08_fc_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-fc-s-2027",
+    "brand": "OGASAKA",
+    "model": "FC-S",
+    "family": "FC-S",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": "Directional",
+    "shapeNote": "官方26/27尺寸表头宽大于尾宽4mm，并有30–34mm setback；依据官方几何归类为定向。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [
+      "高手"
+    ],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "150",
+      "156",
+      "159",
+      "162",
+      "165",
+      "157W",
+      "160W",
+      "163W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 125000,
+      "maxAmount": 127000,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网未税价；普通尺寸含税 ¥137,500，宽版 ¥139,700",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.ogasaka-snowboard.com/product_26_09_fc-s.html"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_09.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_09_fc-s_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。",
+      "官方26/27说明：S表示Stiff，专家型号；原生定性硬度保留，不给未经校准的1–10数值。",
+      "日文官方页明确26-27更换3S芯材并调整硬度；尺寸/定价来源：https://www.ogasaka-snowboard.com/product_26_09_fc-s.html"
+    ]
+  },
+  {
+    "id": "ogasaka-xc-r-2027",
+    "brand": "OGASAKA",
+    "model": "XC-R",
+    "family": "XC-R",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官方型号分类已核实；True Twin / Directional Twin / Directional 的完整定义待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_10.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_10_xc-r_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-xc-2027",
+    "brand": "OGASAKA",
+    "model": "XC LE",
+    "family": "XC",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官方型号分类已核实；True Twin / Directional Twin / Directional 的完整定义待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_11.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_11_xc_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-sprout-2027",
+    "brand": "OGASAKA",
+    "model": "SPROUT",
+    "family": "SPROUT",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官方型号分类已核实；True Twin / Directional Twin / Directional 的完整定义待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_07.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_07_sprout_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-shin-144-2027",
+    "brand": "OGASAKA",
+    "model": "SHIN 144",
+    "family": "SHIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "144"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_12-1.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-144_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-shin-148-2027",
+    "brand": "OGASAKA",
+    "model": "SHIN 148",
+    "family": "SHIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "148"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_12-2.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-148_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-shin-156-2027",
+    "brand": "OGASAKA",
+    "model": "SHIN 156",
+    "family": "SHIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "156"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_12-3.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-156_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-shin-160-2027",
+    "brand": "OGASAKA",
+    "model": "SHIN 160",
+    "family": "SHIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "160"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_12-4.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-160_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-shin-167-2027",
+    "brand": "OGASAKA",
+    "model": "SHIN 167",
+    "family": "SHIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "167"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_12-5.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-167_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-shin-sw152-2027",
+    "brand": "OGASAKA",
+    "model": "SHIN SW152",
+    "family": "SHIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "152"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_12-6.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-sw152_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-shin-sw158-2027",
+    "brand": "OGASAKA",
+    "model": "SHIN SW158",
+    "family": "SHIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "158"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_12-7.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-sw158_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-shin-swca163-2027",
+    "brand": "OGASAKA",
+    "model": "SHIN SWCA163",
+    "family": "SHIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "163"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_12-8.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-swca163_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-facet152-2027",
+    "brand": "OGASAKA",
+    "model": "FACET 152",
+    "family": "FACET",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "152"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_13-1.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_13_facet152_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-facet159-2027",
+    "brand": "OGASAKA",
+    "model": "FACET 159",
+    "family": "FACET",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "159"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_13-2.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_13_facet159_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-facet165-2027",
+    "brand": "OGASAKA",
+    "model": "FACET 165",
+    "family": "FACET",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "165"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_13-3.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_13_facet165_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-facet-sw162-2027",
+    "brand": "OGASAKA",
+    "model": "FACET SW162",
+    "family": "FACET",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "162"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_13-4.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_13_facet_sw162_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-facet-sw168-2027",
+    "brand": "OGASAKA",
+    "model": "FACET SW168",
+    "family": "FACET",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官网粉雪/分体型号及官方轮廓所示定向外形；未映射为双向板。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "168"
+    ],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_13-5.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_13_facet_sw168_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-zx-g-2027",
+    "brand": "OGASAKA",
+    "model": "ZX-G",
+    "family": "ZX-G",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": null,
+    "shapeNote": "官方型号分类已核实；True Twin / Directional Twin / Directional 的完整定义待核实。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [],
+    "fit": [],
+    "price": null,
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_14.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_14_zx-g_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。"
+    ]
+  },
+  {
+    "id": "ogasaka-zx-2027",
+    "brand": "OGASAKA",
+    "model": "ZX",
+    "family": "ZX",
+    "season": "2026/27",
+    "seasonEvidence": "官方2026/27产品页索引；2026-img对应本季官网产品列表",
+    "shape": "Directional",
+    "shapeNote": "依据官方 ZX 26/27 PDF 头尾宽度及竞速外形归类为定向；原始头尾几何可核查。",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "玩法依据官方产品系列分类整理；硬度没有可靠 1–10 对照时保留未知。",
+    "sizes": [
+      "157",
+      "162",
+      "163",
+      "182",
+      "186"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 208000,
+      "maxAmount": 208000,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本官网未税价；官方另列含税 ¥228,800",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.ogasaka-snowboard.com/26-27-zx.pdf"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.ogasaka-snowboard.com/2026-img/sam_15.png",
+        "source": "https://www.ogasaka-snowboard.com/product_e.html",
+        "credit": "OGASAKA",
+        "season": "2026/27",
+        "label": "本季官方型号缩略图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.ogasaka-snowboard.com/product_26_15_zx_e.html",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "长度为官方型号所列可选尺寸；未找到可靠骑手体重适配表，不把可售尺寸当个人建议。",
+      "ZX 157/182 为官方女款竞速尺寸，162/163/186 为男款；163 为更硬的竞赛规格。单条记录含多个体型规格，请按官方资料选型。"
+    ]
+  }
+]

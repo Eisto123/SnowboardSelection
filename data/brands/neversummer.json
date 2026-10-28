@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "neversummer-mens-proto-swift-dt-snowboard",
+    "brand": "Never Summer",
+    "model": "Proto Swift DT",
+    "family": "Proto Swift DT",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "Flex: 5",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-proto-swift-dt-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "156",
+      "160",
+      "161X"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 739.99,
+      "maxAmount": 739.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-proto-swift-dt-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Swift_DT_Update.webp?v=1788454382",
+        "source": "https://neversummer.com/products/mens-proto-swift-dt-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SwiftDT_TOP.webp?v=1785341663",
+        "source": "https://neversummer.com/products/mens-proto-swift-dt-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SwiftDT_BASE.webp?v=1785341662",
+        "source": "https://neversummer.com/products/mens-proto-swift-dt-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SwiftDT_DETAIL_NOSE.webp?v=1785341661",
+        "source": "https://neversummer.com/products/mens-proto-swift-dt-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-proto-swift-dt-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-proto-swift-snowboard",
+    "brand": "Never Summer",
+    "model": "Proto Swift",
+    "family": "Proto Swift",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "Flex: 7",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-proto-swift-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "148",
+      "152",
+      "157",
+      "162",
+      "167"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 769.99,
+      "maxAmount": 769.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-proto-swift-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Proto_Swift_Update.webp?v=1787027347",
+        "source": "https://neversummer.com/products/mens-proto-swift-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Swift_TOP.webp?v=1785342758",
+        "source": "https://neversummer.com/products/mens-proto-swift-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Swift_DETAIL.webp?v=1785342758",
+        "source": "https://neversummer.com/products/mens-proto-swift-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Swift_DETAIL_BASE.webp?v=1785342758",
+        "source": "https://neversummer.com/products/mens-proto-swift-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-proto-swift-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-small-batch-proto-swift-st-snowboard",
+    "brand": "Never Summer",
+    "model": "Small Batch Proto Swift ST",
+    "family": "Small Batch Proto Swift ST",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "Flex: 7",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-small-batch-proto-swift-st-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "178"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 849.99,
+      "maxAmount": 849.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-small-batch-proto-swift-st-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Swift_ST_Update.webp?v=1786081253",
+        "source": "https://neversummer.com/products/mens-small-batch-proto-swift-st-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SwiftST_Top.webp?v=1785343154",
+        "source": "https://neversummer.com/products/mens-small-batch-proto-swift-st-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SwiftST_DETAIL_NOSE.webp?v=1785343154",
+        "source": "https://neversummer.com/products/mens-small-batch-proto-swift-st-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SwiftST_DETAIL_TAIL.webp?v=1785343154",
+        "source": "https://neversummer.com/products/mens-small-batch-proto-swift-st-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-small-batch-proto-swift-st-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-proto-t3-fr-snowboard",
+    "brand": "Never Summer",
+    "model": "Proto T3 FR",
+    "family": "Proto T3 FR",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "Flex: 7",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-proto-t3-fr-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "152",
+      "156",
+      "160",
+      "164",
+      "157X",
+      "161X",
+      "165X",
+      "170X",
+      "162DF",
+      "166DF"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 719.99,
+      "maxAmount": 719.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-proto-t3-fr-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Proto_T3_FR_Update.webp?v=1786081253",
+        "source": "https://neversummer.com/products/mens-proto-t3-fr-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/ProtoFR_TOP2.webp?v=1785340243",
+        "source": "https://neversummer.com/products/mens-proto-t3-fr-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/ProtoFR_TOP_DETAIL_MID.webp?v=1785340243",
+        "source": "https://neversummer.com/products/mens-proto-t3-fr-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/ProtoFR_TOP-DEATIL_NOSE.webp?v=1785340243",
+        "source": "https://neversummer.com/products/mens-proto-t3-fr-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-proto-t3-fr-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-womens-proto-t3-fr-snowboard",
+    "brand": "Never Summer",
+    "model": "Proto T3 FR",
+    "family": "Proto T3 FR",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "Flex: 7",
+      "method": null,
+      "source": "https://neversummer.com/products/womens-proto-t3-fr-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "144",
+      "147",
+      "151",
+      "153",
+      "156"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 659.99,
+      "maxAmount": 659.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/womens-proto-t3-fr-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_W_s_Proto_FR_No_Speckle.webp?v=1786081253",
+        "source": "https://neversummer.com/products/womens-proto-t3-fr-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/WomensProtoFR_TOP.webp?v=1785345267",
+        "source": "https://neversummer.com/products/womens-proto-t3-fr-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/WomensProtoFR_DETAIL.webp?v=1785345266",
+        "source": "https://neversummer.com/products/womens-proto-t3-fr-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/WomensProtoFR_DETAIL_TAIL.webp?v=1785345267",
+        "source": "https://neversummer.com/products/womens-proto-t3-fr-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/womens-proto-t3-fr-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-proto-type-3-snowboard",
+    "brand": "Never Summer",
+    "model": "Proto Type 3",
+    "family": "Proto Type 3",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Flex: 6",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-proto-type-3-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "157",
+      "160",
+      "158X",
+      "161X",
+      "164X",
+      "159DF",
+      "162DF"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 709.99,
+      "maxAmount": 709.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-proto-type-3-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_M_s_Proto_T3_Web.png?v=1765163137",
+        "source": "https://neversummer.com/products/mens-proto-type-3-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/PT3_TOP.webp?v=1785340890",
+        "source": "https://neversummer.com/products/mens-proto-type-3-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/PT3_BASE.webp?v=1785340890",
+        "source": "https://neversummer.com/products/mens-proto-type-3-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/PT3_Detail.webp?v=1785340890",
+        "source": "https://neversummer.com/products/mens-proto-type-3-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-proto-type-3-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。",
+      "官网当前尺码选项与页面残留规格图中的长度不一致；采用当前商品变体长度，不把旧规格图强配到本雪季体重建议。"
+    ]
+  },
+  {
+    "id": "neversummer-womens-proto-type-3-snowboard",
+    "brand": "Never Summer",
+    "model": "Proto Type 3",
+    "family": "Proto Type 3",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Flex: 6",
+      "method": null,
+      "source": "https://neversummer.com/products/womens-proto-type-3-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "139",
+      "142",
+      "145",
+      "148",
+      "151"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.99,
+      "maxAmount": 649.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/womens-proto-type-3-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_W_s_Proto_Type_3_No_Speckle.webp?v=1786081252",
+        "source": "https://neversummer.com/products/womens-proto-type-3-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/WomensProtoT3_TOP2.webp?v=1785344796",
+        "source": "https://neversummer.com/products/womens-proto-type-3-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/WomensProtoT3_DETAIL.webp?v=1785344796",
+        "source": "https://neversummer.com/products/womens-proto-type-3-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/WomensProtoT3_DETAIL2_BASE.webp?v=1785344795",
+        "source": "https://neversummer.com/products/womens-proto-type-3-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/womens-proto-type-3-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-proto-t3-eclipse-snowboard",
+    "brand": "Never Summer",
+    "model": "Proto T3 Eclipse",
+    "family": "Proto T3 Eclipse",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Flex: 6",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-proto-t3-eclipse-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "152",
+      "156",
+      "160",
+      "157X",
+      "161X",
+      "165X",
+      "162DF"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.99,
+      "maxAmount": 699.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-proto-t3-eclipse-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Eclipse_Update.webp?v=1786081252",
+        "source": "https://neversummer.com/products/mens-proto-t3-eclipse-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/ECLIPSE_TOP.webp?v=1785339979",
+        "source": "https://neversummer.com/products/mens-proto-t3-eclipse-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/ECLIPSE_DETAIL_BASE.webp?v=1785339979",
+        "source": "https://neversummer.com/products/mens-proto-t3-eclipse-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/ECLIPSE_DETAIL_BASE2.webp?v=1785339979",
+        "source": "https://neversummer.com/products/mens-proto-t3-eclipse-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-proto-t3-eclipse-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-proto-t3-ultra-snowboard",
+    "brand": "Never Summer",
+    "model": "Proto T3 Ultra",
+    "family": "Proto T3 Ultra",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "Flex: 7",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-proto-t3-ultra-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "154",
+      "157",
+      "160",
+      "163"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 709.99,
+      "maxAmount": 709.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-proto-t3-ultra-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_M_s_T3_Ultra_Web.png?v=1765163137",
+        "source": "https://neversummer.com/products/mens-proto-t3-ultra-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/ProtoUltra_TOP.webp?v=1785340721",
+        "source": "https://neversummer.com/products/mens-proto-t3-ultra-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/ProtoUltra_DETAIL.webp?v=1785340721",
+        "source": "https://neversummer.com/products/mens-proto-t3-ultra-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/ProtoUltra_DETAIL_NOSE.webp?v=1785340720",
+        "source": "https://neversummer.com/products/mens-proto-t3-ultra-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-proto-t3-ultra-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-nokhu-snowboard",
+    "brand": "Never Summer",
+    "model": "Nokhu",
+    "family": "Nokhu",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "Flex: 5",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-nokhu-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "152",
+      "155",
+      "158",
+      "161",
+      "161DF"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 689.99,
+      "maxAmount": 689.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-nokhu-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Nokhu_Web.png?v=1765163139",
+        "source": "https://neversummer.com/products/mens-nokhu-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Nokhu_TOP.webp?v=1785442036",
+        "source": "https://neversummer.com/products/mens-nokhu-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Nokhu_BASE.webp?v=1785442036",
+        "source": "https://neversummer.com/products/mens-nokhu-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Nokhu_DETAIL2.webp?v=1785442035",
+        "source": "https://neversummer.com/products/mens-nokhu-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-nokhu-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-womens-cirrus-snowboard",
+    "brand": "Never Summer",
+    "model": "Cirrus",
+    "family": "Cirrus",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "Flex: 5",
+      "method": null,
+      "source": "https://neversummer.com/products/womens-cirrus-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "141",
+      "145",
+      "149"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.99,
+      "maxAmount": 629.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/womens-cirrus-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Cirrus_Web.png?v=1765163139",
+        "source": "https://neversummer.com/products/womens-cirrus-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Cirrus_TOP.webp?v=1785339317",
+        "source": "https://neversummer.com/products/womens-cirrus-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Cirrus_BASE.webp?v=1785339317",
+        "source": "https://neversummer.com/products/womens-cirrus-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Cirrus_DETAIL.webp?v=1785339318",
+        "source": "https://neversummer.com/products/womens-cirrus-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/womens-cirrus-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-benchmark-snowboard",
+    "brand": "Never Summer",
+    "model": "Benchmark",
+    "family": "Benchmark",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Flex: 6",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-benchmark-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "152",
+      "156",
+      "160",
+      "157X",
+      "161X"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 639.99,
+      "maxAmount": 639.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-benchmark-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Benchmark_Web.png?v=1765163137",
+        "source": "https://neversummer.com/products/mens-benchmark-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Bench_TOP.webp?v=1786567871",
+        "source": "https://neversummer.com/products/mens-benchmark-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Bench_BASE.webp?v=1786567677",
+        "source": "https://neversummer.com/products/mens-benchmark-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Bench_DETAIL.webp?v=1786567872",
+        "source": "https://neversummer.com/products/mens-benchmark-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-benchmark-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-valhalla-snowboard",
+    "brand": "Never Summer",
+    "model": "Valhalla",
+    "family": "Valhalla",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 8.5,
+      "kind": "official",
+      "original": "Flex: 8.5",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-valhalla-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "147",
+      "153",
+      "156",
+      "160",
+      "164"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 689.99,
+      "maxAmount": 689.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-valhalla-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Valhalla_Web.png?v=1765163140",
+        "source": "https://neversummer.com/products/mens-valhalla-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Vahalla_TOP_efc8ca41-ec29-400e-a563-6afca92cd974.webp?v=1786476601",
+        "source": "https://neversummer.com/products/mens-valhalla-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Vahalla_BASE_02b4c4f3-1553-41d5-9979-25fea6446c33.webp?v=1786476602",
+        "source": "https://neversummer.com/products/mens-valhalla-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Vahalla_DETAIL_28e6d4de-1f91-4704-ac81-ba869740d69a.webp?v=1786476602",
+        "source": "https://neversummer.com/products/mens-valhalla-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-valhalla-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-v-twin-snowboard",
+    "brand": "Never Summer",
+    "model": "V-Twin",
+    "family": "V-Twin",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Flex: 6",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-v-twin-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "153",
+      "157",
+      "160",
+      "156X",
+      "159X",
+      "162X"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 669.99,
+      "maxAmount": 669.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-v-twin-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_V-Twin_Web.png?v=1776919392",
+        "source": "https://neversummer.com/products/mens-v-twin-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Vtwin_TOP.webp?v=1785344677",
+        "source": "https://neversummer.com/products/mens-v-twin-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Vtwin_BASE.webp?v=1785344677",
+        "source": "https://neversummer.com/products/mens-v-twin-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Vtwin_ACTION_GROOMER.webp?v=1785344677",
+        "source": "https://neversummer.com/products/mens-v-twin-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-v-twin-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-trooper-snowboard",
+    "brand": "Never Summer",
+    "model": "Trooper",
+    "family": "Trooper",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Flex: 6",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-trooper-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "157",
+      "160",
+      "158X",
+      "161X",
+      "164X"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 639.99,
+      "maxAmount": 639.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-trooper-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Trooper_Web.png?v=1765163139",
+        "source": "https://neversummer.com/products/mens-trooper-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Trooper_TOP.webp?v=1785344105",
+        "source": "https://neversummer.com/products/mens-trooper-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Trooper_DETAIL_NOSE.webp?v=1785344105",
+        "source": "https://neversummer.com/products/mens-trooper-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Trooper_DETAIL_TAIL.webp?v=1785344105",
+        "source": "https://neversummer.com/products/mens-trooper-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-trooper-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-llama-snowboard",
+    "brand": "Never Summer",
+    "model": "Llama",
+    "family": "Llama",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": null,
+    "shapeNote": "官网原文 asymmetrical twin；三分类无法完整表达非对称结构，归类待核实，保留原生板型。",
+    "flex": {
+      "value": 4,
+      "kind": "official",
+      "original": "Flex: 4",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-llama-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "146",
+      "149",
+      "153",
+      "156",
+      "159",
+      "154X",
+      "157X",
+      "160X"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 669.99,
+      "maxAmount": 669.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-llama-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Llama_Web.png?v=1765163140",
+        "source": "https://neversummer.com/products/mens-llama-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Llama_TOP.webp?v=1785441832",
+        "source": "https://neversummer.com/products/mens-llama-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Llama_BASE.webp?v=1785441832",
+        "source": "https://neversummer.com/products/mens-llama-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Llama_DETAIL.webp?v=1785441832",
+        "source": "https://neversummer.com/products/mens-llama-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-llama-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-easy-rider-snowboard",
+    "brand": "Never Summer",
+    "model": "Easy Rider",
+    "family": "Easy Rider",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "Flex: 5",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-easy-rider-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "148",
+      "152",
+      "154",
+      "157",
+      "160",
+      "153X",
+      "158X",
+      "160X"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.99,
+      "maxAmount": 599.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-easy-rider-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Easy_Rider_Web.png?v=1765163137",
+        "source": "https://neversummer.com/products/mens-easy-rider-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Easy_Rider_TOP.webp?v=1785339892",
+        "source": "https://neversummer.com/products/mens-easy-rider-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Easy_Rider_BASE.webp?v=1785339892",
+        "source": "https://neversummer.com/products/mens-easy-rider-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Easy_Rider_DETAIL.webp?v=1785339892",
+        "source": "https://neversummer.com/products/mens-easy-rider-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-easy-rider-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-womens-infinity-snowboard",
+    "brand": "Never Summer",
+    "model": "Infinity",
+    "family": "Infinity",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "Flex: 5",
+      "method": null,
+      "source": "https://neversummer.com/products/womens-infinity-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "142",
+      "145",
+      "148",
+      "151",
+      "154",
+      "152X",
+      "155X"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.99,
+      "maxAmount": 599.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/womens-infinity-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Infinity_Web.png?v=1765163138",
+        "source": "https://neversummer.com/products/womens-infinity-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Infinity_TOP.webp?v=1785340037",
+        "source": "https://neversummer.com/products/womens-infinity-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Infinity_BASE.webp?v=1785340036",
+        "source": "https://neversummer.com/products/womens-infinity-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Infinity_DETAIL.webp?v=1785340036",
+        "source": "https://neversummer.com/products/womens-infinity-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/womens-infinity-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-womens-cascade-snowboard",
+    "brand": "Never Summer",
+    "model": "Cascade",
+    "family": "Cascade",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": 4,
+      "kind": "official",
+      "original": "Flex: 4",
+      "method": null,
+      "source": "https://neversummer.com/products/womens-cascade-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "142",
+      "145",
+      "148",
+      "150"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 549.99,
+      "maxAmount": 549.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/womens-cascade-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Cascade_Web.png?v=1765163138",
+        "source": "https://neversummer.com/products/womens-cascade-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Cascade_TOP.webp?v=1785338887",
+        "source": "https://neversummer.com/products/womens-cascade-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Cascade_Base.webp?v=1785338887",
+        "source": "https://neversummer.com/products/womens-cascade-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Cascade_DETAIL.webp?v=1785338886",
+        "source": "https://neversummer.com/products/womens-cascade-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/womens-cascade-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-small-batch-shaper-twin-snowboard",
+    "brand": "Never Summer",
+    "model": "Small Batch Shaper Twin",
+    "family": "Small Batch Shaper Twin",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Flex: 6",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-small-batch-shaper-twin-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "156",
+      "159",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.99,
+      "maxAmount": 699.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-small-batch-shaper-twin-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/25.26_Shaper_Twin_Web.png?v=1768617156",
+        "source": "https://neversummer.com/products/mens-small-batch-shaper-twin-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SHAPER_DROP_SHAPER_TWIN_12.jpg?v=1770656554",
+        "source": "https://neversummer.com/products/mens-small-batch-shaper-twin-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SHAPER_DROP_SHAPER_TWIN_10.jpg?v=1770656552",
+        "source": "https://neversummer.com/products/mens-small-batch-shaper-twin-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SHAPER_DROP_SHAPER_TWIN_11.jpg?v=1770656554",
+        "source": "https://neversummer.com/products/mens-small-batch-shaper-twin-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-small-batch-shaper-twin-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-womens-small-batch-shaper-twin-lt-snowboard",
+    "brand": "Never Summer",
+    "model": "Small Batch Shaper Twin LT",
+    "family": "Small Batch Shaper Twin LT",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Flex: 6",
+      "method": null,
+      "source": "https://neversummer.com/products/womens-small-batch-shaper-twin-lt-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "146",
+      "149"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.99,
+      "maxAmount": 649.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/womens-small-batch-shaper-twin-lt-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/25.26_Shaper_Twin_LT_Web.png?v=1768617155",
+        "source": "https://neversummer.com/products/womens-small-batch-shaper-twin-lt-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SHAPER_DROP_SHAPER_TWIN_LITE_2.jpg?v=1770656552",
+        "source": "https://neversummer.com/products/womens-small-batch-shaper-twin-lt-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SHAPER_DROP_SHAPER_TWIN_LITE_4.jpg?v=1770656553",
+        "source": "https://neversummer.com/products/womens-small-batch-shaper-twin-lt-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SHAPER_DROP_SHAPER_TWIN_LITE_5.jpg?v=1770656553",
+        "source": "https://neversummer.com/products/womens-small-batch-shaper-twin-lt-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/womens-small-batch-shaper-twin-lt-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-small-batch-maverix-snowboard",
+    "brand": "Never Summer",
+    "model": "Small Batch Maverix",
+    "family": "Small Batch Maverix",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Flex: 6",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-small-batch-maverix-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "153",
+      "157",
+      "160"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.99,
+      "maxAmount": 699.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-small-batch-maverix-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/25.26_Maverix_Web.png?v=1768617156",
+        "source": "https://neversummer.com/products/mens-small-batch-maverix-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SHAPER_DROP_SHAPER_MAVERIX_2.jpg?v=1770656549",
+        "source": "https://neversummer.com/products/mens-small-batch-maverix-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SHAPER_DROP_SHAPER_MAVERIX_1.jpg?v=1770656552",
+        "source": "https://neversummer.com/products/mens-small-batch-maverix-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SHAPER_DROP_SHAPER_MAVERIX_3.jpg?v=1770656551",
+        "source": "https://neversummer.com/products/mens-small-batch-maverix-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-small-batch-maverix-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-small-batch-instagator-snowboard",
+    "brand": "Never Summer",
+    "model": "Small Batch Instagator",
+    "family": "Small Batch Instagator",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "Flex: 5",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-small-batch-instagator-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "148",
+      "151",
+      "156",
+      "159"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 689.99,
+      "maxAmount": 689.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-small-batch-instagator-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/25.26_Instagator_Web.png?v=1768617156",
+        "source": "https://neversummer.com/products/mens-small-batch-instagator-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SHAPER_DROP_INSTAGATOR_6.jpg?v=1770656553",
+        "source": "https://neversummer.com/products/mens-small-batch-instagator-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SHAPER_DROP_INSTAGATOR_8.jpg?v=1770656554",
+        "source": "https://neversummer.com/products/mens-small-batch-instagator-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SHAPER_DROP_INSTAGATOR_14.jpg?v=1770656553",
+        "source": "https://neversummer.com/products/mens-small-batch-instagator-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-small-batch-instagator-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-kids-proto-wilder-snowboard",
+    "brand": "Never Summer",
+    "model": "Kid’s Proto Wilder",
+    "family": "Kid’s Proto Wilder",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "Flex: 5",
+      "method": null,
+      "source": "https://neversummer.com/products/kids-proto-wilder-snowboard"
+    },
+    "gender": null,
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "137",
+      "140",
+      "144"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 439.99,
+      "maxAmount": 439.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/kids-proto-wilder-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Proto_Wilder_Update.webp?v=1786081253",
+        "source": "https://neversummer.com/products/kids-proto-wilder-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Wilder_DETAIL.webp?v=1785442576",
+        "source": "https://neversummer.com/products/kids-proto-wilder-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/kids-proto-wilder-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-kids-yutes-snowboard",
+    "brand": "Never Summer",
+    "model": "Kid’s Yutes",
+    "family": "Kid’s Yutes",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "official",
+      "original": "Flex: 3",
+      "method": null,
+      "source": "https://neversummer.com/products/kids-yutes-snowboard"
+    },
+    "gender": null,
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "120",
+      "125",
+      "130",
+      "135"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 369.99,
+      "maxAmount": 369.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/kids-yutes-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Yutes_Web.png?v=1765163137",
+        "source": "https://neversummer.com/products/kids-yutes-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Yutes_ACTION3.webp?v=1786567677",
+        "source": "https://neversummer.com/products/kids-yutes-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Yutes_ACTION2.webp?v=1786567677",
+        "source": "https://neversummer.com/products/kids-yutes-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Yutes_FACTORY_BASE.webp?v=1786567678",
+        "source": "https://neversummer.com/products/kids-yutes-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/kids-yutes-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-kids-shredder-snowboard",
+    "brand": "Never Summer",
+    "model": "Kid’s Shredder",
+    "family": "Kid’s Shredder",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 2,
+      "kind": "official",
+      "original": "Flex: 2",
+      "method": null,
+      "source": "https://neversummer.com/products/kids-shredder-snowboard"
+    },
+    "gender": null,
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "80",
+      "90",
+      "100",
+      "110"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 279.99,
+      "maxAmount": 279.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/kids-shredder-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Shredder_Web.png?v=1776919058",
+        "source": "https://neversummer.com/products/kids-shredder-snowboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/kids-shredder-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-unisex-summit-t3-splitboard",
+    "brand": "Never Summer",
+    "model": "Summit T3 Splitboard",
+    "family": "Summit T3 Splitboard",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "Flex: 7",
+      "method": null,
+      "source": "https://neversummer.com/products/unisex-summit-t3-splitboard"
+    },
+    "gender": "Unisex",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "149",
+      "153",
+      "157",
+      "161X",
+      "167X"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 1119.99,
+      "maxAmount": 1119.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/unisex-summit-t3-splitboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27_Summit_T3_Web.png?v=1765920908",
+        "source": "https://neversummer.com/products/unisex-summit-t3-splitboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/unisex-summit-t3-splitboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  },
+  {
+    "id": "neversummer-mens-small-batch-nokhu-splitboard",
+    "brand": "Never Summer",
+    "model": "Small Batch Nokhu Splitboard",
+    "family": "Small Batch Nokhu Splitboard",
+    "season": "2026/27",
+    "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "Flex: 6",
+      "method": null,
+      "source": "https://neversummer.com/products/mens-small-batch-nokhu-splitboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑依据官网产品描述与分类整理；不等于实滑结论",
+    "sizes": [
+      "159"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 1119.99,
+      "maxAmount": 1119.99,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "税费以官网地区结算口径为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://neversummer.com/products/mens-small-batch-nokhu-splitboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/26.27NokhuSplit.webp?v=1786585173",
+        "source": "https://neversummer.com/products/mens-small-batch-nokhu-splitboard",
+        "credit": "Never Summer",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://neversummer.com/products/mens-small-batch-nokhu-splitboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": [
+      "本次未核实可与当前型号/雪季逐长度对应的官方骑手体重表；官网选项的商品 weight 为商品物流重量，不能用作骑手体重推荐。"
+    ]
+  }
+]

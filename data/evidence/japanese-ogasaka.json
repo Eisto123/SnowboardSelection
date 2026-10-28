@@ -1,0 +1,320 @@
+{
+  "checkedAt": "2026-10-28",
+  "lineupSource": "https://www.ogasaka-snowboard.com/product_e.html",
+  "additionalSource": "https://www.ogasaka-snowboard.com/26-27-zx.pdf",
+  "method": "官方产品列表覆盖26条；单页未能访问的价格和参数保留待核实。TF官方只有品牌内最软的定性描述，撤销无校准的3/10映射。",
+  "products": [
+    {
+      "id": "ogasaka-tf-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_01_tf_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_01_tf_e.html",
+      "priceSource": "https://www.ogasaka-snowboard.com/product_26_01_tf_e.html",
+      "pending": [
+        "官方骑手体重推荐表",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-ct-twin-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_02_ct-twin_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_02_ct-twin_e.html",
+      "priceSource": "https://www.ogasaka-snowboard.com/product_26_02_ct-twin_e.html",
+      "pending": [
+        "官方骑手体重推荐表",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-ct-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_03_ct_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_03_ct_e.html",
+      "priceSource": "https://www.ogasaka-snowboard.com/product_26_03_ct_e.html",
+      "pending": [
+        "官方骑手体重推荐表",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-ct-iz-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_04_ct-iz_e.html",
+      "sizesSource": null,
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "尺寸表",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-ct-s-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_05_ct-s_e.html",
+      "sizesSource": null,
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "尺寸表",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-orca-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_06_orca_e.html",
+      "sizesSource": null,
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "尺寸表",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-fc-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_08_fc_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_08_fc_e.html",
+      "priceSource": "https://www.ogasaka-snowboard.com/product_26_08_fc_e.html",
+      "pending": [
+        "官方骑手体重推荐表",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-fc-s-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_09_fc-s_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_09_fc-s.html",
+      "priceSource": "https://www.ogasaka-snowboard.com/product_26_09_fc-s.html",
+      "pending": [
+        "官方骑手体重推荐表",
+        "统一1–10硬度标定"
+      ],
+      "shapeSource": "https://www.ogasaka-snowboard.com/product_26_09_fc-s.html"
+    },
+    {
+      "id": "ogasaka-xc-r-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_10_xc-r_e.html",
+      "sizesSource": null,
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "尺寸表",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-xc-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_11_xc_e.html",
+      "sizesSource": null,
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "尺寸表",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-sprout-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_07_sprout_e.html",
+      "sizesSource": null,
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "尺寸表",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-shin-144-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-144_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_12_shin-144_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-shin-148-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-148_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_12_shin-148_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-shin-156-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-156_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_12_shin-156_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-shin-160-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-160_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_12_shin-160_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-shin-167-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-167_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_12_shin-167_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-shin-sw152-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-sw152_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_12_shin-sw152_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-shin-sw158-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-sw158_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_12_shin-sw158_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-shin-swca163-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_12_shin-swca163_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_12_shin-swca163_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-facet152-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_13_facet152_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_13_facet152_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-facet159-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_13_facet159_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_13_facet159_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-facet165-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_13_facet165_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_13_facet165_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-facet-sw162-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_13_facet_sw162_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_13_facet_sw162_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-facet-sw168-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_13_facet_sw168_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/product_26_13_facet_sw168_e.html",
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-zx-g-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_14_zx-g_e.html",
+      "sizesSource": null,
+      "priceSource": null,
+      "pending": [
+        "官方骑手体重推荐表",
+        "官网定价",
+        "尺寸表",
+        "板型定义",
+        "统一1–10硬度标定"
+      ]
+    },
+    {
+      "id": "ogasaka-zx-2027",
+      "source": "https://www.ogasaka-snowboard.com/product_26_15_zx_e.html",
+      "sizesSource": "https://www.ogasaka-snowboard.com/26-27-zx.pdf",
+      "priceSource": "https://www.ogasaka-snowboard.com/26-27-zx.pdf",
+      "pending": [
+        "官方骑手体重推荐表",
+        "统一1–10硬度标定"
+      ]
+    }
+  ]
+}

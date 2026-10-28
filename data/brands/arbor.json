@@ -1,0 +1,2673 @@
+[
+  {
+    "id": "arbor-rain-snowboard-27",
+    "brand": "Arbor",
+    "model": "Rain",
+    "family": "Rain",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "flex:7",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/rain-snowboard-27"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "153",
+      "155",
+      "157",
+      "158W",
+      "159",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 619.95,
+      "maxAmount": 619.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/rain-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/ARBOR-26-CANDLE-RAIN-01.png?v=1775500012",
+        "source": "https://www.arborcollective.com/products/rain-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/ARBOR-26-CANDLE-RAIN-02.png?v=1775500022",
+        "source": "https://www.arborcollective.com/products/rain-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/ARBOR-26-CANDLE-RAIN-04.png?v=1775596019",
+        "source": "https://www.arborcollective.com/products/rain-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/ARBOR-26-CANDLE-RAIN-03.png?v=1775596019",
+        "source": "https://www.arborcollective.com/products/rain-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/rain-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-terrapin-pfd-snowboard-27",
+    "brand": "Arbor",
+    "model": "Terrapin PFD",
+    "family": "Terrapin PFD",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "flex:5",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/terrapin-pfd-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "146",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/terrapin-pfd-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_TERRAPIN_PFD_2025_STUDIOcopy2.png?v=1775523713",
+        "source": "https://www.arborcollective.com/products/terrapin-pfd-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_TERRAPIN_PFD_2025_STUDIOcopy2.png?v=1775523756",
+        "source": "https://www.arborcollective.com/products/terrapin-pfd-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_TERRAPIN_PFD_2025_STUDIOcopy2.png?v=1775596034",
+        "source": "https://www.arborcollective.com/products/terrapin-pfd-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_TERRAPIN_PFD_2025_STUDIOcopy2.png?v=1775596034",
+        "source": "https://www.arborcollective.com/products/terrapin-pfd-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/terrapin-pfd-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-padre-snowboard-27",
+    "brand": "Arbor",
+    "model": "Padre",
+    "family": "Padre",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "flex:7",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/padre-snowboard-27"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "153",
+      "157",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/padre-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_PADRE_2025_STUDIOcopy2.png?v=1775523893",
+        "source": "https://www.arborcollective.com/products/padre-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_PADRE_2025_STUDIOcopy_f3d2d437-f122-4a86-bb0c-e3b41736d08f.png?v=1775523907",
+        "source": "https://www.arborcollective.com/products/padre-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_PADRE_2025_STUDIOcopy_ce67a21b-4868-4c31-8866-e25678f5d01c.png?v=1775596061",
+        "source": "https://www.arborcollective.com/products/padre-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_PADRE_2025_STUDIOcopy.png?v=1775596061",
+        "source": "https://www.arborcollective.com/products/padre-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/padre-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-bryan-iguchi-pro-snowboard-27",
+    "brand": "Arbor",
+    "model": "Bryan Iguchi Pro",
+    "family": "Bryan Iguchi Pro",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "flex:7",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/bryan-iguchi-pro-snowboard-27"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "156",
+      "158W",
+      "159",
+      "162",
+      "164W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 679.95,
+      "maxAmount": 679.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/bryan-iguchi-pro-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_BRYAN_IGUCHI_PRO_2025_STUDIOcopy2.png?v=1775578774",
+        "source": "https://www.arborcollective.com/products/bryan-iguchi-pro-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_BRYAN_IGUCHI_PRO_2025_STUDIOcopy2.png?v=1775578800",
+        "source": "https://www.arborcollective.com/products/bryan-iguchi-pro-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_BRYAN_IGUCHI_PRO_2025_STUDIOcopy2.png?v=1775596074",
+        "source": "https://www.arborcollective.com/products/bryan-iguchi-pro-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_BRYAN_IGUCHI_PRO_2025_STUDIOcopy2.png?v=1775596074",
+        "source": "https://www.arborcollective.com/products/bryan-iguchi-pro-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/bryan-iguchi-pro-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "arbor-carbon-coda-snowboard-27",
+    "brand": "Arbor",
+    "model": "Carbon Coda",
+    "family": "Carbon Coda",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "official",
+      "original": "flex:8",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/carbon-coda-snowboard-27"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "155",
+      "158",
+      "159W",
+      "161",
+      "162W",
+      "164",
+      "165W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/carbon-coda-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_CARBON_CODA_2025_STUDIOcopy2.png?v=1775579095",
+        "source": "https://www.arborcollective.com/products/carbon-coda-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_CARBON_CODA_2025_STUDIOcopy2.png?v=1775579104",
+        "source": "https://www.arborcollective.com/products/carbon-coda-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_CARBON_CODA_2025_STUDIOcopy2.png?v=1775596089",
+        "source": "https://www.arborcollective.com/products/carbon-coda-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_CARBON_CODA_2025_STUDIOcopy2.png?v=1775596089",
+        "source": "https://www.arborcollective.com/products/carbon-coda-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/carbon-coda-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-sin-nombre-snowboard-27",
+    "brand": "Arbor",
+    "model": "Sin Nombre",
+    "family": "Sin Nombre",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "flex:6",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/sin-nombre-snowboard-27"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "153",
+      "156",
+      "158W",
+      "159",
+      "161W",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 519.95,
+      "maxAmount": 519.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/sin-nombre-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/0-ARBOR_RAIN_2025_STUDIOcopy.pngcopy3.png?v=1775579820",
+        "source": "https://www.arborcollective.com/products/sin-nombre-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_RAIN_2025_STUDIOcopy2.png?v=1775579828",
+        "source": "https://www.arborcollective.com/products/sin-nombre-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/5-ARBOR_RAIN_2025_STUDIOcopy2.png?v=1775596102",
+        "source": "https://www.arborcollective.com/products/sin-nombre-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_RAIN_2025_STUDIOcopy2.png?v=1775596102",
+        "source": "https://www.arborcollective.com/products/sin-nombre-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/sin-nombre-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-veda-snowboard-27",
+    "brand": "Arbor",
+    "model": "Veda",
+    "family": "Veda",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "flex:7",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/veda-snowboard-27"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "145",
+      "150",
+      "154"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/veda-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_VEDA_2025_STUDIOcopy2.png?v=1775580008",
+        "source": "https://www.arborcollective.com/products/veda-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_VEDA_2025_STUDIOcopy2.png?v=1775580018",
+        "source": "https://www.arborcollective.com/products/veda-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_VEDA_2025_STUDIOcopy2.png?v=1775596118",
+        "source": "https://www.arborcollective.com/products/veda-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_VEDA_2025_STUDIOcopy2.png?v=1775596118",
+        "source": "https://www.arborcollective.com/products/veda-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/veda-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-sin-cara-snowboard-27",
+    "brand": "Arbor",
+    "model": "Sin Cara",
+    "family": "Sin Cara",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "flex:6",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/sin-cara-snowboard-27"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 519.95,
+      "maxAmount": 519.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/sin-cara-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_MANTRA_2025_STUDIOcopy2.png?v=1775580304",
+        "source": "https://www.arborcollective.com/products/sin-cara-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_MANTRA_2025_STUDIOcopy2.png?v=1775580316",
+        "source": "https://www.arborcollective.com/products/sin-cara-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_MANTRA_2025_STUDIOcopy2.png?v=1775596133",
+        "source": "https://www.arborcollective.com/products/sin-cara-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_MANTRA_2025_STUDIOcopy2.png?v=1775596133",
+        "source": "https://www.arborcollective.com/products/sin-cara-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/sin-cara-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-swoon-decon-snowboard-27",
+    "brand": "Arbor",
+    "model": "Swoon Decon",
+    "family": "Swoon Decon",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 4,
+      "kind": "official",
+      "original": "flex:4",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/swoon-decon-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "140",
+      "144",
+      "148",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 479.95,
+      "maxAmount": 479.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/swoon-decon-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_SWOON_DECON_2025_STUDIOcopy2.png?v=1775580627",
+        "source": "https://www.arborcollective.com/products/swoon-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_SWOON_DECON_2025_STUDIOcopy2.png?v=1775580635",
+        "source": "https://www.arborcollective.com/products/swoon-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_SWOON_DECON_2025_STUDIOcopy2.png?v=1775596165",
+        "source": "https://www.arborcollective.com/products/swoon-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_SWOON_DECON_2025_STUDIOcopy2.png?v=1775596165",
+        "source": "https://www.arborcollective.com/products/swoon-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/swoon-decon-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-swoon-snowboard-27",
+    "brand": "Arbor",
+    "model": "Swoon",
+    "family": "Swoon",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "flex:5",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/swoon-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "140",
+      "144",
+      "148",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/swoon-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_SWOON_2025_STUDIOcopy2.png?v=1775587589",
+        "source": "https://www.arborcollective.com/products/swoon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_SWOON_2025_STUDIOcopy2.png?v=1775587601",
+        "source": "https://www.arborcollective.com/products/swoon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_SWOON_2025_STUDIOcopy2.png?v=1775596183",
+        "source": "https://www.arborcollective.com/products/swoon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_SWOON_2025_STUDIOcopy2.png?v=1775596183",
+        "source": "https://www.arborcollective.com/products/swoon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/swoon-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-cadence-snowboard-27",
+    "brand": "Arbor",
+    "model": "Cadence",
+    "family": "Cadence",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 4,
+      "kind": "official",
+      "original": "flex:4",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/cadence-snowboard-27"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "139",
+      "143",
+      "147",
+      "151"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/cadence-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_CADENCE_2025_STUDIOcopy2.png?v=1775587821",
+        "source": "https://www.arborcollective.com/products/cadence-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_CADENCE_2025_STUDIOcopy2.png?v=1775587833",
+        "source": "https://www.arborcollective.com/products/cadence-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_CADENCE_2025_STUDIOcopy2.png?v=1775596198",
+        "source": "https://www.arborcollective.com/products/cadence-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_CADENCE_2025_STUDIOcopy2.png?v=1775596198",
+        "source": "https://www.arborcollective.com/products/cadence-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/cadence-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-mantra-snowboard-27",
+    "brand": "Arbor",
+    "model": "Mantra",
+    "family": "Mantra",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "flex:5",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/mantra-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "139",
+      "143",
+      "147",
+      "151"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/mantra-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_MANTRA_2025_STUDIOcopy2_ee9a74b2-0822-482a-9fed-d834d8d0fbfd.png?v=1775587961",
+        "source": "https://www.arborcollective.com/products/mantra-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_MANTRA_2025_STUDIOcopy2_11497e6b-860f-4be7-95e6-7124ff0e7095.png?v=1775587971",
+        "source": "https://www.arborcollective.com/products/mantra-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_MANTRA_2025_STUDIOcopy2_5c387b6c-7e26-425e-82e0-02dbe51a97fa.png?v=1775596218",
+        "source": "https://www.arborcollective.com/products/mantra-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_MANTRA_2025_STUDIOcopy2_d23bce87-26d2-49c5-b2d9-5b067b899068.png?v=1775596218",
+        "source": "https://www.arborcollective.com/products/mantra-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/mantra-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-rooster-fish-snowboard-27",
+    "brand": "Arbor",
+    "model": "Rooster Fish",
+    "family": "Rooster Fish",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "flex:6",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/rooster-fish-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "153",
+      "157"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/rooster-fish-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_TERRAPIN_PFD_2025_STUDIOcopy2_c21b4179-f5bb-43a5-bc46-6f30ce2ed57b.png?v=1775588105",
+        "source": "https://www.arborcollective.com/products/rooster-fish-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_TERRAPIN_PFD_2025_STUDIOcopy2_a31ac024-5121-4fb2-ada7-3b703661370e.png?v=1775588117",
+        "source": "https://www.arborcollective.com/products/rooster-fish-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_TERRAPIN_PFD_2025_STUDIOcopy2_d328a8ed-3bd7-4a06-849f-c7bfb4a76b62.png?v=1775596234",
+        "source": "https://www.arborcollective.com/products/rooster-fish-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_TERRAPIN_PFD_2025_STUDIOcopy2_69ad8753-cd3d-4058-ba97-4a2533d6390c.png?v=1775596234",
+        "source": "https://www.arborcollective.com/products/rooster-fish-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/rooster-fish-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "arbor-astrowaste-snowboard-27",
+    "brand": "Arbor",
+    "model": "Astrowaste",
+    "family": "Astrowaste",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "flex:6",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/astrowaste-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "150",
+      "153",
+      "156",
+      "159"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/astrowaste-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_BRYAN_IGUCHI_PRO_2025_STUDIOcopy2_92ef8d05-eba5-4a99-9329-c1c6303a26fa.png?v=1775588251",
+        "source": "https://www.arborcollective.com/products/astrowaste-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_BRYAN_IGUCHI_PRO_2025_STUDIOcopy2_81cc34e6-ef59-4767-a061-57cccceea075.png?v=1775588263",
+        "source": "https://www.arborcollective.com/products/astrowaste-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_BRYAN_IGUCHI_PRO_2025_STUDIOcopy2_b0e86c53-1ec9-44ff-855a-d5e35bcb4c06.png?v=1775596250",
+        "source": "https://www.arborcollective.com/products/astrowaste-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_BRYAN_IGUCHI_PRO_2025_STUDIOcopy2_d6d84592-97c7-4383-97f1-6092dca39431.png?v=1775596250",
+        "source": "https://www.arborcollective.com/products/astrowaste-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/astrowaste-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-red-gerard-am-snowboard-27",
+    "brand": "Arbor",
+    "model": "Red Gerard Am",
+    "family": "Red Gerard Am",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "flex:6",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/red-gerard-am-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "135",
+      "140",
+      "145"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 349.95,
+      "maxAmount": 349.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/red-gerard-am-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_ELEMENT_2025_STUDIOcopy2.png?v=1775588419",
+        "source": "https://www.arborcollective.com/products/red-gerard-am-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_ELEMENT_2025_STUDIOcopy2.png?v=1775588429",
+        "source": "https://www.arborcollective.com/products/red-gerard-am-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_ELEMENT_2025_STUDIOcopy2.png?v=1775596270",
+        "source": "https://www.arborcollective.com/products/red-gerard-am-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_ELEMENT_2025_STUDIOcopy2.png?v=1775596270",
+        "source": "https://www.arborcollective.com/products/red-gerard-am-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/red-gerard-am-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "arbor-a-frame-snowboard-27",
+    "brand": "Arbor",
+    "model": "A-Frame",
+    "family": "A-Frame",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "flex:7",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/a-frame-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "158",
+      "162",
+      "166"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/a-frame-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_AFRAME_2025_STUDIOcopy2.png?v=1775588541",
+        "source": "https://www.arborcollective.com/products/a-frame-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_AFRAME_2025_STUDIOcopy_16fc273d-4248-4880-adf3-ffce75171a58.png?v=1775588552",
+        "source": "https://www.arborcollective.com/products/a-frame-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/5-ARBOR_AFRAME_2025_STUDIOcopy_99536fb9-558d-4abe-9579-8786ae02069b.png?v=1775596287",
+        "source": "https://www.arborcollective.com/products/a-frame-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_AFRAME_2025_STUDIOcopy_c9db4fc7-b9fc-4d04-95db-31bc7aeeabe9.png?v=1775596287",
+        "source": "https://www.arborcollective.com/products/a-frame-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/a-frame-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-kuro-neko-decon-snowboard-27",
+    "brand": "Arbor",
+    "model": "Kuro Neko Decon",
+    "family": "Kuro Neko Decon",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "flex:5",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/kuro-neko-decon-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "141",
+      "145",
+      "149",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/kuro-neko-decon-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_KURO_NEKO_2025_STUDIOcopy2.png?v=1775588905",
+        "source": "https://www.arborcollective.com/products/kuro-neko-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_KURO_NEKO_2025_STUDIOcopy2.png?v=1775588917",
+        "source": "https://www.arborcollective.com/products/kuro-neko-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_KURO_NEKO_2025_STUDIOcopy2.png?v=1775596305",
+        "source": "https://www.arborcollective.com/products/kuro-neko-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_KURO_NEKO_2025_STUDIOcopy2.png?v=1775596305",
+        "source": "https://www.arborcollective.com/products/kuro-neko-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/kuro-neko-decon-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-kuro-neko-snowboard-27",
+    "brand": "Arbor",
+    "model": "Kuro Neko",
+    "family": "Kuro Neko",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "flex:6",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/kuro-neko-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "141",
+      "145",
+      "149",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/kuro-neko-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_KURO_NEKO_2025_STUDIOcopy2_4914fa56-87c8-4f3a-bcd0-63a9f08a360d.png?v=1775589061",
+        "source": "https://www.arborcollective.com/products/kuro-neko-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_KURO_NEKO_2025_STUDIOcopy2_78b8bf62-79b1-4930-9fed-173050b9814e.png?v=1775589069",
+        "source": "https://www.arborcollective.com/products/kuro-neko-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_KURO_NEKO_2025_STUDIOcopy2_a6cfc97f-49b6-4242-a1ca-7ddea369aaf6.png?v=1775596318",
+        "source": "https://www.arborcollective.com/products/kuro-neko-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_KURO_NEKO_2025_STUDIOcopy2_81007eca-196b-4686-81af-d73903b6cbc2.png?v=1775596318",
+        "source": "https://www.arborcollective.com/products/kuro-neko-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/kuro-neko-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-mantra-decon-snowboard-27",
+    "brand": "Arbor",
+    "model": "Mantra Decon",
+    "family": "Mantra Decon",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "flex:5",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/mantra-decon-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "139",
+      "143",
+      "147",
+      "151"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 479.95,
+      "maxAmount": 479.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/mantra-decon-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_MANTRA_DECON_2025_STUDIOcopy2.png?v=1775589274",
+        "source": "https://www.arborcollective.com/products/mantra-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_MANTRA_DECON_2025_STUDIOcopy2.png?v=1775589284",
+        "source": "https://www.arborcollective.com/products/mantra-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_MANTRA_DECON_2025_STUDIOcopy2.png?v=1775596345",
+        "source": "https://www.arborcollective.com/products/mantra-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_MANTRA_DECON_2025_STUDIOcopy2.png?v=1775596345",
+        "source": "https://www.arborcollective.com/products/mantra-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/mantra-decon-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-coda-snowboard-27",
+    "brand": "Arbor",
+    "model": "Coda",
+    "family": "Coda",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "flex:7",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/coda-snowboard-27"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "155",
+      "158",
+      "159W",
+      "161",
+      "162W",
+      "164",
+      "165W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 619.95,
+      "maxAmount": 619.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/coda-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_CODA_2025_STUDIOcopy2.png?v=1775595236",
+        "source": "https://www.arborcollective.com/products/coda-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_CODA_2025_STUDIOcopy2.png?v=1775595249",
+        "source": "https://www.arborcollective.com/products/coda-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_CODA_2025_STUDIOcopy2.png?v=1775596361",
+        "source": "https://www.arborcollective.com/products/coda-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_CODA_2025_STUDIOcopy2.png?v=1775596361",
+        "source": "https://www.arborcollective.com/products/coda-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/coda-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-madre-snowboard-27",
+    "brand": "Arbor",
+    "model": "Madre",
+    "family": "Madre",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 7,
+      "kind": "official",
+      "original": "flex:7",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/madre-snowboard-27"
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "144",
+      "148"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/madre-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_MADRE_2025_STUDIOcopy2.png?v=1775595401",
+        "source": "https://www.arborcollective.com/products/madre-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_MADRE_2025_STUDIOcopy.png?v=1775595543",
+        "source": "https://www.arborcollective.com/products/madre-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/5-ARBOR_MADRE_2025_STUDIOcopy_53e6ff97-d8f1-44c0-bb8a-fe89621c10a6.png?v=1775595573",
+        "source": "https://www.arborcollective.com/products/madre-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_MADRE_2025_STUDIOcopy_3631f2ad-a144-4ce8-99e2-2e3d72c0b1a7.png?v=1775595573",
+        "source": "https://www.arborcollective.com/products/madre-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/madre-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-danny-kass-park-pro-snowboard-27",
+    "brand": "Arbor",
+    "model": "Danny Kass Park Pro",
+    "family": "Danny Kass Park Pro",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": "官方描述为 directional-looking cambered twin，未明确 True Twin / Directional Twin，保留待核实。",
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "flex:6",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/danny-kass-park-pro-snowboard-27"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "157"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/danny-kass-park-pro-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_DANNY_KASS_PRO_2025_STUDIOcopy2.png?v=1775595634",
+        "source": "https://www.arborcollective.com/products/danny-kass-park-pro-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_DANNY_KASS_PRO_2025_STUDIOcopy2.png?v=1775595649",
+        "source": "https://www.arborcollective.com/products/danny-kass-park-pro-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_DANNY_KASS_PRO_2025_STUDIOcopy2.png?v=1775595817",
+        "source": "https://www.arborcollective.com/products/danny-kass-park-pro-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_DANNY_KASS_PRO_2025_STUDIOcopy2.png?v=1775595817",
+        "source": "https://www.arborcollective.com/products/danny-kass-park-pro-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/danny-kass-park-pro-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "arbor-element-decon-snowboard-27",
+    "brand": "Arbor",
+    "model": "Element Decon",
+    "family": "Element Decon",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "flex:5",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/element-decon-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "154",
+      "156",
+      "158",
+      "160",
+      "162",
+      "164"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 479.95,
+      "maxAmount": 479.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/element-decon-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/0-ARBOR_ELEMENT_DECON_2025_STUDIOcopy.png?v=1775595854",
+        "source": "https://www.arborcollective.com/products/element-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_ELEMENT_DECON_2025_STUDIOcopy2.png?v=1775595864",
+        "source": "https://www.arborcollective.com/products/element-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_ELEMENT_DECON_2025_STUDIOcopy2.png?v=1775595983",
+        "source": "https://www.arborcollective.com/products/element-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_ELEMENT_DECON_2025_STUDIOcopy2.png?v=1775595983",
+        "source": "https://www.arborcollective.com/products/element-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/element-decon-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-element-snowboard-27",
+    "brand": "Arbor",
+    "model": "Element",
+    "family": "Element",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "flex:6",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/element-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "154",
+      "156",
+      "158",
+      "160",
+      "162",
+      "164"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/element-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/0-ARBOR_ELEMENT_2025_STUDIOcopy.png?v=1775596426",
+        "source": "https://www.arborcollective.com/products/element-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_ELEMENT_2025_STUDIOcopy2_03ad2073-1ff0-43aa-a202-c05c167f7ba7.png?v=1775596440",
+        "source": "https://www.arborcollective.com/products/element-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_ELEMENT_2025_STUDIOcopy2_89c8779a-f087-4259-aae4-cc4bed65b6e1.png?v=1775596451",
+        "source": "https://www.arborcollective.com/products/element-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_ELEMENT_2025_STUDIOcopy2_c90da334-ad04-4a45-a0b7-d362c296297a.png?v=1775596464",
+        "source": "https://www.arborcollective.com/products/element-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/element-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-formula-snowboard-27",
+    "brand": "Arbor",
+    "model": "Formula",
+    "family": "Formula",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "flex:6",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/formula-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "152",
+      "155",
+      "158",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/formula-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_FORMULA_2025_STUDIOcopy2_d9870d19-539d-49d4-8039-821f6a2405f0.png?v=1775596637",
+        "source": "https://www.arborcollective.com/products/formula-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_FORMULA_2025_STUDIOcopy2.png?v=1775596649",
+        "source": "https://www.arborcollective.com/products/formula-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_FORMULA_2025_STUDIOcopy2.png?v=1775596666",
+        "source": "https://www.arborcollective.com/products/formula-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_FORMULA_2025_STUDIOcopy2.png?v=1775596683",
+        "source": "https://www.arborcollective.com/products/formula-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/formula-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-formula-decon-snowboard-27",
+    "brand": "Arbor",
+    "model": "Formula Decon",
+    "family": "Formula Decon",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "152",
+      "155",
+      "158",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 479.95,
+      "maxAmount": 479.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/formula-decon-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_FORMULA_DECON_2025_STUDIOcopy2.png?v=1775596791",
+        "source": "https://www.arborcollective.com/products/formula-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_FORMULA_DECON_2025_STUDIOcopy2.png?v=1775596803",
+        "source": "https://www.arborcollective.com/products/formula-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_FORMULA_DECON_2025_STUDIOcopy2.png?v=1775596821",
+        "source": "https://www.arborcollective.com/products/formula-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_FORMULA_DECON_2025_STUDIOcopy2.png?v=1775596836",
+        "source": "https://www.arborcollective.com/products/formula-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/formula-decon-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "arbor-seedling-snowboard-27",
+    "brand": "Arbor",
+    "model": "Seedling",
+    "family": "Seedling",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": 2,
+      "kind": "official",
+      "original": "flex:2",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/seedling-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "110",
+      "120",
+      "130"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 249.95,
+      "maxAmount": 249.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/seedling-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_VOTIVE_2025_STUDIOcopy3.png?v=1775596994",
+        "source": "https://www.arborcollective.com/products/seedling-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_VOTIVE_2025_STUDIOcopy3.png?v=1775597004",
+        "source": "https://www.arborcollective.com/products/seedling-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_VOTIVE_2025_STUDIOcopy3.png?v=1775597017",
+        "source": "https://www.arborcollective.com/products/seedling-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_VOTIVE_2025_STUDIOcopy3.png?v=1775597032",
+        "source": "https://www.arborcollective.com/products/seedling-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/seedling-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "arbor-scion-snowboard-27",
+    "brand": "Arbor",
+    "model": "Scion",
+    "family": "Scion",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "official",
+      "original": "flex:3",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/scion-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "110",
+      "120",
+      "130",
+      "140"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 249.95,
+      "maxAmount": 249.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/scion-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_VOTIVE_2025_STUDIOcopy2.png?v=1775597167",
+        "source": "https://www.arborcollective.com/products/scion-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_VOTIVE_2025_STUDIOcopy2.png?v=1775597180",
+        "source": "https://www.arborcollective.com/products/scion-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_VOTIVE_2025_STUDIOcopy2.png?v=1775597194",
+        "source": "https://www.arborcollective.com/products/scion-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_VOTIVE_2025_STUDIOcopy2.png?v=1775597210",
+        "source": "https://www.arborcollective.com/products/scion-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/scion-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "arbor-el-camino-snowboard-27",
+    "brand": "Arbor",
+    "model": "El Camino",
+    "family": "El Camino",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "official",
+      "original": "flex:8",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/el-camino-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "155",
+      "158",
+      "159W",
+      "161",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/el-camino-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_EL_CAMINO_2025_STUDIOcopy2.png?v=1775597543",
+        "source": "https://www.arborcollective.com/products/el-camino-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_EL_CAMINO_2025_STUDIOcopy2.png?v=1775597554",
+        "source": "https://www.arborcollective.com/products/el-camino-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_EL_CAMINO_2025_STUDIOcopy2.png?v=1775597581",
+        "source": "https://www.arborcollective.com/products/el-camino-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_EL_CAMINO_2025_STUDIOcopy2.png?v=1775597598",
+        "source": "https://www.arborcollective.com/products/el-camino-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/el-camino-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-metal-machine-decon-snowboard-27",
+    "brand": "Arbor",
+    "model": "Metal Machine Decon",
+    "family": "Metal Machine Decon",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 5,
+      "kind": "official",
+      "original": "flex:5",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/metal-machine-decon-snowboard-27"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "150",
+      "153",
+      "156",
+      "159"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/metal-machine-decon-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_METAL_MACHINE_2025_STUDIOcopy2.png?v=1775598162",
+        "source": "https://www.arborcollective.com/products/metal-machine-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_METAL_MACHINE_2025_STUDIOcopy2.png?v=1775598178",
+        "source": "https://www.arborcollective.com/products/metal-machine-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/5-ARBOR_METAL_MACHINE_2025_STUDIOcopy2.png?v=1775598206",
+        "source": "https://www.arborcollective.com/products/metal-machine-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_METAL_MACHINE_2025_STUDIOcopy2.png?v=1775598228",
+        "source": "https://www.arborcollective.com/products/metal-machine-decon-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/metal-machine-decon-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-metal-machine-snowboard-27",
+    "brand": "Arbor",
+    "model": "Metal Machine",
+    "family": "Metal Machine",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 6,
+      "kind": "official",
+      "original": "flex:6",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/metal-machine-snowboard-27"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "150",
+      "153",
+      "156",
+      "159"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 549.95,
+      "maxAmount": 549.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/metal-machine-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_METAL_MACHINE_2025_STUDIOcopy2_b52d8116-0800-4602-8be6-d62548ec5677.png?v=1775598385",
+        "source": "https://www.arborcollective.com/products/metal-machine-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_METAL_MACHINE_2025_STUDIOcopy2_d9471ea8-e196-4af8-9831-4f94f45a8175.png?v=1775598396",
+        "source": "https://www.arborcollective.com/products/metal-machine-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/6-ARBOR_METAL_MACHINE_2025_STUDIOcopy2.png?v=1775598412",
+        "source": "https://www.arborcollective.com/products/metal-machine-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_METAL_MACHINE_2025_STUDIOcopy2_42978fa0-54ae-478f-8515-84e4fc16c368.png?v=1775598431",
+        "source": "https://www.arborcollective.com/products/metal-machine-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/metal-machine-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-draft-snowboard-27",
+    "brand": "Arbor",
+    "model": "Draft",
+    "family": "Draft",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 4,
+      "kind": "official",
+      "original": "flex:4",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/draft-snowboard-27"
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "148",
+      "152",
+      "155W",
+      "156"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 449.95,
+      "maxAmount": 449.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/draft-snowboard-27"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/1-ARBOR_DRAFT_2025_STUDIOcopy2.png?v=1775598544",
+        "source": "https://www.arborcollective.com/products/draft-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/2-ARBOR_DRAFT_2025_STUDIOcopy2.png?v=1775598557",
+        "source": "https://www.arborcollective.com/products/draft-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/4-ARBOR_DRAFT_2025_STUDIOcopy2.png?v=1775598572",
+        "source": "https://www.arborcollective.com/products/draft-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/3-ARBOR_DRAFT_2025_STUDIOcopy2.png?v=1775598588",
+        "source": "https://www.arborcollective.com/products/draft-snowboard-27",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/draft-snowboard-27",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "arbor-red-gerard-pro-snowboard",
+    "brand": "Arbor",
+    "model": "Red Gerard Pro",
+    "family": "Red Gerard Pro",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": 8,
+      "kind": "official",
+      "original": "flex:8",
+      "method": null,
+      "source": "https://www.arborcollective.com/products/red-gerard-pro-snowboard"
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "155",
+      "157"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.arborcollective.com/products/red-gerard-pro-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/RED-PRO_2025_STUDIO-1.png?v=1763758361",
+        "source": "https://www.arborcollective.com/products/red-gerard-pro-snowboard",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/RED_PRO_2025_STUDIO-2.png?v=1763758361",
+        "source": "https://www.arborcollective.com/products/red-gerard-pro-snowboard",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/RED-PRO_2025_STUDIO-3.png?v=1763758361",
+        "source": "https://www.arborcollective.com/products/red-gerard-pro-snowboard",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0085/5762/5410/files/RED-PRO_2025_STUDIO-5.png?v=1763758361",
+        "source": "https://www.arborcollective.com/products/red-gerard-pro-snowboard",
+        "credit": "Arbor",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.arborcollective.com/products/red-gerard-pro-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  }
+]

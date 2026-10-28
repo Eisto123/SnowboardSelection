@@ -1,0 +1,3407 @@
+[
+  {
+    "id": "bataleon-bataleon-2627-stereo-team-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Stereo Team",
+    "family": "Stereo Team",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "141",
+      "144",
+      "147",
+      "150",
+      "152",
+      "153W",
+      "154",
+      "156",
+      "156W",
+      "158",
+      "159W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-stereo-team-2-mens-snowboards_e50c0e08-eddc-470d-b54c-99092098b4b3.jpg?v=1766066623",
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-stereo-team-4-mens-snowboards_1655d35a-c83b-429e-ba5b-07ebfa25d5b7.jpg?v=1766066623",
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-stereo-team-3-mens-snowboards_50f7e82e-e364-4b93-ab51-5db3d56c0a38.jpg?v=1766066623",
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/Bataleon_Stereo_TheoAcworth_Lowres-9245-4-5.jpg?v=1766147624",
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-mojo-womens-snowboard",
+    "brand": "Bataleon",
+    "model": "Women's Mojo",
+    "family": "Women's Mojo",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138",
+      "140",
+      "143",
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 459.95,
+      "maxAmount": 459.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-mojo-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_mojo_w_2-womens-snowboards.jpg?v=1787050947",
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_mojo_w_1-womens-snowboards.jpg?v=1787050947",
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_mojo_w_3-womens-snowboards.jpg?v=1787050947",
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_mojo_w_4-womens-snowboards.jpg?v=1787050947",
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-mojo-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-whatever-petrovsky-ramone-snowboard",
+    "brand": "Bataleon",
+    "model": "Whatever x Petrovsky&Ramone",
+    "family": "Whatever x Petrovsky&Ramone",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "全山",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138",
+      "144",
+      "148",
+      "151",
+      "154",
+      "156W",
+      "157",
+      "159W",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_whatever_petrovsky-ramone_2-mens-snowboards.jpg?v=1787050936",
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_whatever_petrovsky-ramone_1-mens-snowboards.jpg?v=1787050936",
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_whatever_petrovsky-ramone_3-mens-snowboards.jpg?v=1787050936",
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_whatever_petrovsky-ramone_4-mens-snowboards.jpg?v=1787050936",
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-minishred-2627-youth-snowboard",
+    "brand": "Bataleon",
+    "model": "Minishred Youth",
+    "family": "Minishred Youth",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Youth",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "85",
+      "95",
+      "105",
+      "115",
+      "120"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 249.95,
+      "maxAmount": 249.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-minishred-2627-youth-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_minishred_6-youth-snowboards.jpg?v=1787050889",
+        "source": "https://bataleon.com/products/bataleon-minishred-2627-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_minishred_5-youth-snowboards.jpg?v=1787050889",
+        "source": "https://bataleon.com/products/bataleon-minishred-2627-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_minishred_4-youth-snowboards.jpg?v=1787050890",
+        "source": "https://bataleon.com/products/bataleon-minishred-2627-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_minishred_3-youth-snowboards.jpg?v=1787050889",
+        "source": "https://bataleon.com/products/bataleon-minishred-2627-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-minishred-2627-youth-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-disaster-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Men's Disaster",
+    "family": "Men's Disaster",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "soft flex",
+      "method": "编辑文字映射：soft/softer=3，mid-soft=4，medium=5，mid-stiff=7，stiff=8；仅导航估值，误差约±1，非跨品牌实测。",
+      "source": "https://bataleon.com/products/bataleon-2627-disaster-mens-snowboard"
+    },
+    "gender": "Men",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "151",
+      "153W",
+      "154",
+      "156W",
+      "157"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 499.95,
+      "maxAmount": 499.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-disaster-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_m_disaster_2-mens-snowboards.jpg?v=1787050858",
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_m_disaster_1-mens-snowboards.jpg?v=1787050858",
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_m_disaster_3-mens-snowboards.jpg?v=1787050858",
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_m_disaster_4-mens-snowboards.jpg?v=1787050858",
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-disaster-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-thunderstorm-womens-snowboard",
+    "brand": "Bataleon",
+    "model": "Women's Thunderstorm",
+    "family": "Women's Thunderstorm",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "144",
+      "148",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 589.95,
+      "maxAmount": 589.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_thunderstorm_w_2-womens-snowboards.jpg?v=1787050959",
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_thunderstorm_w_1-womens-snowboards.jpg?v=1787050959",
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_thunderstorm_w_3-womens-snowboards.jpg?v=1787050959",
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_thunderstorm_w_4-womens-snowboards.jpg?v=1787050959",
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-stereo-womens-snowboard",
+    "brand": "Bataleon",
+    "model": "Women's Stereo",
+    "family": "Women's Stereo",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "141",
+      "144",
+      "147",
+      "150"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 569.95,
+      "maxAmount": 569.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-stereo-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2627_Bataleon_Stereo_WMS_Front_Double_Open.jpg?v=1792064313",
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2627_Bataleon_Stereo_WMS_Front_Single.jpg?v=1792064313",
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2627_Bataleon_Stereo_WMS_Diagonal_Front.jpg?v=1792064313",
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2627_Bataleon_Stereo_WMS_Front_Double.jpg?v=1792092367",
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-stereo-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-disaster-womens-snowboard",
+    "brand": "Bataleon",
+    "model": "Women's Disaster",
+    "family": "Women's Disaster",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 2,
+      "kind": "official",
+      "original": "Flex 2.0 1 10",
+      "method": null,
+      "source": "https://bataleon.com/products/bataleon-2627-disaster-womens-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "入门",
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "140",
+      "144",
+      "148",
+      "151"
+    ],
+    "fit": [
+      {
+        "length": "140",
+        "weightKg": [
+          37,
+          57
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-womens-snowboard"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          41,
+          61
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-womens-snowboard"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-womens-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-womens-snowboard"
+      }
+    ],
+    "price": {
+      "amount": 499.95,
+      "maxAmount": 499.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-disaster-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_w_disaster_2-mens-snowboards.jpg?v=1787050941",
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_w_disaster_1-mens-snowboards.jpg?v=1787050941",
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_w_disaster_3-mens-snowboards.jpg?v=1787050942",
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_w_disaster_4-mens-snowboards.jpg?v=1787050942",
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-disaster-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-whatever-unisex-snowboard",
+    "brand": "Bataleon",
+    "model": "Whatever",
+    "family": "Whatever",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138",
+      "144",
+      "148",
+      "151",
+      "154",
+      "156W",
+      "157",
+      "159W",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_whatever_2-mens-snowboards.jpg?v=1787050934",
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_whatever_1-mens-snowboards.jpg?v=1787050935",
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_whatever_3-mens-snowboards.jpg?v=1787050934",
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_whatever_4-mens-snowboards.jpg?v=1787050935",
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-tornado-x-beyond-medals-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Tornado x Beyond Medals",
+    "family": "Tornado x Beyond Medals",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园",
+      "粉雪 / 自由滑",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "153",
+      "156",
+      "159",
+      "160W",
+      "162",
+      "164W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 649.95,
+      "maxAmount": 649.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-tornado-x-beyond-medals-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_tornado_2-mens-snowboards.jpg?v=1787050922",
+        "source": "https://bataleon.com/products/bataleon-2627-tornado-x-beyond-medals-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_tornado_1-mens-snowboards.jpg?v=1787050922",
+        "source": "https://bataleon.com/products/bataleon-2627-tornado-x-beyond-medals-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_tornado_3-mens-snowboards.jpg?v=1787050922",
+        "source": "https://bataleon.com/products/bataleon-2627-tornado-x-beyond-medals-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_tornado_4-mens-snowboards.jpg?v=1787050922",
+        "source": "https://bataleon.com/products/bataleon-2627-tornado-x-beyond-medals-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-tornado-x-beyond-medals-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-turbo-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Turbo Men's",
+    "family": "Turbo Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "156",
+      "158W",
+      "159",
+      "161W",
+      "164W",
+      "167W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 689.95,
+      "maxAmount": 689.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-turbo-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_turbo_2-mens-snowboards.jpg?v=1787050929",
+        "source": "https://bataleon.com/products/bataleon-2627-turbo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_turbo_1-mens-snowboards.jpg?v=1787050929",
+        "source": "https://bataleon.com/products/bataleon-2627-turbo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_turbo_3-mens-snowboards.jpg?v=1787050929",
+        "source": "https://bataleon.com/products/bataleon-2627-turbo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_turbo_4-mens-snowboards.jpg?v=1787050929",
+        "source": "https://bataleon.com/products/bataleon-2627-turbo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-turbo-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-surfer-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Surfer Men's",
+    "family": "Surfer Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "154",
+      "159",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 1199.95,
+      "maxAmount": 1199.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-surfer-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_surfer_2-mens-snowboards.jpg?v=1787050920",
+        "source": "https://bataleon.com/products/bataleon-2627-surfer-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_surfer_1-mens-snowboards.jpg?v=1787050920",
+        "source": "https://bataleon.com/products/bataleon-2627-surfer-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_surfer_3-mens-snowboards.jpg?v=1787050920",
+        "source": "https://bataleon.com/products/bataleon-2627-surfer-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_surfer_4-mens-snowboards.jpg?v=1787050919",
+        "source": "https://bataleon.com/products/bataleon-2627-surfer-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-surfer-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-push-up-plus-womens-snowboard",
+    "brand": "Bataleon",
+    "model": "Push Up+ Women's",
+    "family": "Push Up+ Women's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138",
+      "140",
+      "143",
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 639.95,
+      "maxAmount": 639.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-push-up-plus-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_push_up_p_2-womens-snowboards.jpg?v=1787050908",
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-plus-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_push_up_p_1-womens-snowboards.jpg?v=1787050908",
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-plus-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_push_up_p_3-womens-snowboards.jpg?v=1787050908",
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-plus-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_push_up_p_4-womens-snowboards.jpg?v=1787050908",
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-plus-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-push-up-plus-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-push-up-womens-snowboard",
+    "brand": "Bataleon",
+    "model": "Push Up Women's",
+    "family": "Push Up Women's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 4,
+      "kind": "official",
+      "original": "Flex 4.0 1 10",
+      "method": null,
+      "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138",
+      "140",
+      "143",
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          35,
+          55
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          37,
+          57
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          40,
+          60
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          43,
+          63
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          46,
+          66
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          51,
+          71
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard"
+      }
+    ],
+    "price": {
+      "amount": 539.95,
+      "maxAmount": 539.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_push_up_2-mens-snowboards.jpg?v=1787050905",
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_push_up_1-mens-snowboards.jpg?v=1787050905",
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_push_up_3-mens-snowboards.jpg?v=1787050905",
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_push_up_4-mens-snowboards.jpg?v=1787050905",
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-push-up-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-placebo-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Placebo Men's",
+    "family": "Placebo Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "153",
+      "156",
+      "159",
+      "160W",
+      "162",
+      "164W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 559.95,
+      "maxAmount": 559.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_placebo_2-mens-snowboards.jpg?v=1787050894",
+        "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_placebo_1-mens-snowboards.jpg?v=1787050894",
+        "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_placebo_3-mens-snowboards.jpg?v=1787050894",
+        "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_placebo_4-mens-snowboards.jpg?v=1787050894",
+        "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-party-wave-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Party Wave Men's",
+    "family": "Party Wave Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "145",
+      "148",
+      "151",
+      "154",
+      "157"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 529.95,
+      "maxAmount": 529.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-party-wave-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_party_wave_2-mens-snowboards.jpg?v=1787050894",
+        "source": "https://bataleon.com/products/bataleon-2627-party-wave-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_party_wave_1-mens-snowboards.jpg?v=1787050894",
+        "source": "https://bataleon.com/products/bataleon-2627-party-wave-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_party_wave_3-mens-snowboards.jpg?v=1787050894",
+        "source": "https://bataleon.com/products/bataleon-2627-party-wave-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_party_wave_4-mens-snowboards.jpg?v=1787050894",
+        "source": "https://bataleon.com/products/bataleon-2627-party-wave-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-party-wave-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-thunderstorm-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Men's Thunderstorm",
+    "family": "Men's Thunderstorm",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "154",
+      "156",
+      "156W",
+      "158",
+      "159W",
+      "161",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 589.95,
+      "maxAmount": 589.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_thunderstorm_m_2-mens-snowboards.jpg?v=1787050879",
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_thunderstorm_m_1-mens-snowboards.jpg?v=1787050879",
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_thunderstorm_m_3-mens-snowboards.jpg?v=1787050879",
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_thunderstorm_m_4-mens-snowboards.jpg?v=1787050879",
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-stereo-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Men's Stereo",
+    "family": "Men's Stereo",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "150",
+      "152",
+      "153W",
+      "154",
+      "156",
+      "156W",
+      "158",
+      "159W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 569.95,
+      "maxAmount": 569.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627-stereo-mens-snowboard-2.jpg?v=1787319694",
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627-stereo-mens-snowboard-1.jpg?v=1787319694",
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627-stereo-mens-snowboard-3.jpg?v=1787319693",
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627-stereo-mens-snowboard-4.jpg?v=1787319693",
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-mojo-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Men's Mojo",
+    "family": "Men's Mojo",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "152",
+      "155",
+      "157",
+      "159",
+      "159W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 459.95,
+      "maxAmount": 459.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-mojo-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_mojo_m_2-mens-snowboards.jpg?v=1787050864",
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_mojo_m_1-mens-snowboards.jpg?v=1787050864",
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_mojo_m_3-mens-snowboards.jpg?v=1787050864",
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_mojo_m_4-mens-snowboards.jpg?v=1787050864",
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-mojo-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-goliath-plus-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Goliath+ Men's",
+    "family": "Goliath+ Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "153",
+      "156",
+      "158W",
+      "159",
+      "161W",
+      "164W",
+      "167W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_goliath_plus_2-mens-snowboards.jpg?v=1787050851",
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_goliath_plus_1-mens-snowboards.jpg?v=1787050851",
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_goliath_plus_3-mens-snowboards.jpg?v=1787050851",
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_goliath_plus_4-mens-snowboards.jpg?v=1787050851",
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-goliath-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Goliath Men's",
+    "family": "Goliath Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "153",
+      "156",
+      "158W",
+      "159",
+      "161W",
+      "164W",
+      "167W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_goliath_2-mens-snowboards.jpg?v=1787050851",
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_goliath_1-mens-snowboards.jpg?v=1787050851",
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_goliath_3-mens-snowboards.jpg?v=1787050851",
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_goliath_4-mens-snowboards.jpg?v=1787050851",
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-funkink-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "FunKink Men's",
+    "family": "FunKink Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "151",
+      "154",
+      "157",
+      "159W",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 499.95,
+      "maxAmount": 499.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-funkink-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_funkink_2-mens-snowboards.jpg?v=1787050846",
+        "source": "https://bataleon.com/products/bataleon-2627-funkink-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_funkink_1-mens-snowboards.jpg?v=1787050846",
+        "source": "https://bataleon.com/products/bataleon-2627-funkink-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_funkink_3-mens-snowboards.jpg?v=1787050846",
+        "source": "https://bataleon.com/products/bataleon-2627-funkink-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_funkink_4-mens-snowboards.jpg?v=1787050846",
+        "source": "https://bataleon.com/products/bataleon-2627-funkink-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-funkink-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-feelbetter-womens-snowboard",
+    "brand": "Bataleon",
+    "model": "Feelbetter Women's",
+    "family": "Feelbetter Women's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "official",
+      "original": "Flex 3.0 1 10",
+      "method": null,
+      "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138",
+      "140",
+      "143",
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          35,
+          55
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          37,
+          57
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          40,
+          60
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          43,
+          63
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          46,
+          66
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          51,
+          71
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard"
+      }
+    ],
+    "price": {
+      "amount": 489.95,
+      "maxAmount": 489.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_feelbetter_2-womens-snowboards.jpg?v=1787050835",
+        "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_feelbetter_1-womens-snowboards.jpg?v=1787050835",
+        "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_feelbetter_3-womens-snowboards.jpg?v=1787050835",
+        "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_feelbetter_4-womens-snowboards.jpg?v=1787050835",
+        "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-feelbetter-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-evil-twin-plus-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Evil Twin+ Men's",
+    "family": "Evil Twin+ Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "True Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "156W",
+      "157",
+      "159",
+      "159W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 699.95,
+      "maxAmount": 699.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-evil-twin-plus-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_evil_twin_plus_2-mens-snowboards.jpg?v=1787050835",
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-plus-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_evil_twin_plus_1-mens-snowboards.jpg?v=1787050834",
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-plus-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_evil_twin_plus_3-mens-snowboards.jpg?v=1787050838",
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-plus-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_evil_twin_plus_4-mens-snowboards.jpg?v=1787050834",
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-plus-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-evil-twin-plus-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-evil-twin-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Evil Twin Men's",
+    "family": "Evil Twin Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "156W",
+      "157",
+      "159",
+      "159W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 589.95,
+      "maxAmount": 589.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-evil-twin-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_evil_twin_2-mens-snowboards.jpg?v=1787050837",
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_evil_twin_1-mens-snowboards.jpg?v=1787050838",
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_evil_twin_3-mens-snowboards.jpg?v=1787050838",
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_evil_twin_4-mens-snowboards.jpg?v=1787050837",
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-evil-twin-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-evil-teen-youth-snowboard",
+    "brand": "Bataleon",
+    "model": "Evil Teen Youth",
+    "family": "Evil Teen Youth",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Youth",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "130",
+      "135",
+      "140",
+      "140W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 389.95,
+      "maxAmount": 389.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-evil-teen-youth-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_evil_teen_1-mens-snowboards.jpg?v=1787050833",
+        "source": "https://bataleon.com/products/bataleon-2627-evil-teen-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_evil_teen_2-mens-snowboards.jpg?v=1787050833",
+        "source": "https://bataleon.com/products/bataleon-2627-evil-teen-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_evil_teen_3-mens-snowboards.jpg?v=1787050834",
+        "source": "https://bataleon.com/products/bataleon-2627-evil-teen-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_evil_teen_4-mens-snowboards.jpg?v=1787050833",
+        "source": "https://bataleon.com/products/bataleon-2627-evil-teen-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-evil-teen-youth-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-disaster-plus-snowboard",
+    "brand": "Bataleon",
+    "model": "Disaster+",
+    "family": "Disaster+",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "公园",
+      "平花"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "148",
+      "151",
+      "153W",
+      "154",
+      "156W",
+      "157"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 629.95,
+      "maxAmount": 629.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-disaster-plus-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_p_disaster_2-mens-snowboards.jpg?v=1787050829",
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-plus-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_p_disaster_1-mens-snowboards.jpg?v=1787050829",
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-plus-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_p_disaster_3-mens-snowboards.jpg?v=1787050829",
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-plus-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_p_disaster_4-mens-snowboards.jpg?v=1787050828",
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-plus-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-disaster-plus-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2627-cameleon-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Cameleon Men's",
+    "family": "Cameleon Men's",
+    "season": "2026/27",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "公园",
+      "粉雪 / 自由滑",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "153",
+      "157",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 689.95,
+      "maxAmount": 689.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2627-cameleon-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_cameleon_2-mens-snowboards.jpg?v=1782894743",
+        "source": "https://bataleon.com/products/bataleon-2627-cameleon-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_cameleon_1-mens-snowboards.jpg?v=1782890985",
+        "source": "https://bataleon.com/products/bataleon-2627-cameleon-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_cameleon_3-mens-snowboards.jpg?v=1782894743",
+        "source": "https://bataleon.com/products/bataleon-2627-cameleon-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2627_cameleon_4-mens-snowboards.jpg?v=1782894743",
+        "source": "https://bataleon.com/products/bataleon-2627-cameleon-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2026/27",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2627-cameleon-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2526-tornado-x-beyond-medals-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Tornado x Beyond Medals Men's",
+    "family": "Tornado x Beyond Medals Men's",
+    "season": "2025/26",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "151",
+      "154",
+      "156",
+      "159",
+      "161W",
+      "164W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 669.95,
+      "maxAmount": 669.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2526-tornado-x-beyond-medals-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-beyondmedals-tornado-2-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-tornado-x-beyond-medals-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-beyondmedals-tornado-3-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-tornado-x-beyond-medals-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-beyondmedals-tornado-4-mens-snowboards.jpg?v=1757349071",
+        "source": "https://bataleon.com/products/bataleon-2526-tornado-x-beyond-medals-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2526-bataleon-beyond-medals-0704_TeamWeek_Craig_Robinson0H5A3343.jpg?v=1757349071",
+        "source": "https://bataleon.com/products/bataleon-2526-tornado-x-beyond-medals-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2526-tornado-x-beyond-medals-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2526-cameleon-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Cameleon Men's",
+    "family": "Cameleon Men's",
+    "season": "2025/26",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "153",
+      "157",
+      "161"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 689.95,
+      "maxAmount": 689.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2526-cameleon-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-cameleon-2-mens-snowboards.jpg?v=1757388063",
+        "source": "https://bataleon.com/products/bataleon-2526-cameleon-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-cameleon-3-mens-snowboards.jpg?v=1757388063",
+        "source": "https://bataleon.com/products/bataleon-2526-cameleon-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-cameleon-4-mens-snowboards.jpg?v=1757388064",
+        "source": "https://bataleon.com/products/bataleon-2526-cameleon-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2526-bataleon-cameleon-0112_JAPAN_Craig_Robinson0H5A4410.jpg?v=1757349127",
+        "source": "https://bataleon.com/products/bataleon-2526-cameleon-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2526-cameleon-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2526-minishred-youth-snowboard",
+    "brand": "Bataleon",
+    "model": "Minishred Youth",
+    "family": "Minishred Youth",
+    "season": "2025/26",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Youth",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "85",
+      "95",
+      "105",
+      "115",
+      "120"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 249.95,
+      "maxAmount": 249.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2526-minishred-youth-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-minishred-2-mens-snowboards.jpg?v=1757387976",
+        "source": "https://bataleon.com/products/bataleon-2526-minishred-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-minishred-3-mens-snowboards.jpg?v=1757387976",
+        "source": "https://bataleon.com/products/bataleon-2526-minishred-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-minishred-4-mens-snowboards.jpg?v=1757387976",
+        "source": "https://bataleon.com/products/bataleon-2526-minishred-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2526-bataleon-mini-shred-1104_TeamWeek_Craig_Robinson0H5A5819.jpg?v=1757349093",
+        "source": "https://bataleon.com/products/bataleon-2526-minishred-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2526-minishred-youth-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2526-push-up-womens-snowboard",
+    "brand": "Bataleon",
+    "model": "Push Up Women's",
+    "family": "Push Up Women's",
+    "season": "2025/26",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": 4,
+      "kind": "converted",
+      "original": "mid-soft flex",
+      "method": "编辑文字映射：soft/softer=3，mid-soft=4，medium=5，mid-stiff=7，stiff=8；仅导航估值，误差约±1，非跨品牌实测。",
+      "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard"
+    },
+    "gender": "Women",
+    "levels": [
+      "进阶",
+      "高手"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138",
+      "140",
+      "143",
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 529.95,
+      "maxAmount": 529.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-pushup-2-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-pushup-3-mens-snowboards.jpg?v=1757387976",
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-pushup-4-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2526-bataleon-push-up-0603_BigMoodWeek_Craig_Robinson0H5A0011-Enhanced-NR-Edit.jpg?v=1757349089",
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "reviewed",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2526-push-up-plus-womens-snowboard",
+    "brand": "Bataleon",
+    "model": "Push Up+ Women's",
+    "family": "Push Up+ Women's",
+    "season": "2025/26",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Women",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑",
+      "刻滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138",
+      "140",
+      "143",
+      "146",
+      "149",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 639.95,
+      "maxAmount": 639.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2526-push-up-plus-womens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-pushup-plus-2-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-plus-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-pushup-plus-3-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-plus-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-pushup-plus-4-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-plus-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2526-bataleon-push-up-plus-0112_JAPAN_Craig_Robinson0H5A4428.jpg?v=1757349088",
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-plus-womens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2526-push-up-plus-womens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2526-stuntwood-youth-snowboard",
+    "brand": "Bataleon",
+    "model": "Stuntwood Youth",
+    "family": "Stuntwood Youth",
+    "season": "2025/26",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": 3,
+      "kind": "converted",
+      "original": "softer flex",
+      "method": "编辑文字映射：soft/softer=3，mid-soft=4，medium=5，mid-stiff=7，stiff=8；仅导航估值，误差约±1，非跨品牌实测。",
+      "source": "https://bataleon.com/products/bataleon-2526-stuntwood-youth-snowboard"
+    },
+    "gender": "Youth",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "130",
+      "135",
+      "140",
+      "140W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 359.95,
+      "maxAmount": 359.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2526-stuntwood-youth-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-stuntwood-2-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-stuntwood-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-stuntwood-3-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-stuntwood-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-stuntwood-4-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-stuntwood-youth-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2526-stuntwood-youth-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2526-surfer-mens-snowboard",
+    "brand": "Bataleon",
+    "model": "Surfer Men's",
+    "family": "Surfer Men's",
+    "season": "2025/26",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Men",
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "全山",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "149",
+      "154",
+      "159",
+      "162"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 1099.95,
+      "maxAmount": 1099.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2526-surfer-mens-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-surfer-2-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-surfer-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-surfer-3-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-surfer-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-surfer-4-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-surfer-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2526-bataleon-surfer-0118_JAPAN_Craig_Robinson0H5A8454.jpg?v=1757349075",
+        "source": "https://bataleon.com/products/bataleon-2526-surfer-mens-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2526-surfer-mens-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard",
+    "brand": "Bataleon",
+    "model": "Whatever Rop van Mierlo",
+    "family": "Whatever Rop van Mierlo",
+    "season": "2025/26",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [],
+    "terrains": [],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138",
+      "144",
+      "148",
+      "151",
+      "154",
+      "156W",
+      "157",
+      "159W",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 599.95,
+      "maxAmount": 599.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-whatever-ropvanmierlo-138-1-mens-snowboards.jpg?v=1757387976",
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-whatever-ropvanmierlo-144-1-mens-snowboards.jpg?v=1757387976",
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-whatever-ropvanmierlo-148-1-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-whatever-ropvanmierlo-151-1-mens-snowboards.jpg?v=1757387976",
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2526-wallie-snowboard",
+    "brand": "Bataleon",
+    "model": "Wallie",
+    "family": "Wallie",
+    "season": "2025/26",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": null,
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [
+      "进阶"
+    ],
+    "terrains": [
+      "公园"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138",
+      "141",
+      "145",
+      "148",
+      "151",
+      "154",
+      "154W",
+      "156"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 559.95,
+      "maxAmount": 559.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-wallie-2-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-wallie-3-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-wallie-4-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2526-bataleon-wallie-0403_ProductWeek_Craig_Robinson0H5A3466.jpg?v=1757349064",
+        "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2526-thunderstorm-unisex-snowboard",
+    "brand": "Bataleon",
+    "model": "ThunderStorm",
+    "family": "ThunderStorm",
+    "season": "2025/26",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [],
+    "terrains": [
+      "全山",
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "144N",
+      "148N",
+      "152N",
+      "154",
+      "156",
+      "158",
+      "161",
+      "156W",
+      "159W",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 589.95,
+      "maxAmount": 589.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-thunderstorm-2-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-thunderstorm-3-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-thunderstorm-4-mens-snowboards.jpg?v=1757349058",
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2526-bataleon-thunderstorm-0118_JAPAN_Craig_Robinson0H5A8617.jpg?v=1757349058",
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  },
+  {
+    "id": "bataleon-bataleon-2526-whatever-unisex-snowboard",
+    "brand": "Bataleon",
+    "model": "Whatever",
+    "family": "Whatever",
+    "season": "2025/26",
+    "seasonEvidence": "官方型号 / 雪季标签",
+    "shape": "Directional Twin",
+    "shapeNote": null,
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": "Unisex",
+    "levels": [],
+    "terrains": [
+      "公园",
+      "粉雪 / 自由滑"
+    ],
+    "recommendationBasis": "编辑按官网简介关键词归类；不是厂商认证水平或实滑结论",
+    "sizes": [
+      "138",
+      "144",
+      "148",
+      "151",
+      "154",
+      "157",
+      "156W",
+      "159W",
+      "162W"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 579.95,
+      "maxAmount": 579.95,
+      "currency": "USD",
+      "region": "US",
+      "kind": "official-list",
+      "tax": "美国站标价；税费以结算为准",
+      "season": "2025/26",
+      "checkedAt": "2026-10-28",
+      "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-whatever-2-mens-snowboards.jpg?v=1757387975",
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方产品图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-whatever-3-mens-snowboards.jpg?v=1757349060",
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 2",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/bataleon-2526-whatever-4-mens-snowboards.jpg?v=1757349060",
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 3",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
+        "url": "https://cdn.shopify.com/s/files/1/0370/3986/5987/files/2526-bataleon-whatever-0120_JAPAN_Craig_Robinson564B8319.jpg?v=1757349060",
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard",
+        "credit": "Bataleon",
+        "season": "2025/26",
+        "label": "官方视图 4",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": []
+  }
+]

@@ -1,0 +1,21 @@
+{
+  "checkedAt": "2026-10-28",
+  "products": [
+    {
+      "model": "OH YEAH GROM",
+      "article": "L49293500",
+      "shape": "True Twin",
+      "source": "https://www.salomon.com/en-gb/product/oh-yeah-grom-li1332/L49293500"
+    },
+    {
+      "model": "DANCEHAUL GROM",
+      "article": "L49293400",
+      "shape": "Tapered Directional",
+      "source": "https://www.salomon.com/en-gb/product/dancehaul-grom-li1331/L49293400",
+      "evidence": "Official UK search extraction explicitly exposes Shape = Tapered Directional; same article code as US page."
+    }
+  ],
+  "notes": [
+    "Current product article codes matched; no archived season specs imported."
+  ]
+}

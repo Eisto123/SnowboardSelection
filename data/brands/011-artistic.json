@@ -1,0 +1,482 @@
+[
+  {
+    "id": "011-double-fly",
+    "brand": "011 Artistic",
+    "model": "DOUBLE FLY",
+    "family": "DOUBLE FLY",
+    "season": "2026/27",
+    "seasonEvidence": "官方首页 2026–2027 产品发布及目录",
+    "shape": null,
+    "shapeNote": "对称尺寸不等同于官方 True Twin 定义；板型待复核",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "平花"
+    ],
+    "recommendationBasis": "编辑按品牌官方平花定位归类；水平待复核",
+    "sizes": [
+      "138",
+      "140",
+      "143",
+      "145",
+      "148.5",
+      "150",
+      "151",
+      "152",
+      "154",
+      "156"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 114290,
+      "maxAmount": 116490,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本含税价；不同尺寸可能不同价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.011artistic.com/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/double/color01.png",
+        "source": "https://www.011artistic.com/",
+        "credit": "011 Artistic",
+        "season": "2026/27",
+        "label": "官方板花",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.011artistic.com/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "日本平花候选；硬度与体重表尚待逐项核实"
+    ]
+  },
+  {
+    "id": "011-x-fly",
+    "brand": "011 Artistic",
+    "model": "X FLY",
+    "family": "X FLY",
+    "season": "2026/27",
+    "seasonEvidence": "官方首页 2026–2027 产品发布及目录",
+    "shape": null,
+    "shapeNote": "对称尺寸不等同于官方 True Twin 定义；板型待复核",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "平花"
+    ],
+    "recommendationBasis": "编辑按品牌官方平花定位归类；水平待复核",
+    "sizes": [
+      "138",
+      "141",
+      "144",
+      "148",
+      "150",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 114290,
+      "maxAmount": 116490,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本含税价；不同尺寸可能不同价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.011artistic.com/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/xfly/color01.png",
+        "source": "https://www.011artistic.com/",
+        "credit": "011 Artistic",
+        "season": "2026/27",
+        "label": "官方板花",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.011artistic.com/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "日本平花候选；硬度与体重表尚待逐项核实"
+    ]
+  },
+  {
+    "id": "011-balance",
+    "brand": "011 Artistic",
+    "model": "BALANCE",
+    "family": "BALANCE",
+    "season": "2026/27",
+    "seasonEvidence": "官方首页 2026–2027 产品发布及目录",
+    "shape": null,
+    "shapeNote": "对称尺寸不等同于官方 True Twin 定义；板型待复核",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "平花"
+    ],
+    "recommendationBasis": "编辑按品牌官方平花定位归类；水平待复核",
+    "sizes": [
+      "148",
+      "150",
+      "151",
+      "152",
+      "153"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 115390,
+      "maxAmount": 115390,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本含税价；不同尺寸可能不同价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.011artistic.com/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/balance/color01.png",
+        "source": "https://www.011artistic.com/",
+        "credit": "011 Artistic",
+        "season": "2026/27",
+        "label": "官方板花",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.011artistic.com/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "日本平花候选；硬度与体重表尚待逐项核实"
+    ]
+  },
+  {
+    "id": "011-zero",
+    "brand": "011 Artistic",
+    "model": "ZERO",
+    "family": "ZERO",
+    "season": "2026/27",
+    "seasonEvidence": "官方首页 2026–2027 产品发布及目录",
+    "shape": null,
+    "shapeNote": "对称尺寸不等同于官方 True Twin 定义；板型待复核",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "平花"
+    ],
+    "recommendationBasis": "编辑按品牌官方平花定位归类；水平待复核",
+    "sizes": [
+      "148",
+      "150",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 97900,
+      "maxAmount": 97900,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本含税价；不同尺寸可能不同价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.011artistic.com/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/zero/color01.png",
+        "source": "https://www.011artistic.com/",
+        "credit": "011 Artistic",
+        "season": "2026/27",
+        "label": "官方板花",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.011artistic.com/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "日本平花候选；硬度与体重表尚待逐项核实"
+    ]
+  },
+  {
+    "id": "011-double-fly-spin",
+    "brand": "011 Artistic",
+    "model": "DOUBLE FLY SPIN",
+    "family": "DOUBLE FLY SPIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方首页 2026–2027 产品发布及目录",
+    "shape": null,
+    "shapeNote": "对称尺寸不等同于官方 True Twin 定义；板型待复核",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "平花"
+    ],
+    "recommendationBasis": "编辑按品牌官方平花定位归类；水平待复核",
+    "sizes": [
+      "138",
+      "140",
+      "143",
+      "145",
+      "148.5",
+      "151",
+      "152",
+      "153",
+      "154"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 114290,
+      "maxAmount": 116490,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本含税价；不同尺寸可能不同价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.011artistic.com/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/doublespin/color02.png",
+        "source": "https://www.011artistic.com/",
+        "credit": "011 Artistic",
+        "season": "2026/27",
+        "label": "官方板花",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.011artistic.com/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "日本平花候选；硬度与体重表尚待逐项核实"
+    ]
+  },
+  {
+    "id": "011-x-fly-spin",
+    "brand": "011 Artistic",
+    "model": "X FLY SPIN",
+    "family": "X FLY SPIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方首页 2026–2027 产品发布及目录",
+    "shape": null,
+    "shapeNote": "对称尺寸不等同于官方 True Twin 定义；板型待复核",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "平花"
+    ],
+    "recommendationBasis": "编辑按品牌官方平花定位归类；水平待复核",
+    "sizes": [
+      "138",
+      "141",
+      "144",
+      "150",
+      "151",
+      "152",
+      "154"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 114290,
+      "maxAmount": 116490,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本含税价；不同尺寸可能不同价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.011artistic.com/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/xflyspin/color03.png",
+        "source": "https://www.011artistic.com/",
+        "credit": "011 Artistic",
+        "season": "2026/27",
+        "label": "官方板花",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.011artistic.com/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "日本平花候选；硬度与体重表尚待逐项核实"
+    ]
+  },
+  {
+    "id": "011-balance-spin",
+    "brand": "011 Artistic",
+    "model": "BALANCE SPIN",
+    "family": "BALANCE SPIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方首页 2026–2027 产品发布及目录",
+    "shape": null,
+    "shapeNote": "对称尺寸不等同于官方 True Twin 定义；板型待复核",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "平花"
+    ],
+    "recommendationBasis": "编辑按品牌官方平花定位归类；水平待复核",
+    "sizes": [
+      "148",
+      "150",
+      "151",
+      "152",
+      "153"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 115390,
+      "maxAmount": 115390,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本含税价；不同尺寸可能不同价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.011artistic.com/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/balancespin/color01.png",
+        "source": "https://www.011artistic.com/",
+        "credit": "011 Artistic",
+        "season": "2026/27",
+        "label": "官方板花",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.011artistic.com/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "日本平花候选；硬度与体重表尚待逐项核实"
+    ]
+  },
+  {
+    "id": "011-zero-wide-spin",
+    "brand": "011 Artistic",
+    "model": "ZERO WIDE SPIN",
+    "family": "ZERO WIDE SPIN",
+    "season": "2026/27",
+    "seasonEvidence": "官方首页 2026–2027 产品发布及目录",
+    "shape": null,
+    "shapeNote": "对称尺寸不等同于官方 True Twin 定义；板型待复核",
+    "flex": {
+      "value": null,
+      "kind": "unknown",
+      "original": null,
+      "method": null,
+      "source": null
+    },
+    "gender": null,
+    "levels": [],
+    "terrains": [
+      "平花"
+    ],
+    "recommendationBasis": "编辑按品牌官方平花定位归类；水平待复核",
+    "sizes": [
+      "148",
+      "150",
+      "152"
+    ],
+    "fit": [],
+    "price": {
+      "amount": 97900,
+      "maxAmount": 97900,
+      "currency": "JPY",
+      "region": "JP",
+      "kind": "official-list",
+      "tax": "日本含税价；不同尺寸可能不同价",
+      "season": "2026/27",
+      "checkedAt": "2026-10-28",
+      "source": "https://www.011artistic.com/"
+    },
+    "priceNote": null,
+    "images": [
+      {
+        "url": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/zerowide/color02.png",
+        "source": "https://www.011artistic.com/",
+        "credit": "011 Artistic",
+        "season": "2026/27",
+        "label": "官方板花",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
+    "source": "https://www.011artistic.com/",
+    "checkedAt": "2026-10-28",
+    "status": "partial",
+    "notes": [
+      "日本平花候选；硬度与体重表尚待逐项核实"
+    ]
+  }
+]
