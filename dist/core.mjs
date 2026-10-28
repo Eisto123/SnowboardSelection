@@ -6,6 +6,8 @@ export function filterProducts(products,f,saved=[]){return products.filter(p=>{
  const query=(f.search||'').trim().toLowerCase();
  if(query&&!`${p.brand} ${p.model} ${p.season} ${p.terrains.join(' ')}`.toLowerCase().includes(query))return false;
  for(const key of ['brand','shape','gender','season'])if(f[key]&&(f[key]==='unknown'?p[key]!==null:p[key]!==f[key]))return false;
+ const modelGender=p.riderGender??p.gender;
+ if((f.riderGender==='Men'&&modelGender==='Women')||(f.riderGender==='Women'&&modelGender==='Men'))return false;
  if(f.min!==''&&f.min!=null&&(p.flex.value===null||p.flex.value<Number(f.min)))return false;
  if(f.max!==''&&f.max!=null&&(p.flex.value===null||p.flex.value>Number(f.max)))return false;
  if(f.official&&p.flex.kind!=='official')return false;
@@ -15,9 +17,6 @@ export function filterProducts(products,f,saved=[]){return products.filter(p=>{
  if(f.budget!==''&&f.budget!=null&&f.currency&&(!p.price||p.price.amount>Number(f.budget)))return false;
  if(f.saved&&!saved.includes(p.id))return false;
  if(f.fit&&(!f.weight||!matchingSizes(p,Number(f.weight)).length))return false;
- if(f.preset==='twin'&&p.shape!=='True Twin')return false;
- if(f.preset==='directional'&&p.shape!=='Directional Twin')return false;
- if(f.preset==='japan'&&!['011 Artistic','OGASAKA','YONEX'].includes(p.brand))return false;
  return true;
 });}
 const featured=['burton-mens-burton-custom-camber','neversummer-mens-proto-type-3','capita-capita-d-o-a-mens','jones-mens-mountain-twin-snowboard','k2-afterblack','ride-shadowban','salomon-assassin','thirtytwo-permanent-vacation','ogasaka-ct-2027','yonex-sm26','bataleon-2627-evil-twin-mens','arbor-element-snowboard-27','yes-standard','011-double-fly'];

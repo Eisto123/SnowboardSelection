@@ -1,0 +1,3333 @@
+{
+  "checkedAt": "2026-10-28",
+  "scope": "56个既有Nitro当前官网条目，不用2026同名旧slug替代2027的-1页面。价格仅为官网国际站EUR展示价，适用国家与税费仍未知。",
+  "products": [
+    {
+      "id": "nitro-mastercarve-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/mastercarve-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/mastercarve-snowboard",
+      "officialFlex": 9,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Mastercarve Snowboard - The New All-Mountain Fun Carver (https://www.nitrosnowboards.com/products/mastercarve-snowboard)",
+      "originalGenderTags": [
+        "Men",
+        "Unisex",
+        "Women"
+      ],
+      "riderGender": "Unisex",
+      "genderTextEvidence": null,
+      "sizes": [
+        "159"
+      ],
+      "weightTable": {
+        "sizes": [
+          "159"
+        ],
+        "weights": [
+          "60+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/mastercarve-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 679.9,
+        "maxAmount": 679.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-0.txt",
+        "nitro-top-0.txt"
+      ]
+    },
+    {
+      "id": "nitro-banker-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/banker-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/banker-snowboard-1",
+      "officialFlex": 8,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men",
+        "Unisex",
+        "Women"
+      ],
+      "riderGender": "Unisex",
+      "genderTextEvidence": null,
+      "sizes": [
+        "148",
+        "152",
+        "156",
+        "160"
+      ],
+      "weightTable": {
+        "sizes": [
+          "148",
+          "152",
+          "156",
+          "160"
+        ],
+        "weights": [
+          "45-65",
+          "50+",
+          "55+",
+          "60+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/banker-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 649.9,
+        "maxAmount": 649.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-0.txt",
+        "nitro-top-0.txt"
+      ]
+    },
+    {
+      "id": "nitro-slash-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/slash-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/slash-snowboard-1",
+      "officialFlex": 7,
+      "originalShape": "Tapered Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men",
+        "Unisex",
+        "Women"
+      ],
+      "riderGender": "Unisex",
+      "genderTextEvidence": null,
+      "sizes": [
+        "144",
+        "151",
+        "156",
+        "162"
+      ],
+      "weightTable": {
+        "sizes": [
+          "144",
+          "151",
+          "156",
+          "162"
+        ],
+        "weights": [
+          "40+",
+          "50+",
+          "60+",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/slash-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 649.9,
+        "maxAmount": 649.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-0.txt",
+        "nitro-top-0.txt"
+      ]
+    },
+    {
+      "id": "nitro-cannon-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/cannon-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/cannon-snowboard",
+      "officialFlex": 7,
+      "originalShape": "Tapered Swallowtail",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Cannon Snowboard - The World's Most Famous Swallowtail (https://www.nitrosnowboards.com/products/cannon-snowboard)",
+      "originalGenderTags": [
+        "Men",
+        "Unisex",
+        "Women"
+      ],
+      "riderGender": "Unisex",
+      "genderTextEvidence": null,
+      "sizes": [
+        "163",
+        "203"
+      ],
+      "weightTable": {
+        "sizes": [
+          "163",
+          "203"
+        ],
+        "weights": [
+          "70+",
+          "75+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/cannon-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 669.9,
+        "maxAmount": 669.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27",
+        "startsAt": true
+      },
+      "priceFrom": true,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-1.txt",
+        "nitro-top-1.txt"
+      ]
+    },
+    {
+      "id": "nitro-alternator-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/alternator-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/alternator-snowboard-1",
+      "officialFlex": 8,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "154",
+        "157",
+        "160",
+        "162"
+      ],
+      "weightTable": {
+        "sizes": [
+          "154",
+          "157",
+          "160",
+          "162"
+        ],
+        "weights": [
+          "55-75",
+          "60-80",
+          "65-85",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/alternator-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 599.9,
+        "maxAmount": 599.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-1.txt",
+        "nitro-top-1.txt"
+      ]
+    },
+    {
+      "id": "nitro-future-team-small-youth-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/future-team-small-youth-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/future-team-small-youth-snowboard",
+      "officialFlex": 3,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Youth"
+      ],
+      "riderGender": null,
+      "genderTextEvidence": null,
+      "sizes": [
+        "126",
+        "132",
+        "138"
+      ],
+      "weightTable": {
+        "sizes": [
+          "126",
+          "132",
+          "138"
+        ],
+        "weights": [
+          "25-45",
+          "30-50",
+          "35-55"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/future-team-small-youth-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 329.9,
+        "maxAmount": 329.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-1.txt",
+        "nitro-top-1.txt"
+      ]
+    },
+    {
+      "id": "nitro-spirit-kids-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/spirit-kids-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/collections/all-26-27/products/spirit-kids-snowboard-1",
+      "officialFlex": 1,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Spirit Kids Snowboard - The All-Mountain Fun Maker! (https://www.nitrosnowboards.com/collections/all-26-27/products/spirit-kids-snowboard-1)",
+      "originalGenderTags": [
+        "Youth"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": "产品介绍明确young girls/girls",
+      "sizes": [
+        "086",
+        "096",
+        "106",
+        "116",
+        "121",
+        "126"
+      ],
+      "weightTable": {
+        "sizes": [
+          "086",
+          "096",
+          "106",
+          "116",
+          "121",
+          "126"
+        ],
+        "weights": [
+          "-25",
+          "-30",
+          "-35",
+          "20-40",
+          "20-40",
+          "25-45"
+        ],
+        "source": "https://www.nitrosnowboards.com/collections/all-26-27/products/spirit-kids-snowboard-1"
+      },
+      "upperOnly": [
+        {
+          "length": "086",
+          "original": "-25"
+        },
+        {
+          "length": "096",
+          "original": "-30"
+        },
+        {
+          "length": "106",
+          "original": "-35"
+        }
+      ],
+      "price": {
+        "amount": 249.9,
+        "maxAmount": 249.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27?page=2"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-extra-aliases.txt"
+      ]
+    },
+    {
+      "id": "nitro-spirit-youth-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/spirit-youth-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/spirit-youth-snowboard-1",
+      "officialFlex": 2,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Youth"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": "产品介绍明确young girls/girls",
+      "sizes": [
+        "132",
+        "137"
+      ],
+      "weightTable": {
+        "sizes": [
+          "132",
+          "137"
+        ],
+        "weights": [
+          "30-50",
+          "35-55"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/spirit-youth-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 329.9,
+        "maxAmount": 329.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27?page=2"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-2.txt",
+        "nitro-top-2.txt",
+        "nitro-top-extra4.txt"
+      ]
+    },
+    {
+      "id": "nitro-mini-thrills-youth-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/mini-thrills-youth-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/mini-thrills-youth-snowboard-1",
+      "officialFlex": 2,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Youth"
+      ],
+      "riderGender": null,
+      "genderTextEvidence": null,
+      "sizes": [
+        "138",
+        "143",
+        "148"
+      ],
+      "weightTable": {
+        "sizes": [
+          "138",
+          "143",
+          "148"
+        ],
+        "weights": [
+          "35-55",
+          "40-60",
+          "45-65"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/mini-thrills-youth-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 349.9,
+        "maxAmount": 349.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-2.txt",
+        "nitro-top-2.txt"
+      ]
+    },
+    {
+      "id": "nitro-arial-youth-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/arial-youth-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/arial-youth-snowboard-1",
+      "officialFlex": 3,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Arial Youth Snowboard - Progression's Next Step! (https://www.nitrosnowboards.com/products/arial-youth-snowboard-1)",
+      "originalGenderTags": [
+        "Youth"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": "产品介绍明确young girls/girls",
+      "sizes": [
+        "138",
+        "142",
+        "146"
+      ],
+      "weightTable": {
+        "sizes": [
+          "138",
+          "142",
+          "146"
+        ],
+        "weights": [
+          "35-55",
+          "40-60",
+          "45-65"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/arial-youth-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 389.9,
+        "maxAmount": 389.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-3.txt",
+        "nitro-top-3.txt"
+      ]
+    },
+    {
+      "id": "nitro-future-team-youth-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/future-team-youth-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/future-team-youth-snowboard-1",
+      "officialFlex": 3,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Youth"
+      ],
+      "riderGender": null,
+      "genderTextEvidence": null,
+      "sizes": [
+        "142",
+        "147",
+        "151"
+      ],
+      "weightTable": {
+        "sizes": [
+          "142",
+          "147",
+          "151"
+        ],
+        "weights": [
+          "40-60",
+          "45-65",
+          "50-70"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/future-team-youth-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 389.9,
+        "maxAmount": 389.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-3.txt",
+        "nitro-top-3.txt"
+      ]
+    },
+    {
+      "id": "nitro-future-team-pro-mk-youth-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/future-team-pro-mk-youth-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/future-team-pro-mk-youth-snowboard-1",
+      "officialFlex": 5,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Youth"
+      ],
+      "riderGender": null,
+      "genderTextEvidence": null,
+      "sizes": [
+        "126",
+        "132",
+        "138",
+        "142",
+        "147"
+      ],
+      "weightTable": {
+        "sizes": [
+          "126",
+          "132",
+          "138",
+          "142",
+          "147"
+        ],
+        "weights": [
+          "25-45",
+          "30-50",
+          "35-55",
+          "40-60",
+          "45-65"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/future-team-pro-mk-youth-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 479.9,
+        "maxAmount": 479.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-3.txt",
+        "nitro-top-3.txt"
+      ]
+    },
+    {
+      "id": "nitro-mercy-womens-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/mercy-womens-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/mercy-womens-snowboard-1",
+      "officialFlex": 4,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Mercy Women's Snowboard - Undeniable Freestyle Performance (https://www.nitrosnowboards.com/products/mercy-womens-snowboard-1)",
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "138",
+        "142",
+        "146",
+        "149"
+      ],
+      "weightTable": {
+        "sizes": [
+          "138",
+          "142",
+          "146",
+          "149"
+        ],
+        "weights": [
+          "-45",
+          "-65",
+          "45-65",
+          "50-70"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/mercy-womens-snowboard-1"
+      },
+      "upperOnly": [
+        {
+          "length": "138",
+          "original": "-45"
+        },
+        {
+          "length": "142",
+          "original": "-65"
+        }
+      ],
+      "price": {
+        "amount": 429.9,
+        "maxAmount": 429.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-4.txt",
+        "nitro-top-extra3.txt"
+      ]
+    },
+    {
+      "id": "nitro-optisym-womens-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/optisym-womens-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/optisym-womens-snowboard",
+      "officialFlex": 5,
+      "originalShape": "Asym Twin",
+      "shape": null,
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "138",
+        "142",
+        "146"
+      ],
+      "weightTable": {
+        "sizes": [
+          "138",
+          "142",
+          "146"
+        ],
+        "weights": [
+          "-45",
+          "-65",
+          "45-65"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/optisym-womens-snowboard"
+      },
+      "upperOnly": [
+        {
+          "length": "138",
+          "original": "-45"
+        },
+        {
+          "length": "142",
+          "original": "-65"
+        }
+      ],
+      "price": {
+        "amount": 499.9,
+        "maxAmount": 499.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-4.txt"
+      ]
+    },
+    {
+      "id": "nitro-zaza-womens-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/zaza-womens-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/zaza-womens-snowboard",
+      "officialFlex": 7,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "143",
+        "146",
+        "149",
+        "152"
+      ],
+      "weightTable": {
+        "sizes": [
+          "143",
+          "146",
+          "149",
+          "152"
+        ],
+        "weights": [
+          "-45",
+          "-65",
+          "45-65",
+          "-65"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/zaza-womens-snowboard"
+      },
+      "upperOnly": [
+        {
+          "length": "143",
+          "original": "-45"
+        },
+        {
+          "length": "146",
+          "original": "-65"
+        },
+        {
+          "length": "152",
+          "original": "-65"
+        }
+      ],
+      "price": {
+        "amount": 579.9,
+        "maxAmount": 579.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-4.txt"
+      ]
+    },
+    {
+      "id": "nitro-fate-pro-womens-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/fate-pro-womens-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/fate-pro-womens-snowboard",
+      "officialFlex": 8,
+      "originalShape": "Directional Twin",
+      "shape": "Directional Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Fate Pro Women's Snowboard - Pro-Caliber Freestyle Performance (https://www.nitrosnowboards.com/products/fate-pro-womens-snowboard)",
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "146",
+        "149",
+        "152"
+      ],
+      "weightTable": {
+        "sizes": [
+          "146",
+          "149",
+          "152"
+        ],
+        "weights": [
+          "-60",
+          "-65",
+          "50-70"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/fate-pro-womens-snowboard"
+      },
+      "upperOnly": [
+        {
+          "length": "146",
+          "original": "-60"
+        },
+        {
+          "length": "149",
+          "original": "-65"
+        }
+      ],
+      "price": {
+        "amount": 639.9,
+        "maxAmount": 639.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-5.txt"
+      ]
+    },
+    {
+      "id": "nitro-lectra-leaf-womens-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/lectra-leaf-womens-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/lectra-leaf-womens-snowboard",
+      "officialFlex": 4,
+      "originalShape": "Directional Twin",
+      "shape": "Directional Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "138",
+        "142",
+        "146",
+        "149",
+        "152"
+      ],
+      "weightTable": {
+        "sizes": [
+          "138",
+          "142",
+          "146",
+          "149",
+          "152"
+        ],
+        "weights": [
+          "-45",
+          "-60",
+          "45-65",
+          "50-70",
+          "50-70"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/lectra-leaf-womens-snowboard"
+      },
+      "upperOnly": [
+        {
+          "length": "138",
+          "original": "-45"
+        },
+        {
+          "length": "142",
+          "original": "-60"
+        }
+      ],
+      "price": {
+        "amount": 399.9,
+        "maxAmount": 399.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-5.txt"
+      ]
+    },
+    {
+      "id": "nitro-mystique-womens-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/mystique-womens-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/mystique-womens-snowboard-1",
+      "officialFlex": 4,
+      "originalShape": "Directional Twin",
+      "shape": "Directional Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "142",
+        "146",
+        "149",
+        "152"
+      ],
+      "weightTable": {
+        "sizes": [
+          "142",
+          "146",
+          "149",
+          "152"
+        ],
+        "weights": [
+          "40-60",
+          "45-65",
+          "50-70",
+          "55+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/mystique-womens-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 459.9,
+        "maxAmount": 459.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-5.txt"
+      ]
+    },
+    {
+      "id": "nitro-nova-womens-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/nova-womens-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/nova-womens-snowboard-1",
+      "officialFlex": 5,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Nova Women's Snowboard - The Directional Fun Deck! (https://www.nitrosnowboards.com/products/nova-womens-snowboard-1)",
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "139",
+        "144",
+        "148",
+        "152"
+      ],
+      "weightTable": {
+        "sizes": [
+          "139",
+          "144",
+          "148",
+          "152"
+        ],
+        "weights": [
+          "-45",
+          "-65",
+          "45-65",
+          "55+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/nova-womens-snowboard-1"
+      },
+      "upperOnly": [
+        {
+          "length": "139",
+          "original": "-45"
+        },
+        {
+          "length": "144",
+          "original": "-65"
+        }
+      ],
+      "price": {
+        "amount": 459.9,
+        "maxAmount": 459.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-6.txt"
+      ]
+    },
+    {
+      "id": "nitro-fate-womens-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/fate-womens-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/fate-womens-snowboard-1",
+      "officialFlex": 5,
+      "originalShape": "Directional Twin",
+      "shape": "Directional Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "144",
+        "147",
+        "150",
+        "153"
+      ],
+      "weightTable": {
+        "sizes": [
+          "144",
+          "147",
+          "150",
+          "153"
+        ],
+        "weights": [
+          "-65",
+          "-65",
+          "45-65",
+          "55+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/fate-womens-snowboard-1"
+      },
+      "upperOnly": [
+        {
+          "length": "144",
+          "original": "-65"
+        },
+        {
+          "length": "147",
+          "original": "-65"
+        }
+      ],
+      "price": {
+        "amount": 569.9,
+        "maxAmount": 569.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-6.txt"
+      ]
+    },
+    {
+      "id": "nitro-drop-womens-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/drop-womens-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/drop-womens-snowboard-1",
+      "officialFlex": 6,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "142",
+        "146",
+        "149",
+        "152"
+      ],
+      "weightTable": {
+        "sizes": [
+          "142",
+          "146",
+          "149",
+          "152"
+        ],
+        "weights": [
+          "-60",
+          "-60",
+          "45-65",
+          "50-70"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/drop-womens-snowboard-1"
+      },
+      "upperOnly": [
+        {
+          "length": "142",
+          "original": "-60"
+        },
+        {
+          "length": "146",
+          "original": "-60"
+        }
+      ],
+      "price": {
+        "amount": 529.9,
+        "maxAmount": 529.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-6.txt"
+      ]
+    },
+    {
+      "id": "nitro-alternator-x-hailey-womens-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/alternator-x-hailey-womens-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/alternator-x-hailey-womens-snowboard-1",
+      "officialFlex": 7,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Alternator X Hailey Women's Snowboard - The New Women's All-Mountain Powerhouse (https://www.nitrosnowboards.com/products/alternator-x-hailey-womens-snowboard-1)",
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "142",
+        "146",
+        "149",
+        "152"
+      ],
+      "weightTable": {
+        "sizes": [
+          "142",
+          "146",
+          "149",
+          "152"
+        ],
+        "weights": [
+          "-55",
+          "-60",
+          "45-65",
+          "55+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/alternator-x-hailey-womens-snowboard-1"
+      },
+      "upperOnly": [
+        {
+          "length": "142",
+          "original": "-55"
+        },
+        {
+          "length": "146",
+          "original": "-60"
+        }
+      ],
+      "price": {
+        "amount": 599.9,
+        "maxAmount": 599.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-7.txt",
+        "nitro-top-extra3.txt"
+      ]
+    },
+    {
+      "id": "nitro-altura-womens-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/altura-womens-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/altura-womens-snowboard",
+      "officialFlex": 7,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "146",
+        "149",
+        "153"
+      ],
+      "weightTable": {
+        "sizes": [
+          "146",
+          "149",
+          "153"
+        ],
+        "weights": [
+          "-65",
+          "45-65",
+          "50+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/altura-womens-snowboard"
+      },
+      "upperOnly": [
+        {
+          "length": "146",
+          "original": "-65"
+        }
+      ],
+      "price": {
+        "amount": 779.9,
+        "maxAmount": 779.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-7.txt"
+      ]
+    },
+    {
+      "id": "nitro-pantera-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/pantera-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/pantera-snowboard-1",
+      "officialFlex": 9,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "160",
+        "163",
+        "163W",
+        "166W",
+        "169W"
+      ],
+      "weightTable": {
+        "sizes": [
+          "160",
+          "163",
+          "163W",
+          "166W",
+          "169W"
+        ],
+        "weights": [
+          "65-85",
+          "65-85",
+          "70+",
+          "75+",
+          "75+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/pantera-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 739.9,
+        "maxAmount": 739.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-7.txt"
+      ]
+    },
+    {
+      "id": "nitro-santoku-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/santoku-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/santoku-snowboard-1",
+      "officialFlex": 6,
+      "originalShape": "All-Terrain Twin",
+      "shape": null,
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Santoku Snowboard - True Twin ATV Style (https://www.nitrosnowboards.com/products/santoku-snowboard-1)",
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "156",
+        "159",
+        "162"
+      ],
+      "weightTable": {
+        "sizes": [
+          "156",
+          "159",
+          "162"
+        ],
+        "weights": [
+          "60-80",
+          "65-85",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/santoku-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 649.9,
+        "maxAmount": 649.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-8.txt"
+      ]
+    },
+    {
+      "id": "nitro-x-konvoi-surfer-powder-surfer-1",
+      "source": "https://www.nitrosnowboards.com/products/x-konvoi-surfer-powder-surfer-1",
+      "parameterSource": "https://www.nitrosnowboards.com/fr/collections/all-mens-snowboards-26-27/products/x-konvoi-surfer-powder-surfer-1",
+      "officialFlex": 6,
+      "originalShape": "Powder Surfer",
+      "shape": null,
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Nitro x Konvoi Surfer Powdersurfer",
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "143"
+      ],
+      "weightTable": null,
+      "upperOnly": [],
+      "price": {
+        "amount": 549.9,
+        "maxAmount": 549.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-last-unavailable.txt"
+      ]
+    },
+    {
+      "id": "nitro-cheap-thrills-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/cheap-thrills-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/cheap-thrills-snowboard-1",
+      "officialFlex": 5,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Cheap Thrills Snowboard - Voted Best Ride in the Park (https://www.nitrosnowboards.com/products/cheap-thrills-snowboard-1)",
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "148",
+        "152",
+        "155",
+        "155W",
+        "157",
+        "157W"
+      ],
+      "weightTable": {
+        "sizes": [
+          "148",
+          "152",
+          "155",
+          "155W",
+          "157",
+          "157W"
+        ],
+        "weights": [
+          "50-70",
+          "55-75",
+          "60-80",
+          "60-80",
+          "65+",
+          "65+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/cheap-thrills-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 429.9,
+        "maxAmount": 429.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-8.txt",
+        "nitro-extra-final.txt",
+        "nitro-top-extra4.txt"
+      ]
+    },
+    {
+      "id": "nitro-cheap-thrills-x-love-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/cheap-thrills-x-love-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/cheap-thrills-x-love-snowboard",
+      "officialFlex": 5,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Cheap Thrills X Love Snowboard - For The Park Lovers (https://www.nitrosnowboards.com/products/cheap-thrills-x-love-snowboard)",
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "148",
+        "152",
+        "155"
+      ],
+      "weightTable": {
+        "sizes": [
+          "148",
+          "152",
+          "155"
+        ],
+        "weights": [
+          "50-70",
+          "55-75",
+          "60-80"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/cheap-thrills-x-love-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 479.9,
+        "maxAmount": 479.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-9.txt",
+        "nitro-top-extra4.txt"
+      ]
+    },
+    {
+      "id": "nitro-optisym-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/optisym-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/optisym-snowboard-1",
+      "officialFlex": 6,
+      "originalShape": "Asym Twin",
+      "shape": null,
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "146",
+        "149",
+        "153",
+        "156",
+        "159"
+      ],
+      "weightTable": {
+        "sizes": [
+          "146",
+          "149",
+          "153",
+          "156",
+          "159"
+        ],
+        "weights": [
+          "50-70",
+          "50-70",
+          "55-75",
+          "60-80",
+          "65+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/optisym-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 499.9,
+        "maxAmount": 499.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-9.txt"
+      ]
+    },
+    {
+      "id": "nitro-t1-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/t1-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/t1-snowboard-1",
+      "officialFlex": 7,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "149",
+        "152",
+        "155",
+        "155MW",
+        "155W",
+        "158",
+        "158MW",
+        "158W"
+      ],
+      "weightTable": {
+        "sizes": [
+          "149",
+          "152",
+          "155",
+          "155MW",
+          "155W",
+          "158",
+          "158MW",
+          "158W"
+        ],
+        "weights": [
+          "50-70",
+          "55-75",
+          "60-80",
+          "60-80",
+          "60-80",
+          "65+",
+          "65+",
+          "65+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/t1-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 579.9,
+        "maxAmount": 579.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-9.txt"
+      ]
+    },
+    {
+      "id": "nitro-team-pro-marcus-kleveland-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/team-pro-marcus-kleveland-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/team-pro-marcus-kleveland-snowboard",
+      "officialFlex": 8,
+      "originalShape": "Directional Twin",
+      "shape": "Directional Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Team Pro Marcus Kleveland Snowboard - Pro-Caliber Freestyle Performance (https://www.nitrosnowboards.com/products/team-pro-marcus-kleveland-snowboard)",
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "152",
+        "155",
+        "157",
+        "159",
+        "159W",
+        "162W"
+      ],
+      "weightTable": {
+        "sizes": [
+          "152",
+          "155",
+          "157",
+          "159",
+          "159W",
+          "162W"
+        ],
+        "weights": [
+          "50-70",
+          "55-75",
+          "60-80",
+          "65-85",
+          "65-85",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/team-pro-marcus-kleveland-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 649.9,
+        "maxAmount": 649.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-10.txt",
+        "nitro-top-extra0.txt"
+      ]
+    },
+    {
+      "id": "nitro-prime-chroma-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/prime-chroma-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/prime-chroma-snowboard",
+      "officialFlex": 5,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "149",
+        "152",
+        "155",
+        "156W",
+        "158",
+        "160W",
+        "164W"
+      ],
+      "weightTable": {
+        "sizes": [
+          "149",
+          "152",
+          "155",
+          "156W",
+          "158",
+          "160W",
+          "164W"
+        ],
+        "weights": [
+          "50-70",
+          "50-70",
+          "55-75",
+          "60-80",
+          "65-85",
+          "65-85",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/prime-chroma-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 399.9,
+        "maxAmount": 399.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-10.txt"
+      ]
+    },
+    {
+      "id": "nitro-phase-x-motorhead-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/phase-x-motorhead-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/phase-x-motorhead-snowboard",
+      "officialFlex": 6,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "152",
+        "155",
+        "159",
+        "162"
+      ],
+      "weightTable": {
+        "sizes": [
+          "152",
+          "155",
+          "159",
+          "162"
+        ],
+        "weights": [
+          "50-70",
+          "65+",
+          "55-75",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/phase-x-motorhead-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 519.9,
+        "maxAmount": 519.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-10.txt",
+        "nitro-top-extra0.txt"
+      ]
+    },
+    {
+      "id": "nitro-phase-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/phase-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/phase-snowboard-1",
+      "officialFlex": 6,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Phase Snowboard - The Fun Directional Adventure Seeker (https://www.nitrosnowboards.com/products/phase-snowboard-1)",
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "152",
+        "155",
+        "159",
+        "162"
+      ],
+      "weightTable": {
+        "sizes": [
+          "152",
+          "155",
+          "159",
+          "162"
+        ],
+        "weights": [
+          "50-70",
+          "55-75",
+          "65+",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/phase-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 479.9,
+        "maxAmount": 479.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-11.txt"
+      ]
+    },
+    {
+      "id": "nitro-magnum-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/magnum-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/magnum-snowboard-1",
+      "officialFlex": 7,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "159",
+        "163",
+        "167",
+        "171"
+      ],
+      "weightTable": {
+        "sizes": [
+          "159",
+          "163",
+          "167",
+          "171"
+        ],
+        "weights": [
+          "65-85",
+          "75+",
+          "75+",
+          "75+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/magnum-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 599.9,
+        "maxAmount": 599.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-11.txt",
+        "nitro-top-extra0.txt"
+      ]
+    },
+    {
+      "id": "nitro-team-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/team-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/team-snowboard-1",
+      "officialFlex": 7,
+      "originalShape": "Directional Twin",
+      "shape": "Directional Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "152",
+        "155",
+        "157",
+        "157W",
+        "159",
+        "159W",
+        "162",
+        "162W",
+        "165W"
+      ],
+      "weightTable": {
+        "sizes": [
+          "152",
+          "155",
+          "157",
+          "157W",
+          "159",
+          "159W",
+          "162",
+          "162W",
+          "165W"
+        ],
+        "weights": [
+          "50-70",
+          "55-75",
+          "60-80",
+          "60-80",
+          "65-85",
+          "65-85",
+          "70+",
+          "70+",
+          "75+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/team-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 579.9,
+        "maxAmount": 579.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-11.txt"
+      ]
+    },
+    {
+      "id": "nitro-alternator-fx-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/alternator-fx-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/alternator-fx-snowboard",
+      "officialFlex": 8,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Alternator FX Snowboard - Built For The All-Mountain Maniacs! (https://www.nitrosnowboards.com/products/alternator-fx-snowboard)",
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "142",
+        "146",
+        "149",
+        "152",
+        "154",
+        "157",
+        "160",
+        "162"
+      ],
+      "weightTable": {
+        "sizes": [
+          "142",
+          "146",
+          "149",
+          "152",
+          "154",
+          "157",
+          "160",
+          "162"
+        ],
+        "weights": [
+          "-55",
+          "-60",
+          "45-65",
+          "55+",
+          "55-75",
+          "60-80",
+          "65-85",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/alternator-fx-snowboard"
+      },
+      "upperOnly": [
+        {
+          "length": "142",
+          "original": "-55"
+        },
+        {
+          "length": "146",
+          "original": "-60"
+        }
+      ],
+      "price": {
+        "amount": 599.9,
+        "maxAmount": 599.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-12.txt",
+        "nitro-top-extra1.txt"
+      ]
+    },
+    {
+      "id": "nitro-fintwin-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/fintwin-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/fintwin-snowboard-1",
+      "officialFlex": 7,
+      "originalShape": "Tapered Swallowtail",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men",
+        "Unisex",
+        "Women"
+      ],
+      "riderGender": "Unisex",
+      "genderTextEvidence": null,
+      "sizes": [
+        "141",
+        "149",
+        "154"
+      ],
+      "weightTable": {
+        "sizes": [
+          "141",
+          "149",
+          "154"
+        ],
+        "weights": [
+          "40+",
+          "50+",
+          "60+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/fintwin-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 469.9,
+        "maxAmount": 469.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-12.txt",
+        "nitro-top-extra1.txt"
+      ]
+    },
+    {
+      "id": "nitro-dinghy-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/dinghy-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/dinghy-snowboard-1",
+      "officialFlex": 7,
+      "originalShape": "Tapered Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men",
+        "Unisex",
+        "Women"
+      ],
+      "riderGender": "Unisex",
+      "genderTextEvidence": null,
+      "sizes": [
+        "150",
+        "155",
+        "160"
+      ],
+      "weightTable": {
+        "sizes": [
+          "150",
+          "155",
+          "160"
+        ],
+        "weights": [
+          "60+",
+          "70+",
+          "75+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/dinghy-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 649.9,
+        "maxAmount": 649.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-12.txt",
+        "nitro-top-extra1.txt"
+      ]
+    },
+    {
+      "id": "nitro-og-team-guest-shaper-project-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/og-team-guest-shaper-project-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/og-team-guest-shaper-project-snowboard",
+      "officialFlex": 8,
+      "originalShape": "Directional Twin",
+      "shape": "Directional Twin",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro OG Team Guest Shaper Project Snowboard - Inspired by the Original Nitro Freestylers (https://www.nitrosnowboards.com/products/og-team-guest-shaper-project-snowboard)",
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "154",
+        "158",
+        "158W"
+      ],
+      "weightTable": {
+        "sizes": [
+          "154",
+          "158",
+          "158W"
+        ],
+        "weights": [
+          "55-75",
+          "60-80",
+          "65+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/og-team-guest-shaper-project-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 599.9,
+        "maxAmount": 599.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-13.txt"
+      ]
+    },
+    {
+      "id": "nitro-alternator-fx-splitboard",
+      "source": "https://www.nitrosnowboards.com/products/alternator-fx-splitboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/alternator-fx-splitboard",
+      "officialFlex": 8,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro Alternator FX Splitboard - The most capable ATV Splitboard (https://www.nitrosnowboards.com/products/alternator-fx-splitboard)",
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "148",
+        "152",
+        "154",
+        "158",
+        "162"
+      ],
+      "weightTable": {
+        "sizes": [
+          "148",
+          "152",
+          "154",
+          "158",
+          "162"
+        ],
+        "weights": [
+          "45-65",
+          "55+",
+          "55-75",
+          "60-80",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/alternator-fx-splitboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 679.9,
+        "maxAmount": 679.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27?page=2"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-13.txt",
+        "nitro-top-extra2.txt"
+      ]
+    },
+    {
+      "id": "nitro-basher-snowboard-1",
+      "source": "https://www.nitrosnowboards.com/products/basher-snowboard-1",
+      "parameterSource": "https://www.nitrosnowboards.com/products/basher-snowboard-1",
+      "officialFlex": 7,
+      "originalShape": "Asym Twin",
+      "shape": null,
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men",
+        "Unisex",
+        "Women"
+      ],
+      "riderGender": "Unisex",
+      "genderTextEvidence": null,
+      "sizes": [
+        "154",
+        "158"
+      ],
+      "weightTable": {
+        "sizes": [
+          "154",
+          "158"
+        ],
+        "weights": [
+          "60+",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/basher-snowboard-1"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 649.9,
+        "maxAmount": 649.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-13.txt",
+        "nitro-top-extra2.txt"
+      ]
+    },
+    {
+      "id": "nitro-ika-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/ika-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/ika-snowboard",
+      "officialFlex": 7,
+      "originalShape": "Tapered Swallowtail",
+      "shape": "Directional",
+      "season": "2026/27",
+      "seasonTags": [
+        "2026/2027"
+      ],
+      "pageTitle": "The 2027 Nitro IKA Snowboard - A True Fish Swallowtail Feel (https://www.nitrosnowboards.com/products/ika-snowboard)",
+      "originalGenderTags": [
+        "Men",
+        "Unisex",
+        "Women"
+      ],
+      "riderGender": "Unisex",
+      "genderTextEvidence": null,
+      "sizes": [
+        "152"
+      ],
+      "weightTable": {
+        "sizes": [
+          "152"
+        ],
+        "weights": [
+          "40+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/ika-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 549.9,
+        "maxAmount": 549.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "2026/27",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-14.txt",
+        "nitro-top-extra2.txt"
+      ]
+    },
+    {
+      "id": "nitro-ripper-youth-youth-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/ripper-youth-youth-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/ripper-youth-youth-snowboard",
+      "officialFlex": 2,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Boys",
+        "Youth"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "132",
+        "137"
+      ],
+      "weightTable": {
+        "sizes": [
+          "132",
+          "137"
+        ],
+        "weights": [
+          "30-50",
+          "35-55"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/ripper-youth-youth-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 329.9,
+        "maxAmount": 329.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-14.txt"
+      ]
+    },
+    {
+      "id": "nitro-ripper-kids-kids-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/ripper-kids-kids-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/ripper-kids-kids-snowboard",
+      "officialFlex": 1,
+      "originalShape": "Twin",
+      "shape": "True Twin",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Boys",
+        "Kids"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "86",
+        "96",
+        "106",
+        "116",
+        "121",
+        "126"
+      ],
+      "weightTable": {
+        "sizes": [
+          "86",
+          "96",
+          "106",
+          "116",
+          "121",
+          "126"
+        ],
+        "weights": [
+          "-25",
+          "-30",
+          "-35",
+          "20-40",
+          "20-40",
+          "25-45"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/ripper-kids-kids-snowboard"
+      },
+      "upperOnly": [
+        {
+          "length": "86",
+          "original": "-25"
+        },
+        {
+          "length": "96",
+          "original": "-30"
+        },
+        {
+          "length": "106",
+          "original": "-35"
+        }
+      ],
+      "price": {
+        "amount": 249.9,
+        "maxAmount": 249.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27?page=2"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-14.txt"
+      ]
+    },
+    {
+      "id": "nitro-miniganger-youth-splitboard",
+      "source": "https://www.nitrosnowboards.com/products/miniganger-youth-splitboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/miniganger-youth-splitboard",
+      "officialFlex": 5,
+      "originalShape": "Directional Splitboard",
+      "shape": "Directional",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": "The 2026 Nitro Miniganger Youth Splitboard - Get Out & Split Together! (https://www.nitrosnowboards.com/products/miniganger-youth-splitboard)",
+      "originalGenderTags": [
+        "Boys",
+        "Girls",
+        "Youth"
+      ],
+      "riderGender": "Unisex",
+      "genderTextEvidence": null,
+      "sizes": [
+        "132",
+        "141"
+      ],
+      "weightTable": {
+        "sizes": [
+          "132",
+          "141"
+        ],
+        "weights": [
+          "30-50",
+          "40-60"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/miniganger-youth-splitboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 399.9,
+        "maxAmount": 399.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27?page=2"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-15.txt"
+      ]
+    },
+    {
+      "id": "nitro-lectra-abstract-womens-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/lectra-abstract-womens-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/lectra-abstract-womens-snowboard",
+      "officialFlex": 4,
+      "originalShape": "Directional Twin",
+      "shape": "Directional Twin",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "138",
+        "142",
+        "146",
+        "149",
+        "152"
+      ],
+      "weightTable": {
+        "sizes": [
+          "138",
+          "142",
+          "146",
+          "149",
+          "152"
+        ],
+        "weights": [
+          "-45",
+          "-60",
+          "45-65",
+          "50-70",
+          "50-70"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/lectra-abstract-womens-snowboard"
+      },
+      "upperOnly": [
+        {
+          "length": "138",
+          "original": "-45"
+        },
+        {
+          "length": "142",
+          "original": "-60"
+        }
+      ],
+      "price": {
+        "amount": 399.9,
+        "maxAmount": 399.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-15.txt"
+      ]
+    },
+    {
+      "id": "nitro-volta-womens-splitboard",
+      "source": "https://www.nitrosnowboards.com/products/volta-womens-splitboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/volta-womens-splitboard",
+      "officialFlex": 5,
+      "originalShape": "Directional Splitboard",
+      "shape": "Directional",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Women"
+      ],
+      "riderGender": "Women",
+      "genderTextEvidence": null,
+      "sizes": [
+        "146",
+        "152"
+      ],
+      "weightTable": {
+        "sizes": [
+          "146",
+          "152"
+        ],
+        "weights": [
+          "50-70",
+          "50+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/volta-womens-splitboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 619.9,
+        "maxAmount": 619.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-15.txt"
+      ]
+    },
+    {
+      "id": "nitro-prime-raw-wide-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/prime-raw-wide-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/prime-raw-wide-snowboard",
+      "officialFlex": 5,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": "The 2026 Nitro Prime Raw Wide Snowboard - The Fun Machine! (https://www.nitrosnowboards.com/products/prime-raw-wide-snowboard)",
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "156W",
+        "160W",
+        "164W"
+      ],
+      "weightTable": {
+        "sizes": [
+          "156w",
+          "160w",
+          "164w"
+        ],
+        "weights": [
+          "60-80",
+          "65-85",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/prime-raw-wide-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 399.9,
+        "maxAmount": 399.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-16.txt"
+      ]
+    },
+    {
+      "id": "nitro-prime-raw-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/prime-raw-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/prime-raw-snowboard",
+      "officialFlex": 5,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "149",
+        "152MW",
+        "155MW",
+        "158MW"
+      ],
+      "weightTable": {
+        "sizes": [
+          "149",
+          "152mw",
+          "155mw",
+          "158mw"
+        ],
+        "weights": [
+          "50-70",
+          "50-70",
+          "55-75",
+          "65-85"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/prime-raw-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 399.9,
+        "maxAmount": 399.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-16.txt"
+      ]
+    },
+    {
+      "id": "nitro-team-pro-wide-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/team-pro-wide-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/team-pro-wide-snowboard",
+      "officialFlex": 8,
+      "originalShape": "Directional Twin",
+      "shape": "Directional Twin",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men",
+        "Unisex"
+      ],
+      "riderGender": "Unisex",
+      "genderTextEvidence": null,
+      "sizes": [
+        "157W",
+        "159W",
+        "162W",
+        "165W"
+      ],
+      "weightTable": {
+        "sizes": [
+          "157w",
+          "159w",
+          "162w",
+          "165w"
+        ],
+        "weights": [
+          "60-80",
+          "65-85",
+          "70+",
+          "75+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/team-pro-wide-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 639.9,
+        "maxAmount": 639.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-16.txt"
+      ]
+    },
+    {
+      "id": "nitro-team-pro-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/team-pro-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/team-pro-snowboard",
+      "officialFlex": 8,
+      "originalShape": "Directional Twin",
+      "shape": "Directional Twin",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": "The 2026 Nitro Team Pro Snowboard - Next Level Pop, Speed, and Performance (https://www.nitrosnowboards.com/products/team-pro-snowboard)",
+      "originalGenderTags": [
+        "Men",
+        "Unisex",
+        "Women"
+      ],
+      "riderGender": "Unisex",
+      "genderTextEvidence": null,
+      "sizes": [
+        "146",
+        "149",
+        "152",
+        "155",
+        "157",
+        "159",
+        "162"
+      ],
+      "weightTable": {
+        "sizes": [
+          "146",
+          "149",
+          "152",
+          "155",
+          "157",
+          "159",
+          "162"
+        ],
+        "weights": [
+          "-60",
+          "-65",
+          "50-70",
+          "55-75",
+          "60-80",
+          "65-85",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/team-pro-snowboard"
+      },
+      "upperOnly": [
+        {
+          "length": "146",
+          "original": "-60"
+        },
+        {
+          "length": "149",
+          "original": "-65"
+        }
+      ],
+      "price": {
+        "amount": 639.9,
+        "maxAmount": 639.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/all-womens-snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-17.txt"
+      ]
+    },
+    {
+      "id": "nitro-squash-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/squash-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/squash-snowboard",
+      "officialFlex": 7,
+      "originalShape": "Tapered Swallowtail",
+      "shape": "Directional",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": "The 2026 Nitro Squash Snowboard - Shaped for More Fun! (https://www.nitrosnowboards.com/products/squash-snowboard)",
+      "originalGenderTags": [
+        "Men",
+        "Unisex"
+      ],
+      "riderGender": "Unisex",
+      "genderTextEvidence": null,
+      "sizes": [
+        "156MW",
+        "159MW",
+        "163W"
+      ],
+      "weightTable": {
+        "sizes": [
+          "156mw",
+          "159mw",
+          "163w"
+        ],
+        "weights": [
+          "60-80",
+          "65-85",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/squash-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 639.9,
+        "maxAmount": 639.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-17.txt",
+        "nitro-top-extra3.txt"
+      ]
+    },
+    {
+      "id": "nitro-highlander-snowboard",
+      "source": "https://www.nitrosnowboards.com/products/highlander-snowboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/highlander-snowboard",
+      "officialFlex": 8,
+      "originalShape": "Directional",
+      "shape": "Directional",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "156MW",
+        "159MW",
+        "162W"
+      ],
+      "weightTable": {
+        "sizes": [
+          "156mw",
+          "159mw",
+          "162w"
+        ],
+        "weights": [
+          "60+",
+          "70+",
+          "75+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/highlander-snowboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 1199.9,
+        "maxAmount": 1199.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-17.txt"
+      ]
+    },
+    {
+      "id": "nitro-nomad-splitboard",
+      "source": "https://www.nitrosnowboards.com/products/nomad-splitboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/nomad-splitboard",
+      "officialFlex": 6,
+      "originalShape": "Directional Splitboard",
+      "shape": "Directional",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": "The 2026 Nitro Nomad Splitboard - The Affordable Adventure Split (https://www.nitrosnowboards.com/products/nomad-splitboard)",
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "156",
+        "159MW",
+        "162MW"
+      ],
+      "weightTable": {
+        "sizes": [
+          "156",
+          "159mw",
+          "162mw"
+        ],
+        "weights": [
+          "50+",
+          "60+",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/nomad-splitboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 619.9,
+        "maxAmount": 619.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27?page=2"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-18.txt"
+      ]
+    },
+    {
+      "id": "nitro-doppleganger-splitboard",
+      "source": "https://www.nitrosnowboards.com/products/doppleganger-splitboard",
+      "parameterSource": "https://www.nitrosnowboards.com/products/doppleganger-splitboard",
+      "officialFlex": 8,
+      "originalShape": "Directional Splitboard",
+      "shape": "Directional",
+      "season": "待核实",
+      "seasonTags": [
+        "2025/2026",
+        "2026/2027"
+      ],
+      "pageTitle": null,
+      "originalGenderTags": [
+        "Men"
+      ],
+      "riderGender": "Men",
+      "genderTextEvidence": null,
+      "sizes": [
+        "148",
+        "152",
+        "156MW",
+        "160MW",
+        "164MW"
+      ],
+      "weightTable": {
+        "sizes": [
+          "148",
+          "152",
+          "156mw",
+          "160mw",
+          "164mw"
+        ],
+        "weights": [
+          "50-70",
+          "50+",
+          "50+",
+          "60+",
+          "70+"
+        ],
+        "source": "https://www.nitrosnowboards.com/products/doppleganger-splitboard"
+      },
+      "upperOnly": [],
+      "price": {
+        "amount": 879.9,
+        "maxAmount": 879.9,
+        "currency": "EUR",
+        "region": "国际站（适用国家待核实）",
+        "kind": "official-display",
+        "tax": "官网EUR展示价；国家、税费及是否建议零售价未核实",
+        "season": "待核实",
+        "checkedAt": "2026-10-28",
+        "source": "https://www.nitrosnowboards.com/collections/snowboards-26-27?page=2"
+      },
+      "priceFrom": false,
+      "priceLabel": "Sale price",
+      "sourceFiles": [
+        "nitro-current-18.txt"
+      ]
+    }
+  ]
+}

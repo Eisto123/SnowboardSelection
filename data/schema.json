@@ -182,7 +182,7 @@
           "uniqueItems": true,
           "items": {
             "type": "string",
-            "pattern": "^\\d{2,3}(\\.\\d+)?(W|UW|N|SHUN|X|DF)?$"
+            "pattern": "^\\d{2,3}(\\.\\d+)?(W|MW|UW|N|SHUN|X|DF)?$"
           }
         },
         "fit": {
@@ -256,7 +256,8 @@
                 "kind": {
                   "enum": [
                     "official-list",
-                    "msrp"
+                    "msrp",
+                    "official-display"
                   ]
                 },
                 "tax": {
@@ -270,6 +271,10 @@
                 },
                 "source": {
                   "$ref": "#/$defs/url"
+                },
+                "startsAt": {
+                  "type": "boolean",
+                  "description": "官网仅公布起价；maxAmount等于amount时不代表已核实价格上限。"
                 }
               }
             }
@@ -333,6 +338,20 @@
           "items": {
             "type": "string"
           }
+        },
+        "riderGender": {
+          "type": "string",
+          "enum": [
+            "Men",
+            "Women",
+            "Unisex"
+          ],
+          "description": "厂家明确的男女适用定位；与Youth年龄分类独立。不填写时沿用gender。"
+        },
+        "shapeOriginal": {
+          "type": "string",
+          "minLength": 1,
+          "description": "官方原生板型；不属于三分类时保留原名展示。"
         }
       }
     }

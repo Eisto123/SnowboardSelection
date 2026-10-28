@@ -3,7 +3,7 @@ import assert from 'node:assert/strict';
 import {validate,checkSchema} from '../scripts/validate.mjs';
 import {filterProducts,sortProducts,matchingSizes,groupProducts,safeIds,displayImageUrl,imageCandidates} from '../site/core.mjs';
 const {products}=await validate();
-const base={search:'',brand:'',shape:'',gender:'',season:'',min:'',max:'',currency:'',budget:'',preset:'all'};
+const base={search:'',brand:'',shape:'',gender:'',season:'',min:'',max:'',currency:'',budget:''};
 test('public catalog covers all sixteen brands and restores unrestricted models',()=>{assert.ok(products.length>300);assert.equal(new Set(products.map(p=>p.brand)).size,16);for(const brand of ['Burton','RIDE','K2','Salomon','Never Summer','thirtytwo','OGASAKA','YONEX'])assert.ok(products.some(p=>p.brand===brand),brand);assert.ok(products.some(p=>/greats/i.test(p.model)));assert.ok(products.some(p=>/birds of a feather/i.test(p.model)));assert.ok(products.every(p=>!('personal' in p)));});
 test('unknown flex never matches numeric or official-only filters',()=>{const ps=filterProducts(products,{...base,min:'1',max:'10'});assert.ok(ps.length);assert.ok(ps.every(p=>p.flex.value!==null));assert.ok(filterProducts(products,{...base,official:true}).every(p=>p.flex.kind==='official'));});
 test('official shape block wins over page navigation and marketing wording',()=>{assert.equal(products.find(p=>p.id==='jones-womens-twin-sister-snowboard').shape,'Directional Twin');assert.equal(products.find(p=>p.id==='jones-womens-dream-weaver-20-snowboard').shape,'Directional');assert.equal(products.find(p=>p.id==='arbor-danny-kass-park-pro-snowboard-27').shape,null);});
@@ -20,3 +20,23 @@ test('display thumbnails keep original image sources intact',()=>{const url='htt
 test('image recovery tries selected thumbnail, original, then other official views without duplicates',()=>{const images=[{url:'https://cdn.shopify.com/s/files/a.webp?v=1'},{url:'https://example.org/b.png'},{url:'https://example.org/b.png'}];const q=imageCandidates(images);assert.equal(q[0].index,0);assert.equal(q[1].url,images[0].url);assert.equal(q[2].url,images[1].url);assert.equal(q.length,3);assert.equal(imageCandidates(images,1)[0].url,images[1].url);assert.deepEqual(imageCandidates([]),[]);});
 test('expanded official catalogs retain measured ranges and native flex evidence',()=>{for(const [brand,count] of Object.entries({K2:25,RIDE:24,Salomon:36,thirtytwo:18,OGASAKA:26,YONEX:20}))assert.equal(products.filter(p=>p.brand===brand).length,count);assert.ok(products.filter(p=>p.brand==='K2'&&p.fit.length).length>=21);assert.ok(products.filter(p=>p.brand==='RIDE'&&p.fit.length).length>=23);assert.ok(products.filter(p=>p.brand==='thirtytwo').every(p=>p.flex.kind==='official'));assert.equal(products.find(p=>p.id==='thirtytwo-permanent-vacation').flex.value,5);assert.ok(products.filter(p=>p.brand==='YONEX').every(p=>p.price&&p.sizes.length));});
 test('schema rejects out of range flex and untraceable unknown keys',()=>{const p=structuredClone(products[0]);p.flex.value=11;assert.throws(()=>checkSchema([p]));const q=structuredClone(products[0]);q.imaginary=1;assert.throws(()=>checkSchema([q]));});
+
+test('rider gender includes neutral and unclassified boards for both choices',()=>{
+ const sample=products[0];const ps=['Men','Women','Unisex','Youth',null].map((gender,i)=>({...sample,id:'gender-fixture-'+i,gender}));
+ assert.deepEqual(filterProducts(ps,{...base,riderGender:'Men'}).map(p=>p.gender),['Men','Unisex','Youth',null]);
+ assert.deepEqual(filterProducts(ps,{...base,riderGender:'Women'}).map(p=>p.gender),['Women','Unisex','Youth',null]);
+ assert.equal(filterProducts(ps,{...base,riderGender:''}).length,5);
+});
+test('rider gender combines with actual official weight ranges and other filters',()=>{
+ const ps=filterProducts(products,{...base,riderGender:'Women',fit:true,weight:'60',brand:'K2'});
+ assert.ok(ps.length);assert.ok(ps.every(p=>p.gender!=='Men'&&p.brand==='K2'&&matchingSizes(p,60).length));
+ assert.ok(filterProducts(products,{...base,riderGender:'Men'}).every(p=>p.gender!=='Women'));
+});
+
+test('Nitro official specifications preserve actual model pages and upper-only youth weights',()=>{
+ const ps=products.filter(p=>p.brand==='Nitro');assert.equal(ps.length,56);assert.ok(ps.every(p=>p.flex.kind==='official'&&p.shapeOriginal&&p.price?.currency==='EUR'&&p.price.kind==='official-display'));
+ const kids=ps.find(p=>p.id==='nitro-spirit-kids-snowboard-1'),youth=ps.find(p=>p.id==='nitro-spirit-youth-snowboard-1');assert.equal(kids.flex.value,1);assert.equal(youth.flex.value,2);assert.ok(kids.sizes.includes('086'));assert.ok(!kids.sizes.includes('132'));assert.ok(kids.fit.every(f=>!['086','096','106'].includes(f.length)));assert.equal(kids.riderGender,'Women');
+ assert.ok(!filterProducts([kids],{...base,riderGender:'Men'}).length);assert.equal(filterProducts([kids],{...base,riderGender:'Women'}).length,1);
+ const surf=ps.find(p=>p.id==='nitro-x-konvoi-surfer-powder-surfer-1');assert.equal(surf.shapeOriginal,'Powder Surfer');assert.equal(surf.shape,null);assert.equal(surf.flex.value,6);assert.equal(surf.fit.length,0);
+ assert.ok(ps.some(p=>p.sizes.some(s=>s.endsWith('MW'))));assert.ok(ps.some(p=>p.season==='待核实'));assert.equal(ps.find(p=>p.id==='nitro-mastercarve-snowboard').flex.value,9);
+});
