@@ -1,8 +1,8 @@
-import {lengthRecommendation} from './sizing.mjs';
+import {lengthRecommendation,weightMatches} from './sizing.mjs';
 export const genderLabels={Women:'女款',Men:'男款',Unisex:'Unisex',Youth:'青少年 / 儿童'};
 export function displayImageUrl(original){const u=new URL(original);if(u.hostname==='cdn.shopify.com'||u.pathname.includes('/cdn/shop/'))u.searchParams.set('width','600');else if(u.hostname==='cdn.dam.salomon.com')u.searchParams.set('width','600');return u.href;}
 export function imageCandidates(images,selected=0){const order=images.map((_,i)=>(selected+i)%images.length),seen=new Set(),out=[];for(const index of order){const original=images[index].url;for(const url of [images[index].local,displayImageUrl(original),original])if(url&&!seen.has(url)){seen.add(url);out.push({url,index});}}return out;}
-export function matchingSizes(p,weight){return weight>0?p.fit.filter(x=>weight>=x.weightKg[0]&&(x.weightKg[1]===null||weight<=x.weightKg[1])).map(x=>x.length):[];}
+export function matchingSizes(p,weight){return p.fit.filter(x=>!x.referenceOnly&&weightMatches(x.weightKg,weight)).map(x=>x.length);}
 export function filterProducts(products,f,saved=[]){return products.filter(p=>{
  const query=(f.search||'').trim().toLowerCase();
  if(query&&!`${p.brand} ${p.model} ${p.season} ${p.terrains.join(' ')}`.toLowerCase().includes(query))return false;

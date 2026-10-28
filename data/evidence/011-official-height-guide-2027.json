@@ -1,0 +1,496 @@
+{
+  "brand": "011 Artistic",
+  "checkedAt": "2026-10-28",
+  "seasonContext": "2026/27，官网当前页面引用011artistic2027主题图；图片本身未单印雪季。",
+  "kind": "official-height-reference",
+  "source": "https://www.011artistic.com/product/snowboard/sizeguide/",
+  "imageSource": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/size.png",
+  "heightUnit": "cm",
+  "lengthUnit": "cm",
+  "heightColumnLabels": [
+    "≤150",
+    "155",
+    "160",
+    "165",
+    "170",
+    "175",
+    "≥180"
+  ],
+  "interpretation": "原图只有≤150、155、160、165、170、175、≥180七个列标签；155–175为离散身高参考点，未指定连续区间边界，不插值或人为生成分箱。空白格保留空数组，不解释为禁止使用。",
+  "caveat": "官网说明体重、脚码和滑行风格可使选长前后变化；这是身高参考，不是逐尺寸体重适配表。",
+  "models": [
+    {
+      "model": "DOUBLE FLY",
+      "profile": "CAMBER",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": [
+            138,
+            140,
+            143
+          ]
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": [
+            138,
+            140,
+            143,
+            145
+          ]
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            145,
+            148.5,
+            150,
+            151
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148.5,
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            148.5,
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            154
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152,
+            154,
+            156
+          ]
+        }
+      ],
+      "productId": "011-double-fly"
+    },
+    {
+      "model": "X FLY",
+      "profile": "CAMBER",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": [
+            138,
+            141
+          ]
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": [
+            138,
+            141,
+            144
+          ]
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            148,
+            150,
+            151
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148,
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            154
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152,
+            154
+          ]
+        }
+      ],
+      "productId": "011-x-fly"
+    },
+    {
+      "model": "BALANCE",
+      "profile": "CAMBER",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            148,
+            150,
+            151
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148,
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152,
+            153
+          ]
+        }
+      ],
+      "productId": "011-balance"
+    },
+    {
+      "model": "ZERO",
+      "profile": "CAMBER",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            148,
+            150
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148,
+            150,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            150,
+            152
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            152
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152
+          ]
+        }
+      ],
+      "productId": "011-zero"
+    },
+    {
+      "model": "DOUBLE FLY SPIN",
+      "profile": "DOUBLE CAMBER",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": [
+            138,
+            140,
+            143,
+            145
+          ]
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": [
+            138,
+            140,
+            143,
+            145
+          ]
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            145,
+            148.5,
+            151
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148.5,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            148.5,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            151,
+            152,
+            153,
+            154
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152,
+            153,
+            154
+          ]
+        }
+      ],
+      "productId": "011-double-fly-spin"
+    },
+    {
+      "model": "X FLY SPIN",
+      "profile": "DOUBLE CAMBER",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": [
+            138,
+            141
+          ]
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": [
+            138,
+            141,
+            144
+          ]
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            150,
+            151
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            154
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152,
+            154
+          ]
+        }
+      ],
+      "productId": "011-x-fly-spin"
+    },
+    {
+      "model": "BALANCE SPIN",
+      "profile": "DOUBLE CAMBER",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            148,
+            150,
+            151
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148,
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152,
+            153
+          ]
+        }
+      ],
+      "productId": "011-balance-spin"
+    },
+    {
+      "model": "ZERO WIDE SPIN",
+      "profile": "DOUBLE CAMBER",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            148,
+            150
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148,
+            150,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            150,
+            152
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            152
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152
+          ]
+        }
+      ],
+      "productId": "011-zero-wide-spin"
+    }
+  ]
+}

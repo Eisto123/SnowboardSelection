@@ -4,8 +4,8 @@
     "brand": "Salomon",
     "model": "HUCK KNIFE",
     "family": "HUCK KNIFE",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49292200与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": null,
     "flex": {
@@ -33,7 +33,64 @@
       "159W",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          55,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          80,
+          110
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          90,
+          125
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          90,
+          125
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      }
+    ],
     "price": {
       "amount": 579.95,
       "maxAmount": 579.95,
@@ -41,7 +98,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/huck-knife-li1304/L49292200"
     },
@@ -68,7 +125,7 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网可核实当前型号与货号，但本页未明确雪季；板花雪季待核实。"
+      "型号雪季已通过官方FW2026–27技术目录货号确认；板花自身未独立注明雪季，图片标记继续保留待核实。"
     ]
   },
   {
@@ -76,8 +133,8 @@
     "brand": "Salomon",
     "model": "BLISS",
     "family": "BLISS",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49293900与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方原名 Tapered Directional，归入 Directional 导航组。",
     "flex": {
@@ -105,7 +162,56 @@
       "151",
       "155"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "141",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          50,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      }
+    ],
     "price": {
       "amount": 449.95,
       "maxAmount": 449.95,
@@ -113,7 +219,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/bliss-li1325/L49293900"
     },
@@ -140,7 +246,7 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网可核实当前型号与货号，但本页未明确雪季；板花雪季待核实。"
+      "型号雪季已通过官方FW2026–27技术目录货号确认；板花自身未独立注明雪季，图片标记继续保留待核实。"
     ]
   },
   {
@@ -148,8 +254,8 @@
     "brand": "Salomon",
     "model": "ASSASSIN",
     "family": "ASSASSIN",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49291700与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional Twin",
     "shapeNote": null,
     "flex": {
@@ -180,7 +286,72 @@
       "163W",
       "165"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          55,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          55,
+          85
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          65,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "163W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "165",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      }
+    ],
     "price": {
       "amount": 649.95,
       "maxAmount": 649.95,
@@ -188,7 +359,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/assassin-li1300/L49291700"
     },
@@ -215,7 +386,7 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网可核实当前型号与货号，但本页未明确雪季；板花雪季待核实。"
+      "型号雪季已通过官方FW2026–27技术目录货号确认；板花自身未独立注明雪季，图片标记继续保留待核实。"
     ]
   },
   {
@@ -223,8 +394,8 @@
     "brand": "Salomon",
     "model": "OH YEAH",
     "family": "OH YEAH",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49292500与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": null,
     "flex": {
@@ -249,7 +420,40 @@
       "147",
       "151"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      }
+    ],
     "price": {
       "amount": 429.95,
       "maxAmount": 429.95,
@@ -257,7 +461,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/oh-yeah-li1308/L49292500"
     },
@@ -284,7 +488,7 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网可核实当前型号与货号，但本页未明确雪季；板花雪季待核实。"
+      "型号雪季已通过官方FW2026–27技术目录货号确认；板花自身未独立注明雪季，图片标记继续保留待核实。"
     ]
   },
   {
@@ -292,8 +496,8 @@
     "brand": "Salomon",
     "model": "HIGHPATH",
     "family": "HIGHPATH",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L45434200与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
     "flex": {
@@ -324,7 +528,80 @@
       "162W",
       "165W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          50,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          50,
+          80
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          60,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          60,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          70,
+          100
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          70,
+          100
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -332,7 +609,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/highpath-li1557/L45434200"
     },
@@ -359,8 +636,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Advanced, Intermediate。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -370,8 +647,8 @@
     "brand": "Salomon",
     "model": "RUMBLE FISH",
     "family": "RUMBLE FISH",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49294400与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional Twin",
     "shapeNote": null,
     "flex": {
@@ -399,7 +676,48 @@
       "152",
       "155"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "140",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          40,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          50,
+          80
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      }
+    ],
     "price": {
       "amount": 649.95,
       "maxAmount": 649.95,
@@ -407,7 +725,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/rumble-fish-li1338/L49294400"
     },
@@ -434,8 +752,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Advanced, Intermediate。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -445,8 +763,8 @@
     "brand": "Salomon",
     "model": "JETSTREAM",
     "family": "JETSTREAM",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49292600与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
     "flex": {
@@ -474,7 +792,64 @@
       "163",
       "166"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "146",
+        "weightKg": [
+          50,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          50,
+          80
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          60,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          60,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          70,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "166",
+        "weightKg": [
+          75,
+          115
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      }
+    ],
     "price": {
       "amount": 649.95,
       "maxAmount": 649.95,
@@ -482,7 +857,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/jetstream-li1322/L49292600"
     },
@@ -509,8 +884,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Expert, Advanced。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -520,8 +895,8 @@
     "brand": "Salomon",
     "model": "DANCEHAUL",
     "family": "DANCEHAUL",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49291600与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
     "flex": {
@@ -550,7 +925,56 @@
       "154",
       "157"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "139",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          60,
+          85
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          70,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          70,
+          100
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      }
+    ],
     "price": {
       "amount": 549.95,
       "maxAmount": 549.95,
@@ -558,7 +982,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/dancehaul-li1299/L49291600"
     },
@@ -585,11 +1009,11 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Advanced, Intermediate。",
       "弧度原文：Rock Out Camber。",
-      "官网说明为加宽板型；不能仅按传统板长选择，具体体重与短板建议待核实。"
+      "官网说明为加宽板型；体重范围见官方表，不能仅按传统板长选择，仍需结合雪鞋和板宽。"
     ]
   },
   {
@@ -597,8 +1021,8 @@
     "brand": "Salomon",
     "model": "WONDER",
     "family": "WONDER",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49292800与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional Twin",
     "shapeNote": null,
     "flex": {
@@ -626,7 +1050,48 @@
       "152",
       "155"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "140",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          40,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          50,
+          80
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      }
+    ],
     "price": {
       "amount": 479.95,
       "maxAmount": 479.95,
@@ -634,7 +1099,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/wonder-li1324/L49292800"
     },
@@ -661,8 +1126,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Advanced, Intermediate。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -672,8 +1137,8 @@
     "brand": "Salomon",
     "model": "CRAFT",
     "family": "CRAFT",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49292100与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional Twin",
     "shapeNote": null,
     "flex": {
@@ -703,7 +1168,64 @@
       "160W",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          55,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          55,
+          85
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          65,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      }
+    ],
     "price": {
       "amount": 479.95,
       "maxAmount": 479.95,
@@ -711,7 +1233,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/craft-li1302/L49292100"
     },
@@ -738,8 +1260,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Advanced, Intermediate。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -749,8 +1271,8 @@
     "brand": "Salomon",
     "model": "LOTUS",
     "family": "LOTUS",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49293800与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional Twin",
     "shapeNote": null,
     "flex": {
@@ -778,7 +1300,56 @@
       "151",
       "155"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "135",
+        "weightKg": [
+          30,
+          50
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "138",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          55,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      }
+    ],
     "price": {
       "amount": 399.95,
       "maxAmount": 399.95,
@@ -786,7 +1357,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/lotus-li1306/L49293800"
     },
@@ -813,8 +1384,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Beginner, Intermediate。",
       "弧度原文：Flat Out Camber。"
     ]
@@ -824,8 +1395,8 @@
     "brand": "Salomon",
     "model": "SIGHT",
     "family": "SIGHT",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49293000与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
     "flex": {
@@ -856,7 +1427,80 @@
       "162W",
       "166W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          55,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          55,
+          85
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          70,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "166W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      }
+    ],
     "price": {
       "amount": 449.95,
       "maxAmount": 449.95,
@@ -864,7 +1508,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/sight-li1327/L49293000"
     },
@@ -891,8 +1535,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Beginner, Intermediate。",
       "弧度原文：Cross Profile。"
     ]
@@ -902,8 +1546,8 @@
     "brand": "Salomon",
     "model": "DANCEHAUL GROM",
     "family": "DANCEHAUL GROM",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49293400与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。板型由同一产品编号的英国官网核实：https://www.salomon.com/en-gb/product/dancehaul-grom-li1331/L49293400",
     "flex": {
@@ -928,7 +1572,24 @@
       "125",
       "135"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "125",
+        "weightKg": [
+          30,
+          50
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          35,
+          55
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      }
+    ],
     "price": {
       "amount": 379.95,
       "maxAmount": 379.95,
@@ -936,7 +1597,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/dancehaul-grom-li1331/L49293400"
     },
@@ -963,8 +1624,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Advanced, Intermediate。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -974,8 +1635,8 @@
     "brand": "Salomon",
     "model": "ASSASSIN PRO",
     "family": "ASSASSIN PRO",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49292000与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional Twin",
     "shapeNote": null,
     "flex": {
@@ -1004,7 +1665,64 @@
       "162",
       "163W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          55,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          55,
+          85
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          65,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "163W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -1012,7 +1730,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/assassin-pro-li1301/L49292000"
     },
@@ -1039,8 +1757,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Expert, Advanced。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -1050,8 +1768,8 @@
     "brand": "Salomon",
     "model": "PULSE",
     "family": "PULSE",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49292900与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional Twin",
     "shapeNote": null,
     "flex": {
@@ -1082,7 +1800,80 @@
       "162W",
       "163"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          40,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          55,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          55,
+          85
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          70,
+          100
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          70,
+          100
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      }
+    ],
     "price": {
       "amount": 399.95,
       "maxAmount": 399.95,
@@ -1090,7 +1881,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/pulse-li1326/L49292900"
     },
@@ -1117,8 +1908,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Beginner, Intermediate。",
       "弧度原文：Flat Out Camber。"
     ]
@@ -1128,8 +1919,8 @@
     "brand": "Salomon",
     "model": "TEAM PACKAGE",
     "family": "TEAM PACKAGE",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L47924400与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": null,
     "flex": {
@@ -1153,7 +1944,32 @@
       "90",
       "100"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "80",
+        "weightKg": [
+          12,
+          20
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "90",
+        "weightKg": [
+          12,
+          20
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "100",
+        "weightKg": [
+          15,
+          25
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      }
+    ],
     "price": {
       "amount": 359.95,
       "maxAmount": 359.95,
@@ -1161,7 +1977,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/team-package-li8597/L47924400"
     },
@@ -1180,8 +1996,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Beginner, Intermediate。",
       "弧度原文：Super Flat。",
       "TEAM PACKAGE 为儿童雪板与固定器套装；官网标价为套装总价，不能当作单板单独售价。"
@@ -1192,8 +2008,8 @@
     "brand": "Salomon",
     "model": "GRAIL",
     "family": "GRAIL",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L47924200与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": "板型由同一产品编号的日本官网核实：https://salomon.jp/products/grail-l479242",
     "flex": {
@@ -1220,7 +2036,48 @@
       "125",
       "130"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "110",
+        "weightKg": [
+          25,
+          35
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "115",
+        "weightKg": [
+          25,
+          35
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "120",
+        "weightKg": [
+          30,
+          40
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "125",
+        "weightKg": [
+          35,
+          45
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          35,
+          50
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      }
+    ],
     "price": {
       "amount": 259.95,
       "maxAmount": 259.95,
@@ -1228,7 +2085,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/grail-li8595/L47924200"
     },
@@ -1255,8 +2112,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Beginner, Intermediate。",
       "弧度原文：Super Flat。"
     ]
@@ -1266,8 +2123,8 @@
     "brand": "Salomon",
     "model": "TEAM",
     "family": "TEAM",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L47924300与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": null,
     "flex": {
@@ -1293,7 +2150,48 @@
       "100",
       "110"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "70",
+        "weightKg": [
+          12,
+          20
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "80",
+        "weightKg": [
+          12,
+          20
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "90",
+        "weightKg": [
+          12,
+          20
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "100",
+        "weightKg": [
+          15,
+          25
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "110",
+        "weightKg": [
+          20,
+          35
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      }
+    ],
     "price": {
       "amount": 239.95,
       "maxAmount": 239.95,
@@ -1301,7 +2199,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/team-li8596/L47924300"
     },
@@ -1328,8 +2226,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Beginner, Intermediate。",
       "弧度原文：Super Flat。"
     ]
@@ -1339,8 +2237,8 @@
     "brand": "Salomon",
     "model": "GRACE",
     "family": "GRACE",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L47924100与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": "板型由同一产品编号的日本官网核实：https://salomon.jp/products/grace-l479241",
     "flex": {
@@ -1367,7 +2265,48 @@
       "125",
       "130"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "110",
+        "weightKg": [
+          25,
+          35
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "115",
+        "weightKg": [
+          25,
+          35
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "120",
+        "weightKg": [
+          30,
+          40
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "125",
+        "weightKg": [
+          35,
+          45
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          35,
+          50
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      }
+    ],
     "price": {
       "amount": 259.95,
       "maxAmount": 259.95,
@@ -1375,7 +2314,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/grace-li8594/L47924100"
     },
@@ -1402,8 +2341,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Beginner, Intermediate。",
       "弧度原文：Super Flat。"
     ]
@@ -1413,8 +2352,8 @@
     "brand": "Salomon",
     "model": "HUCK KNIFE PRO",
     "family": "HUCK KNIFE PRO",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49292300与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": null,
     "flex": {
@@ -1440,7 +2379,56 @@
       "159",
       "159W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          55,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          65,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      }
+    ],
     "price": {
       "amount": 679.95,
       "maxAmount": 679.95,
@@ -1448,7 +2436,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/huck-knife-pro-li1305/L49292300"
     },
@@ -1475,8 +2463,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Expert, Advanced。",
       "弧度原文：Quad Camber。"
     ]
@@ -1486,8 +2474,8 @@
     "brand": "Salomon",
     "model": "NO DRAMA",
     "family": "NO DRAMA",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49292400与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": null,
     "flex": {
@@ -1513,7 +2501,48 @@
       "149",
       "152"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "139",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          40,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          50,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      }
+    ],
     "price": {
       "amount": 579.95,
       "maxAmount": 579.95,
@@ -1521,7 +2550,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/no-drama-li1307/L49292400"
     },
@@ -1548,8 +2577,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Advanced, Intermediate。",
       "弧度原文：Quad Camber。"
     ]
@@ -1559,8 +2588,8 @@
     "brand": "Salomon",
     "model": "KICKBACK",
     "family": "KICKBACK",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49293200与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": null,
     "flex": {
@@ -1588,7 +2617,64 @@
       "158",
       "158W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          55,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          55,
+          85
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          65,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      }
+    ],
     "price": {
       "amount": 429.95,
       "maxAmount": 429.95,
@@ -1596,7 +2682,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/kickback-li1329/L49293200"
     },
@@ -1623,8 +2709,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Beginner, Intermediate。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -1634,8 +2720,8 @@
     "brand": "Salomon",
     "model": "OH YEAH GROM",
     "family": "OH YEAH GROM",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49293500与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": "板型由同一产品编号的英国官网核实：https://www.salomon.com/en-gb/product/oh-yeah-grom-li1332/L49293500",
     "flex": {
@@ -1660,7 +2746,32 @@
       "133",
       "138"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "127",
+        "weightKg": [
+          30,
+          50
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "133",
+        "weightKg": [
+          35,
+          55
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "138",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      }
+    ],
     "price": {
       "amount": 319.95,
       "maxAmount": 319.95,
@@ -1668,7 +2779,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/oh-yeah-grom-li1332/L49293500"
     },
@@ -1695,8 +2806,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Beginner, Intermediate。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -1706,8 +2817,8 @@
     "brand": "Salomon",
     "model": "SLEEPWALKER GROM",
     "family": "SLEEPWALKER GROM",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49293300与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": null,
     "flex": {
@@ -1735,7 +2846,56 @@
       "145",
       "145W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "127",
+        "weightKg": [
+          30,
+          50
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "133",
+        "weightKg": [
+          35,
+          55
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "138",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          40,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "145W",
+        "weightKg": [
+          40,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      }
+    ],
     "price": {
       "amount": 319.95,
       "maxAmount": 319.95,
@@ -1743,7 +2903,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/sleepwalker-grom-li1333/L49293300"
     },
@@ -1770,8 +2930,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Beginner, Intermediate。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -1781,8 +2941,8 @@
     "brand": "Salomon",
     "model": "ABSTRACT",
     "family": "ABSTRACT",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49293700与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": null,
     "flex": {
@@ -1813,7 +2973,88 @@
       "158W",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          55,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          55,
+          85
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          65,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=10"
+      }
+    ],
     "price": {
       "amount": 549.95,
       "maxAmount": 549.95,
@@ -1821,7 +3062,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/abstract-li1303/L49293700"
     },
@@ -1848,8 +3089,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Expert, Advanced, Intermediate。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -1859,8 +3100,8 @@
     "brand": "Salomon",
     "model": "SLEEPWALKER",
     "family": "SLEEPWALKER",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49293100与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": null,
     "flex": {
@@ -1888,7 +3129,64 @@
       "158",
       "158W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          55,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          55,
+          85
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          65,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          65,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=11"
+      }
+    ],
     "price": {
       "amount": 449.95,
       "maxAmount": 449.95,
@@ -1896,7 +3194,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/sleepwalker-li1328/L49293100"
     },
@@ -1923,8 +3221,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Advanced, Intermediate。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -1934,8 +3232,8 @@
     "brand": "Salomon",
     "model": "HUCK KNIFE GROM",
     "family": "HUCK KNIFE GROM",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49293600与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "True Twin",
     "shapeNote": "板型由同一产品编号的日本官网核实：https://salomon.jp/products/huck-knife-grom-l492936",
     "flex": {
@@ -1963,7 +3261,64 @@
       "143",
       "145W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "125",
+        "weightKg": [
+          30,
+          45
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          30,
+          50
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          35,
+          55
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          35,
+          60
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "140W",
+        "weightKg": [
+          40,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          40,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      },
+      {
+        "length": "145W",
+        "weightKg": [
+          40,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=12"
+      }
+    ],
     "price": {
       "amount": 379.95,
       "maxAmount": 379.95,
@@ -1971,7 +3326,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/huck-knife-grom-li1330/L49293600"
     },
@@ -1998,8 +3353,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Advanced, Intermediate。",
       "弧度原文：Quad Camber。"
     ]
@@ -2009,8 +3364,8 @@
     "brand": "Salomon",
     "model": "FASTLANE",
     "family": "FASTLANE",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49292700与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
     "flex": {
@@ -2038,7 +3393,64 @@
       "166",
       "170"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          60,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          60,
+          85
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          70,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "166",
+        "weightKg": [
+          75,
+          115
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "170",
+        "weightKg": [
+          75,
+          130
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      }
+    ],
     "price": {
       "amount": 749.95,
       "maxAmount": 749.95,
@@ -2046,7 +3458,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/fastlane-li1323/L49292700"
     },
@@ -2073,8 +3485,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Expert, Advanced。",
       "弧度原文：Backseat Camber。"
     ]
@@ -2084,8 +3496,8 @@
     "brand": "Salomon",
     "model": "HPS - SICKSTICK",
     "family": "HPS - SICKSTICK",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L49299100与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional Twin",
     "shapeNote": "官方板型 Tapered Twin；导航归为 Directional Twin。",
     "flex": {
@@ -2113,7 +3525,56 @@
       "159",
       "163"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          50,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          60,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          70,
+          100
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -2121,7 +3582,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/hps-sickstick-li1368/L49299100"
     },
@@ -2148,8 +3609,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Expert。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -2159,8 +3620,8 @@
     "brand": "Salomon",
     "model": "HPS - LOUIF PARADIS",
     "family": "HPS - LOUIF PARADIS",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L45438800与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
     "flex": {
@@ -2184,7 +3645,32 @@
       "160",
       "164"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "156",
+        "weightKg": [
+          60,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          70,
+          100
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "164",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -2192,7 +3678,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/hps-louif-paradis-li1598/L45438800"
     },
@@ -2219,8 +3705,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Expert。",
       "弧度原文：Rock Out Camber。"
     ]
@@ -2230,8 +3716,8 @@
     "brand": "Salomon",
     "model": "HPS - WOLLE NYVELT FISH",
     "family": "HPS - WOLLE NYVELT FISH",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L45434400与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
     "flex": {
@@ -2255,7 +3741,40 @@
       "157",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          50,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          60,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          70,
+          100
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -2263,7 +3782,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/hps-wolle-nyvelt-fish-li1569/L45434400"
     },
@@ -2290,8 +3809,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Expert。",
       "弧度原文：Powder Camber。"
     ]
@@ -2301,8 +3820,8 @@
     "brand": "Salomon",
     "model": "INDICATOR",
     "family": "INDICATOR",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L45434300与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
     "flex": {
@@ -2329,7 +3848,56 @@
       "161",
       "165W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          50,
+          75
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          60,
+          90
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          60,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          70,
+          100
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -2337,7 +3905,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/indicator-li1568/L45434300"
     },
@@ -2364,8 +3932,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Advanced, Expert。",
       "弧度原文：Powder Camber。"
     ]
@@ -2375,8 +3943,8 @@
     "brand": "Salomon",
     "model": "BELLEVUE SPLIT",
     "family": "BELLEVUE SPLIT",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L47017500与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。板型由同一产品编号的日本官网核实：https://salomon.jp/products/bellevue-split-l470175",
     "flex": {
@@ -2399,7 +3967,24 @@
       "148",
       "152"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      }
+    ],
     "price": {
       "amount": 999.95,
       "maxAmount": 999.95,
@@ -2407,7 +3992,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/bellevue-split-li3453/L47017500"
     },
@@ -2434,8 +4019,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Expert, Advanced, Intermediate。",
       "弧度原文：Backseat Camber。",
       "分体板 / Touring：与普通整板的器材用途不同。"
@@ -2446,8 +4031,8 @@
     "brand": "Salomon",
     "model": "HIGHPATH SPLIT",
     "family": "HIGHPATH SPLIT",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L47017000与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
     "flex": {
@@ -2471,7 +4056,32 @@
       "159",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "156",
+        "weightKg": [
+          60,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          70,
+          100
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          70,
+          100
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      }
+    ],
     "price": {
       "amount": 999.95,
       "maxAmount": 999.95,
@@ -2479,7 +4089,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/highpath-split-li3449/L47017000"
     },
@@ -2506,8 +4116,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Expert, Advanced, Intermediate。",
       "弧度原文：Rock Out Camber。",
       "分体板 / Touring：与普通整板的器材用途不同。"
@@ -2518,8 +4128,8 @@
     "brand": "Salomon",
     "model": "PREMIERE",
     "family": "PREMIERE",
-    "season": "待核实",
-    "seasonEvidence": "官网当前产品页未明确雪季；不以发布日期推断",
+    "season": "2026/27",
+    "seasonEvidence": "官方FW2026–27技术目录产品编号L47031500与当前官网产品一致；https://salomon.jp/pages/snowboard-catalog",
     "shape": "Directional",
     "shapeNote": "官方板型 Tapered Directional；导航归为 Directional。",
     "flex": {
@@ -2542,7 +4152,32 @@
       "159",
       "165"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "154",
+        "weightKg": [
+          60,
+          80
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          60,
+          95
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      },
+      {
+        "length": "165",
+        "weightKg": [
+          70,
+          105
+        ],
+        "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200#page=9"
+      }
+    ],
     "price": {
       "amount": 1699.95,
       "maxAmount": 1699.95,
@@ -2550,7 +4185,7 @@
       "region": "US",
       "kind": "official-list",
       "tax": "美国站标价；税费以结算为准",
-      "season": "待核实",
+      "season": "2026/27",
       "checkedAt": "2026-10-28",
       "source": "https://www.salomon.com/en-us/product/premiere-li3533/L47031500"
     },
@@ -2577,8 +4212,8 @@
     "checkedAt": "2026-10-28",
     "status": "partial",
     "notes": [
-      "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "雪季已通过官方FW2026–27技术目录产品编号确认，不以抓取年份推断。",
+      "已按官方FW2026–27技术目录产品编号核实本型号全部已收录长度的骑手体重范围。",
       "官网骑行水平原文：Expert。",
       "弧度原文：Cross Profile。",
       "分体板 / Touring：与普通整板的器材用途不同。"
@@ -2614,7 +4249,16 @@
       "158",
       "161"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "155",
+        "weightKg": [
+          60,
+          80
+        ],
+        "source": "https://www.salomon.com/en-gb/product/hps-taka-split-2-0-li3550"
+      }
+    ],
     "price": {
       "amount": 1099.95,
       "maxAmount": 1099.95,
@@ -2650,11 +4294,11 @@
     "status": "partial",
     "notes": [
       "官网没有公开明确雪季；仅记录当前目录，不以抓取年份推断雪季。",
-      "公开参数页未提供可对应各长度的骑手体重范围；建议长度体重表待核实。",
+      "仅155的60–80kg已通过官网尺寸编号与几何参数确认；158、161仍待核实。",
       "官网骑行水平原文：Expert, Advanced, Intermediate。",
       "弧度原文：Powder Camber。",
       "分体板 / Touring：与普通整板的器材用途不同。",
-      "官网显示一个选中尺寸的 Rider Weight 132.3–176.4 lbs，但抓取页面未可靠对应选中的长度，因此不填入逐长度体重表。目录显示售罄，产品页仍给出 US$1,099.95。"
+      "当前官网155尺寸的体重范围已核实，其余尺寸留空。目录显示售罄，产品页仍给出US$1,099.95。"
     ]
   }
 ]

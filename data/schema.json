@@ -213,6 +213,20 @@
               },
               "source": {
                 "$ref": "#/$defs/url"
+              },
+              "weightOriginal": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Official rider weight text in kg, retained verbatim; e.g.45–68+."
+              },
+              "weightNote": {
+                "type": "string",
+                "minLength": 1,
+                "description": "Explanation of open endpoints, conflicting printed units, or other source limitations."
+              },
+              "referenceOnly": {
+                "type": "boolean",
+                "description": "Published official range retained for inspection but excluded from automatic matching because source units conflict."
               }
             }
           }
@@ -357,6 +371,57 @@
           "type": "string",
           "minLength": 1,
           "description": "官方原生板型；不属于三分类时保留原名展示。"
+        },
+        "heightGuide": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [
+            "source",
+            "imageSource",
+            "interpretation",
+            "caveat",
+            "references"
+          ],
+          "properties": {
+            "source": {
+              "$ref": "#/$defs/url"
+            },
+            "imageSource": {
+              "$ref": "#/$defs/url"
+            },
+            "interpretation": {
+              "type": "string"
+            },
+            "caveat": {
+              "type": "string"
+            },
+            "references": {
+              "type": "array",
+              "minItems": 1,
+              "items": {
+                "type": "object",
+                "additionalProperties": false,
+                "required": [
+                  "heightLabel",
+                  "lengthsCm"
+                ],
+                "properties": {
+                  "heightLabel": {
+                    "type": "string"
+                  },
+                  "lengthsCm": {
+                    "type": "array",
+                    "uniqueItems": true,
+                    "items": {
+                      "type": "number",
+                      "minimum": 65,
+                      "maximum": 220
+                    }
+                  }
+                }
+              }
+            }
+          }
         }
       }
     }

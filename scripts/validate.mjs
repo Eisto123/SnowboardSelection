@@ -25,7 +25,9 @@ export async function validate(){
   if(p.flex.kind!=='unknown'&&(!p.flex.source||!p.flex.original||p.flex.value===null))throw Error('Missing flex evidence '+p.id);
   if(p.flex.kind==='converted'&&!p.flex.method)throw Error('Missing conversion method '+p.id);
   if(p.price&&(p.price.season!==p.season||p.price.maxAmount<p.price.amount))throw Error('Invalid price '+p.id);
-  for(const x of p.fit)if(!p.sizes.includes(x.length)||x.weightKg[0]===null||(x.weightKg[1]!==null&&x.weightKg[0]>x.weightKg[1]))throw Error('Invalid size fit '+p.id);
+  for(const x of p.fit)if(!p.sizes.includes(x.length)||x.weightKg.every(v=>v===null)||(x.weightKg.every(v=>v!==null)&&x.weightKg[0]>x.weightKg[1]))throw Error('Invalid size fit '+p.id);
+  if(new Set(p.fit.map(x=>x.length)).size!==p.fit.length)throw Error('Duplicate size fit '+p.id);
+  if(p.heightGuide)for(const r of p.heightGuide.references)for(const n of r.lengthsCm)if(!p.sizes.some(s=>parseFloat(s)===n))throw Error('Height guide length not in model sizes '+p.id);
   for(const x of p.images){if(x.season!=='待核实'&&x.season!==p.season)throw Error('Image season mismatch '+p.id);if(x.local){const bytes=await fs.readFile(new URL('../site/'+x.local.slice(2),import.meta.url));if(bytes[0]!==255||bytes[1]!==216)throw Error('Invalid cached JPEG '+p.id);}}
   for(const x of p.sizes)if(parseFloat(x)<65||parseFloat(x)>220)throw Error('Implausible length '+p.id);
  }

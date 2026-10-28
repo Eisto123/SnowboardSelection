@@ -2,17 +2,17 @@
 
 可公开发布到 GitHub Pages 的中文单板选购工具。纯 HTML / CSS / JavaScript，无运行时依赖、无账户、无服务器。源码与已经构建好的 `dist/` 同时提供；所有资源路径相对引用，支持 `https://用户名.github.io/仓库名/` 子路径。
 
-## 当前交付（v1.3）
+## 当前交付（v1.4）
 
 - 16 个品牌，460 条型号 / 雪季记录：011 Artistic、Arbor、Bataleon、Burton、CAPiTA、Jones、K2、Never Summer、Nitro、OGASAKA、RIDE、Rome、Salomon、YES、YONEX、thirtytwo。
-- 149 条官方数值硬度，277 条含已核实体重尺码数据的记录；其余字段按实际证据保留为换算值或未知。完整实时覆盖表在网站“数据说明”。
+- 149 条官方数值硬度，355 条含已核实体重尺码数据的记录；其余字段按实际证据保留为换算值或未知。完整实时覆盖表在网站“数据说明”。
 - 搜索、品牌、三种板型、硬度 1–10 与官方值限定、水平、玩法、系列定位、雪季、长度、币种、预算筛选与排序。
 - 同季官方图片左右切换 / 横滑；同型号已收录雪季左右切换；最多 4 条记录对比。
 - 本地收藏、收藏导入 / 导出、可分享筛选网址、按厂商体重表优先推荐长度，缺表时提供标明来源的通用参考。
 
 新增8个品牌共217条记录：Burton40、RIDE24、K2 25、Salomon36、Never Summer28、thirtytwo18、OGASAKA26、YONEX20。详见 [本轮补全报告](ENRICHMENT.md)。
 
-Burton Spellbinder 与全部 Salomon 官网当前页面未明确雪季，记录为“待核实”，不按抓取年份猜测。OGASAKA 英文官网为日本未税价；YONEX 官方商店为日本含税价。K2 / RIDE 的价格采用可核实的美国官方目录，不混用自动地区跳转后的币种。RIDE Response 和 Salomon 文字硬度以换算估值展示；YONEX F/T 保留为原生指标说明，不直接当成1–10。
+Burton Spellbinder 与 Salomon Taka Split 2.0 雪季仍待核实；其余35款Salomon已通过官方FW2026–27技术目录产品编号确认雪季，不按抓取年份猜测。OGASAKA 英文官网为日本未税价；YONEX 官方商店为日本含税价。K2 / RIDE 的价格采用可核实的美国官方目录，不混用自动地区跳转后的币种。RIDE Response 和 Salomon 文字硬度以换算估值展示；YONEX F/T 保留为原生指标说明，不直接当成1–10。
 
 这不是“所有品牌所有产品线已完成”的数据库。当前为官方目录快照，部分目录可能分页或漏掉地区专供 / 历史款；技术数据尚未逐条补齐。范围、来源与后续品牌队列见 `data/coverage.json`。
 
@@ -123,10 +123,18 @@ dist/                       已构建的发布版本
 
 ## v1.3 体型建议与图片维护
 
-官方体重表覆盖277/460条，共1606条逐长度范围；本次新增128款802条范围。CAPiTA36/36、Rome24/24、YES15/15全覆盖。Arbor、Salomon、Never Summer、thirtytwo及部分日本品牌没有取得可靠的当前型号体重区间，保留缺口；Jones部分J.26页面缺26/27证明，不强行混入。
+v1.3 时官方体重表覆盖277/460条，共1606条逐长度范围；该轮新增128款802条范围。CAPiTA36/36、Rome24/24、YES15/15全覆盖。当时 Arbor、Salomon、Never Summer、thirtytwo及部分日本品牌仍有体重区间缺口，v1.4 最新状态见下；Jones部分J.26页面缺26/27证明，不强行混入。
 
 缺表时可按RIDE官方152–183cm成人通用身高/体重表给参考，精确来源、插值和限制见页面数据说明及data/evidence/general-sizing-reference.json；它不是CASI标准或厂商型号表。仅匹配已知板长，不生成新尺寸。绿色为厂商匹配、橙色为通用估算，也可选择仅厂商表。
 
 K2/RIDE49款主图已下载为原始JPEG至site/assets/boards，并随构建复制到dist/assets/boards。每张保留官方URL、来源和署名，SHA-256见data/evidence/k2-ride-image-review.json。Metropolitan/Heartbreaker官网地址丢失品牌账户段，保留原始错误、修复依据和HTTP200证据。Marauder/Lowride图文件含2526，图片雪季保留待核实，不冒称本季板花。新增图只需放入site/assets/boards并设置images[].local，校验会检查文件/JPEG签名；原始远端URL必须保留。
 
 详细说明见SIZING-IMAGE-REVIEW.md。本次不自动提交或推送。
+
+## v1.4 逐品牌尺码复核
+
+当前 355/460 款有官方体重记录，共 2037 行，其中27行单位冲突仅供查看、不参与自动匹配。Salomon36款201行（Taka Split 2.0仅155已核），thirtytwo18款108行（15行仅上限）。Never Summer24款122行，4款及部分不匹配长度保留未知；详见 WEIGHT-TABLE-REVIEW.md。011八款增加官方离散身高参考表，并补回X FLY漏录的151、154尺寸；该表不转换成体重范围。Arbor33份CSV、OGASAKA与YONEX官方资料继续留待核实，不能把板重或腰宽当骑手体重。
+
+卡片新增“查看体重表 / 官方身高表”入口，标出已核长度数；原始加号、只有上限以及官方单位冲突均保留说明。`fit[].weightKg` 使用null表示未公布端点，不是0；可选weightOriginal保留kg原文，weightNote记录限制。可选referenceOnly排除来源矛盾的记录参与自动匹配。可选heightGuide存储独立的官方身高参考点、图源和解释，不参与体重匹配。
+
+证据见data/evidence下的salomon-weight-review-fw2627.json、arbor-thirtytwo-hidden-weight-review.json、japanese-weight-review.json及011-official-height-guide-2027.json。原始抓取辅助脚本scripts/review-weight-sources.mjs的输出位于被Git忽略的work/weight-pages；可用--manifest 指向包含url/file的JSON清单下载官方证据，不修改正式数据。

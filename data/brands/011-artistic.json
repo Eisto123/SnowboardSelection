@@ -61,7 +61,76 @@
     "status": "partial",
     "notes": [
       "日本平花候选；硬度与体重表尚待逐项核实"
-    ]
+    ],
+    "heightGuide": {
+      "source": "https://www.011artistic.com/product/snowboard/sizeguide/",
+      "imageSource": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/size.png",
+      "interpretation": "原图只有≤150、155、160、165、170、175、≥180七个列标签；155–175为离散身高参考点，未指定连续区间边界，不插值或人为生成分箱。空白格保留空数组，不解释为禁止使用。",
+      "caveat": "官网说明体重、脚码和滑行风格可使选长前后变化；这是身高参考，不是逐尺寸体重适配表。",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": [
+            138,
+            140,
+            143
+          ]
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": [
+            138,
+            140,
+            143,
+            145
+          ]
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            145,
+            148.5,
+            150,
+            151
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148.5,
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            148.5,
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            154
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152,
+            154,
+            156
+          ]
+        }
+      ]
+    }
   },
   {
     "id": "011-x-fly",
@@ -91,7 +160,9 @@
       "144",
       "148",
       "150",
-      "152"
+      "151",
+      "152",
+      "154"
     ],
     "fit": [],
     "price": {
@@ -121,7 +192,71 @@
     "status": "partial",
     "notes": [
       "日本平花候选；硬度与体重表尚待逐项核实"
-    ]
+    ],
+    "heightGuide": {
+      "source": "https://www.011artistic.com/product/snowboard/sizeguide/",
+      "imageSource": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/size.png",
+      "interpretation": "原图只有≤150、155、160、165、170、175、≥180七个列标签；155–175为离散身高参考点，未指定连续区间边界，不插值或人为生成分箱。空白格保留空数组，不解释为禁止使用。",
+      "caveat": "官网说明体重、脚码和滑行风格可使选长前后变化；这是身高参考，不是逐尺寸体重适配表。",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": [
+            138,
+            141
+          ]
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": [
+            138,
+            141,
+            144
+          ]
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            148,
+            150,
+            151
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148,
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            154
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152,
+            154
+          ]
+        }
+      ]
+    }
   },
   {
     "id": "011-balance",
@@ -180,7 +315,65 @@
     "status": "partial",
     "notes": [
       "日本平花候选；硬度与体重表尚待逐项核实"
-    ]
+    ],
+    "heightGuide": {
+      "source": "https://www.011artistic.com/product/snowboard/sizeguide/",
+      "imageSource": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/size.png",
+      "interpretation": "原图只有≤150、155、160、165、170、175、≥180七个列标签；155–175为离散身高参考点，未指定连续区间边界，不插值或人为生成分箱。空白格保留空数组，不解释为禁止使用。",
+      "caveat": "官网说明体重、脚码和滑行风格可使选长前后变化；这是身高参考，不是逐尺寸体重适配表。",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            148,
+            150,
+            151
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148,
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152,
+            153
+          ]
+        }
+      ]
+    }
   },
   {
     "id": "011-zero",
@@ -237,7 +430,58 @@
     "status": "partial",
     "notes": [
       "日本平花候选；硬度与体重表尚待逐项核实"
-    ]
+    ],
+    "heightGuide": {
+      "source": "https://www.011artistic.com/product/snowboard/sizeguide/",
+      "imageSource": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/size.png",
+      "interpretation": "原图只有≤150、155、160、165、170、175、≥180七个列标签；155–175为离散身高参考点，未指定连续区间边界，不插值或人为生成分箱。空白格保留空数组，不解释为禁止使用。",
+      "caveat": "官网说明体重、脚码和滑行风格可使选长前后变化；这是身高参考，不是逐尺寸体重适配表。",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            148,
+            150
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148,
+            150,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            150,
+            152
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            152
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152
+          ]
+        }
+      ]
+    }
   },
   {
     "id": "011-double-fly-spin",
@@ -300,7 +544,75 @@
     "status": "partial",
     "notes": [
       "日本平花候选；硬度与体重表尚待逐项核实"
-    ]
+    ],
+    "heightGuide": {
+      "source": "https://www.011artistic.com/product/snowboard/sizeguide/",
+      "imageSource": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/size.png",
+      "interpretation": "原图只有≤150、155、160、165、170、175、≥180七个列标签；155–175为离散身高参考点，未指定连续区间边界，不插值或人为生成分箱。空白格保留空数组，不解释为禁止使用。",
+      "caveat": "官网说明体重、脚码和滑行风格可使选长前后变化；这是身高参考，不是逐尺寸体重适配表。",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": [
+            138,
+            140,
+            143,
+            145
+          ]
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": [
+            138,
+            140,
+            143,
+            145
+          ]
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            145,
+            148.5,
+            151
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148.5,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            148.5,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            151,
+            152,
+            153,
+            154
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152,
+            153,
+            154
+          ]
+        }
+      ]
+    }
   },
   {
     "id": "011-x-fly-spin",
@@ -361,7 +673,69 @@
     "status": "partial",
     "notes": [
       "日本平花候选；硬度与体重表尚待逐项核实"
-    ]
+    ],
+    "heightGuide": {
+      "source": "https://www.011artistic.com/product/snowboard/sizeguide/",
+      "imageSource": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/size.png",
+      "interpretation": "原图只有≤150、155、160、165、170、175、≥180七个列标签；155–175为离散身高参考点，未指定连续区间边界，不插值或人为生成分箱。空白格保留空数组，不解释为禁止使用。",
+      "caveat": "官网说明体重、脚码和滑行风格可使选长前后变化；这是身高参考，不是逐尺寸体重适配表。",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": [
+            138,
+            141
+          ]
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": [
+            138,
+            141,
+            144
+          ]
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            150,
+            151
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            154
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152,
+            154
+          ]
+        }
+      ]
+    }
   },
   {
     "id": "011-balance-spin",
@@ -420,7 +794,65 @@
     "status": "partial",
     "notes": [
       "日本平花候选；硬度与体重表尚待逐项核实"
-    ]
+    ],
+    "heightGuide": {
+      "source": "https://www.011artistic.com/product/snowboard/sizeguide/",
+      "imageSource": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/size.png",
+      "interpretation": "原图只有≤150、155、160、165、170、175、≥180七个列标签；155–175为离散身高参考点，未指定连续区间边界，不插值或人为生成分箱。空白格保留空数组，不解释为禁止使用。",
+      "caveat": "官网说明体重、脚码和滑行风格可使选长前后变化；这是身高参考，不是逐尺寸体重适配表。",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            148,
+            150,
+            151
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148,
+            150,
+            151,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            151,
+            152,
+            153
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152,
+            153
+          ]
+        }
+      ]
+    }
   },
   {
     "id": "011-zero-wide-spin",
@@ -477,6 +909,57 @@
     "status": "partial",
     "notes": [
       "日本平花候选；硬度与体重表尚待逐项核实"
-    ]
+    ],
+    "heightGuide": {
+      "source": "https://www.011artistic.com/product/snowboard/sizeguide/",
+      "imageSource": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/size.png",
+      "interpretation": "原图只有≤150、155、160、165、170、175、≥180七个列标签；155–175为离散身高参考点，未指定连续区间边界，不插值或人为生成分箱。空白格保留空数组，不解释为禁止使用。",
+      "caveat": "官网说明体重、脚码和滑行风格可使选长前后变化；这是身高参考，不是逐尺寸体重适配表。",
+      "references": [
+        {
+          "heightLabel": "≤150",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "155",
+          "lengthsCm": []
+        },
+        {
+          "heightLabel": "160",
+          "lengthsCm": [
+            148,
+            150
+          ]
+        },
+        {
+          "heightLabel": "165",
+          "lengthsCm": [
+            148,
+            150,
+            152
+          ]
+        },
+        {
+          "heightLabel": "170",
+          "lengthsCm": [
+            150,
+            152
+          ]
+        },
+        {
+          "heightLabel": "175",
+          "lengthsCm": [
+            150,
+            152
+          ]
+        },
+        {
+          "heightLabel": "≥180",
+          "lengthsCm": [
+            152
+          ]
+        }
+      ]
+    }
   }
 ]

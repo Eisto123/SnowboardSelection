@@ -1,0 +1,56 @@
+{
+  "checkedAt": "2026-10-28",
+  "productId": "011-x-fly",
+  "model": "X FLY",
+  "finding": "当前产品sizes漏录151与154；不是身高参考图跨季冲突。",
+  "oldSizes": [
+    "138",
+    "141",
+    "144",
+    "148",
+    "150",
+    "152"
+  ],
+  "correctedSizes": [
+    "138",
+    "141",
+    "144",
+    "148",
+    "150",
+    "151",
+    "152",
+    "154"
+  ],
+  "source": "https://www.011artistic.com/product/snowboard/sizeguide/",
+  "specImageSource": "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/spec01-1.png",
+  "evidence": [
+    {
+      "length": "151",
+      "effectiveEdgeCm": 118,
+      "noseLengthMm": 175,
+      "tailLengthMm": 175,
+      "noseWidthCm": 28.7,
+      "waistWidthCm": 24.7,
+      "tailWidthCm": 28.7,
+      "taperMm": 0,
+      "sidecutM": 7.95,
+      "setbackMm": 0,
+      "midStanceCm": 52
+    },
+    {
+      "length": "154",
+      "effectiveEdgeCm": 121,
+      "noseLengthMm": 190,
+      "tailLengthMm": 190,
+      "noseWidthCm": 29.2,
+      "waistWidthCm": 25,
+      "tailWidthCm": 29.2,
+      "taperMm": 0,
+      "sidecutM": 8.1,
+      "setbackMm": 0,
+      "midStanceCm": 54
+    }
+  ],
+  "allEightModelComparison": "另外7款身高参考中的全部长度均在当前产品sizes中；只有X FLY缺151、154。",
+  "seasonContext": "当前sizeguide引用011artistic2027主题下的spec01-1.png与size.png；两张图均明确列出X FLY 151、154。未改写/删除身高参考表任何原始值。"
+}

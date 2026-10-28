@@ -1,0 +1,8 @@
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+export function weightRangeText([min,max]){return min===null?`≤${max}（仅公布上限）`:max===null?`${min} 以上`:`${min}–${max}`;}
+export function fitSummary(p){return p.fit.length?`查看体重表 · ${p.fit.length}/${p.sizes.length} 个长度`:p.heightGuide?'查看官方身高表':'尺码依据待核实';}
+export function officialSizingMarkup(p){let html='';
+ if(p.fit.length)html=`<p>已收录 ${p.fit.length} / ${p.sizes.length} 个可选长度的官方数据。${p.fit.some(x=>x.referenceOnly)?`其中 ${p.fit.filter(x=>x.referenceOnly).length} 条单位冲突，待核实、仅供查看，不参与自动匹配。`:''}未列长度仍待核实；上限记录不代表已确认最低适用体重。原表“+”保留为开放上限。</p><div class="compare-scroll"><table class="source-table"><thead><tr><th>长度 cm</th><th>骑手体重 kg</th><th>来源</th></tr></thead><tbody>${p.fit.map(x=>`<tr><td>${esc(x.length)}</td><td>${esc(x.weightOriginal||weightRangeText(x.weightKg))}${x.weightNote?`<small class="weight-note">${esc(x.weightNote)}</small>`:''}</td><td><a href="${esc(x.source)}" target="_blank" rel="noopener noreferrer">官方表 ↗</a></td></tr>`).join('')}</tbody></table></div>`;
+ if(p.heightGuide){const g=p.heightGuide;html+=`<h3>官方身高参考（非体重表）</h3><p>${esc(g.interpretation)}</p><div class="compare-scroll"><table class="source-table"><thead><tr><th>原表身高 cm</th><th>参考板长 cm</th></tr></thead><tbody>${g.references.map(r=>`<tr><td>${esc(r.heightLabel)}</td><td>${r.lengthsCm.length?r.lengthsCm.join(' / '):'原表空白'}</td></tr>`).join('')}</tbody></table></div><p>${esc(g.caveat)}</p><a href="${esc(g.source)}" target="_blank" rel="noopener noreferrer">官方说明 ↗</a> · <a href="${esc(g.imageSource)}" target="_blank" rel="noopener noreferrer">核对原表图片 ↗</a>`;}
+ return html;
+}

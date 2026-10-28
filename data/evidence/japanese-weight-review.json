@@ -1,0 +1,219 @@
+{
+  "checkedAt": "2026-10-28",
+  "brands": [
+    {
+      "brand": "011 Artistic",
+      "productsReviewed": 8,
+      "officialWeightFitRowsAdded": 0,
+      "officialHeightGuideModels": 8,
+      "reviewedSources": [
+        "https://www.011artistic.com/product/snowboard/sizeguide/",
+        "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/size.png",
+        "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/spec01-1.png",
+        "https://www.011artistic.com/011artistic_2025/wp-content/themes/011artistic2027/common/img/boards/tech/spec02.png"
+      ],
+      "finding": "当前官方身高参考图和两张完整规格图均已目视核查，涵盖全部8款。两张规格图列为尺寸、有效边刃、头尾长度、头腰尾宽、taper、侧切半径、setback、mid stance；无骑手体重/kg列。官方身高表提供8款48个非空单元格，并明确还需根据体重/脚码/风格调整，不转换为体重fit。",
+      "excludedSources": [
+        {
+          "url": "https://www.011artistic.com/2013website/ch011/qa/0703.html",
+          "reason": "2007-04-11的NINE旧款Q&A中151cm约50–70kg、152cm60kg以上；不可移植2026/27型号。"
+        }
+      ],
+      "visualChecks": [
+        {
+          "name": "011-size.png",
+          "sha256": "219623ebedb0557e8bbb6b33e07f221bd9a95dc3eec72f8b19613393270814cf"
+        },
+        {
+          "name": "011-spec01-1.png",
+          "sha256": "c30d0896e06f48185431e3e9e4babe4c4ec990c1d76812ec2aadfc88c9200a99"
+        },
+        {
+          "name": "011-spec02.png",
+          "sha256": "79b65933f33a80554d3f89590e3b3ff1a4738975465ae86394d8f9c44a7c7aa8"
+        }
+      ],
+      "sizeConsistencyAudit": {
+        "modelsChecked": 8,
+        "mismatchedProduct": "011-x-fly",
+        "missingCatalogSizes": [
+          "151",
+          "154"
+        ],
+        "reason": "当前sizes漏录；当前2027主题官方spec01-1.png明确列出这两尺码，与身高图一致",
+        "correctionHandoff": "011-x-fly-size-correction.json"
+      }
+    },
+    {
+      "brand": "YONEX",
+      "productsReviewed": 20,
+      "officialWeightFitRowsAdded": 0,
+      "reviewedSources": [
+        "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+        "https://www.yonex.co.jp/assets/pdf/catalog/snowboards/2026_snowboards_catalog.pdf",
+        "https://www.yonex.co.jp/support/faq/snowboards/",
+        "https://www.yonex.co.jp/support/safety/snowboards/",
+        "https://www.yonex.com/snowboarding/boards"
+      ],
+      "finding": "26年官方规格只列尺寸/几何/FT/SW，没有骑手kg范围；FAQ无选长数值，Safety&Comfort建议按身体/用途/风格在取扱店咨询。",
+      "caution": "全球站英文规格表Weight(g)列实际对应官方日文规格的侧切半径（例如RE26 150的8050/7600）；既不是骑手体重，也不能作为板重。"
+    },
+    {
+      "brand": "OGASAKA",
+      "productsReviewed": 26,
+      "officialWeightFitRowsAdded": 0,
+      "reviewedSources": [
+        "https://www.ogasaka-snowboard.com/product_e.html",
+        "https://www.ogasaka-snowboard.com/26-27-zx.pdf",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index1.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index2.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index3.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index4.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index5.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index6.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index7.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index8.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index9.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index10.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index11.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index12.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index13.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index14.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index15.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index16.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index17.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index18.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index19.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index20.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index21.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index22.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index23.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index24.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index25.html",
+        "https://snowboardnet.jp/catalognew/ogasaka/pageindices/index26.html"
+      ],
+      "finding": "当前2026–2027官方目录26页HTML均HTTP200并逐页读完可辨文本；型号规格页8–23及总价表26仅可选尺寸、几何、站姿、后移、原生硬度及玩法，没有可录入的骑手kg范围。未找到当前型号官方体重表，fit继续空。SHIN167仅定性说明较长尺寸与浮力，不转换为体重阈值。",
+      "excludedSources": [
+        {
+          "url": "https://www.ogasaka-snowboard.com/product_25_12_shin-167.html",
+          "reason": "25/26旧季仅定性提身高体重，非26/27数值表；不混入。"
+        }
+      ],
+      "limitations": "原站目录HTML文字层自身含大量□替代字，不能将全文关键词缺失单独视为不存在的证明；结论结合全部可辨规格表列名与已有官方产品/PDF。本审计只断言已查来源中未核实到kg表。",
+      "catalogFiles": [
+        {
+          "page": 1,
+          "sha256": "f2c97932fc134cfa0609cdc08df2af71e1dcbe3c6caa3225c19a7d5b7a1ebc67"
+        },
+        {
+          "page": 2,
+          "sha256": "106bfbda932458214533df2995ee51668ce2f2f0a394c854534516c8fe5011e2"
+        },
+        {
+          "page": 3,
+          "sha256": "8c3eef672293463facc989dc1f64ee5c0fb86ad0dec248c2372d5b77b69248ff"
+        },
+        {
+          "page": 4,
+          "sha256": "3d5b92097a9e405d1bda538b770efe4b8909324d8642c08b8fccb66fb0387433"
+        },
+        {
+          "page": 5,
+          "sha256": "699f70ca86d6f7e56835d713df2e8765b58f21a70f485b6d1abb3e94d6517658"
+        },
+        {
+          "page": 6,
+          "sha256": "0fa031bffcd81833f31e31eea94dbcd164c6e8a20d5f730eaabfe0ef5b41b4ef"
+        },
+        {
+          "page": 7,
+          "sha256": "f821e0b96d31150154fc8ab9d226e18dcb361be23b7309c53312858f20e7fb90"
+        },
+        {
+          "page": 8,
+          "sha256": "42dee595bd66679bb462b3e0af14cb6c3a5b34e92563a9da1b65c62bb19bb799"
+        },
+        {
+          "page": 9,
+          "sha256": "a36ce1bf3169f02d4b744f94f0ab88b463f12c2422bda27826f52a985d4a31c9"
+        },
+        {
+          "page": 10,
+          "sha256": "8112dbeae366377d5469de2cc0725c3bd3ae7f1cfc2b9599e117c585cb54bb1d"
+        },
+        {
+          "page": 11,
+          "sha256": "9742a37011c9e182d0cc1c6d5df46d7d415473dcbb23e734a9599d0e1507a98b"
+        },
+        {
+          "page": 12,
+          "sha256": "c00480c1bd6b2f16eff221ec388e7475dd8a7f7bff04fb38dffb4342cf0ed97f"
+        },
+        {
+          "page": 13,
+          "sha256": "3248e544aff37459d1014a4a153e271838aa411d258b5eaa0639528d80744d42"
+        },
+        {
+          "page": 14,
+          "sha256": "c0dc7c72b8ae8c00069400831ac682f3495e9542d9cc044ca333f64915c85d7e"
+        },
+        {
+          "page": 15,
+          "sha256": "3c9e54e46d765bb4ede0cf105d39957925cb9f80ff8b3cb0a4c22dc1b13cd4d9"
+        },
+        {
+          "page": 16,
+          "sha256": "10f13068e083520a03ec7fb1e2bc631d32465b19e4e1cc15b39812e2089bd17a"
+        },
+        {
+          "page": 17,
+          "sha256": "1b79c733ab79fa4e315d3a87a2afea16bb5acfc3a217ed4c657cde107f09f44a"
+        },
+        {
+          "page": 18,
+          "sha256": "5dc9694ec6184970ce6fab8488c68c1ae12eb2ec7741cbdde395a1ee7265f758"
+        },
+        {
+          "page": 19,
+          "sha256": "8b9cfc90b4b11983f032b35acb332b7c02b196dc7e6109fed551646d16206ebf"
+        },
+        {
+          "page": 20,
+          "sha256": "a7490a8566fe4941f10cb936a66c7e360de263a3e28647ebe43c6101cd17454b"
+        },
+        {
+          "page": 21,
+          "sha256": "061f29b146329d4788154cafcf34ced247233e8ec1dd3fbadbae7f8a8453540d"
+        },
+        {
+          "page": 22,
+          "sha256": "0d896f7634d39bbbd4ef454d4c2cb4895aa7f744a7b391c5e13f1b45a4123dd8"
+        },
+        {
+          "page": 23,
+          "sha256": "4d7a1f9b621cf3eeb18d1a332de5d78a1f7539b418df69c7744fb688c6d9f44d"
+        },
+        {
+          "page": 24,
+          "sha256": "bfe556006033857f199fece25069dce1a63913ad30bebd91104791807dd4411f"
+        },
+        {
+          "page": 25,
+          "sha256": "3d2d5dc2a9970508909c0a335b29fb5979c0c10d0b644c895628896bc900844a"
+        },
+        {
+          "page": 26,
+          "sha256": "697ab97e99300f695f86585a2331744406f93fb805619108888dc00ba0900792"
+        }
+      ]
+    }
+  ],
+  "status": "complete-with-unverified-weight-ranges",
+  "summary": {
+    "productsReviewed": 54,
+    "officialRiderWeightRowsAdded": 0,
+    "officialHeightGuideModels": 8,
+    "officialHeightGuideNonemptyCells": 48
+  }
+}

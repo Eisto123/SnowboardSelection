@@ -1,0 +1,3502 @@
+{
+  "brand": "Salomon",
+  "checkedAt": "2026-10-28",
+  "catalogLanding": "https://salomon.jp/pages/snowboard-catalog",
+  "officialPdf": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+  "method": "Match official FW2026-27 catalog article codes to existing records before using same-model per-length KG column. Read PDF pages 9–12 after rotation and crop to visible page bounds; exclude off-page duplicate text. Visually verify all four table pages. Manually transcribe outline glyph cells from KG column only. Do not read NET WEIGHT as rider weight or borrow ranges from another length.",
+  "stats": {
+    "models": 36,
+    "modelsWithFit": 36,
+    "completeModels": 35,
+    "fitRows": 201,
+    "catalogConfirmedModels": 35
+  },
+  "products": [
+    {
+      "id": "salomon-huck-knife-current",
+      "model": "HUCK KNIFE",
+      "articleCode": "L49292200",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "149",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 387.11743119999994,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 395.496719,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "156",
+          "weightKg": [
+            55,
+            75
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 403.1368318,
+          "rawKgCell": "55-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "159",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 410.7769446,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "162",
+          "weightKg": [
+            90,
+            125
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 419.1562323999999,
+          "rawKgCell": "90-125",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "156W",
+          "weightKg": [
+            80,
+            110
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 427.53552019999995,
+          "rawKgCell": "80-110",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "159W",
+          "weightKg": [
+            90,
+            125
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 435.9148079999999,
+          "rawKgCell": "90-125",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49292200；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-bliss-current",
+      "model": "BLISS",
+      "articleCode": "L49293900",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "138",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 501.57367050000005,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "141",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 509.9358126000001,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "144",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 518.2979547000001,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "148",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 526.6955046000002,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "151",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 535.0576467000002,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155",
+          "weightKg": [
+            50,
+            75
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 543.4197888000002,
+          "rawKgCell": "50-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L49293900；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-assassin-current",
+      "model": "ASSASSIN",
+      "articleCode": "L49291700",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "150",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 194.35885559999997,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            55,
+            75
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 202.73814339999996,
+          "rawKgCell": "55-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "156",
+          "weightKg": [
+            55,
+            85
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 211.11743119999994,
+          "rawKgCell": "55-85",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "159",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 219.49671899999993,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "162",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 227.8760067999999,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "165",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 236.2552945999999,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "158W",
+          "weightKg": [
+            65,
+            95
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 244.63458239999989,
+          "rawKgCell": "65-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "163W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 253.01387019999987,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L49291700；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-oh-yeah-current",
+      "model": "OH YEAH",
+      "articleCode": "L49292500",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "138",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 275.76010210000004,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "143",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 284.12224420000007,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "147",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 292.4843863000001,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "151",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 300.8465284000001,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49292500；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-highpath-current",
+      "model": "HIGHPATH",
+      "articleCode": "L45434200",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "147",
+          "weightKg": [
+            50,
+            75
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 272.46385559999993,
+          "rawKgCell": "50-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "151",
+          "weightKg": [
+            50,
+            80
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 280.8431433999999,
+          "rawKgCell": "50-80",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            60,
+            90
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 289.2224311999999,
+          "rawKgCell": "60-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "156",
+          "weightKg": [
+            60,
+            95
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 297.6017189999999,
+          "rawKgCell": "60-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "159",
+          "weightKg": [
+            70,
+            100
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 305.9810067999999,
+          "rawKgCell": "70-100",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "162",
+          "weightKg": [
+            70,
+            100
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 314.36029459999986,
+          "rawKgCell": "70-100",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "159W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 322.73958239999985,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "162W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 331.11887019999983,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "165W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 339.4981579999999,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L45434200；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-rumble-fish-current",
+      "model": "RUMBLE FISH",
+      "articleCode": "L49294400",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "140",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 345.2213505999998,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "144",
+          "weightKg": [
+            40,
+            60
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 353.60063839999987,
+          "rawKgCell": "40-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "148",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 361.97956780000004,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "152",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 370.35885559999997,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155",
+          "weightKg": [
+            50,
+            80
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 378.7381434,
+          "rawKgCell": "50-80",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L49294400；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-jetstream-current",
+      "model": "JETSTREAM",
+      "articleCode": "L49292600",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "146",
+          "weightKg": [
+            50,
+            75
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 456.61328000000003,
+          "rawKgCell": "50-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "149",
+          "weightKg": [
+            50,
+            80
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 464.99256779999996,
+          "rawKgCell": "50-80",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            60,
+            90
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 473.37185559999995,
+          "rawKgCell": "60-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "157",
+          "weightKg": [
+            60,
+            95
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 481.75114339999993,
+          "rawKgCell": "60-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "160",
+          "weightKg": [
+            70,
+            95
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 490.1304311999999,
+          "rawKgCell": "70-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "163",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 498.5097189999999,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "166",
+          "weightKg": [
+            75,
+            115
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 506.8890067999999,
+          "rawKgCell": "75-115",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L49292600；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-dancehaul-current",
+      "model": "DANCEHAUL",
+      "articleCode": "L49291600",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "139",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 58.80165999999997,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "143",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 67.1638021,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "147",
+          "weightKg": [
+            60,
+            85
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 75.52594420000003,
+          "rawKgCell": "60-85",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "152",
+          "weightKg": [
+            70,
+            90
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 83.8880863,
+          "rawKgCell": "70-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "154",
+          "weightKg": [
+            70,
+            100
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 92.25022839999997,
+          "rawKgCell": "70-100",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "157",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 100.6123705,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L49291600；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-wonder-current",
+      "model": "WONDER",
+      "articleCode": "L49292800",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "140",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 175.38774279999996,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "144",
+          "weightKg": [
+            40,
+            60
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 183.74810209999998,
+          "rawKgCell": "40-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "148",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 192.1102442,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "152",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 200.47238629999998,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155",
+          "weightKg": [
+            50,
+            80
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 208.83452839999995,
+          "rawKgCell": "50-80",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L49292800；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-craft-current",
+      "model": "CRAFT",
+      "articleCode": "L49292100",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "150",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 217.226177,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            55,
+            75
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 225.58831909999998,
+          "rawKgCell": "55-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155",
+          "weightKg": [
+            55,
+            85
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 233.95046119999995,
+          "rawKgCell": "55-85",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "158",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 242.31260329999998,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "157W",
+          "weightKg": [
+            65,
+            95
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 250.6747454,
+          "rawKgCell": "65-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "160W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 259.0368875,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "162W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 267.39902959999995,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L49292100；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-lotus-current",
+      "model": "LOTUS",
+      "articleCode": "L49293800",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "135",
+          "weightKg": [
+            30,
+            50
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 126.3313718,
+          "rawKgCell": "30-50",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "138",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 134.692522,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "142",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 143.05467019999998,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "146",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 151.41582039999997,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "151",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 159.77697059999997,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155",
+          "weightKg": [
+            55,
+            75
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 168.13812079999997,
+          "rawKgCell": "55-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49293800；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-sight-current",
+      "model": "SIGHT",
+      "articleCode": "L49293000",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "147",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 426.3145046000001,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "150",
+          "weightKg": [
+            55,
+            75
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 434.6766467000001,
+          "rawKgCell": "55-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            55,
+            85
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 443.03878880000013,
+          "rawKgCell": "55-85",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "156",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 451.40093090000016,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "159",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 459.7630730000002,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155W",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 468.12510209999994,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "158W",
+          "weightKg": [
+            70,
+            90
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 476.48724419999996,
+          "rawKgCell": "70-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "162W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 484.8493863,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "166W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 493.2115284,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L49293000；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-dancehaul-grom-current",
+      "model": "DANCEHAUL GROM",
+      "articleCode": "L49293400",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "125",
+          "weightKg": [
+            30,
+            50
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 409.6786702,
+          "rawKgCell": "30-50",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "135",
+          "weightKg": [
+            35,
+            55
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 418.0386702,
+          "rawKgCell": "35-55",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49293400；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-assassin-pro-current",
+      "model": "ASSASSIN PRO",
+      "articleCode": "L49292000",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "150",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 135.6781342,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            55,
+            75
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 144.05742199999997,
+          "rawKgCell": "55-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "156",
+          "weightKg": [
+            55,
+            85
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 152.43670979999996,
+          "rawKgCell": "55-85",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "159",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 160.84556459999993,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "162",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 169.22485239999992,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "158W",
+          "weightKg": [
+            65,
+            95
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 177.6041401999999,
+          "rawKgCell": "65-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "163W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 185.97956779999998,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L49292000；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-pulse-current",
+      "model": "PULSE",
+      "articleCode": "L49292900",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "142",
+          "weightKg": [
+            40,
+            60
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 51.08102000000008,
+          "rawKgCell": "40-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "145",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 59.44217020000008,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "149",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 67.80332040000008,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "152",
+          "weightKg": [
+            55,
+            75
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 76.16447060000007,
+          "rawKgCell": "55-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "156",
+          "weightKg": [
+            55,
+            85
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 84.52562080000001,
+          "rawKgCell": "55-85",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "160",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 92.88677100000001,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "163",
+          "weightKg": [
+            70,
+            100
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 101.24792120000001,
+          "rawKgCell": "70-100",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "158W",
+          "weightKg": [
+            70,
+            100
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 109.6090714,
+          "rawKgCell": "70-100",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "162W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 117.9702216,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49292900；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-team-package-current",
+      "model": "TEAM PACKAGE",
+      "articleCode": "L47924400",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "80",
+          "weightKg": [
+            12,
+            20
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 551.8487696000001,
+          "rawKgCell": "12-20",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "90",
+          "weightKg": [
+            12,
+            20
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 560.2137696,
+          "rawKgCell": "12-20",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "100",
+          "weightKg": [
+            15,
+            25
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 568.5815708,
+          "rawKgCell": "15-25",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L47924400；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-grail-current",
+      "model": "GRAIL",
+      "articleCode": "L47924200",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "110",
+          "weightKg": [
+            25,
+            35
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 426.4006702,
+          "rawKgCell": "25-35",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "115",
+          "weightKg": [
+            25,
+            35
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 434.76167019999997,
+          "rawKgCell": "25,35",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": "Official cell uses comma between two weight bounds; interpreted as the interval 25–35 kg in context of its KG column."
+        },
+        {
+          "length": "120",
+          "weightKg": [
+            30,
+            40
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 443.1576702,
+          "rawKgCell": "30-40",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "125",
+          "weightKg": [
+            35,
+            45
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 451.5196702,
+          "rawKgCell": "35-45",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "130",
+          "weightKg": [
+            35,
+            50
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 459.8806702,
+          "rawKgCell": "35-50",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L47924200；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-team-current",
+      "model": "TEAM",
+      "articleCode": "L47924300",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "70",
+          "weightKg": [
+            12,
+            20
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 510.05357079999993,
+          "rawKgCell": "12-20",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "80",
+          "weightKg": [
+            12,
+            20
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 518.4067696000001,
+          "rawKgCell": "12-20",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "90",
+          "weightKg": [
+            12,
+            20
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 526.7735708,
+          "rawKgCell": "12-20",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "100",
+          "weightKg": [
+            15,
+            25
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 535.1277696000001,
+          "rawKgCell": "15-25",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "110",
+          "weightKg": [
+            20,
+            35
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 543.4945708,
+          "rawKgCell": "20-35",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L47924300；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-grace-current",
+      "model": "GRACE",
+      "articleCode": "L47924100",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "110",
+          "weightKg": [
+            25,
+            35
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 468.24267019999996,
+          "rawKgCell": "25-35",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "115",
+          "weightKg": [
+            25,
+            35
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 476.5977696,
+          "rawKgCell": "25-35",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "120",
+          "weightKg": [
+            30,
+            40
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 484.9665708,
+          "rawKgCell": "30-40",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "125",
+          "weightKg": [
+            35,
+            45
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 493.3325708,
+          "rawKgCell": "35-45",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "130",
+          "weightKg": [
+            35,
+            50
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 501.68576959999996,
+          "rawKgCell": "35-50",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L47924100；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-huck-knife-pro-current",
+      "model": "HUCK KNIFE PRO",
+      "articleCode": "L49292300",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "149",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 85.39937999999995,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 93.7786678,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "156",
+          "weightKg": [
+            55,
+            75
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 102.15795559999998,
+          "rawKgCell": "55-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "159",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 110.53724339999997,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "156W",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 118.91955859999996,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "159W",
+          "weightKg": [
+            65,
+            95
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 127.2988464,
+          "rawKgCell": "65-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49292300；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-no-drama-current",
+      "model": "NO DRAMA",
+      "articleCode": "L49292400",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "139",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 133.57703229999998,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "143",
+          "weightKg": [
+            40,
+            65
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 141.93917439999996,
+          "rawKgCell": "40-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "146",
+          "weightKg": [
+            45,
+            70
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 150.30131649999998,
+          "rawKgCell": "45-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "149",
+          "weightKg": [
+            45,
+            70
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 158.6634586,
+          "rawKgCell": "45-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "152",
+          "weightKg": [
+            50,
+            75
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 167.02560069999998,
+          "rawKgCell": "50-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49292400；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-kickback-current",
+      "model": "KICKBACK",
+      "articleCode": "L49293200",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "148",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 367.74410209999996,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "151",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 376.1416519999999,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            55,
+            75
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 384.50379409999994,
+          "rawKgCell": "55-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155",
+          "weightKg": [
+            55,
+            85
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 392.86593619999996,
+          "rawKgCell": "55-85",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "158",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 401.2280783,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155W",
+          "weightKg": [
+            65,
+            95
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 409.5902204,
+          "rawKgCell": "65-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "158W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 417.95236250000005,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49293200；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-oh-yeah-grom-current",
+      "model": "OH YEAH GROM",
+      "articleCode": "L49293500",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "127",
+          "weightKg": [
+            30,
+            50
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 275.8617714,
+          "rawKgCell": "30-50",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "133",
+          "weightKg": [
+            35,
+            55
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 284.2524246,
+          "rawKgCell": "35-55",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "138",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 292.6135748,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49293500；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-sleepwalker-grom-current",
+      "model": "SLEEPWALKER GROM",
+      "articleCode": "L49293300",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "127",
+          "weightKg": [
+            30,
+            50
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 300.974725,
+          "rawKgCell": "30-50",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "133",
+          "weightKg": [
+            35,
+            55
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 309.3358752,
+          "rawKgCell": "35-55",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "138",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 317.6970254,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "143",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 326.05817559999997,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "145",
+          "weightKg": [
+            40,
+            65
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 334.41932579999997,
+          "rawKgCell": "40-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "145W",
+          "weightKg": [
+            40,
+            65
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 342.78047599999996,
+          "rawKgCell": "40-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": "PDF labels both variants 145; its 250 mm waist / 294 mm nose uniquely matches the current official article geometry row 145W (regular 145 has 244 mm waist / 288 mm nose).",
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49293300；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-abstract-current",
+      "model": "ABSTRACT",
+      "articleCode": "L49293700",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "138",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 261.39315799999986,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "143",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 269.77227999999997,
+          "rawKgCell": "35-60",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "147",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 278.15156779999995,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "151",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 286.53085559999994,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            55,
+            75
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 294.9101433999999,
+          "rawKgCell": "55-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155",
+          "weightKg": [
+            55,
+            85
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 303.2894311999999,
+          "rawKgCell": "55-85",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "158",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 311.6687189999999,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "162",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 320.08348719999987,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155W",
+          "weightKg": [
+            65,
+            95
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 328.46277499999985,
+          "rawKgCell": "65-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "158W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 10,
+          "printedPage": 128,
+          "y": 336.84206279999984,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49293700；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-sleepwalker-current",
+      "model": "SLEEPWALKER",
+      "articleCode": "L49293100",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "148",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 309.20867050000015,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "151",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 317.5708126000002,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            55,
+            75
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 325.9329547000002,
+          "rawKgCell": "55-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155",
+          "weightKg": [
+            55,
+            85
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 334.29509680000024,
+          "rawKgCell": "55-85",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "158",
+          "weightKg": [
+            65,
+            90
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 342.65723890000027,
+          "rawKgCell": "65-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155W",
+          "weightKg": [
+            65,
+            95
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 351.0193810000003,
+          "rawKgCell": "65-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "158W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 11,
+          "printedPage": 129,
+          "y": 359.3815231000003,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49293100；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-huck-knife-grom-current",
+      "model": "HUCK KNIFE GROM",
+      "articleCode": "L49293600",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 5,
+          "pdfPage": 6,
+          "printedPage": 124
+        }
+      ],
+      "rows": [
+        {
+          "length": "125",
+          "weightKg": [
+            30,
+            45
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 351.14162619999996,
+          "rawKgCell": "30-45",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "130",
+          "weightKg": [
+            30,
+            50
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 359.5106702,
+          "rawKgCell": "30-50",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "135",
+          "weightKg": [
+            35,
+            55
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 367.8718204,
+          "rawKgCell": "35-55",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "140",
+          "weightKg": [
+            35,
+            60
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 376.2329706,
+          "rawKgCell": "35-60",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "143",
+          "weightKg": [
+            40,
+            65
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 384.5956702,
+          "rawKgCell": "40-65",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "140W",
+          "weightKg": [
+            40,
+            65
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 392.9556702,
+          "rawKgCell": "40-65",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "145W",
+          "weightKg": [
+            40,
+            65
+          ],
+          "pdfPage": 12,
+          "printedPage": 130,
+          "y": 401.3176702,
+          "rawKgCell": "40-65",
+          "extraction": "Rendered official PDF KG column, manually transcribed",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第6页明确列出本产品编号 L49293600；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-fastlane-current",
+      "model": "FASTLANE",
+      "articleCode": "L49292700",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "149",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 347.8774457999998,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            60,
+            75
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 356.25756779999995,
+          "rawKgCell": "60-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "157",
+          "weightKg": [
+            60,
+            85
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 364.6368556,
+          "rawKgCell": "60-85",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "160",
+          "weightKg": [
+            70,
+            90
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 373.0161433999999,
+          "rawKgCell": "70-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "163",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 381.39543119999996,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "166",
+          "weightKg": [
+            75,
+            115
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 389.8101993999999,
+          "rawKgCell": "75-115",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "170",
+          "weightKg": [
+            75,
+            130
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 398.1894871999999,
+          "rawKgCell": "75-130",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L49292700；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-hps-sickstick-current",
+      "model": "HPS - SICKSTICK",
+      "articleCode": "L49299100",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "145",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 222.1600067999999,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "149",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 230.56886159999988,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "153",
+          "weightKg": [
+            50,
+            75
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 238.94814939999992,
+          "rawKgCell": "50-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "156",
+          "weightKg": [
+            60,
+            90
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 247.3274371999999,
+          "rawKgCell": "60-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "159",
+          "weightKg": [
+            70,
+            100
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 255.7067249999999,
+          "rawKgCell": "70-100",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "163",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 264.08456779999995,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L49299100；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-hps-louif-paradis-current",
+      "model": "HPS - LOUIF PARADIS",
+      "articleCode": "L45438800",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "156",
+          "weightKg": [
+            60,
+            95
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 163.5029214,
+          "rawKgCell": "60-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "160",
+          "weightKg": [
+            70,
+            100
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 171.88220920000003,
+          "rawKgCell": "70-100",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "164",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 180.26356779999998,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L45438800；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-hps-wolle-nyvelt-fish-current",
+      "model": "HPS - WOLLE NYVELT FISH",
+      "articleCode": "L45434400",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "148",
+          "weightKg": [
+            50,
+            75
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 188.64285559999996,
+          "rawKgCell": "50-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "152",
+          "weightKg": [
+            60,
+            95
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 197.02214339999995,
+          "rawKgCell": "60-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "157",
+          "weightKg": [
+            70,
+            100
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 205.40143119999993,
+          "rawKgCell": "70-100",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "162",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 213.78071899999992,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L45434400；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-indicator-current",
+      "model": "INDICATOR",
+      "articleCode": "L45434300",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "148",
+          "weightKg": [
+            50,
+            75
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 406.56877499999985,
+          "rawKgCell": "50-75",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "152",
+          "weightKg": [
+            60,
+            90
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 414.9480627999999,
+          "rawKgCell": "60-90",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "155",
+          "weightKg": [
+            60,
+            95
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 423.3273505999998,
+          "rawKgCell": "60-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "158",
+          "weightKg": [
+            70,
+            100
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 431.70663839999986,
+          "rawKgCell": "70-100",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "161",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 440.0825678,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "165W",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 448.46185560000004,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L45434300；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-bellevue-split-current",
+      "model": "BELLEVUE SPLIT",
+      "articleCode": "L47017500",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "148",
+          "weightKg": [
+            45,
+            65
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 122.339744,
+          "rawKgCell": "45-65",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "152",
+          "weightKg": [
+            50,
+            70
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 130.71903180000004,
+          "rawKgCell": "50-70",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L47017500；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-highpath-split-current",
+      "model": "HIGHPATH SPLIT",
+      "articleCode": "L47017000",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "156",
+          "weightKg": [
+            60,
+            95
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 97.45024339999998,
+          "rawKgCell": "60-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "159",
+          "weightKg": [
+            70,
+            100
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 105.82953119999996,
+          "rawKgCell": "70-100",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "162",
+          "weightKg": [
+            70,
+            100
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 114.208819,
+          "rawKgCell": "70-100",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L47017000；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-premiere-current",
+      "model": "PREMIERE",
+      "articleCode": "L47031500",
+      "source": "https://cdn.shopify.com/s/files/1/0673/9981/1381/files/SNOWBOARD_SEASON_CATALOG_FW2026-27_TECHBOOK_OUTRO.pdf?v=1768810200",
+      "confirmedCatalogSeason": "2026/27",
+      "catalogArticlePages": [
+        {
+          "pageIndex": 4,
+          "pdfPage": 5,
+          "printedPage": 123
+        }
+      ],
+      "rows": [
+        {
+          "length": "154",
+          "weightKg": [
+            60,
+            80
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 72.31237999999996,
+          "rawKgCell": "60-80",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "159",
+          "weightKg": [
+            60,
+            95
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 80.6916678,
+          "rawKgCell": "60-95",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        },
+        {
+          "length": "165",
+          "weightKg": [
+            70,
+            105
+          ],
+          "pdfPage": 9,
+          "printedPage": 127,
+          "y": 89.07095559999999,
+          "rawKgCell": "70-105",
+          "extraction": "PDF KG column text",
+          "mappingNote": null,
+          "normalization": null
+        }
+      ],
+      "missingLengths": [],
+      "seasonEvidence": "日本官网 Snowboard Season Catalog FW2026-27 的官方 Tech Book 在 PDF 第5页明确列出本产品编号 L47031500；逐长度骑手 KG 表见对应技术页。"
+    },
+    {
+      "id": "salomon-hps-taka-split-2-0-current",
+      "model": "HPS - TAKA SPLIT 2.0",
+      "articleCode": "L47033500",
+      "source": "https://www.salomon.com/en-gb/product/hps-taka-split-2-0-li3550",
+      "confirmedCatalogSeason": null,
+      "catalogArticlePages": [],
+      "rows": [
+        {
+          "length": "155",
+          "weightKg": [
+            60,
+            80
+          ],
+          "articleSizeId": "L47033500048",
+          "extraction": "Official GB indexed product Dimensions reports Min 60 kg / Max 80 kg. Bind only this displayed range to 155 using four matching geometry fields from the live US article RSC, not merely the first size option.",
+          "geometry": {
+            "noseMm": 301,
+            "waistMm": 255,
+            "tailMm": 289,
+            "sidecutM": 7.4
+          },
+          "geometrySource": "https://www.salomon.com/en-us/product/hps-taka-split-2-0-li3550/L47033500",
+          "rscPaths": [
+            "product.sizes[id=L47033500048].name=155",
+            "product.details.snowboardDetails.sizes[size.default=155]"
+          ],
+          "htmlFile": "work/weight-pages/salomon-taka.html",
+          "indexEvidenceFile": "salomon-cache-weight-8.txt"
+        }
+      ],
+      "missingLengths": [
+        "158",
+        "161"
+      ],
+      "blockedVariants": [
+        {
+          "length": "158",
+          "articleSizeId": "L47033500054",
+          "status": "Official sizeId query returned HTTP 403; no rider range verified."
+        },
+        {
+          "length": "161",
+          "articleSizeId": "L47033500060",
+          "status": "SKU-to-size exists in official RSC, but no rider min/max in current RSC; not filled."
+        }
+      ],
+      "seasonEvidence": "当前官网文章编号已核实，但 FW2026-27 Tech Book 未列出本文章编号；雪季继续待核实。"
+    }
+  ],
+  "limitations": [
+    "HPS Taka Split 2.0 has only one verified length, 155; 158 and 161 remain unknown.",
+    "The FW2026-27 official catalog is preferred over undated Australia size charts and old catalog years.",
+    "Some official PDF geometry values differ slightly from the website for the same article code; this review changes fit only and preserves other product fields.",
+    "All catalog ranges here have finite upper bounds; no + sign has been discarded or invented.",
+    "Season evidence is provided per model for root integration. The fit-only handoff preserves original season, image, and price fields."
+  ]
+}

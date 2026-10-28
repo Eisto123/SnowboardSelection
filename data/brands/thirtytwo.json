@@ -27,7 +27,56 @@
       "158W",
       "159"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          null,
+          68
+        ],
+        "source": "https://thirtytwo.com/products/middle-earth-pro"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          61,
+          77
+        ],
+        "source": "https://thirtytwo.com/products/middle-earth-pro"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          65,
+          81
+        ],
+        "source": "https://thirtytwo.com/products/middle-earth-pro"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/middle-earth-pro"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/middle-earth-pro"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/middle-earth-pro"
+      }
+    ],
     "price": {
       "amount": 599.95,
       "maxAmount": 599.95,
@@ -108,7 +157,40 @@
       "158",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          56,
+          72
+        ],
+        "source": "https://thirtytwo.com/products/atmosphere"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          65,
+          81
+        ],
+        "source": "https://thirtytwo.com/products/atmosphere"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/atmosphere"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          83,
+          99
+        ],
+        "source": "https://thirtytwo.com/products/atmosphere"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -191,7 +273,64 @@
       "161",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "154",
+        "weightKg": [
+          null,
+          81
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          79,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          83,
+          99
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation"
+      }
+    ],
     "price": {
       "amount": 499.95,
       "maxAmount": 499.95,
@@ -273,7 +412,72 @@
       "160W",
       "161"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          null,
+          68
+        ],
+        "source": "https://thirtytwo.com/products/volcom-creedler"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          72
+        ],
+        "source": "https://thirtytwo.com/products/volcom-creedler"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          65,
+          81
+        ],
+        "source": "https://thirtytwo.com/products/volcom-creedler"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/volcom-creedler"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/volcom-creedler"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/volcom-creedler"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          79,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/volcom-creedler"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          79,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/volcom-creedler"
+      }
+    ],
     "price": {
       "amount": 599.95,
       "maxAmount": 599.95,
@@ -348,7 +552,16 @@
     "sizes": [
       "132"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "132",
+        "weightKg": [
+          null,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/thrill-pill"
+      }
+    ],
     "price": {
       "amount": 399.95,
       "maxAmount": 399.95,
@@ -434,7 +647,64 @@
       "158W",
       "159"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "146",
+        "weightKg": [
+          null,
+          68
+        ],
+        "source": "https://thirtytwo.com/products/cold-world"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          52,
+          77
+        ],
+        "source": "https://thirtytwo.com/products/cold-world"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://thirtytwo.com/products/cold-world"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          65,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/cold-world"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          70,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/cold-world"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          74,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/cold-world"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          74,
+          99
+        ],
+        "source": "https://thirtytwo.com/products/cold-world"
+      }
+    ],
     "price": {
       "amount": 449.95,
       "maxAmount": 449.95,
@@ -516,7 +786,48 @@
       "148",
       "151"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "139",
+        "weightKg": [
+          null,
+          54
+        ],
+        "source": "https://thirtytwo.com/products/women-crucible"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          39,
+          54
+        ],
+        "source": "https://thirtytwo.com/products/women-crucible"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          43,
+          58
+        ],
+        "source": "https://thirtytwo.com/products/women-crucible"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          52,
+          68
+        ],
+        "source": "https://thirtytwo.com/products/women-crucible"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          72
+        ],
+        "source": "https://thirtytwo.com/products/women-crucible"
+      }
+    ],
     "price": {
       "amount": 449.95,
       "maxAmount": 449.95,
@@ -600,7 +911,72 @@
       "160W",
       "161"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          null,
+          68
+        ],
+        "source": "https://thirtytwo.com/products/t32m"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          72
+        ],
+        "source": "https://thirtytwo.com/products/t32m"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          65,
+          81
+        ],
+        "source": "https://thirtytwo.com/products/t32m"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/t32m"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/t32m"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/t32m"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          79,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/t32m"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          79,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/t32m"
+      }
+    ],
     "price": {
       "amount": 549.95,
       "maxAmount": 549.95,
@@ -682,7 +1058,56 @@
       "161",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "152",
+        "weightKg": [
+          null,
+          77
+        ],
+        "source": "https://thirtytwo.com/products/xxx-fava-pro"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          65,
+          81
+        ],
+        "source": "https://thirtytwo.com/products/xxx-fava-pro"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/xxx-fava-pro"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/xxx-fava-pro"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          79,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/xxx-fava-pro"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          83,
+          99
+        ],
+        "source": "https://thirtytwo.com/products/xxx-fava-pro"
+      }
+    ],
     "price": {
       "amount": 599.95,
       "maxAmount": 599.95,
@@ -766,7 +1191,64 @@
       "162",
       "164W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          null,
+          77
+        ],
+        "source": "https://thirtytwo.com/products/snafu"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/snafu"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/snafu"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/snafu"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          79,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/snafu"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          83,
+          99
+        ],
+        "source": "https://thirtytwo.com/products/snafu"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          88,
+          104
+        ],
+        "source": "https://thirtytwo.com/products/snafu"
+      }
+    ],
     "price": {
       "amount": 529.95,
       "maxAmount": 529.95,
@@ -850,7 +1332,48 @@
       "149",
       "152"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "140",
+        "weightKg": [
+          null,
+          54
+        ],
+        "source": "https://thirtytwo.com/products/women-gemini"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          39,
+          54
+        ],
+        "source": "https://thirtytwo.com/products/women-gemini"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          47,
+          63
+        ],
+        "source": "https://thirtytwo.com/products/women-gemini"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          52,
+          68
+        ],
+        "source": "https://thirtytwo.com/products/women-gemini"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          61,
+          77
+        ],
+        "source": "https://thirtytwo.com/products/women-gemini"
+      }
+    ],
     "price": {
       "amount": 529.95,
       "maxAmount": 529.95,
@@ -934,7 +1457,64 @@
       "161",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "154",
+        "weightKg": [
+          null,
+          81
+        ],
+        "source": "https://thirtytwo.com/products/volcom-moclov"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/volcom-moclov"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/volcom-moclov"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/volcom-moclov"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/volcom-moclov"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          79,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/volcom-moclov"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          83,
+          99
+        ],
+        "source": "https://thirtytwo.com/products/volcom-moclov"
+      }
+    ],
     "price": {
       "amount": 549.95,
       "maxAmount": 549.95,
@@ -1015,7 +1595,48 @@
       "151",
       "154"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          null,
+          54
+        ],
+        "source": "https://thirtytwo.com/products/women-reiki"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          43,
+          58
+        ],
+        "source": "https://thirtytwo.com/products/women-reiki"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          52,
+          68
+        ],
+        "source": "https://thirtytwo.com/products/women-reiki"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          72
+        ],
+        "source": "https://thirtytwo.com/products/women-reiki"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          65,
+          81
+        ],
+        "source": "https://thirtytwo.com/products/women-reiki"
+      }
+    ],
     "price": {
       "amount": 499.95,
       "maxAmount": 499.95,
@@ -1096,7 +1717,64 @@
       "161",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "154",
+        "weightKg": [
+          null,
+          81
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          79,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          83,
+          99
+        ],
+        "source": "https://thirtytwo.com/products/permanent-vacation-carbon"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -1180,7 +1858,72 @@
       "160W",
       "161"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          null,
+          68
+        ],
+        "source": "https://thirtytwo.com/products/t32m-carbon"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          72
+        ],
+        "source": "https://thirtytwo.com/products/t32m-carbon"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          65,
+          81
+        ],
+        "source": "https://thirtytwo.com/products/t32m-carbon"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/t32m-carbon"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/t32m-carbon"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/t32m-carbon"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          79,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/t32m-carbon"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          79,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/t32m-carbon"
+      }
+    ],
     "price": {
       "amount": 649.95,
       "maxAmount": 649.95,
@@ -1261,7 +2004,48 @@
       "140",
       "145"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "125",
+        "weightKg": [
+          31,
+          42
+        ],
+        "source": "https://thirtytwo.com/products/t32m-youth"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          34,
+          45
+        ],
+        "source": "https://thirtytwo.com/products/t32m-youth"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          50
+        ],
+        "source": "https://thirtytwo.com/products/t32m-youth"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          41,
+          54
+        ],
+        "source": "https://thirtytwo.com/products/t32m-youth"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          64
+        ],
+        "source": "https://thirtytwo.com/products/t32m-youth"
+      }
+    ],
     "price": {
       "amount": 349.95,
       "maxAmount": 349.95,
@@ -1342,7 +2126,48 @@
       "140",
       "145"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "125",
+        "weightKg": [
+          31,
+          42
+        ],
+        "source": "https://thirtytwo.com/products/volcom-byh-youth"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          34,
+          45
+        ],
+        "source": "https://thirtytwo.com/products/volcom-byh-youth"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          50
+        ],
+        "source": "https://thirtytwo.com/products/volcom-byh-youth"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          41,
+          54
+        ],
+        "source": "https://thirtytwo.com/products/volcom-byh-youth"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          64
+        ],
+        "source": "https://thirtytwo.com/products/volcom-byh-youth"
+      }
+    ],
     "price": {
       "amount": 369.95,
       "maxAmount": 369.95,
@@ -1423,7 +2248,64 @@
       "162",
       "164W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          null,
+          77
+        ],
+        "source": "https://thirtytwo.com/products/volcom-cosm"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          70,
+          86
+        ],
+        "source": "https://thirtytwo.com/products/volcom-cosm"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/volcom-cosm"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          74,
+          91
+        ],
+        "source": "https://thirtytwo.com/products/volcom-cosm"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          79,
+          95
+        ],
+        "source": "https://thirtytwo.com/products/volcom-cosm"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          83,
+          99
+        ],
+        "source": "https://thirtytwo.com/products/volcom-cosm"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          88,
+          104
+        ],
+        "source": "https://thirtytwo.com/products/volcom-cosm"
+      }
+    ],
     "price": {
       "amount": 579.95,
       "maxAmount": 579.95,

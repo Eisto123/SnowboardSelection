@@ -8,3 +8,4 @@
 @media(max-width:720px){.fit-inputs{grid-template-columns:repeat(2,minmax(0,1fr))}.fit-inputs select{padding:8px}}
 
 .fit-estimate{color:#93511f;background:#fff0d7;border-radius:4px;padding:5px}.sizing-mode{margin-top:14px;max-width:400px}.generic-guide{padding:14px;background:#fff5df;border:1px solid #e5d8b9;border-radius:8px;margin:16px 0}.generic-guide p{margin:10px 0}.generic-guide table{margin-bottom:12px}
+.fit-table-btn{display:block;width:100%;text-align:left;margin:8px 0;padding:10px 12px;border:1px solid #698677;background:#eef5ee;color:#234f36;border-radius:6px;font-size:13px;cursor:pointer;min-height:44px}.fit-pending{font-size:12px;color:#767873;margin:8px 0}.weight-note{display:block;max-width:320px;white-space:normal;font-weight:400;line-height:1.5;margin-top:4px}#detail-sizing{scroll-margin-top:20px}

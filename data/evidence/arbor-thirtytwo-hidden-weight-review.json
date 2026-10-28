@@ -1,0 +1,3810 @@
+{
+  "checkedAt": "2026-10-28",
+  "status": "complete-with-explicit-gaps",
+  "scope": "Arbor33款/thirtytwo18款；检查官方完整HTML隐藏行、当前产品专用CSV及官网目录，不将板身/物流重量或旧季/第三方表作为当前官方骑手体重。",
+  "products": [
+    {
+      "id": "arbor-rain-snowboard-27",
+      "brand": "Arbor",
+      "model": "Rain",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/rain-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "149",
+        "153",
+        "155",
+        "157",
+        "158W",
+        "159",
+        "161"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-rain-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/rain-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Rain Snowboard 2027 - Arbor Collective",
+      "h1": "Rain Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-rain.csv?v=9820330218122036914",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-rain-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "149",
+        "153",
+        "155",
+        "157",
+        "158W",
+        "159",
+        "161"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "149",
+          "153",
+          "155",
+          "157",
+          "158W",
+          "159",
+          "161"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-terrapin-pfd-snowboard-27",
+      "brand": "Arbor",
+      "model": "Terrapin PFD",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/terrapin-pfd-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "146",
+        "152"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-terrapin-pfd-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/terrapin-pfd-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Terrapin PFD Snowboard 2027 - Arbor Collective",
+      "h1": "Terrapin PFD Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-terrapin-pfd.csv?v=12107403493890726897",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-terrapin-pfd-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "146",
+        "152"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "146",
+          "152"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-padre-snowboard-27",
+      "brand": "Arbor",
+      "model": "Padre",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/padre-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "153",
+        "157",
+        "161"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-padre-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/padre-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Padre Snowboard 2027 - Arbor Collective",
+      "h1": "Padre Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-padre.csv?v=1218006359519401915",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-padre-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT (m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "153",
+        "157",
+        "161"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "153",
+          "157",
+          "161"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-bryan-iguchi-pro-snowboard-27",
+      "brand": "Arbor",
+      "model": "Bryan Iguchi Pro",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/bryan-iguchi-pro-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "156",
+        "158W",
+        "159",
+        "162",
+        "164W"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-bryan-iguchi-pro-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/bryan-iguchi-pro-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Bryan Iguchi Pro Snowboard 2027 - Arbor Collective",
+      "h1": "Bryan Iguchi Pro Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-bryan-iguchi-pro.csv?v=3041122747444430218",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-bryan-iguchi-pro-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "156",
+        "158W",
+        "159",
+        "162",
+        "164W"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "156",
+          "158W",
+          "159",
+          "162",
+          "164W"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-carbon-coda-snowboard-27",
+      "brand": "Arbor",
+      "model": "Carbon Coda",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/carbon-coda-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "155",
+        "158",
+        "159W",
+        "161",
+        "162W",
+        "164",
+        "165W"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-carbon-coda-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/carbon-coda-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Carbon Coda Snowboard 2027 - Arbor Collective",
+      "h1": "Carbon Coda Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-carbon-coda.csv?v=457564468151165809",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-carbon-coda-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "155",
+        "158",
+        "159W",
+        "161",
+        "162W",
+        "164",
+        "165W"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "155",
+          "158",
+          "159W",
+          "161",
+          "162W",
+          "164",
+          "165W"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-sin-nombre-snowboard-27",
+      "brand": "Arbor",
+      "model": "Sin Nombre",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/sin-nombre-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "153",
+        "156",
+        "158W",
+        "159",
+        "161W",
+        "162"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-sin-nombre-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/sin-nombre-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Sin Nombre Snowboard 2027 - Arbor Collective",
+      "h1": "Sin Nombre Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-sin-nombre.csv?v=8015113595475305914",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-sin-nombre-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "153",
+        "156",
+        "158W",
+        "159",
+        "161W",
+        "162"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "153",
+          "156",
+          "158W",
+          "159",
+          "161W",
+          "162"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-veda-snowboard-27",
+      "brand": "Arbor",
+      "model": "Veda",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/veda-snowboard-27",
+      "status": "official-html-linked-csv-model-mismatch",
+      "sizes": [
+        "145",
+        "150",
+        "154"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-veda-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/veda-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Veda Snowboard 2027 - Arbor Collective",
+      "h1": "Veda Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-aframe.csv?v=6378767288859988390",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-veda-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT (m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "158",
+        "162",
+        "166"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [
+          "145",
+          "150",
+          "154"
+        ],
+        "csvOnly": [
+          "158",
+          "162",
+          "166"
+        ],
+        "overlap": []
+      },
+      "csvFileSeason": "2027",
+      "note": "当前产品canonical与title正确，但HTML data-file指向另一型号CSV，尺寸与该产品完全不相交；不将错表应用到本型号。"
+    },
+    {
+      "id": "arbor-sin-cara-snowboard-27",
+      "brand": "Arbor",
+      "model": "Sin Cara",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/sin-cara-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "146",
+        "149",
+        "152"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-sin-cara-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/sin-cara-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Sin Cara Snowboard 2027 - Arbor Collective",
+      "h1": "Sin Cara Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-sin-cara.csv?v=17480308577331011122",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-sin-cara-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "146",
+        "149",
+        "152"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "146",
+          "149",
+          "152"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-swoon-decon-snowboard-27",
+      "brand": "Arbor",
+      "model": "Swoon Decon",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/swoon-decon-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "140",
+        "144",
+        "148",
+        "152"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-swoon-decon-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/swoon-decon-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Swoon Decon Snowboard 2027 - Arbor Collective",
+      "h1": "Swoon Decon Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-swoon-decon.csv?v=9423756849565786530",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-swoon-decon-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "140",
+        "144",
+        "148",
+        "152"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "140",
+          "144",
+          "148",
+          "152"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-swoon-snowboard-27",
+      "brand": "Arbor",
+      "model": "Swoon",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/swoon-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "140",
+        "144",
+        "148",
+        "152"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-swoon-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/swoon-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Swoon Snowboard 2027 - Arbor Collective",
+      "h1": "Swoon Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-swoon.csv?v=9423756849565786530",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-swoon-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "140",
+        "144",
+        "148",
+        "152"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "140",
+          "144",
+          "148",
+          "152"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-cadence-snowboard-27",
+      "brand": "Arbor",
+      "model": "Cadence",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/cadence-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "139",
+        "143",
+        "147",
+        "151"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-cadence-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/cadence-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Cadence Snowboard 2027 - Arbor Collective",
+      "h1": "Cadence Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-cadence.csv?v=8405852843019622803",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-cadence-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "139",
+        "143",
+        "147",
+        "151"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "139",
+          "143",
+          "147",
+          "151"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-mantra-snowboard-27",
+      "brand": "Arbor",
+      "model": "Mantra",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/mantra-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "139",
+        "143",
+        "147",
+        "151"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-mantra-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/mantra-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Mantra Snowboard 2027 - Arbor Collective",
+      "h1": "Mantra Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-mantra.csv?v=10104209471006581635",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-mantra-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "139",
+        "143",
+        "147",
+        "151"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "139",
+          "143",
+          "147",
+          "151"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-rooster-fish-snowboard-27",
+      "brand": "Arbor",
+      "model": "Rooster Fish",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/rooster-fish-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "153",
+        "157"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-rooster-fish-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/rooster-fish-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Rooster Fish Snowboard 2027 - Arbor Collective",
+      "h1": "Rooster Fish Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-roosterfish.csv?v=16626813172918386757",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-rooster-fish-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT (m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "153",
+        "157"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "153",
+          "157"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-astrowaste-snowboard-27",
+      "brand": "Arbor",
+      "model": "Astrowaste",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/astrowaste-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "150",
+        "153",
+        "156",
+        "159"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-astrowaste-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/astrowaste-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Astrowaste Snowboard 2027 - Arbor Collective",
+      "h1": "Astrowaste Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-astrowaste.csv?v=14151336698775340551",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-astrowaste-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "150",
+        "153",
+        "156",
+        "159"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "150",
+          "153",
+          "156",
+          "159"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-red-gerard-am-snowboard-27",
+      "brand": "Arbor",
+      "model": "Red Gerard Am",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/red-gerard-am-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "135",
+        "140",
+        "145"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-red-gerard-am-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/red-gerard-am-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Red Gerard Am Snowboard 2027 - Arbor Collective",
+      "h1": "Red Gerard Am Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-red-gerard-am.csv?v=13718521895843309002",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-red-gerard-am-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "135",
+        "140",
+        "145"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "135",
+          "140",
+          "145"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-a-frame-snowboard-27",
+      "brand": "Arbor",
+      "model": "A-Frame",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/a-frame-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "158",
+        "162",
+        "166"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-a-frame-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/a-frame-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - A-Frame Snowboard 2027 - Arbor Collective",
+      "h1": "A-Frame Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-aframe.csv?v=6378767288859988390",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-a-frame-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT (m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "158",
+        "162",
+        "166"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "158",
+          "162",
+          "166"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-kuro-neko-decon-snowboard-27",
+      "brand": "Arbor",
+      "model": "Kuro Neko Decon",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/kuro-neko-decon-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "141",
+        "145",
+        "149",
+        "152"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-kuro-neko-decon-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/kuro-neko-decon-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Kuro Neko Decon Snowboard 2027 - Arbor Collective",
+      "h1": "Kuro Neko Decon Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-kuro-neko-decon.csv?v=5841765287077838973",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-kuro-neko-decon-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "141",
+        "145",
+        "149",
+        "152"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "141",
+          "145",
+          "149",
+          "152"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-kuro-neko-snowboard-27",
+      "brand": "Arbor",
+      "model": "Kuro Neko",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/kuro-neko-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "141",
+        "145",
+        "149",
+        "152"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-kuro-neko-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/kuro-neko-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Kuro Neko Snowboard 2027 - Arbor Collective",
+      "h1": "Kuro Neko Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-kuro-neko.csv?v=5841765287077838973",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-kuro-neko-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "141",
+        "145",
+        "149",
+        "152"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "141",
+          "145",
+          "149",
+          "152"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-mantra-decon-snowboard-27",
+      "brand": "Arbor",
+      "model": "Mantra Decon",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/mantra-decon-snowboard-27",
+      "status": "official-html-linked-csv-model-mismatch",
+      "sizes": [
+        "139",
+        "143",
+        "147",
+        "151"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-mantra-decon-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/mantra-decon-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Mantra Decon Snowboard 2027 - Arbor Collective",
+      "h1": "Mantra Decon Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-madre.csv?v=10785606109029645369",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-mantra-decon-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "144",
+        "148"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [
+          "139",
+          "143",
+          "147",
+          "151"
+        ],
+        "csvOnly": [
+          "144",
+          "148"
+        ],
+        "overlap": []
+      },
+      "csvFileSeason": "2027",
+      "note": "当前产品canonical与title正确，但HTML data-file指向另一型号CSV，尺寸与该产品完全不相交；不将错表应用到本型号。"
+    },
+    {
+      "id": "arbor-coda-snowboard-27",
+      "brand": "Arbor",
+      "model": "Coda",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/coda-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "155",
+        "158",
+        "159W",
+        "161",
+        "162W",
+        "164",
+        "165W"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-coda-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/coda-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Coda Snowboard 2027 - Arbor Collective",
+      "h1": "Coda Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-coda.csv?v=457564468151165809",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-coda-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "155",
+        "158",
+        "159W",
+        "161",
+        "162W",
+        "164",
+        "165W"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "155",
+          "158",
+          "159W",
+          "161",
+          "162W",
+          "164",
+          "165W"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-madre-snowboard-27",
+      "brand": "Arbor",
+      "model": "Madre",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/madre-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "144",
+        "148"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-madre-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/madre-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Madre Snowboard 2027 - Arbor Collective",
+      "h1": "Madre Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-madre.csv?v=10785606109029645369",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-madre-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "144",
+        "148"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "144",
+          "148"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-danny-kass-park-pro-snowboard-27",
+      "brand": "Arbor",
+      "model": "Danny Kass Park Pro",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/danny-kass-park-pro-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "151",
+        "154",
+        "157"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-danny-kass-park-pro-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/danny-kass-park-pro-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Danny Kass Park Pro Snowboard 2027 - Arbor Collective",
+      "h1": "Danny Kass Park Pro Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-danny-kass-park-pro.csv?v=11893653269060464743",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-danny-kass-park-pro-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "151",
+        "154",
+        "157"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "151",
+          "154",
+          "157"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-element-decon-snowboard-27",
+      "brand": "Arbor",
+      "model": "Element Decon",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/element-decon-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "154",
+        "156",
+        "158",
+        "160",
+        "162",
+        "164"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-element-decon-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/element-decon-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Element Decon Snowboard 2027 - Arbor Collective",
+      "h1": "Element Decon Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-element-decons.csv?v=6088212565986985649",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-element-decon-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "154",
+        "156",
+        "158",
+        "160",
+        "162",
+        "164"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "154",
+          "156",
+          "158",
+          "160",
+          "162",
+          "164"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-element-snowboard-27",
+      "brand": "Arbor",
+      "model": "Element",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/element-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "154",
+        "156",
+        "158",
+        "160",
+        "162",
+        "164"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-element-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/element-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Element Snowboard 2027 - Arbor Collective",
+      "h1": "Element Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-element.csv?v=6088212565986985649",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-element-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "154",
+        "156",
+        "158",
+        "160",
+        "162",
+        "164"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "154",
+          "156",
+          "158",
+          "160",
+          "162",
+          "164"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-formula-snowboard-27",
+      "brand": "Arbor",
+      "model": "Formula",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/formula-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "152",
+        "155",
+        "158",
+        "161"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-formula-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/formula-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Formula Snowboard 2027 - Arbor Collective",
+      "h1": "Formula Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-formula.csv?v=12904846154821653194",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-formula-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "152",
+        "155",
+        "158",
+        "161"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "152",
+          "155",
+          "158",
+          "161"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-formula-decon-snowboard-27",
+      "brand": "Arbor",
+      "model": "Formula Decon",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/formula-decon-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "152",
+        "155",
+        "158",
+        "161"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-formula-decon-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/formula-decon-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Formula Decon Snowboard 2027 - Arbor Collective",
+      "h1": "Formula Decon Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-formula-decon.csv?v=12904846154821653194",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-formula-decon-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "152",
+        "155",
+        "158",
+        "161"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "152",
+          "155",
+          "158",
+          "161"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-seedling-snowboard-27",
+      "brand": "Arbor",
+      "model": "Seedling",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/seedling-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "110",
+        "120",
+        "130"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-seedling-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/seedling-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Seedling Snowboard 2027 - Arbor Collective",
+      "h1": "Seedling Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-seedling.csv?v=5209539908230568170",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-seedling-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "110",
+        "120",
+        "130"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "110",
+          "120",
+          "130"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-scion-snowboard-27",
+      "brand": "Arbor",
+      "model": "Scion",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/scion-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "110",
+        "120",
+        "130",
+        "140"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-scion-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/scion-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Scion Snowboard 2027 - Arbor Collective",
+      "h1": "Scion Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-scion.csv?v=1974171557824189998",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-scion-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "110",
+        "120",
+        "130",
+        "140"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "110",
+          "120",
+          "130",
+          "140"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-el-camino-snowboard-27",
+      "brand": "Arbor",
+      "model": "El Camino",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/el-camino-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "155",
+        "158",
+        "159W",
+        "161",
+        "162W"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-el-camino-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/el-camino-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - El Camino Snowboard 2027 - Arbor Collective",
+      "h1": "El Camino Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-el-camino.csv?v=7516528023163182304",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-el-camino-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "155",
+        "158",
+        "159W",
+        "161",
+        "162W"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "155",
+          "158",
+          "159W",
+          "161",
+          "162W"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-metal-machine-decon-snowboard-27",
+      "brand": "Arbor",
+      "model": "Metal Machine Decon",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/metal-machine-decon-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "150",
+        "153",
+        "156",
+        "159"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-metal-machine-decon-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/metal-machine-decon-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Metal Machine Decon Snowboard 2027 - Arbor Collective",
+      "h1": "Metal Machine Decon Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-metal-machine-decon.csv?v=1755804926162648597",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-metal-machine-decon-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "150",
+        "153",
+        "156",
+        "159"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "150",
+          "153",
+          "156",
+          "159"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-metal-machine-snowboard-27",
+      "brand": "Arbor",
+      "model": "Metal Machine",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/metal-machine-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "150",
+        "153",
+        "156",
+        "159"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-metal-machine-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/metal-machine-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Metal Machine Snowboard 2027 - Arbor Collective",
+      "h1": "Metal Machine Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-metal-machine.csv?v=1755804926162648597",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-metal-machine-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "150",
+        "153",
+        "156",
+        "159"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "150",
+          "153",
+          "156",
+          "159"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-draft-snowboard-27",
+      "brand": "Arbor",
+      "model": "Draft",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/draft-snowboard-27",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "148",
+        "152",
+        "155W",
+        "156"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-draft-snowboard-27.html",
+      "canonical": "https://www.arborcollective.com/products/draft-snowboard-27",
+      "pageTitle": "Arbor Snowboarding - Draft Snowboard 2027 - Arbor Collective",
+      "h1": "Draft Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2027-draft.csv?v=8467642416760590596",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-draft-snowboard-27.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT(m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "148",
+        "152",
+        "155W",
+        "156"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "148",
+          "152",
+          "155W",
+          "156"
+        ]
+      },
+      "csvFileSeason": "2027"
+    },
+    {
+      "id": "arbor-red-gerard-pro-snowboard",
+      "brand": "Arbor",
+      "model": "Red Gerard Pro",
+      "season": "2026/27",
+      "source": "https://www.arborcollective.com/products/red-gerard-pro-snowboard",
+      "status": "official-product-csv-no-rider-weight-column",
+      "sizes": [
+        "155",
+        "157"
+      ],
+      "rows": [],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-red-gerard-pro-snowboard.html",
+      "canonical": "https://www.arborcollective.com/products/red-gerard-pro-snowboard",
+      "pageTitle": "Red Gerard Pro Snowboard - Arbor Collective",
+      "h1": "Red Gerard Pro Snowboard",
+      "modelTitleMatches": true,
+      "csvSource": "https://www.arborcollective.com/cdn/shop/files/sizes-snow-2026-redgerard.csv?v=1870305659930783827",
+      "csvSnapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\arbor-red-gerard-pro-snowboard.csv",
+      "csvHeaders": [
+        "LENGTH (cm)",
+        "WAIST WIDTH (cm)",
+        "SIDECUT (m)",
+        "EFFECTIVE EDGE LENGTH (cm)",
+        "TIP / TAIL LENGTH (cm)",
+        "TIP / TAIL WIDTH (cm)",
+        "TAPER (cm)",
+        "REF. STANCE SETBACK (cm)"
+      ],
+      "officialSizes": [
+        "155",
+        "157"
+      ],
+      "csvSizeConsistency": {
+        "recordOnly": [],
+        "csvOnly": [],
+        "overlap": [
+          "155",
+          "157"
+        ]
+      },
+      "csvFileSeason": "2026",
+      "seasonNote": "CSV资源文件名标注2026，与记录2026/27雪季的对应关系需另行确认。"
+    },
+    {
+      "id": "thirtytwo-middle-earth-pro",
+      "brand": "thirtytwo",
+      "model": "Middle Earth Pro",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/middle-earth-pro",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "149",
+        "152",
+        "155",
+        "157",
+        "158W",
+        "159"
+      ],
+      "rows": [
+        {
+          "length": "149",
+          "original": "-150 lbs. / -68 kg.",
+          "parsedKg": [
+            null,
+            68
+          ],
+          "upperOnlyKg": 68,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "152",
+          "original": "135-170 lbs. / 61-77 kg.",
+          "parsedKg": [
+            61,
+            77
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "155",
+          "original": "145-180 lbs. / 65-81 kg.",
+          "parsedKg": [
+            65,
+            81
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "157",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "158W",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "159",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-middle-earth-pro.html",
+      "canonical": "https://thirtytwo.com/products/middle-earth-pro",
+      "pageTitle": "Middle Earth Pro",
+      "h1": "Middle Earth Pro",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNU.MEP.000",
+      "officialSizes": [
+        "149",
+        "152",
+        "155",
+        "157",
+        "158W",
+        "159"
+      ],
+      "weightCells": [
+        "-150 lbs. / -68 kg.",
+        "135-170 lbs. / 61-77 kg.",
+        "145-180 lbs. / 65-81 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "165-200 lbs. / 74-91 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-atmosphere",
+      "brand": "thirtytwo",
+      "model": "Atmosphere",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/atmosphere",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "150",
+        "154",
+        "158",
+        "162"
+      ],
+      "rows": [
+        {
+          "length": "150",
+          "original": "125-160 lbs. / 56-72 kg.",
+          "parsedKg": [
+            56,
+            72
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "154",
+          "original": "145-180 lbs. / 65-81 kg.",
+          "parsedKg": [
+            65,
+            81
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "158",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "162",
+          "original": "185-220 lbs. / 83-99 kg.",
+          "parsedKg": [
+            83,
+            99
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-atmosphere.html",
+      "canonical": "https://thirtytwo.com/products/atmosphere",
+      "pageTitle": "Atmosphere",
+      "h1": "Atmosphere",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNU.ATM.000",
+      "officialSizes": [
+        "150",
+        "154",
+        "158",
+        "162"
+      ],
+      "weightCells": [
+        "125-160 lbs. / 56-72 kg.",
+        "145-180 lbs. / 65-81 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "185-220 lbs. / 83-99 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-permanent-vacation",
+      "brand": "thirtytwo",
+      "model": "Permanent Vacation",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/permanent-vacation",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "154",
+        "156",
+        "156W",
+        "158",
+        "159W",
+        "161",
+        "162W"
+      ],
+      "rows": [
+        {
+          "length": "154",
+          "original": "-180 lbs. / -81 kg.",
+          "parsedKg": [
+            null,
+            81
+          ],
+          "upperOnlyKg": 81,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "156",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "156W",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "158",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "159W",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "161",
+          "original": "175-210 lbs. / 79-95 kg.",
+          "parsedKg": [
+            79,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "162W",
+          "original": "185-220 lbs. / 83-99 kg.",
+          "parsedKg": [
+            83,
+            99
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-permanent-vacation.html",
+      "canonical": "https://thirtytwo.com/products/permanent-vacation",
+      "pageTitle": "Permanent Vacation",
+      "h1": "Permanent Vacation",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNM.PMV.000",
+      "officialSizes": [
+        "154",
+        "156",
+        "156W",
+        "158",
+        "159W",
+        "161",
+        "162W"
+      ],
+      "weightCells": [
+        "-180 lbs. / -81 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "175-210 lbs. / 79-95 kg.",
+        "185-220 lbs. / 83-99 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-volcom-creedler",
+      "brand": "thirtytwo",
+      "model": "VOLCOM Creedler",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/volcom-creedler",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "148",
+        "151",
+        "154",
+        "156",
+        "157W",
+        "158",
+        "160W",
+        "161"
+      ],
+      "rows": [
+        {
+          "length": "148",
+          "original": "-150 lbs. / -68 kg.",
+          "parsedKg": [
+            null,
+            68
+          ],
+          "upperOnlyKg": 68,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "151",
+          "original": "125-160 lbs. / 56-72 kg.",
+          "parsedKg": [
+            56,
+            72
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "154",
+          "original": "145-180 lbs. / 65-81 kg.",
+          "parsedKg": [
+            65,
+            81
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "156",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "157W",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "158",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "160W",
+          "original": "175-210 lbs. / 79-95 kg.",
+          "parsedKg": [
+            79,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "161",
+          "original": "175-210 lbs. / 79-95 kg.",
+          "parsedKg": [
+            79,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-volcom-creedler.html",
+      "canonical": "https://thirtytwo.com/products/volcom-creedler",
+      "pageTitle": "VOLCOM Creedler",
+      "h1": "VOLCOM Creedler",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNM.CRE.000",
+      "officialSizes": [
+        "148",
+        "151",
+        "154",
+        "156",
+        "157W",
+        "158",
+        "160W",
+        "161"
+      ],
+      "weightCells": [
+        "-150 lbs. / -68 kg.",
+        "125-160 lbs. / 56-72 kg.",
+        "145-180 lbs. / 65-81 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "175-210 lbs. / 79-95 kg.",
+        "175-210 lbs. / 79-95 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-thrill-pill",
+      "brand": "thirtytwo",
+      "model": "Thrill Pill",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/thrill-pill",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "132"
+      ],
+      "rows": [
+        {
+          "length": "132",
+          "original": "-200 lbs. / -91 kg.",
+          "parsedKg": [
+            null,
+            91
+          ],
+          "upperOnlyKg": 91,
+          "note": "官方只给上限，未编造下限。"
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-thrill-pill.html",
+      "canonical": "https://thirtytwo.com/products/thrill-pill",
+      "pageTitle": "Thrill Pill",
+      "h1": "Thrill Pill",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNU.TRP.000",
+      "officialSizes": [
+        "132"
+      ],
+      "weightCells": [
+        "-200 lbs. / -91 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-cold-world",
+      "brand": "thirtytwo",
+      "model": "Cold World",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/cold-world",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "146",
+        "149",
+        "152",
+        "155",
+        "157",
+        "158W",
+        "159"
+      ],
+      "rows": [
+        {
+          "length": "146",
+          "original": "-150 lbs. / -68 kg.",
+          "parsedKg": [
+            null,
+            68
+          ],
+          "upperOnlyKg": 68,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "149",
+          "original": "115-170 lbs. / 52-77 kg.",
+          "parsedKg": [
+            52,
+            77
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "152",
+          "original": "135-180 lbs. / 61-81 kg.",
+          "parsedKg": [
+            61,
+            81
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "155",
+          "original": "145-200 lbs. / 65-91 kg.",
+          "parsedKg": [
+            65,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "157",
+          "original": "155-210 lbs. / 70-95 kg.",
+          "parsedKg": [
+            70,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "158W",
+          "original": "165-210 lbs. / 74-95 kg.",
+          "parsedKg": [
+            74,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "159",
+          "original": "165-220 lbs. / 74-99 kg.",
+          "parsedKg": [
+            74,
+            99
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-cold-world.html",
+      "canonical": "https://thirtytwo.com/products/cold-world",
+      "pageTitle": "Cold World",
+      "h1": "Cold World",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNU.CDW.000",
+      "officialSizes": [
+        "146",
+        "149",
+        "152",
+        "155",
+        "157",
+        "158W",
+        "159"
+      ],
+      "weightCells": [
+        "-150 lbs. / -68 kg.",
+        "115-170 lbs. / 52-77 kg.",
+        "135-180 lbs. / 61-81 kg.",
+        "145-200 lbs. / 65-91 kg.",
+        "155-210 lbs. / 70-95 kg.",
+        "165-210 lbs. / 74-95 kg.",
+        "165-220 lbs. / 74-99 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-women-crucible",
+      "brand": "thirtytwo",
+      "model": "Crucible",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/women-crucible",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "139",
+        "142",
+        "145",
+        "148",
+        "151"
+      ],
+      "rows": [
+        {
+          "length": "139",
+          "original": "-120 lbs. / -54 kg.",
+          "parsedKg": [
+            null,
+            54
+          ],
+          "upperOnlyKg": 54,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "142",
+          "original": "85-120 lbs. / 39-54 kg.",
+          "parsedKg": [
+            39,
+            54
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "145",
+          "original": "95-130 lbs. / 43-58 kg.",
+          "parsedKg": [
+            43,
+            58
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "148",
+          "original": "115-150 lbs. / 52-68 kg.",
+          "parsedKg": [
+            52,
+            68
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "151",
+          "original": "125-160 lbs. / 56-72 kg.",
+          "parsedKg": [
+            56,
+            72
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-women-crucible.html",
+      "canonical": "https://thirtytwo.com/products/women-crucible",
+      "pageTitle": "Women's Crucible",
+      "h1": "Women's Crucible",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Women / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNW.CRU.000",
+      "officialSizes": [
+        "139",
+        "142",
+        "145",
+        "148",
+        "151"
+      ],
+      "weightCells": [
+        "-120 lbs. / -54 kg.",
+        "85-120 lbs. / 39-54 kg.",
+        "95-130 lbs. / 43-58 kg.",
+        "115-150 lbs. / 52-68 kg.",
+        "125-160 lbs. / 56-72 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-t32m",
+      "brand": "thirtytwo",
+      "model": "T32M",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/t32m",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "148",
+        "151",
+        "154",
+        "156",
+        "157W",
+        "158",
+        "160W",
+        "161"
+      ],
+      "rows": [
+        {
+          "length": "148",
+          "original": "-150 lbs. / -68 kg.",
+          "parsedKg": [
+            null,
+            68
+          ],
+          "upperOnlyKg": 68,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "151",
+          "original": "125-160 lbs. / 56-72 kg.",
+          "parsedKg": [
+            56,
+            72
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "154",
+          "original": "145-180 lbs. / 65-81 kg.",
+          "parsedKg": [
+            65,
+            81
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "156",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "157W",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "158",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "160W",
+          "original": "175-210 lbs. / 79-95 kg.",
+          "parsedKg": [
+            79,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "161",
+          "original": "175-210 lbs. / 79-95 kg.",
+          "parsedKg": [
+            79,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-t32m.html",
+      "canonical": "https://thirtytwo.com/products/t32m",
+      "pageTitle": "T32M",
+      "h1": "T32M",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNM.TEM.000",
+      "officialSizes": [
+        "148",
+        "151",
+        "154",
+        "156",
+        "157W",
+        "158",
+        "160W",
+        "161"
+      ],
+      "weightCells": [
+        "-150 lbs. / -68 kg.",
+        "125-160 lbs. / 56-72 kg.",
+        "145-180 lbs. / 65-81 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "175-210 lbs. / 79-95 kg.",
+        "175-210 lbs. / 79-95 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-xxx-fava-pro",
+      "brand": "thirtytwo",
+      "model": "XXX Fava Pro",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/xxx-fava-pro",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "152",
+        "155",
+        "158",
+        "159W",
+        "161",
+        "162W"
+      ],
+      "rows": [
+        {
+          "length": "152",
+          "original": "-170 lbs. / -77 kg.",
+          "parsedKg": [
+            null,
+            77
+          ],
+          "upperOnlyKg": 77,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "155",
+          "original": "145-180 lbs. / 65-81 kg.",
+          "parsedKg": [
+            65,
+            81
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "158",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "159W",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "161",
+          "original": "175-210 lbs. / 79-95 kg.",
+          "parsedKg": [
+            79,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "162W",
+          "original": "185-220 lbs. / 83-99 kg.",
+          "parsedKg": [
+            83,
+            99
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-xxx-fava-pro.html",
+      "canonical": "https://thirtytwo.com/products/xxx-fava-pro",
+      "pageTitle": "XXX Fava Pro",
+      "h1": "XXX Fava Pro",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNM.PAT.000",
+      "officialSizes": [
+        "152",
+        "155",
+        "158",
+        "159W",
+        "161",
+        "162W"
+      ],
+      "weightCells": [
+        "-170 lbs. / -77 kg.",
+        "145-180 lbs. / 65-81 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "175-210 lbs. / 79-95 kg.",
+        "185-220 lbs. / 83-99 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-snafu",
+      "brand": "thirtytwo",
+      "model": "SNAFU",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/snafu",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "153",
+        "156",
+        "158W",
+        "159",
+        "161W",
+        "162",
+        "164W"
+      ],
+      "rows": [
+        {
+          "length": "153",
+          "original": "-170 lbs. / -77 kg.",
+          "parsedKg": [
+            null,
+            77
+          ],
+          "upperOnlyKg": 77,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "156",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "158W",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "159",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "161W",
+          "original": "175-210 lbs. / 79-95 kg.",
+          "parsedKg": [
+            79,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "162",
+          "original": "185-220 lbs. / 83-99 kg.",
+          "parsedKg": [
+            83,
+            99
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "164W",
+          "original": "195-230 lbs. / 88-104 kg.",
+          "parsedKg": [
+            88,
+            104
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-snafu.html",
+      "canonical": "https://thirtytwo.com/products/snafu",
+      "pageTitle": "SNAFU",
+      "h1": "SNAFU",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNM.SFU.000",
+      "officialSizes": [
+        "153",
+        "156",
+        "158W",
+        "159",
+        "161W",
+        "162",
+        "164W"
+      ],
+      "weightCells": [
+        "-170 lbs. / -77 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "175-210 lbs. / 79-95 kg.",
+        "185-220 lbs. / 83-99 kg.",
+        "195-230 lbs. / 88-104 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-women-gemini",
+      "brand": "thirtytwo",
+      "model": "Gemini",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/women-gemini",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "140",
+        "143",
+        "146",
+        "149",
+        "152"
+      ],
+      "rows": [
+        {
+          "length": "140",
+          "original": "-120 lbs. / -54 kg.",
+          "parsedKg": [
+            null,
+            54
+          ],
+          "upperOnlyKg": 54,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "143",
+          "original": "85-120 lbs. / 39-54 kg.",
+          "parsedKg": [
+            39,
+            54
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "146",
+          "original": "105-140 lbs. / 47-63 kg.",
+          "parsedKg": [
+            47,
+            63
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "149",
+          "original": "115-150 lbs. / 52-68 kg.",
+          "parsedKg": [
+            52,
+            68
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "152",
+          "original": "135-170 lbs. / 61-77 kg.",
+          "parsedKg": [
+            61,
+            77
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-women-gemini.html",
+      "canonical": "https://thirtytwo.com/products/women-gemini",
+      "pageTitle": "Women's Gemini",
+      "h1": "Women's Gemini",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Women / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNW.GEM.000",
+      "officialSizes": [
+        "140",
+        "143",
+        "146",
+        "149",
+        "152"
+      ],
+      "weightCells": [
+        "-120 lbs. / -54 kg.",
+        "85-120 lbs. / 39-54 kg.",
+        "105-140 lbs. / 47-63 kg.",
+        "115-150 lbs. / 52-68 kg.",
+        "135-170 lbs. / 61-77 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-volcom-moclov",
+      "brand": "thirtytwo",
+      "model": "VOLCOM Moclov",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/volcom-moclov",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "154",
+        "156",
+        "156W",
+        "158",
+        "159W",
+        "161",
+        "162W"
+      ],
+      "rows": [
+        {
+          "length": "154",
+          "original": "-180 lbs. / -81 kg.",
+          "parsedKg": [
+            null,
+            81
+          ],
+          "upperOnlyKg": 81,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "156",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "156W",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "158",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "159W",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "161",
+          "original": "175-210 lbs. / 79-95 kg.",
+          "parsedKg": [
+            79,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "162W",
+          "original": "185-220 lbs. / 83-99 kg.",
+          "parsedKg": [
+            83,
+            99
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-volcom-moclov.html",
+      "canonical": "https://thirtytwo.com/products/volcom-moclov",
+      "pageTitle": "VOLCOM Moclov",
+      "h1": "VOLCOM Moclov",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNM.MOC.000",
+      "officialSizes": [
+        "154",
+        "156",
+        "156W",
+        "158",
+        "159W",
+        "161",
+        "162W"
+      ],
+      "weightCells": [
+        "-180 lbs. / -81 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "175-210 lbs. / 79-95 kg.",
+        "185-220 lbs. / 83-99 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-women-reiki",
+      "brand": "thirtytwo",
+      "model": "Reiki",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/women-reiki",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "142",
+        "145",
+        "148",
+        "151",
+        "154"
+      ],
+      "rows": [
+        {
+          "length": "142",
+          "original": "-120 lbs. / -54 kg.",
+          "parsedKg": [
+            null,
+            54
+          ],
+          "upperOnlyKg": 54,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "145",
+          "original": "95-130 lbs. / 43-58 kg.",
+          "parsedKg": [
+            43,
+            58
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "148",
+          "original": "115-150 lbs. / 52-68 kg.",
+          "parsedKg": [
+            52,
+            68
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "151",
+          "original": "125-160 lbs. / 56-72 kg.",
+          "parsedKg": [
+            56,
+            72
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "154",
+          "original": "145-180 lbs. / 65-81 kg.",
+          "parsedKg": [
+            65,
+            81
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-women-reiki.html",
+      "canonical": "https://thirtytwo.com/products/women-reiki",
+      "pageTitle": "Women's Reiki",
+      "h1": "Women's Reiki",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Women / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNW.REK.000",
+      "officialSizes": [
+        "142",
+        "145",
+        "148",
+        "151",
+        "154"
+      ],
+      "weightCells": [
+        "-120 lbs. / -54 kg.",
+        "95-130 lbs. / 43-58 kg.",
+        "115-150 lbs. / 52-68 kg.",
+        "125-160 lbs. / 56-72 kg.",
+        "145-180 lbs. / 65-81 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-permanent-vacation-carbon",
+      "brand": "thirtytwo",
+      "model": "Permanent Vacation Carbon",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/permanent-vacation-carbon",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "154",
+        "156",
+        "156W",
+        "158",
+        "159W",
+        "161",
+        "162W"
+      ],
+      "rows": [
+        {
+          "length": "154",
+          "original": "-180 lbs. / -81 kg.",
+          "parsedKg": [
+            null,
+            81
+          ],
+          "upperOnlyKg": 81,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "156",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "156W",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "158",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "159W",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "161",
+          "original": "175-210 lbs. / 79-95 kg.",
+          "parsedKg": [
+            79,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "162W",
+          "original": "185-220 lbs. / 83-99 kg.",
+          "parsedKg": [
+            83,
+            99
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-permanent-vacation-carbon.html",
+      "canonical": "https://thirtytwo.com/products/permanent-vacation-carbon",
+      "pageTitle": "Permanent Vacation Carbon",
+      "h1": "Permanent Vacation Carbon",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNM.PVC.000",
+      "officialSizes": [
+        "154",
+        "156",
+        "156W",
+        "158",
+        "159W",
+        "161",
+        "162W"
+      ],
+      "weightCells": [
+        "-180 lbs. / -81 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "175-210 lbs. / 79-95 kg.",
+        "185-220 lbs. / 83-99 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-t32m-carbon",
+      "brand": "thirtytwo",
+      "model": "T32M Carbon",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/t32m-carbon",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "148",
+        "151",
+        "154",
+        "156",
+        "157W",
+        "158",
+        "160W",
+        "161"
+      ],
+      "rows": [
+        {
+          "length": "148",
+          "original": "-150 lbs. / -68 kg.",
+          "parsedKg": [
+            null,
+            68
+          ],
+          "upperOnlyKg": 68,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "151",
+          "original": "125-160 lbs. / 56-72 kg.",
+          "parsedKg": [
+            56,
+            72
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "154",
+          "original": "145-180 lbs. / 65-81 kg.",
+          "parsedKg": [
+            65,
+            81
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "156",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "157W",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "158",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "160W",
+          "original": "175-210 lbs. / 79-95 kg.",
+          "parsedKg": [
+            79,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "161",
+          "original": "175-210 lbs. / 79-95 kg.",
+          "parsedKg": [
+            79,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-t32m-carbon.html",
+      "canonical": "https://thirtytwo.com/products/t32m-carbon",
+      "pageTitle": "T32M Carbon",
+      "h1": "T32M Carbon",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNM.TMC.000",
+      "officialSizes": [
+        "148",
+        "151",
+        "154",
+        "156",
+        "157W",
+        "158",
+        "160W",
+        "161"
+      ],
+      "weightCells": [
+        "-150 lbs. / -68 kg.",
+        "125-160 lbs. / 56-72 kg.",
+        "145-180 lbs. / 65-81 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "175-210 lbs. / 79-95 kg.",
+        "175-210 lbs. / 79-95 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-t32m-youth",
+      "brand": "thirtytwo",
+      "model": "T32M Youth",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/t32m-youth",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "125",
+        "130",
+        "135",
+        "140",
+        "145"
+      ],
+      "rows": [
+        {
+          "length": "125",
+          "original": "70-95 lbs. / 31-42 kg.",
+          "parsedKg": [
+            31,
+            42
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "130",
+          "original": "75-100 lbs. / 34-45 kg.",
+          "parsedKg": [
+            34,
+            45
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "135",
+          "original": "80-110 lbs. / 36-50 kg.",
+          "parsedKg": [
+            36,
+            50
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "140",
+          "original": "90-120 lbs. / 41-54 kg.",
+          "parsedKg": [
+            41,
+            54
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "145",
+          "original": "100-140 lbs. / 45-64 kg.",
+          "parsedKg": [
+            45,
+            64
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-t32m-youth.html",
+      "canonical": "https://thirtytwo.com/products/t32m-youth",
+      "pageTitle": "T32M Youth",
+      "h1": "T32M Youth",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNU.TMY.000",
+      "officialSizes": [
+        "125",
+        "130",
+        "135",
+        "140",
+        "145"
+      ],
+      "weightCells": [
+        "70-95 lbs. / 31-42 kg.",
+        "75-100 lbs. / 34-45 kg.",
+        "80-110 lbs. / 36-50 kg.",
+        "90-120 lbs. / 41-54 kg.",
+        "100-140 lbs. / 45-64 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-volcom-byh-youth",
+      "brand": "thirtytwo",
+      "model": "VOLCOM BYH Youth",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/volcom-byh-youth",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "125",
+        "130",
+        "135",
+        "140",
+        "145"
+      ],
+      "rows": [
+        {
+          "length": "125",
+          "original": "70-95 lbs. / 31-42 kg.",
+          "parsedKg": [
+            31,
+            42
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "130",
+          "original": "75-100 lbs. / 34-45 kg.",
+          "parsedKg": [
+            34,
+            45
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "135",
+          "original": "80-110 lbs. / 36-50 kg.",
+          "parsedKg": [
+            36,
+            50
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "140",
+          "original": "90-120 lbs. / 41-54 kg.",
+          "parsedKg": [
+            41,
+            54
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "145",
+          "original": "100-140 lbs. / 45-64 kg.",
+          "parsedKg": [
+            45,
+            64
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-volcom-byh-youth.html",
+      "canonical": "https://thirtytwo.com/products/volcom-byh-youth",
+      "pageTitle": "VOLCOM BYH Youth",
+      "h1": "VOLCOM BYH Youth",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNU.BYH.000",
+      "officialSizes": [
+        "125",
+        "130",
+        "135",
+        "140",
+        "145"
+      ],
+      "weightCells": [
+        "70-95 lbs. / 31-42 kg.",
+        "75-100 lbs. / 34-45 kg.",
+        "80-110 lbs. / 36-50 kg.",
+        "90-120 lbs. / 41-54 kg.",
+        "100-140 lbs. / 45-64 kg."
+      ]
+    },
+    {
+      "id": "thirtytwo-volcom-cosm",
+      "brand": "thirtytwo",
+      "model": "VOLCOM Cosm",
+      "season": "2026/27",
+      "source": "https://thirtytwo.com/products/volcom-cosm",
+      "status": "official-hidden-weight-row-imported",
+      "sizes": [
+        "153",
+        "156",
+        "158W",
+        "159",
+        "161W",
+        "162",
+        "164W"
+      ],
+      "rows": [
+        {
+          "length": "153",
+          "original": "-170 lbs. / -77 kg.",
+          "parsedKg": [
+            null,
+            77
+          ],
+          "upperOnlyKg": 77,
+          "note": "官方只给上限，未编造下限。"
+        },
+        {
+          "length": "156",
+          "original": "155-190 lbs. / 70-86 kg.",
+          "parsedKg": [
+            70,
+            86
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "158W",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "159",
+          "original": "165-200 lbs. / 74-91 kg.",
+          "parsedKg": [
+            74,
+            91
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "161W",
+          "original": "175-210 lbs. / 79-95 kg.",
+          "parsedKg": [
+            79,
+            95
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "162",
+          "original": "185-220 lbs. / 83-99 kg.",
+          "parsedKg": [
+            83,
+            99
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        },
+        {
+          "length": "164W",
+          "original": "195-230 lbs. / 88-104 kg.",
+          "parsedKg": [
+            88,
+            104
+          ],
+          "upperOnlyKg": null,
+          "note": null
+        }
+      ],
+      "snapshot": "C:\\Users\\17055\\Documents\\GitHub\\SnowboardSelection\\work\\weight-pages\\thirtytwo-volcom-cosm.html",
+      "canonical": "https://thirtytwo.com/products/volcom-cosm",
+      "pageTitle": "VOLCOM Cosm",
+      "h1": "VOLCOM Cosm",
+      "modelTitleMatches": true,
+      "tableHeaders": [
+        "Board size (cm)",
+        "Contact length (cm)",
+        "Effective edge length (cm)",
+        "Tip length (cm)",
+        "Tail length (cm)",
+        "Waist width (cm)",
+        "Underfoot width - front foot (cm)",
+        "Underfoot width - back foot (cm)",
+        "Tip width (cm)",
+        "Tail width (cm)",
+        "Sidecut radius (m)",
+        "Reference stance (cm/in)",
+        "Centered stance (cm/in)",
+        "Stance setback (cm)",
+        "Weight range (lbs/kg)",
+        "Ideal boot size (US Men / EU)"
+      ],
+      "hiddenMoreRows": 10,
+      "sku": "T.27.SNM.COS.000",
+      "officialSizes": [
+        "153",
+        "156",
+        "158W",
+        "159",
+        "161W",
+        "162",
+        "164W"
+      ],
+      "weightCells": [
+        "-170 lbs. / -77 kg.",
+        "155-190 lbs. / 70-86 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "165-200 lbs. / 74-91 kg.",
+        "175-210 lbs. / 79-95 kg.",
+        "185-220 lbs. / 83-99 kg.",
+        "195-230 lbs. / 88-104 kg."
+      ]
+    }
+  ],
+  "externalChecks": [
+    {
+      "source": "https://www.arborcollective.com/pages/snow-catalog-archive",
+      "result": "官网归档最新公开标注为2025/2026；未将旧季目录数值套入2026/27型号。",
+      "embeddedLatestCatalog": "https://e.issuu.com/embed.html?d=arbor_snowboarding_25-26_catalog&hideIssuuLogo=true&u=arborcollective"
+    },
+    {
+      "source": "https://www.arborcollective.com/cdn/shop/t/18/assets/dynamic-size-chart.js?v=21953086548190289001663786812",
+      "result": "脚本读取产品HTML的data-file CSV并逐列渲染全部列，不另从隐藏体重接口补列。",
+      "localSnapshot": "C:/Users/17055/Documents/GitHub/SnowboardSelection/work/weight-pages/arbor-chart.js"
+    },
+    {
+      "source": "https://thirtytwo.com/pages/downloads",
+      "result": "公开下载页为绑定器、BOA和热塑等手册；本次采用各雪板完整HTML的隐藏Weight range行，无需零售商目录。"
+    }
+  ],
+  "summary": {
+    "arbor": {
+      "products": 33,
+      "productsWithFit": 0,
+      "fitRanges": 0,
+      "upperOnly": 0
+    },
+    "thirtytwo": {
+      "products": 18,
+      "productsWithFit": 18,
+      "fitRanges": 108,
+      "upperOnly": 15
+    }
+  }
+}

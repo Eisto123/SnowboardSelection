@@ -1,0 +1,2902 @@
+{
+  "brand": "Never Summer",
+  "checkedAt": "2026-10-28",
+  "scope": "逐张目视检查官网当前产品tooltip原图；仅使用与当前产品sizes匹配的图中kg行，保留kg原文与+，lb/kg冲突采用原图kg，不从alt缺字推断无表。",
+  "products": [
+    {
+      "id": "neversummer-mens-proto-swift-dt-snowboard",
+      "model": "Proto Swift DT",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-proto-swift-dt-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Proto_Swift_DT_Specs.webp?v=1786941755",
+      "currentSizes": [
+        "156",
+        "160",
+        "161X"
+      ],
+      "chartTitle": "MEN'S PROTO SWIFT DT",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "156",
+          "originalWeightKg": "63–90+",
+          "originalWeightLb": "140–200+",
+          "weightOriginal": "63–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            63,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "160",
+          "originalWeightKg": "68–99+",
+          "originalWeightLb": "150–220+",
+          "weightOriginal": "68–99+ kg",
+          "referenceUpperKg": 99,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "161X",
+          "originalWeightKg": "68–99+",
+          "originalWeightLb": "150–220+",
+          "weightOriginal": "68–99+ kg",
+          "referenceUpperKg": 99,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-proto-swift-dt-snowboard",
+      "htmlTitle": "Men&#39;s 2027 Proto Swift DT Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-proto-swift-dt-snowboard.webp",
+      "chartSizes": [
+        "156",
+        "160",
+        "161X"
+      ],
+      "assetFilenameYear": null,
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-proto-swift-snowboard",
+      "model": "Proto Swift",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-proto-swift-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Proto_Swift_Specs.webp?v=1786941778",
+      "currentSizes": [
+        "148",
+        "152",
+        "157",
+        "162",
+        "167"
+      ],
+      "chartTitle": "MEN'S PROTO SWIFT",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "148",
+          "originalWeightKg": "40–68",
+          "originalWeightLb": "90–150",
+          "weightOriginal": "40–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            40,
+            68
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "152",
+          "originalWeightKg": "54–81",
+          "originalWeightLb": "120–180",
+          "weightOriginal": "54–81 kg",
+          "referenceUpperKg": 81,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            81
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "157",
+          "originalWeightKg": "63–90+",
+          "originalWeightLb": "140–200+",
+          "weightOriginal": "63–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            63,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "162",
+          "originalWeightKg": "72–99+",
+          "originalWeightLb": "160–220+",
+          "weightOriginal": "72–99+ kg",
+          "referenceUpperKg": 99,
+          "openUpper": true,
+          "parsedWeightKg": [
+            72,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "167",
+          "originalWeightKg": "77–100+",
+          "originalWeightLb": "170–220+",
+          "weightOriginal": "77–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            77,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-proto-swift-snowboard",
+      "htmlTitle": "Men&#39;s 2027 Proto Swift Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-proto-swift-snowboard.webp",
+      "chartSizes": [
+        "148",
+        "152",
+        "157",
+        "162",
+        "167"
+      ],
+      "assetFilenameYear": null,
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-small-batch-proto-swift-st-snowboard",
+      "model": "Small Batch Proto Swift ST",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-small-batch-proto-swift-st-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Swift_ST_SizeChart_294ffd14-cb88-4c91-9471-1a327246fa0c.webp?v=1786941736",
+      "currentSizes": [
+        "178"
+      ],
+      "chartTitle": "MEN'S PROTO SWIFT ST",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "158",
+          "originalWeightKg": "68–90+",
+          "originalWeightLb": "150–200+",
+          "weightOriginal": "68–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": false,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "168",
+          "originalWeightKg": "77–90+",
+          "originalWeightLb": "170–220+",
+          "weightOriginal": "77–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            77,
+            null
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": false,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。 原图lb行“170–220+ lb”与kg行“77–90+ kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "178",
+          "originalWeightKg": "82–90+",
+          "originalWeightLb": "180–220+",
+          "weightOriginal": "82–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            82,
+            null
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。 原图lb行“180–220+ lb”与kg行“82–90+ kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-small-batch-proto-swift-st-snowboard",
+      "htmlTitle": "Men&#39;s Small Batch Proto Swift ST Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-small-batch-proto-swift-st-snowboard.webp",
+      "chartSizes": [
+        "158",
+        "168",
+        "178"
+      ],
+      "assetFilenameYear": null,
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": [
+        "158",
+        "168"
+      ]
+    },
+    {
+      "id": "neversummer-mens-proto-t3-fr-snowboard",
+      "model": "Proto T3 FR",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-proto-t3-fr-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SizeChart2026_Mens-ProtoT3_FR.webp?v=1786942135",
+      "currentSizes": [
+        "152",
+        "156",
+        "160",
+        "164",
+        "157X",
+        "161X",
+        "165X",
+        "170X",
+        "162DF",
+        "166DF"
+      ],
+      "chartTitle": "MEN'S PROTO T3 FR",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "152",
+          "originalWeightKg": "54–72",
+          "originalWeightLb": "120–160",
+          "weightOriginal": "54–72 kg",
+          "referenceUpperKg": 72,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            72
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "156",
+          "originalWeightKg": "63–90",
+          "originalWeightLb": "140–200",
+          "weightOriginal": "63–90 kg",
+          "referenceUpperKg": 90,
+          "openUpper": false,
+          "parsedWeightKg": [
+            63,
+            90
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "160",
+          "originalWeightKg": "68–90+",
+          "originalWeightLb": "150–200+",
+          "weightOriginal": "68–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "164",
+          "originalWeightKg": "77–100+",
+          "originalWeightLb": "170–220+",
+          "weightOriginal": "77–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            77,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "157X",
+          "originalWeightKg": "68–90+",
+          "originalWeightLb": "150–200+",
+          "weightOriginal": "68–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "161X",
+          "originalWeightKg": "68–90+",
+          "originalWeightLb": "150–200+",
+          "weightOriginal": "68–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "165X",
+          "originalWeightKg": "77–90+",
+          "originalWeightLb": "170–220+",
+          "weightOriginal": "77–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            77,
+            null
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。 原图lb行“170–220+ lb”与kg行“77–90+ kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "170X",
+          "originalWeightKg": "82–90+",
+          "originalWeightLb": "180–220+",
+          "weightOriginal": "82–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            82,
+            null
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。 原图lb行“180–220+ lb”与kg行“82–90+ kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "162DF",
+          "originalWeightKg": "68–90+",
+          "originalWeightLb": "150–220+",
+          "weightOriginal": "68–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。 原图lb行“150–220+ lb”与kg行“68–90+ kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "166DF",
+          "originalWeightKg": "77–90+",
+          "originalWeightLb": "170–250+",
+          "weightOriginal": "77–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            77,
+            null
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。 原图lb行“170–250+ lb”与kg行“77–90+ kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-proto-t3-fr-snowboard",
+      "htmlTitle": "Men&#39;s 2027 Proto T3 FR Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-proto-t3-fr-snowboard.webp",
+      "chartSizes": [
+        "152",
+        "156",
+        "160",
+        "164",
+        "157X",
+        "161X",
+        "165X",
+        "170X",
+        "162DF",
+        "166DF"
+      ],
+      "assetFilenameYear": "2026",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-womens-proto-t3-fr-snowboard",
+      "model": "Proto T3 FR",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/womens-proto-t3-fr-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SizeChart2026_Womens-ProtoT3_FR.webp?v=1786941977",
+      "currentSizes": [
+        "144",
+        "147",
+        "151",
+        "153",
+        "156"
+      ],
+      "chartTitle": "WOMEN'S PROTO T3 FR",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "144",
+          "originalWeightKg": "40–54",
+          "originalWeightLb": "90–120",
+          "weightOriginal": "40–54 kg",
+          "referenceUpperKg": 54,
+          "openUpper": false,
+          "parsedWeightKg": [
+            40,
+            54
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "147",
+          "originalWeightKg": "45–68",
+          "originalWeightLb": "100–150",
+          "weightOriginal": "45–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            45,
+            68
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "151",
+          "originalWeightKg": "45–68",
+          "originalWeightLb": "100–150+",
+          "weightOriginal": "45–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            45,
+            68
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“100–150+ lb”与kg行“45–68 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "153",
+          "originalWeightKg": "54–81",
+          "originalWeightLb": "120–180+",
+          "weightOriginal": "54–81 kg",
+          "referenceUpperKg": 81,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            81
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“120–180+ lb”与kg行“54–81 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "156",
+          "originalWeightKg": "63–90+",
+          "originalWeightLb": "140–200+",
+          "weightOriginal": "63–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            63,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/womens-proto-t3-fr-snowboard",
+      "htmlTitle": "Women&#39;s 2027 Proto T3 FR Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-womens-proto-t3-fr-snowboard.webp",
+      "chartSizes": [
+        "144",
+        "147",
+        "151",
+        "153",
+        "156"
+      ],
+      "assetFilenameYear": "2026",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-proto-type-3-snowboard",
+      "model": "Proto Type 3",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-proto-type-3-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SizeChart2026_Mens-ProtoType3.webp?v=1786942129",
+      "currentSizes": [
+        "151",
+        "154",
+        "157",
+        "160",
+        "158X",
+        "161X",
+        "164X",
+        "159DF",
+        "162DF"
+      ],
+      "chartTitle": "MEN'S PROTO TYPE 3",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "151",
+          "originalWeightKg": "54–72",
+          "originalWeightLb": "120–160",
+          "weightOriginal": "54–72 kg",
+          "referenceUpperKg": 72,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            72
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "154",
+          "originalWeightKg": "54–72",
+          "originalWeightLb": "120–160",
+          "weightOriginal": "54–72 kg",
+          "referenceUpperKg": 72,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            72
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "157",
+          "originalWeightKg": "68–90",
+          "originalWeightLb": "150–200+",
+          "weightOriginal": "68–90 kg",
+          "referenceUpperKg": 90,
+          "openUpper": false,
+          "parsedWeightKg": [
+            68,
+            90
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“150–200+ lb”与kg行“68–90 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "160",
+          "originalWeightKg": "68–90",
+          "originalWeightLb": "150–200+",
+          "weightOriginal": "68–90 kg",
+          "referenceUpperKg": 90,
+          "openUpper": false,
+          "parsedWeightKg": [
+            68,
+            90
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“150–200+ lb”与kg行“68–90 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "158X",
+          "originalWeightKg": "68–90",
+          "originalWeightLb": "150–200+",
+          "weightOriginal": "68–90 kg",
+          "referenceUpperKg": 90,
+          "openUpper": false,
+          "parsedWeightKg": [
+            68,
+            90
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“150–200+ lb”与kg行“68–90 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "161X",
+          "originalWeightKg": "68–99+",
+          "originalWeightLb": "150–220+",
+          "weightOriginal": "68–99+ kg",
+          "referenceUpperKg": 99,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "164X",
+          "originalWeightKg": "68–100",
+          "originalWeightLb": "150–220+",
+          "weightOriginal": "68–100 kg",
+          "referenceUpperKg": 100,
+          "openUpper": false,
+          "parsedWeightKg": [
+            68,
+            100
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“150–220+ lb”与kg行“68–100 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "159DF",
+          "originalWeightKg": "68–100",
+          "originalWeightLb": "150–220+",
+          "weightOriginal": "68–100 kg",
+          "referenceUpperKg": 100,
+          "openUpper": false,
+          "parsedWeightKg": [
+            68,
+            100
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“150–220+ lb”与kg行“68–100 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "162DF",
+          "originalWeightKg": "77–113+",
+          "originalWeightLb": "170–250+",
+          "weightOriginal": "77–113+ kg",
+          "referenceUpperKg": 113,
+          "openUpper": true,
+          "parsedWeightKg": [
+            77,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-proto-type-3-snowboard",
+      "htmlTitle": "Men&#39;s 2027 Proto Type 3 Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-proto-type-3-snowboard.webp",
+      "chartSizes": [
+        "151",
+        "154",
+        "157",
+        "160",
+        "158X",
+        "161X",
+        "164X",
+        "159DF",
+        "162DF"
+      ],
+      "assetFilenameYear": "2026",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-womens-proto-type-3-snowboard",
+      "model": "Proto Type 3",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/womens-proto-type-3-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SizeChart2026_Womens-ProtoType3.webp?v=1786941984",
+      "currentSizes": [
+        "139",
+        "142",
+        "145",
+        "148",
+        "151"
+      ],
+      "chartTitle": "WOMEN'S PROTO TYPE 3",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "139",
+          "originalWeightKg": "40–54",
+          "originalWeightLb": "90–120",
+          "weightOriginal": "40–54 kg",
+          "referenceUpperKg": 54,
+          "openUpper": false,
+          "parsedWeightKg": [
+            40,
+            54
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "142",
+          "originalWeightKg": "40–68",
+          "originalWeightLb": "90–150",
+          "weightOriginal": "40–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            40,
+            68
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "145",
+          "originalWeightKg": "45–68+",
+          "originalWeightLb": "100–150+",
+          "weightOriginal": "45–68+ kg",
+          "referenceUpperKg": 68,
+          "openUpper": true,
+          "parsedWeightKg": [
+            45,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "148",
+          "originalWeightKg": "54–72+",
+          "originalWeightLb": "120–160+",
+          "weightOriginal": "54–72+ kg",
+          "referenceUpperKg": 72,
+          "openUpper": true,
+          "parsedWeightKg": [
+            54,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "151",
+          "originalWeightKg": "63–81+",
+          "originalWeightLb": "140–180+",
+          "weightOriginal": "63–81+ kg",
+          "referenceUpperKg": 81,
+          "openUpper": true,
+          "parsedWeightKg": [
+            63,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/womens-proto-type-3-snowboard",
+      "htmlTitle": "Women&#39;s 2027 Proto Type 3 Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-womens-proto-type-3-snowboard.webp",
+      "chartSizes": [
+        "139",
+        "142",
+        "145",
+        "148",
+        "151"
+      ],
+      "assetFilenameYear": "2026",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-proto-t3-eclipse-snowboard",
+      "model": "Proto T3 Eclipse",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-proto-t3-eclipse-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SizeChart2026_Mens-ProtoT3_Eclipse.webp?v=1786942144",
+      "currentSizes": [
+        "152",
+        "156",
+        "160",
+        "157X",
+        "161X",
+        "165X",
+        "162DF"
+      ],
+      "chartTitle": "MEN'S PROTO T3 ECLIPSE",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "152",
+          "originalWeightKg": "54–72",
+          "originalWeightLb": "120–160",
+          "weightOriginal": "54–72 kg",
+          "referenceUpperKg": 72,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            72
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "156",
+          "originalWeightKg": "63–82",
+          "originalWeightLb": "140–180",
+          "weightOriginal": "63–82 kg",
+          "referenceUpperKg": 82,
+          "openUpper": false,
+          "parsedWeightKg": [
+            63,
+            82
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "160",
+          "originalWeightKg": "72–90+",
+          "originalWeightLb": "160–200+",
+          "weightOriginal": "72–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            72,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "157X",
+          "originalWeightKg": "68–90+",
+          "originalWeightLb": "150–200+",
+          "weightOriginal": "68–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "161X",
+          "originalWeightKg": "68–90+",
+          "originalWeightLb": "150–200+",
+          "weightOriginal": "68–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "165X",
+          "originalWeightKg": "77–90+",
+          "originalWeightLb": "170–220+",
+          "weightOriginal": "77–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            77,
+            null
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。 原图lb行“170–220+ lb”与kg行“77–90+ kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "162DF",
+          "originalWeightKg": "71–100+",
+          "originalWeightLb": "160–220+",
+          "weightOriginal": "71–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            71,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-proto-t3-eclipse-snowboard",
+      "htmlTitle": "Men&#39;s 2027 Eclipse Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-proto-t3-eclipse-snowboard.webp",
+      "chartSizes": [
+        "152",
+        "156",
+        "160",
+        "157X",
+        "161X",
+        "165X",
+        "162DF"
+      ],
+      "assetFilenameYear": "2026",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-proto-t3-ultra-snowboard",
+      "model": "Proto T3 Ultra",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-proto-t3-ultra-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SizeChart2026_Mens-ProtoT3_Ultra.webp?v=1786942149",
+      "currentSizes": [
+        "154",
+        "157",
+        "160",
+        "163"
+      ],
+      "chartTitle": "MEN'S PROTO T3 ULTRA",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "154",
+          "originalWeightKg": "54–72+",
+          "originalWeightLb": "130–170+",
+          "weightOriginal": "54–72+ kg",
+          "referenceUpperKg": 72,
+          "openUpper": true,
+          "parsedWeightKg": [
+            54,
+            null
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。 原图lb行“130–170+ lb”与kg行“54–72+ kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "157",
+          "originalWeightKg": "63–82+",
+          "originalWeightLb": "140–200+",
+          "weightOriginal": "63–82+ kg",
+          "referenceUpperKg": 82,
+          "openUpper": true,
+          "parsedWeightKg": [
+            63,
+            null
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。 原图lb行“140–200+ lb”与kg行“63–82+ kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "160",
+          "originalWeightKg": "72–90+",
+          "originalWeightLb": "160–200+",
+          "weightOriginal": "72–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            72,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "163",
+          "originalWeightKg": "81–100+",
+          "originalWeightLb": "180–220+",
+          "weightOriginal": "81–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            81,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-proto-t3-ultra-snowboard",
+      "htmlTitle": "Men’s 2027 Proto T3 Ultra Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-proto-t3-ultra-snowboard.webp",
+      "chartSizes": [
+        "154",
+        "157",
+        "160",
+        "163"
+      ],
+      "assetFilenameYear": "2026",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-nokhu-snowboard",
+      "model": "Nokhu",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-nokhu-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Chart_2025_Nokhu.webp?v=1787022926",
+      "currentSizes": [
+        "152",
+        "155",
+        "158",
+        "161",
+        "161DF"
+      ],
+      "chartTitle": "MEN'S NOKHU",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "152",
+          "originalWeightKg": "54–72",
+          "originalWeightLb": "120–160",
+          "weightOriginal": "54–72 kg",
+          "referenceUpperKg": 72,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            72
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "155",
+          "originalWeightKg": "54–81",
+          "originalWeightLb": "140–180",
+          "weightOriginal": "54–81 kg",
+          "referenceUpperKg": 81,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            81
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“140–180 lb”与kg行“54–81 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "158",
+          "originalWeightKg": "68–90",
+          "originalWeightLb": "150–200",
+          "weightOriginal": "68–90 kg",
+          "referenceUpperKg": 90,
+          "openUpper": false,
+          "parsedWeightKg": [
+            68,
+            90
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "161",
+          "originalWeightKg": "71–100+",
+          "originalWeightLb": "180–220+",
+          "weightOriginal": "71–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            71,
+            null
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。 原图lb行“180–220+ lb”与kg行“71–100+ kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "161DF",
+          "originalWeightKg": "71–100+",
+          "originalWeightLb": "160–220+",
+          "weightOriginal": "71–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            71,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-nokhu-snowboard",
+      "htmlTitle": "Men&#39;s 2027 Nokhu Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-nokhu-snowboard.webp",
+      "chartSizes": [
+        "152",
+        "155",
+        "158",
+        "161",
+        "161DF"
+      ],
+      "assetFilenameYear": "2025",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-womens-cirrus-snowboard",
+      "model": "Cirrus",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/womens-cirrus-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SizeChart2026_Womens-Cirrus.webp?v=1786941971",
+      "currentSizes": [
+        "141",
+        "145",
+        "149"
+      ],
+      "chartTitle": "WOMEN'S CIRRUS",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "141",
+          "originalWeightKg": "40–63",
+          "originalWeightLb": "90–140",
+          "weightOriginal": "40–63 kg",
+          "referenceUpperKg": 63,
+          "openUpper": false,
+          "parsedWeightKg": [
+            40,
+            63
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "145",
+          "originalWeightKg": "45–68+",
+          "originalWeightLb": "100–150+",
+          "weightOriginal": "45–68+ kg",
+          "referenceUpperKg": 68,
+          "openUpper": true,
+          "parsedWeightKg": [
+            45,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "149",
+          "originalWeightKg": "54–72+",
+          "originalWeightLb": "120–160+",
+          "weightOriginal": "54–72+ kg",
+          "referenceUpperKg": 72,
+          "openUpper": true,
+          "parsedWeightKg": [
+            54,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/womens-cirrus-snowboard",
+      "htmlTitle": "Women&#39;s 2027 Cirrus Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-womens-cirrus-snowboard.webp",
+      "chartSizes": [
+        "141",
+        "145",
+        "149"
+      ],
+      "assetFilenameYear": "2026",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-benchmark-snowboard",
+      "model": "Benchmark",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-benchmark-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SizeChart2026_Mens-Benchmark.webp?v=1786942153",
+      "currentSizes": [
+        "152",
+        "156",
+        "160",
+        "157X",
+        "161X"
+      ],
+      "chartTitle": "MEN'S BENCHMARK",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "152",
+          "originalWeightKg": "54–72",
+          "originalWeightLb": "120–160",
+          "weightOriginal": "54–72 kg",
+          "referenceUpperKg": 72,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            72
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "156",
+          "originalWeightKg": "63–90",
+          "originalWeightLb": "140–200",
+          "weightOriginal": "63–90 kg",
+          "referenceUpperKg": 90,
+          "openUpper": false,
+          "parsedWeightKg": [
+            63,
+            90
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "160",
+          "originalWeightKg": "72–100",
+          "originalWeightLb": "160–220+",
+          "weightOriginal": "72–100 kg",
+          "referenceUpperKg": 100,
+          "openUpper": false,
+          "parsedWeightKg": [
+            72,
+            100
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“160–220+ lb”与kg行“72–100 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "157X",
+          "originalWeightKg": "68–90",
+          "originalWeightLb": "150–200+",
+          "weightOriginal": "68–90 kg",
+          "referenceUpperKg": 90,
+          "openUpper": false,
+          "parsedWeightKg": [
+            68,
+            90
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“150–200+ lb”与kg行“68–90 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "161X",
+          "originalWeightKg": "71–100+",
+          "originalWeightLb": "160–220+",
+          "weightOriginal": "71–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            71,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-benchmark-snowboard",
+      "htmlTitle": "Men&#39;s 2027 Benchmark Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-benchmark-snowboard.webp",
+      "chartSizes": [
+        "152",
+        "156",
+        "160",
+        "157X",
+        "161X"
+      ],
+      "assetFilenameYear": "2026",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-valhalla-snowboard",
+      "model": "Valhalla",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-valhalla-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Chart_2025_Valhalla.webp?v=1787022984",
+      "currentSizes": [
+        "147",
+        "153",
+        "156",
+        "160",
+        "164"
+      ],
+      "chartTitle": "MEN'S VALHALLA",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "147",
+          "originalWeightKg": "45–68",
+          "originalWeightLb": "120–160",
+          "weightOriginal": "45–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            45,
+            68
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“120–160 lb”与kg行“45–68 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "153",
+          "originalWeightKg": "54–72",
+          "originalWeightLb": "120–160",
+          "weightOriginal": "54–72 kg",
+          "referenceUpperKg": 72,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            72
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "156",
+          "originalWeightKg": "63–90+",
+          "originalWeightLb": "140–200+",
+          "weightOriginal": "63–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            63,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "160",
+          "originalWeightKg": "72–100+",
+          "originalWeightLb": "160–220+",
+          "weightOriginal": "72–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            72,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "164",
+          "originalWeightKg": "81–108+",
+          "originalWeightLb": "180–240+",
+          "weightOriginal": "81–108+ kg",
+          "referenceUpperKg": 108,
+          "openUpper": true,
+          "parsedWeightKg": [
+            81,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-valhalla-snowboard",
+      "htmlTitle": "Men&#39;s 2027 Valhalla Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-valhalla-snowboard.webp",
+      "chartSizes": [
+        "147",
+        "153",
+        "156",
+        "160",
+        "164"
+      ],
+      "assetFilenameYear": "2025",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-v-twin-snowboard",
+      "model": "V-Twin",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-v-twin-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Chart_2025_VTwin.webp?v=1786942201",
+      "currentSizes": [
+        "153",
+        "157",
+        "160",
+        "156X",
+        "159X",
+        "162X"
+      ],
+      "chartTitle": "MEN'S V-TWIN",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "153",
+          "originalWeightKg": "45–68",
+          "originalWeightLb": "100–150",
+          "weightOriginal": "45–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            45,
+            68
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "157",
+          "originalWeightKg": "63–81",
+          "originalWeightLb": "140–180",
+          "weightOriginal": "63–81 kg",
+          "referenceUpperKg": 81,
+          "openUpper": false,
+          "parsedWeightKg": [
+            63,
+            81
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "160",
+          "originalWeightKg": "68–99+",
+          "originalWeightLb": "150–220+",
+          "weightOriginal": "68–99+ kg",
+          "referenceUpperKg": 99,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "156X",
+          "originalWeightKg": "63–99\"",
+          "originalWeightLb": "140–220",
+          "weightOriginal": "63–99\" kg",
+          "referenceUpperKg": 99,
+          "openUpper": false,
+          "parsedWeightKg": [
+            63,
+            99
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图kg格末尾为引号误植，保留原文；按可读的63–99数值区间匹配，不把引号当作+。"
+        },
+        {
+          "length": "159X",
+          "originalWeightKg": "68–100+",
+          "originalWeightLb": "150–220+",
+          "weightOriginal": "68–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "162X",
+          "originalWeightKg": "77–108+",
+          "originalWeightLb": "170–240+",
+          "weightOriginal": "77–108+ kg",
+          "referenceUpperKg": 108,
+          "openUpper": true,
+          "parsedWeightKg": [
+            77,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-v-twin-snowboard",
+      "htmlTitle": "Men&#39;s 2027 V-Twin Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-v-twin-snowboard.webp",
+      "chartSizes": [
+        "153",
+        "157",
+        "160",
+        "156X",
+        "159X",
+        "162X"
+      ],
+      "assetFilenameYear": "2025",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-trooper-snowboard",
+      "model": "Trooper",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-trooper-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SizeChart2026_Mens-Trooper.webp?v=1786942163",
+      "currentSizes": [
+        "151",
+        "154",
+        "157",
+        "160",
+        "158X",
+        "161X",
+        "164X"
+      ],
+      "chartTitle": "MEN'S TROOPER",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "151",
+          "originalWeightKg": "54–72",
+          "originalWeightLb": "120–160",
+          "weightOriginal": "54–72 kg",
+          "referenceUpperKg": 72,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            72
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "154",
+          "originalWeightKg": "54–81",
+          "originalWeightLb": "120–180",
+          "weightOriginal": "54–81 kg",
+          "referenceUpperKg": 81,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            81
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "157",
+          "originalWeightKg": "54–90",
+          "originalWeightLb": "180–200",
+          "weightOriginal": "54–90 kg",
+          "referenceUpperKg": 90,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            90
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“180–200 lb”与kg行“54–90 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "160",
+          "originalWeightKg": "77–100+",
+          "originalWeightLb": "170–220+",
+          "weightOriginal": "77–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            77,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "158X",
+          "originalWeightKg": "54–200+",
+          "originalWeightLb": "150–200+",
+          "weightOriginal": "54–200+ kg",
+          "referenceUpperKg": 200,
+          "openUpper": true,
+          "parsedWeightKg": [
+            54,
+            null
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。 原图lb行“150–200+ lb”与kg行“54–200+ kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。 原图kg行确为54–200+，与lb行150–200+明显不一致；不擅自修成54–90+或68–90+。"
+        },
+        {
+          "length": "161X",
+          "originalWeightKg": "72–100",
+          "originalWeightLb": "160–220+",
+          "weightOriginal": "72–100 kg",
+          "referenceUpperKg": 100,
+          "openUpper": false,
+          "parsedWeightKg": [
+            72,
+            100
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“160–220+ lb”与kg行“72–100 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "164X",
+          "originalWeightKg": "72–100+",
+          "originalWeightLb": "160–220+",
+          "weightOriginal": "72–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            72,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-trooper-snowboard",
+      "htmlTitle": "Men&#39;s 2027 Trooper Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-trooper-snowboard.webp",
+      "chartSizes": [
+        "151",
+        "154",
+        "157",
+        "160",
+        "158X",
+        "161X",
+        "164X"
+      ],
+      "assetFilenameYear": "2026",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-llama-snowboard",
+      "model": "Llama",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-llama-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Llama.webp?v=1787022946",
+      "currentSizes": [
+        "146",
+        "149",
+        "153",
+        "156",
+        "159",
+        "154X",
+        "157X",
+        "160X"
+      ],
+      "chartTitle": "MEN'S LLAMA",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "146",
+          "originalWeightKg": "45–68",
+          "originalWeightLb": "100–150",
+          "weightOriginal": "45–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            45,
+            68
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "149",
+          "originalWeightKg": "45–68",
+          "originalWeightLb": "100–150",
+          "weightOriginal": "45–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            45,
+            68
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "153",
+          "originalWeightKg": "54–72",
+          "originalWeightLb": "120–160",
+          "weightOriginal": "54–72 kg",
+          "referenceUpperKg": 72,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            72
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "156",
+          "originalWeightKg": "63–90",
+          "originalWeightLb": "140–180",
+          "weightOriginal": "63–90 kg",
+          "referenceUpperKg": 90,
+          "openUpper": false,
+          "parsedWeightKg": [
+            63,
+            90
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“140–180 lb”与kg行“63–90 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "159",
+          "originalWeightKg": "72–90+",
+          "originalWeightLb": "160–200+",
+          "weightOriginal": "72–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            72,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "154X",
+          "originalWeightKg": "54–82",
+          "originalWeightLb": "140–180",
+          "weightOriginal": "54–82 kg",
+          "referenceUpperKg": 82,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            82
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“140–180 lb”与kg行“54–82 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "157X",
+          "originalWeightKg": "63–90+",
+          "originalWeightLb": "140–200+",
+          "weightOriginal": "63–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            63,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "160X",
+          "originalWeightKg": "72–90+",
+          "originalWeightLb": "160–200+",
+          "weightOriginal": "72–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            72,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-llama-snowboard",
+      "htmlTitle": "Men’s 2027 Llama Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-llama-snowboard.webp",
+      "chartSizes": [
+        "146",
+        "149",
+        "153",
+        "156",
+        "159",
+        "154X",
+        "157X",
+        "160X"
+      ],
+      "assetFilenameYear": null,
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-easy-rider-snowboard",
+      "model": "Easy Rider",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-easy-rider-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/EasyRider_NewSizes_1024x1024.webp?v=1727971324",
+      "currentSizes": [
+        "148",
+        "152",
+        "154",
+        "157",
+        "160",
+        "153X",
+        "158X",
+        "160X"
+      ],
+      "chartTitle": "EASY RIDER",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "148",
+          "originalWeightKg": "45–68",
+          "originalWeightLb": "100–150",
+          "weightOriginal": "45–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            45,
+            68
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "152",
+          "originalWeightKg": "54–72",
+          "originalWeightLb": "120–160",
+          "weightOriginal": "54–72 kg",
+          "referenceUpperKg": 72,
+          "openUpper": false,
+          "parsedWeightKg": [
+            54,
+            72
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "153X",
+          "originalWeightKg": "63–81",
+          "originalWeightLb": "140–180",
+          "weightOriginal": "63–81 kg",
+          "referenceUpperKg": 81,
+          "openUpper": false,
+          "parsedWeightKg": [
+            63,
+            81
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "154",
+          "originalWeightKg": "63–81",
+          "originalWeightLb": "140–180",
+          "weightOriginal": "63–81 kg",
+          "referenceUpperKg": 81,
+          "openUpper": false,
+          "parsedWeightKg": [
+            63,
+            81
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "157",
+          "originalWeightKg": "68–90",
+          "originalWeightLb": "150–200",
+          "weightOriginal": "68–90 kg",
+          "referenceUpperKg": 90,
+          "openUpper": false,
+          "parsedWeightKg": [
+            68,
+            90
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "158X",
+          "originalWeightKg": "68–90",
+          "originalWeightLb": "150–200",
+          "weightOriginal": "68–90 kg",
+          "referenceUpperKg": 90,
+          "openUpper": false,
+          "parsedWeightKg": [
+            68,
+            90
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "160",
+          "originalWeightKg": "77–100+",
+          "originalWeightLb": "170–220+",
+          "weightOriginal": "77–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            77,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "160X",
+          "originalWeightKg": "77–100+",
+          "originalWeightLb": "170–220+",
+          "weightOriginal": "77–100+ kg",
+          "referenceUpperKg": 100,
+          "openUpper": true,
+          "parsedWeightKg": [
+            77,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-easy-rider-snowboard",
+      "htmlTitle": "Men&#39;s 2027 Easy Rider Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-easy-rider-snowboard.webp",
+      "chartSizes": [
+        "148",
+        "152",
+        "153X",
+        "154",
+        "157",
+        "158X",
+        "160",
+        "160X"
+      ],
+      "assetFilenameYear": null,
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-womens-infinity-snowboard",
+      "model": "Infinity",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/womens-infinity-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SizeChart2026_Womens-Infinity.webp?v=1786941965",
+      "currentSizes": [
+        "142",
+        "145",
+        "148",
+        "151",
+        "154",
+        "152X",
+        "155X"
+      ],
+      "chartTitle": "WOMEN'S INFINITY",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "142",
+          "originalWeightKg": "40–59",
+          "originalWeightLb": "90–130",
+          "weightOriginal": "40–59 kg",
+          "referenceUpperKg": 59,
+          "openUpper": false,
+          "parsedWeightKg": [
+            40,
+            59
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "145",
+          "originalWeightKg": "45–68",
+          "originalWeightLb": "100–150",
+          "weightOriginal": "45–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            45,
+            68
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "148",
+          "originalWeightKg": "45–68",
+          "originalWeightLb": "100–150",
+          "weightOriginal": "45–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            45,
+            68
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "151",
+          "originalWeightKg": "54–68+",
+          "originalWeightLb": "120–150+",
+          "weightOriginal": "54–68+ kg",
+          "referenceUpperKg": 68,
+          "openUpper": true,
+          "parsedWeightKg": [
+            54,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "154",
+          "originalWeightKg": "59–82+",
+          "originalWeightLb": "130–180+",
+          "weightOriginal": "59–82+ kg",
+          "referenceUpperKg": 82,
+          "openUpper": true,
+          "parsedWeightKg": [
+            59,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "152X",
+          "originalWeightKg": "54–77+",
+          "originalWeightLb": "120–170+",
+          "weightOriginal": "54–77+ kg",
+          "referenceUpperKg": 77,
+          "openUpper": true,
+          "parsedWeightKg": [
+            54,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "155X",
+          "originalWeightKg": "63–82+",
+          "originalWeightLb": "140–180+",
+          "weightOriginal": "63–82+ kg",
+          "referenceUpperKg": 82,
+          "openUpper": true,
+          "parsedWeightKg": [
+            63,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/womens-infinity-snowboard",
+      "htmlTitle": "Women&#39;s 2027 Infinity Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-womens-infinity-snowboard.webp",
+      "chartSizes": [
+        "142",
+        "145",
+        "148",
+        "151",
+        "154",
+        "152X",
+        "155X"
+      ],
+      "assetFilenameYear": "2026",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-womens-cascade-snowboard",
+      "model": "Cascade",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/womens-cascade-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/W_s_Cascade_Specs.webp?v=1786941865",
+      "currentSizes": [
+        "142",
+        "145",
+        "148",
+        "150"
+      ],
+      "chartTitle": "WOMEN'S CASCADE",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "142",
+          "originalWeightKg": "40–59",
+          "originalWeightLb": "90–130",
+          "weightOriginal": "40–59 kg",
+          "referenceUpperKg": 59,
+          "openUpper": false,
+          "parsedWeightKg": [
+            40,
+            59
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "145",
+          "originalWeightKg": "40–68",
+          "originalWeightLb": "90–150",
+          "weightOriginal": "40–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            40,
+            68
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "148",
+          "originalWeightKg": "40–72",
+          "originalWeightLb": "90–160",
+          "weightOriginal": "40–72 kg",
+          "referenceUpperKg": 72,
+          "openUpper": false,
+          "parsedWeightKg": [
+            40,
+            72
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "150",
+          "originalWeightKg": "49–77",
+          "originalWeightLb": "110–170",
+          "weightOriginal": "49–77 kg",
+          "referenceUpperKg": 77,
+          "openUpper": false,
+          "parsedWeightKg": [
+            49,
+            77
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/womens-cascade-snowboard",
+      "htmlTitle": "Women’s 2027 Cascade Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-womens-cascade-snowboard.webp",
+      "chartSizes": [
+        "142",
+        "145",
+        "148",
+        "150"
+      ],
+      "assetFilenameYear": null,
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-mens-small-batch-shaper-twin-snowboard",
+      "model": "Small Batch Shaper Twin",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-small-batch-shaper-twin-snowboard",
+      "chartUrl": null,
+      "currentSizes": [
+        "156",
+        "159",
+        "161"
+      ],
+      "chartTitle": null,
+      "status": "no-tooltip-image-found",
+      "rows": [],
+      "notes": [
+        "已检查当前产品完整HTML，未检出该型号tooltip图；未从相似型号套用体重。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-small-batch-shaper-twin-snowboard",
+      "htmlTitle": "Men’s Small Batch Shaper Twin Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": false
+    },
+    {
+      "id": "neversummer-womens-small-batch-shaper-twin-lt-snowboard",
+      "model": "Small Batch Shaper Twin LT",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/womens-small-batch-shaper-twin-lt-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Shaper_Twin_LT_Specs_1024x1024.webp?v=1768617147",
+      "currentSizes": [
+        "146",
+        "149"
+      ],
+      "chartTitle": "WOMEN'S SHAPER TWIN LT",
+      "status": "official-image-no-rider-weight-row",
+      "rows": [],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。",
+        "已完整目视原图，仅上半部尺寸/腰宽/有效刃/侧切/锥度/头尾参数，下半部空白，无骑手体重行。"
+      ],
+      "canonical": "https://neversummer.com/products/womens-small-batch-shaper-twin-lt-snowboard",
+      "htmlTitle": "Women’s Small Batch Shaper Twin LT Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-womens-small-batch-shaper-twin-lt-snowboard.webp",
+      "chartSizes": [
+        "146",
+        "149"
+      ],
+      "assetFilenameYear": null
+    },
+    {
+      "id": "neversummer-mens-small-batch-maverix-snowboard",
+      "model": "Small Batch Maverix",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-small-batch-maverix-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Maverix_Specs_1024x1024.webp?v=1768617146",
+      "currentSizes": [
+        "153",
+        "157",
+        "160"
+      ],
+      "chartTitle": "MEN'S MAVERIX",
+      "status": "official-image-no-rider-weight-row",
+      "rows": [],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。",
+        "已完整目视原图，仅尺寸和几何规格，下半部空白，无骑手体重行。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-small-batch-maverix-snowboard",
+      "htmlTitle": "Men&#39;s Small Batch Maverix Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-small-batch-maverix-snowboard.webp",
+      "chartSizes": [
+        "153",
+        "157",
+        "160"
+      ],
+      "assetFilenameYear": null
+    },
+    {
+      "id": "neversummer-mens-small-batch-instagator-snowboard",
+      "model": "Small Batch Instagator",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-small-batch-instagator-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Instagator_Specs_1024x1024.webp?v=1768617147",
+      "currentSizes": [
+        "148",
+        "151",
+        "156",
+        "159"
+      ],
+      "chartTitle": "MEN'S INSTAGATOR",
+      "status": "official-image-no-rider-weight-row",
+      "rows": [],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。",
+        "已完整目视原图，仅尺寸和几何规格，下半部空白，无骑手体重行。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-small-batch-instagator-snowboard",
+      "htmlTitle": "Men&#39;s Small Batch Instagator Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-small-batch-instagator-snowboard.webp",
+      "chartSizes": [
+        "148",
+        "151",
+        "156",
+        "159"
+      ],
+      "assetFilenameYear": null
+    },
+    {
+      "id": "neversummer-kids-proto-wilder-snowboard",
+      "model": "Kid’s Proto Wilder",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/kids-proto-wilder-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/SizeChart2026_Kids-ProtoWilder.webp?v=1786941961",
+      "currentSizes": [
+        "137",
+        "140",
+        "144"
+      ],
+      "chartTitle": "KID'S PROTO WILDER",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "137",
+          "originalWeightKg": "40–58",
+          "originalWeightLb": "80–120",
+          "weightOriginal": "40–58 kg",
+          "referenceUpperKg": 58,
+          "openUpper": false,
+          "parsedWeightKg": [
+            40,
+            58
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“80–120 lb”与kg行“40–58 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "140",
+          "originalWeightKg": "45–68+",
+          "originalWeightLb": "100–150+",
+          "weightOriginal": "45–68+ kg",
+          "referenceUpperKg": 68,
+          "openUpper": true,
+          "parsedWeightKg": [
+            45,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "144",
+          "originalWeightKg": "45–68+",
+          "originalWeightLb": "100–150+",
+          "weightOriginal": "45–68+ kg",
+          "referenceUpperKg": 68,
+          "openUpper": true,
+          "parsedWeightKg": [
+            45,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/kids-proto-wilder-snowboard",
+      "htmlTitle": "Kid&#39;s 2027 Proto Wilder Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-kids-proto-wilder-snowboard.webp",
+      "chartSizes": [
+        "137",
+        "140",
+        "144"
+      ],
+      "assetFilenameYear": "2026",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-kids-yutes-snowboard",
+      "model": "Kid’s Yutes",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/kids-yutes-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Board-Size-Chart_2025_Yutes.webp?v=1786941997",
+      "currentSizes": [
+        "120",
+        "125",
+        "130",
+        "135"
+      ],
+      "chartTitle": "KID'S YUTES",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "120",
+          "originalWeightKg": "27–40",
+          "originalWeightLb": "60–90",
+          "weightOriginal": "27–40 kg",
+          "referenceUpperKg": 40,
+          "openUpper": false,
+          "parsedWeightKg": [
+            27,
+            40
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "125",
+          "originalWeightKg": "31–45",
+          "originalWeightLb": "70–100",
+          "weightOriginal": "31–45 kg",
+          "referenceUpperKg": 45,
+          "openUpper": false,
+          "parsedWeightKg": [
+            31,
+            45
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "130",
+          "originalWeightKg": "31–45",
+          "originalWeightLb": "70–100",
+          "weightOriginal": "31–45 kg",
+          "referenceUpperKg": 45,
+          "openUpper": false,
+          "parsedWeightKg": [
+            31,
+            45
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "135",
+          "originalWeightKg": "36–54",
+          "originalWeightLb": "80–120",
+          "weightOriginal": "36–54 kg",
+          "referenceUpperKg": 54,
+          "openUpper": false,
+          "parsedWeightKg": [
+            36,
+            54
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/kids-yutes-snowboard",
+      "htmlTitle": "Kid&#39;s 2027 Yutes Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-kids-yutes-snowboard.webp",
+      "chartSizes": [
+        "120",
+        "125",
+        "130",
+        "135"
+      ],
+      "assetFilenameYear": "2025",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-kids-shredder-snowboard",
+      "model": "Kid’s Shredder",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/kids-shredder-snowboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Board-Size-Chart_2025_Shredder.webp?v=1786942013",
+      "currentSizes": [
+        "80",
+        "90",
+        "100",
+        "110"
+      ],
+      "chartTitle": "KID'S SHREDDER",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "80",
+          "originalWeightKg": "11–22",
+          "originalWeightLb": "25–50",
+          "weightOriginal": "11–22 kg",
+          "referenceUpperKg": 22,
+          "openUpper": false,
+          "parsedWeightKg": [
+            11,
+            22
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "90",
+          "originalWeightKg": "11–22",
+          "originalWeightLb": "25–50",
+          "weightOriginal": "11–22 kg",
+          "referenceUpperKg": 22,
+          "openUpper": false,
+          "parsedWeightKg": [
+            11,
+            22
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "100",
+          "originalWeightKg": "18–31",
+          "originalWeightLb": "40–70",
+          "weightOriginal": "18–31 kg",
+          "referenceUpperKg": 31,
+          "openUpper": false,
+          "parsedWeightKg": [
+            18,
+            31
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "110",
+          "originalWeightKg": "18–31",
+          "originalWeightLb": "40–70",
+          "weightOriginal": "18–31 kg",
+          "referenceUpperKg": 31,
+          "openUpper": false,
+          "parsedWeightKg": [
+            18,
+            31
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/kids-shredder-snowboard",
+      "htmlTitle": "Kid&#39;s 2027 Shredder Snowboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-kids-shredder-snowboard.webp",
+      "chartSizes": [
+        "80",
+        "90",
+        "100",
+        "110"
+      ],
+      "assetFilenameYear": "2025",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    },
+    {
+      "id": "neversummer-unisex-summit-t3-splitboard",
+      "model": "Summit T3 Splitboard",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/unisex-summit-t3-splitboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Summit_T3_Split_Specs.webp?v=1786941941",
+      "currentSizes": [
+        "149",
+        "153",
+        "157",
+        "161X",
+        "167X"
+      ],
+      "chartTitle": "UNISEX SUMMIT T3 SPLIT",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "149",
+          "originalWeightKg": "45–68",
+          "originalWeightLb": "100–150",
+          "weightOriginal": "45–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            45,
+            68
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。"
+        },
+        {
+          "length": "153",
+          "originalWeightKg": "45–68",
+          "originalWeightLb": "100–150+",
+          "weightOriginal": "45–68 kg",
+          "referenceUpperKg": 68,
+          "openUpper": false,
+          "parsedWeightKg": [
+            45,
+            68
+          ],
+          "kgLbMismatch": true,
+          "matchedCurrentLength": true,
+          "note": "采用官方图中kg行。 原图lb行“100–150+ lb”与kg行“45–68 kg”数值或+标记不一致，采用kg原文，不以磅数反算覆盖。"
+        },
+        {
+          "length": "157",
+          "originalWeightKg": "54–90+",
+          "originalWeightLb": "120–200+",
+          "weightOriginal": "54–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            54,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "161",
+          "originalWeightKg": "68–99+",
+          "originalWeightLb": "150–220+",
+          "weightOriginal": "68–99+ kg",
+          "referenceUpperKg": 99,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": false,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        },
+        {
+          "length": "167",
+          "originalWeightKg": "77–113+",
+          "originalWeightLb": "170–250+",
+          "weightOriginal": "77–113+ kg",
+          "referenceUpperKg": 113,
+          "openUpper": true,
+          "parsedWeightKg": [
+            77,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": false,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/unisex-summit-t3-splitboard",
+      "htmlTitle": "Unisex 2027 Summit Splitboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-unisex-summit-t3-splitboard.webp",
+      "chartSizes": [
+        "149",
+        "153",
+        "157",
+        "161",
+        "167"
+      ],
+      "assetFilenameYear": null,
+      "unmatchedCurrentSizes": [
+        "161X",
+        "167X"
+      ],
+      "ignoredImageSizes": [
+        "161",
+        "167"
+      ]
+    },
+    {
+      "id": "neversummer-mens-small-batch-nokhu-splitboard",
+      "model": "Small Batch Nokhu Splitboard",
+      "season": "2026/27",
+      "seasonEvidence": "官方 2027 Snowboards 目录与 2027 Model 标签",
+      "source": "https://neversummer.com/products/mens-small-batch-nokhu-splitboard",
+      "chartUrl": "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Board-Size-Chart_2025_Nokhu-Split.webp?v=1786942023",
+      "currentSizes": [
+        "159"
+      ],
+      "chartTitle": "MEN'S NOKHU SPLIT",
+      "status": "official-image-weight-imported",
+      "rows": [
+        {
+          "length": "159",
+          "originalWeightKg": "68–90+",
+          "originalWeightLb": "150–200+",
+          "weightOriginal": "68–90+ kg",
+          "referenceUpperKg": 90,
+          "openUpper": true,
+          "parsedWeightKg": [
+            68,
+            null
+          ],
+          "kgLbMismatch": false,
+          "matchedCurrentLength": true,
+          "note": "厂商kg上限带“+”，保留原始参考上限并按开放上限匹配。"
+        }
+      ],
+      "notes": [
+        "图中未单独注明适用雪季；文件名年份不作为本季证明。此图仅确认由当前产品官方页面链接且型号/当前尺寸相符，适用本季的独立说明仍有此证据限制，不跨尺寸推定。"
+      ],
+      "canonical": "https://neversummer.com/products/mens-small-batch-nokhu-splitboard",
+      "htmlTitle": "Men&#39;s Small Batch Nokhu Splitboard | Never Summer\n&ndash; Never Summer Snowboards",
+      "currentPageLinksImage": true,
+      "localImage": "work/weight-pages/neversummer-mens-small-batch-nokhu-splitboard.webp",
+      "chartSizes": [
+        "159"
+      ],
+      "assetFilenameYear": "2025",
+      "unmatchedCurrentSizes": [],
+      "ignoredImageSizes": []
+    }
+  ],
+  "status": "complete-with-explicit-gaps",
+  "summary": {
+    "products": 28,
+    "visuallyReviewed": 27,
+    "productsWithFit": 24,
+    "fitRows": 122,
+    "openUpperRows": 57,
+    "kgLbConflictRows": 28,
+    "unmatchedCurrentSizes": 2
+  }
+}

@@ -17,7 +17,10 @@
       "weightChartRows": 180,
       "priceRecords": 32,
       "imageSourceRecords": 32,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 26,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "CAPiTA",
@@ -34,7 +37,10 @@
       "weightChartRows": 240,
       "priceRecords": 36,
       "imageSourceRecords": 36,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 36,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "Bataleon",
@@ -51,7 +57,10 @@
       "weightChartRows": 234,
       "priceRecords": 39,
       "imageSourceRecords": 39,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 38,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "Nitro",
@@ -68,7 +77,10 @@
       "weightChartRows": 188,
       "priceRecords": 56,
       "imageSourceRecords": 56,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 40,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "Rome",
@@ -85,7 +97,10 @@
       "weightChartRows": 146,
       "priceRecords": 24,
       "imageSourceRecords": 24,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 24,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "Arbor",
@@ -102,7 +117,10 @@
       "weightChartRows": 0,
       "priceRecords": 33,
       "imageSourceRecords": 33,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 0,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "YES",
@@ -119,7 +137,10 @@
       "weightChartRows": 72,
       "priceRecords": 15,
       "imageSourceRecords": 15,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 14,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "011 Artistic",
@@ -137,7 +158,10 @@
       "weightChartRows": 0,
       "priceRecords": 8,
       "imageSourceRecords": 8,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 0,
+      "heightGuideRecords": 8,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "Burton",
@@ -155,7 +179,10 @@
       "weightChartRows": 239,
       "priceRecords": 40,
       "imageSourceRecords": 40,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 39,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "Never Summer",
@@ -165,15 +192,18 @@
       "scope": "本文件当前收录范围，以具体记录为准，非全部产品线完成声明",
       "records": 28,
       "officialFlexRecords": 28,
-      "weightChartRecords": 0,
+      "weightChartRecords": 24,
       "pendingSeasonRecords": 0,
       "convertedFlexRecords": 0,
       "shapeRecords": 25,
       "sizeRecords": 28,
-      "weightChartRows": 0,
+      "weightChartRows": 122,
       "priceRecords": 28,
       "imageSourceRecords": 28,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 23,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 27
     },
     {
       "brand": "thirtytwo",
@@ -183,15 +213,18 @@
       "scope": "本文件当前收录范围，以具体记录为准，非全部产品线完成声明",
       "records": 18,
       "officialFlexRecords": 18,
-      "weightChartRecords": 0,
+      "weightChartRecords": 18,
       "pendingSeasonRecords": 0,
       "convertedFlexRecords": 0,
       "shapeRecords": 17,
       "sizeRecords": 18,
-      "weightChartRows": 0,
+      "weightChartRows": 108,
       "priceRecords": 18,
       "imageSourceRecords": 18,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 18,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "K2",
@@ -209,7 +242,10 @@
       "weightChartRows": 159,
       "priceRecords": 25,
       "imageSourceRecords": 25,
-      "cachedImageRecords": 25
+      "cachedImageRecords": 25,
+      "weightChartCompleteRecords": 21,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "RIDE",
@@ -227,25 +263,31 @@
       "weightChartRows": 148,
       "priceRecords": 24,
       "imageSourceRecords": 24,
-      "cachedImageRecords": 24
+      "cachedImageRecords": 24,
+      "weightChartCompleteRecords": 22,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "Salomon",
       "file": "salomon.json",
       "catalog": "https://www.salomon.com/en-us/c/sports/snowboarding/snowboards",
-      "seasonEvidence": "美国当前四类官方目录36款；同产品编号英/日官网补板型；雪季全部待核实。",
+      "seasonEvidence": "35款通过FW2026–27官方技术目录article code匹配，Taka Split 2.0雪季仍待核实",
       "scope": "本文件当前收录范围，以具体记录为准，非全部产品线完成声明",
       "records": 36,
       "officialFlexRecords": 0,
-      "weightChartRecords": 0,
-      "pendingSeasonRecords": 36,
+      "weightChartRecords": 36,
+      "pendingSeasonRecords": 1,
       "convertedFlexRecords": 36,
       "shapeRecords": 36,
       "sizeRecords": 36,
-      "weightChartRows": 0,
+      "weightChartRows": 201,
       "priceRecords": 36,
       "imageSourceRecords": 36,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 35,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "OGASAKA",
@@ -263,7 +305,10 @@
       "weightChartRows": 0,
       "priceRecords": 6,
       "imageSourceRecords": 26,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 0,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     },
     {
       "brand": "YONEX",
@@ -281,7 +326,10 @@
       "weightChartRows": 0,
       "priceRecords": 20,
       "imageSourceRecords": 19,
-      "cachedImageRecords": 0
+      "cachedImageRecords": 0,
+      "weightChartCompleteRecords": 0,
+      "heightGuideRecords": 0,
+      "referenceOnlyWeightRows": 0
     }
   ],
   "nextBrands": [
