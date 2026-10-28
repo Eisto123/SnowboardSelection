@@ -9,14 +9,15 @@
       "seasonEvidence": "J.27 SKU；完整尺码和硬度仅精选页面已核",
       "records": 32,
       "officialFlexRecords": 6,
-      "weightChartRecords": 6,
+      "weightChartRecords": 26,
       "pendingSeasonRecords": 0,
       "convertedFlexRecords": 0,
       "shapeRecords": 14,
       "sizeRecords": 32,
-      "weightChartRows": 45,
+      "weightChartRows": 180,
       "priceRecords": 32,
-      "imageSourceRecords": 32
+      "imageSourceRecords": 32,
+      "cachedImageRecords": 0
     },
     {
       "brand": "CAPiTA",
@@ -25,14 +26,15 @@
       "seasonEvidence": "产品 slug 2027；过滤 snowboard-2027",
       "records": 36,
       "officialFlexRecords": 4,
-      "weightChartRecords": 0,
+      "weightChartRecords": 36,
       "pendingSeasonRecords": 0,
       "convertedFlexRecords": 0,
       "shapeRecords": 36,
       "sizeRecords": 36,
-      "weightChartRows": 0,
+      "weightChartRows": 240,
       "priceRecords": 36,
-      "imageSourceRecords": 36
+      "imageSourceRecords": 36,
+      "cachedImageRecords": 0
     },
     {
       "brand": "Bataleon",
@@ -41,14 +43,15 @@
       "seasonEvidence": "产品 slug 2627 / 2526；仅收录雪板，未收录 boots / bindings",
       "records": 39,
       "officialFlexRecords": 3,
-      "weightChartRecords": 3,
+      "weightChartRecords": 38,
       "pendingSeasonRecords": 0,
       "convertedFlexRecords": 3,
       "shapeRecords": 29,
       "sizeRecords": 39,
-      "weightChartRows": 16,
+      "weightChartRows": 234,
       "priceRecords": 39,
-      "imageSourceRecords": 39
+      "imageSourceRecords": 39,
+      "cachedImageRecords": 0
     },
     {
       "brand": "Nitro",
@@ -64,7 +67,8 @@
       "sizeRecords": 56,
       "weightChartRows": 188,
       "priceRecords": 56,
-      "imageSourceRecords": 56
+      "imageSourceRecords": 56,
+      "cachedImageRecords": 0
     },
     {
       "brand": "Rome",
@@ -73,14 +77,15 @@
       "seasonEvidence": "2627 型号名称",
       "records": 24,
       "officialFlexRecords": 2,
-      "weightChartRecords": 2,
+      "weightChartRecords": 24,
       "pendingSeasonRecords": 0,
       "convertedFlexRecords": 2,
       "shapeRecords": 24,
       "sizeRecords": 24,
-      "weightChartRows": 9,
+      "weightChartRows": 146,
       "priceRecords": 24,
-      "imageSourceRecords": 24
+      "imageSourceRecords": 24,
+      "cachedImageRecords": 0
     },
     {
       "brand": "Arbor",
@@ -96,7 +101,8 @@
       "sizeRecords": 33,
       "weightChartRows": 0,
       "priceRecords": 33,
-      "imageSourceRecords": 33
+      "imageSourceRecords": 33,
+      "cachedImageRecords": 0
     },
     {
       "brand": "YES",
@@ -105,14 +111,15 @@
       "seasonEvidence": "2526 标签",
       "records": 15,
       "officialFlexRecords": 0,
-      "weightChartRecords": 0,
+      "weightChartRecords": 15,
       "pendingSeasonRecords": 0,
       "convertedFlexRecords": 0,
       "shapeRecords": 8,
       "sizeRecords": 15,
-      "weightChartRows": 0,
+      "weightChartRows": 72,
       "priceRecords": 15,
-      "imageSourceRecords": 15
+      "imageSourceRecords": 15,
+      "cachedImageRecords": 0
     },
     {
       "brand": "011 Artistic",
@@ -129,7 +136,8 @@
       "sizeRecords": 8,
       "weightChartRows": 0,
       "priceRecords": 8,
-      "imageSourceRecords": 8
+      "imageSourceRecords": 8,
+      "cachedImageRecords": 0
     },
     {
       "brand": "Burton",
@@ -146,7 +154,8 @@
       "sizeRecords": 40,
       "weightChartRows": 239,
       "priceRecords": 40,
-      "imageSourceRecords": 40
+      "imageSourceRecords": 40,
+      "cachedImageRecords": 0
     },
     {
       "brand": "Never Summer",
@@ -163,7 +172,8 @@
       "sizeRecords": 28,
       "weightChartRows": 0,
       "priceRecords": 28,
-      "imageSourceRecords": 28
+      "imageSourceRecords": 28,
+      "cachedImageRecords": 0
     },
     {
       "brand": "thirtytwo",
@@ -180,7 +190,8 @@
       "sizeRecords": 18,
       "weightChartRows": 0,
       "priceRecords": 18,
-      "imageSourceRecords": 18
+      "imageSourceRecords": 18,
+      "cachedImageRecords": 0
     },
     {
       "brand": "K2",
@@ -197,7 +208,8 @@
       "sizeRecords": 25,
       "weightChartRows": 159,
       "priceRecords": 25,
-      "imageSourceRecords": 3
+      "imageSourceRecords": 25,
+      "cachedImageRecords": 25
     },
     {
       "brand": "RIDE",
@@ -214,7 +226,8 @@
       "sizeRecords": 24,
       "weightChartRows": 148,
       "priceRecords": 24,
-      "imageSourceRecords": 4
+      "imageSourceRecords": 24,
+      "cachedImageRecords": 24
     },
     {
       "brand": "Salomon",
@@ -231,7 +244,8 @@
       "sizeRecords": 36,
       "weightChartRows": 0,
       "priceRecords": 36,
-      "imageSourceRecords": 36
+      "imageSourceRecords": 36,
+      "cachedImageRecords": 0
     },
     {
       "brand": "OGASAKA",
@@ -248,7 +262,8 @@
       "sizeRecords": 19,
       "weightChartRows": 0,
       "priceRecords": 6,
-      "imageSourceRecords": 26
+      "imageSourceRecords": 26,
+      "cachedImageRecords": 0
     },
     {
       "brand": "YONEX",
@@ -265,7 +280,8 @@
       "sizeRecords": 20,
       "weightChartRows": 0,
       "priceRecords": 20,
-      "imageSourceRecords": 19
+      "imageSourceRecords": 19,
+      "cachedImageRecords": 0
     }
   ],
   "nextBrands": [

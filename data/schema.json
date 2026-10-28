@@ -317,6 +317,11 @@
               "license": {
                 "type": "string",
                 "minLength": 1
+              },
+              "local": {
+                "type": "string",
+                "pattern": "^\\./assets/boards/[a-z0-9-]+\\.jpg$",
+                "description": "Verified official JPEG cached alongside the site; original URL and source retained."
               }
             }
           }

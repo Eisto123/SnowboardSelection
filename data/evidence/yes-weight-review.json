@@ -1,0 +1,792 @@
+{
+  "brand": "YES",
+  "checkedAt": "2026-10-28",
+  "method": "Read official current product Size details table; match Y.26 SKU against existing 2025/26 records. Use published kg values, not lbs conversions. Explicit + upper end becomes null while original cell is preserved below. Update fit only; preserve all other product fields.",
+  "products": [
+    {
+      "id": "yes-standard-xtrm-dc",
+      "source": "https://yessnowboards.com/products/standard-xtrm-dc",
+      "sku": "SKU: Y.26.SNM.SDC.XX.153.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "153",
+          "original": "114-187 lbs. / 52-85 kg.",
+          "weightKg": [
+            52,
+            85
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "156",
+          "original": "121-198 lbs. / 55-90 kg.",
+          "weightKg": [
+            55,
+            90
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "159",
+          "original": "132-209 lbs. / 60-95 kg.",
+          "weightKg": [
+            60,
+            95
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "162",
+          "original": "143-218 lbs. / 65-99+ kg.",
+          "weightKg": [
+            65,
+            null
+          ],
+          "openUpper": true
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-womens-hell-yes",
+      "source": "https://yessnowboards.com/products/womens-hell-yes",
+      "sku": "SKU: Y.26.SNW.HEL.XX.146.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "146",
+          "original": "88-154 lbs. / 40-70 kg.",
+          "weightKg": [
+            40,
+            70
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "149",
+          "original": "99-165 lbs. / 45-75 kg.",
+          "weightKg": [
+            45,
+            75
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "152",
+          "original": "110-176 lbs. / 50-80 kg.",
+          "weightKg": [
+            50,
+            80
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "155",
+          "original": "121-187 lbs. / 55-85 kg.",
+          "weightKg": [
+            55,
+            85
+          ],
+          "openUpper": false
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-greats-xtrm",
+      "source": "https://yessnowboards.com/products/greats-xtrm",
+      "sku": "SKU: Y.26.SNM.GRX.XX.154.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "154",
+          "original": "127-187 lbs. / 58-85 kg.",
+          "weightKg": [
+            58,
+            85
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "156",
+          "original": "127-187 lbs. / 58-85 kg.",
+          "weightKg": [
+            58,
+            85
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "159",
+          "original": "138-209 lbs. / 63-95 kg.",
+          "weightKg": [
+            63,
+            95
+          ],
+          "openUpper": false
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-pick-your-line-xtrm",
+      "source": "https://yessnowboards.com/products/pick-your-line-xtrm",
+      "sku": "SKU: Y.26.SNM.DCP.XX.155.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "155",
+          "original": "127-187 lbs. / 58-85 kg.",
+          "weightKg": [
+            58,
+            85
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "157",
+          "original": "138-198 lbs. / 63-90 kg.",
+          "weightKg": [
+            63,
+            90
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "159",
+          "original": "138-198 lbs. / 63-90 kg.",
+          "weightKg": [
+            63,
+            90
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "161",
+          "original": "149-209 lbs. / 68-95 kg.",
+          "weightKg": [
+            68,
+            95
+          ],
+          "openUpper": false
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-shifter-3d",
+      "source": "https://yessnowboards.com/products/shifter-3d",
+      "sku": "SKU: Y.26.SNU.SHF.XX.145.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "145",
+          "original": "92-143 lbs. / 42-65 kg.",
+          "weightKg": [
+            42,
+            65
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "148",
+          "original": "99-143 lbs. / 45-65 kg.",
+          "weightKg": [
+            45,
+            65
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "151",
+          "original": "105-154 lbs. / 48-70 kg.",
+          "weightKg": [
+            48,
+            70
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "154",
+          "original": "116-176 lbs. / 53-80 kg.",
+          "weightKg": [
+            53,
+            80
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "156W",
+          "original": "121-198 lbs. / 55-90 kg.",
+          "weightKg": [
+            55,
+            90
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "157",
+          "original": "127-198 lbs. / 58-90 kg.",
+          "weightKg": [
+            58,
+            90
+          ],
+          "openUpper": false
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-cream-halldor-3d",
+      "source": "https://yessnowboards.com/products/cream-halldor-3d",
+      "sku": "SKU: Y.26.SNM.HAL.XX.150.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "150",
+          "original": "99-154 lbs. / 45-70 kg.",
+          "weightKg": [
+            45,
+            70
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "153",
+          "original": "110-165 lbs. / 50-75 kg.",
+          "weightKg": [
+            50,
+            75
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "156",
+          "original": "127-187 lbs. / 58-85 kg.",
+          "weightKg": [
+            58,
+            85
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "159",
+          "original": "138-209 lbs. / 63-95 kg.",
+          "weightKg": [
+            63,
+            95
+          ],
+          "openUpper": false
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-womens-rival",
+      "source": "https://yessnowboards.com/products/womens-rival",
+      "sku": "SKU: Y.26.SNW.RIV.XX.140.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "140",
+          "original": "83-121 lbs. / 38-55 kg.",
+          "weightKg": [
+            38,
+            55
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "144",
+          "original": "88-132 lbs. / 40-60 kg.",
+          "weightKg": [
+            40,
+            60
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "149",
+          "original": "99-154 lbs. / 45-70 kg.",
+          "weightKg": [
+            45,
+            70
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "152",
+          "original": "110-165 lbs. / 50-75 kg.",
+          "weightKg": [
+            50,
+            75
+          ],
+          "openUpper": false
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-shifter-xtrm-eiki-3d",
+      "source": "https://yessnowboards.com/products/shifter-xtrm-eiki-3d",
+      "sku": "SKU: Y.26.SNM.SHE.XX.145.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "145",
+          "original": "92-143 lbs. / 42-65 kg.",
+          "weightKg": [
+            42,
+            65
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "148",
+          "original": "99-143 lbs. / 45-65 kg.",
+          "weightKg": [
+            45,
+            65
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "151",
+          "original": "105-154 lbs. / 48-70 kg.",
+          "weightKg": [
+            48,
+            70
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "154",
+          "original": "116-176 lbs. / 53-80 kg.",
+          "weightKg": [
+            53,
+            80
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "156W",
+          "original": "121-198 lbs. / 55-90 kg.",
+          "weightKg": [
+            55,
+            90
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "157",
+          "original": "127-198 lbs. / 58-90 kg.",
+          "weightKg": [
+            58,
+            90
+          ],
+          "openUpper": false
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-womens-frenzy",
+      "source": "https://yessnowboards.com/products/womens-frenzy",
+      "sku": "SKU: Y.26.SNW.FZY.XX.143.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "146",
+          "original": "88-154 lbs. / 40-70 kg.",
+          "weightKg": [
+            40,
+            70
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "149",
+          "original": "99-165 lbs. / 45-75 kg.",
+          "weightKg": [
+            45,
+            75
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "152",
+          "original": "110-176 lbs. / 50-80 kg.",
+          "weightKg": [
+            50,
+            80
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "155",
+          "original": "121-187 lbs. / 55-85 kg.",
+          "weightKg": [
+            55,
+            85
+          ],
+          "openUpper": false
+        }
+      ],
+      "missingSizes": [
+        "143"
+      ]
+    },
+    {
+      "id": "yes-sender-xtrm",
+      "source": "https://yessnowboards.com/products/sender-xtrm",
+      "sku": "SKU: Y.26.SNM.SDX.XX.149.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "149",
+          "original": "105-176 lbs. / 48-80 kg.",
+          "weightKg": [
+            48,
+            80
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "152",
+          "original": "116-187 lbs. / 53-85 kg.",
+          "weightKg": [
+            53,
+            85
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "155",
+          "original": "127-198 lbs. / 58-90 kg.",
+          "weightKg": [
+            58,
+            90
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "156W",
+          "original": "132-209 lbs. / 60-95 kg.",
+          "weightKg": [
+            60,
+            95
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "158",
+          "original": "138-209 lbs. / 63-95 kg.",
+          "weightKg": [
+            63,
+            95
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "159W",
+          "original": "143-218 lbs. / 65-99+ kg.",
+          "weightKg": [
+            65,
+            null
+          ],
+          "openUpper": true
+        },
+        {
+          "length": "161",
+          "original": "149-218 lbs. / 68-99+ kg.",
+          "weightKg": [
+            68,
+            null
+          ],
+          "openUpper": true
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-airmaster-xtrm-fridge-3d",
+      "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d",
+      "sku": "SKU: Y.26.SNM.FMX.XX.150.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "150",
+          "original": "105-176 lbs. / 48-80 kg.",
+          "weightKg": [
+            48,
+            80
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "153",
+          "original": "116-187 lbs. / 53-85 kg.",
+          "weightKg": [
+            53,
+            85
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "156",
+          "original": "127-198 lbs. / 58-90 kg.",
+          "weightKg": [
+            58,
+            90
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "159",
+          "original": "138-209 lbs. / 63-95 kg.",
+          "weightKg": [
+            63,
+            95
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "162",
+          "original": "149-218 lbs. / 68-99+ kg.",
+          "weightKg": [
+            68,
+            null
+          ],
+          "openUpper": true
+        },
+        {
+          "length": "165",
+          "original": "158-218 lbs. / 72-99 kg.",
+          "weightKg": [
+            72,
+            99
+          ],
+          "openUpper": false
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-all-in-xtrm",
+      "source": "https://yessnowboards.com/products/all-in-xtrm",
+      "sku": "SKU: Y.26.SNM.ALX.XX.148.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "148",
+          "original": "99-165 lbs. / 45-75 kg.",
+          "weightKg": [
+            45,
+            75
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "150",
+          "original": "105-165 lbs. / 48-75 kg.",
+          "weightKg": [
+            48,
+            75
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "154",
+          "original": "114-187 lbs. / 52-85 kg.",
+          "weightKg": [
+            52,
+            85
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "155W",
+          "original": "127-194 lbs. / 58-88 kg.",
+          "weightKg": [
+            58,
+            88
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "158",
+          "original": "132-198 lbs. / 60-90 kg.",
+          "weightKg": [
+            60,
+            90
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "160W",
+          "original": "147-216 lbs. / 67-98 kg.",
+          "weightKg": [
+            67,
+            98
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "162",
+          "original": "143-209 lbs. / 65-95 kg.",
+          "weightKg": [
+            65,
+            95
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "164W",
+          "original": "158-218 lbs. / 72-99+ kg.",
+          "weightKg": [
+            72,
+            null
+          ],
+          "openUpper": true
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-first-basic",
+      "source": "https://yessnowboards.com/products/first-basic",
+      "sku": "SKU: Y.26.SNU.JRB.XX.127.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "127",
+          "original": "66-94 lbs. / 30-43 kg.",
+          "weightKg": [
+            30,
+            43
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "133",
+          "original": "74-101 lbs. / 34-46 kg.",
+          "weightKg": [
+            34,
+            46
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "138",
+          "original": "79-110 lbs. / 36-50 kg.",
+          "weightKg": [
+            36,
+            50
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "142",
+          "original": "83-116 lbs. / 38-53 kg.",
+          "weightKg": [
+            38,
+            53
+          ],
+          "openUpper": false
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-airmaster-3d",
+      "source": "https://yessnowboards.com/products/airmaster-3d",
+      "sku": "SKU: Y.26.SNM.ARM.XX.150.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "150",
+          "original": "105-176 lbs. / 48-80 kg.",
+          "weightKg": [
+            48,
+            80
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "153",
+          "original": "116-187 lbs. / 53-85 kg.",
+          "weightKg": [
+            53,
+            85
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "156",
+          "original": "127-198 lbs. / 58-90 kg.",
+          "weightKg": [
+            58,
+            90
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "159",
+          "original": "138-209 lbs. / 63-95 kg.",
+          "weightKg": [
+            63,
+            95
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "162",
+          "original": "149-218 lbs. / 68-99+ kg.",
+          "weightKg": [
+            68,
+            null
+          ],
+          "openUpper": true
+        }
+      ],
+      "missingSizes": []
+    },
+    {
+      "id": "yes-womens-airmaster-3d",
+      "source": "https://eu.yessnowboards.com/products/womens-airmaster-3d",
+      "sku": "SKU: Y.26.SNW.WAM.XX.146.1",
+      "season": "2025/26",
+      "rows": [
+        {
+          "length": "146",
+          "original": "94-154 lbs. / 43-70 kg.",
+          "weightKg": [
+            43,
+            70
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "149",
+          "original": "105-165 lbs. / 48-75 kg.",
+          "weightKg": [
+            48,
+            75
+          ],
+          "openUpper": false
+        },
+        {
+          "length": "152",
+          "original": "114-171 lbs. / 52-78 kg.",
+          "weightKg": [
+            52,
+            78
+          ],
+          "openUpper": false
+        }
+      ],
+      "missingSizes": []
+    }
+  ]
+}

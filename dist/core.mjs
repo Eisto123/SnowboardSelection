@@ -1,6 +1,7 @@
+import {lengthRecommendation} from './sizing.mjs';
 export const genderLabels={Women:'女款',Men:'男款',Unisex:'Unisex',Youth:'青少年 / 儿童'};
 export function displayImageUrl(original){const u=new URL(original);if(u.hostname==='cdn.shopify.com'||u.pathname.includes('/cdn/shop/'))u.searchParams.set('width','600');else if(u.hostname==='cdn.dam.salomon.com')u.searchParams.set('width','600');return u.href;}
-export function imageCandidates(images,selected=0){const order=images.map((_,i)=>(selected+i)%images.length),seen=new Set(),out=[];for(const index of order){const original=images[index].url;for(const url of [displayImageUrl(original),original])if(!seen.has(url)){seen.add(url);out.push({url,index});}}return out;}
+export function imageCandidates(images,selected=0){const order=images.map((_,i)=>(selected+i)%images.length),seen=new Set(),out=[];for(const index of order){const original=images[index].url;for(const url of [images[index].local,displayImageUrl(original),original])if(url&&!seen.has(url)){seen.add(url);out.push({url,index});}}return out;}
 export function matchingSizes(p,weight){return weight>0?p.fit.filter(x=>weight>=x.weightKg[0]&&(x.weightKg[1]===null||weight<=x.weightKg[1])).map(x=>x.length):[];}
 export function filterProducts(products,f,saved=[]){return products.filter(p=>{
  const query=(f.search||'').trim().toLowerCase();
@@ -16,7 +17,7 @@ export function filterProducts(products,f,saved=[]){return products.filter(p=>{
  if(f.currency&&p.price?.currency!==f.currency)return false;
  if(f.budget!==''&&f.budget!=null&&f.currency&&(!p.price||p.price.amount>Number(f.budget)))return false;
  if(f.saved&&!saved.includes(p.id))return false;
- if(f.fit&&(!f.weight||!matchingSizes(p,Number(f.weight)).length))return false;
+ if(f.fit&&!lengthRecommendation(p,{weight:f.weight,height:f.height,general:f.sizingMode!=='official'}).sizes.length)return false;
  return true;
 });}
 const featured=['burton-mens-burton-custom-camber','neversummer-mens-proto-type-3','capita-capita-d-o-a-mens','jones-mens-mountain-twin-snowboard','k2-afterblack','ride-shadowban','salomon-assassin','thirtytwo-permanent-vacation','ogasaka-ct-2027','yonex-sm26','bataleon-2627-evil-twin-mens','arbor-element-snowboard-27','yes-standard','011-double-fly'];

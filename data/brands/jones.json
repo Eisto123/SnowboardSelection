@@ -246,7 +246,72 @@
       "163W",
       "164"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "152",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard?variant=49563155955864"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard?variant=49563155955864"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          73,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard?variant=49563155955864"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          73,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard?variant=49563155955864"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          73,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard?variant=49563155955864"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard?variant=49563155955864"
+      },
+      {
+        "length": "163W",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard?variant=49563155955864"
+      },
+      {
+        "length": "164",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-howler-snowboard?variant=49563155955864"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -334,7 +399,104 @@
       "169W",
       "172"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "151",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          73,
+          95
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+      },
+      {
+        "length": "164",
+        "weightKg": [
+          73,
+          95
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          73,
+          95
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+      },
+      {
+        "length": "167",
+        "weightKg": [
+          73,
+          95
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+      },
+      {
+        "length": "169W",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+      },
+      {
+        "length": "172",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-snowboard"
+      }
+    ],
     "price": {
       "amount": 749.95,
       "maxAmount": 749.95,
@@ -506,7 +668,64 @@
       "164",
       "165W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          73,
+          95
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard"
+      },
+      {
+        "length": "164",
+        "weightKg": [
+          73,
+          95
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-flagship-pro-snowboard"
+      }
+    ],
     "price": {
       "amount": 949.95,
       "maxAmount": 949.95,
@@ -596,7 +815,88 @@
       "166W",
       "170W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "151",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          73,
+          95
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard"
+      },
+      {
+        "length": "166W",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard"
+      },
+      {
+        "length": "170W",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-rally-cat-snowboard"
+      }
+    ],
     "price": {
       "amount": 499.95,
       "maxAmount": 499.95,
@@ -917,7 +1217,64 @@
       "162",
       "166"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          41,
+          63
+        ],
+        "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard"
+      },
+      {
+        "length": "166",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mind-expander-20-snowboard"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -1004,7 +1361,96 @@
       "165",
       "167W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          73,
+          95
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard"
+      },
+      {
+        "length": "165",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard"
+      },
+      {
+        "length": "167W",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-frontier-20-snowboard"
+      }
+    ],
     "price": {
       "amount": 549.95,
       "maxAmount": 549.95,
@@ -1086,7 +1532,32 @@
       "159",
       "161W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "156",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-ultralight-project-x-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-ultralight-project-x-snowboard"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-ultralight-project-x-snowboard"
+      }
+    ],
     "price": {
       "amount": 1900,
       "maxAmount": 1900,
@@ -1170,7 +1641,64 @@
       "158",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "150N",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard"
+      },
+      {
+        "length": "154N",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard"
+      },
+      {
+        "length": "158N",
+        "weightKg": [
+          67,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          67,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-6000s-snowboard"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -1250,7 +1778,40 @@
       "152",
       "157"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/storm-chaser-snowboard"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/storm-chaser-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          63,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/storm-chaser-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/storm-chaser-snowboard"
+      }
+    ],
     "price": {
       "amount": 729.95,
       "maxAmount": 729.95,
@@ -1690,7 +2251,56 @@
       "157W",
       "159"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-pro-20-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-pro-20-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-pro-20-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-pro-20-snowboard"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-pro-20-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-pro-20-snowboard"
+      }
+    ],
     "price": {
       "amount": 649.95,
       "maxAmount": 649.95,
@@ -1771,7 +2381,40 @@
       "148",
       "151"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          41,
+          63
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-howler-snowboard"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-howler-snowboard"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-howler-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-howler-snowboard"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -1857,7 +2500,56 @@
       "151",
       "154"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "139",
+        "weightKg": [
+          41,
+          63
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-rally-cat-snowboard"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          41,
+          63
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-rally-cat-snowboard"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-rally-cat-snowboard"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-rally-cat-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-rally-cat-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-rally-cat-snowboard"
+      }
+    ],
     "price": {
       "amount": 499.95,
       "maxAmount": 499.95,
@@ -1940,7 +2632,48 @@
       "158",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "146",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/twincraft-snowboard"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/twincraft-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/twincraft-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          67,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/twincraft-snowboard"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/twincraft-snowboard"
+      }
+    ],
     "price": {
       "amount": 599.92,
       "maxAmount": 599.92,
@@ -2023,7 +2756,48 @@
       "152",
       "155"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "143",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-flagship-snowboard"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-flagship-snowboard"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-flagship-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-flagship-snowboard"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/womens-flagship-snowboard"
+      }
+    ],
     "price": {
       "amount": 749.95,
       "maxAmount": 749.95,
@@ -2108,7 +2882,56 @@
       "140",
       "145"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "120",
+        "weightKg": [
+          29,
+          39
+        ],
+        "source": "https://www.jonessnowboards.com/en-int/products/mountain-twin-junior-snowboard?variant=49196829900952"
+      },
+      {
+        "length": "125",
+        "weightKg": [
+          31,
+          42
+        ],
+        "source": "https://www.jonessnowboards.com/en-int/products/mountain-twin-junior-snowboard?variant=49196829900952"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          34,
+          45
+        ],
+        "source": "https://www.jonessnowboards.com/en-int/products/mountain-twin-junior-snowboard?variant=49196829900952"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          50
+        ],
+        "source": "https://www.jonessnowboards.com/en-int/products/mountain-twin-junior-snowboard?variant=49196829900952"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          41,
+          54
+        ],
+        "source": "https://www.jonessnowboards.com/en-int/products/mountain-twin-junior-snowboard?variant=49196829900952"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          64
+        ],
+        "source": "https://www.jonessnowboards.com/en-int/products/mountain-twin-junior-snowboard?variant=49196829900952"
+      }
+    ],
     "price": {
       "amount": 379.95,
       "maxAmount": 379.95,
@@ -2194,7 +3017,72 @@
       "160W",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          49,
+          73
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          64,
+          86
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          67,
+          91
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          73,
+          95
+        ],
+        "source": "https://www.jonessnowboards.com/products/mens-tweaker-20-snowboard"
+      }
+    ],
     "price": {
       "amount": 549.95,
       "maxAmount": 549.95,
@@ -2275,7 +3163,40 @@
       "158",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/storm-wolf-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/storm-wolf-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/storm-wolf-snowboard"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          73,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/storm-wolf-snowboard"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -2358,7 +3279,56 @@
       "160",
       "164"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "152N",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-9000s-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-9000s-snowboard"
+      },
+      {
+        "length": "156N",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-9000s-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          82
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-9000s-snowboard"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          67,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-9000s-snowboard"
+      },
+      {
+        "length": "164",
+        "weightKg": [
+          77,
+          null
+        ],
+        "source": "https://www.jonessnowboards.com/products/freecarver-9000s-snowboard"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -2440,7 +3410,48 @@
       "142",
       "147"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "127",
+        "weightKg": [
+          31,
+          42
+        ],
+        "source": "https://ca.jonessnowboards.com/products/flagship-junior-snowboard"
+      },
+      {
+        "length": "132",
+        "weightKg": [
+          34,
+          54
+        ],
+        "source": "https://ca.jonessnowboards.com/products/flagship-junior-snowboard"
+      },
+      {
+        "length": "137",
+        "weightKg": [
+          41,
+          63
+        ],
+        "source": "https://ca.jonessnowboards.com/products/flagship-junior-snowboard"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://ca.jonessnowboards.com/products/flagship-junior-snowboard"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          50,
+          68
+        ],
+        "source": "https://ca.jonessnowboards.com/products/flagship-junior-snowboard"
+      }
+    ],
     "price": {
       "amount": 399.95,
       "maxAmount": 399.95,
@@ -2932,7 +3943,96 @@
       "140",
       "145"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "80",
+        "weightKg": [
+          11,
+          18
+        ],
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard?variant=46716360196248"
+      },
+      {
+        "length": "90",
+        "weightKg": [
+          14,
+          24
+        ],
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard?variant=46716360196248"
+      },
+      {
+        "length": "100",
+        "weightKg": [
+          20,
+          29
+        ],
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard?variant=46716360196248"
+      },
+      {
+        "length": "110",
+        "weightKg": [
+          25,
+          34
+        ],
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard?variant=46716360196248"
+      },
+      {
+        "length": "115",
+        "weightKg": [
+          25,
+          39
+        ],
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard?variant=46716360196248"
+      },
+      {
+        "length": "120",
+        "weightKg": [
+          29,
+          39
+        ],
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard?variant=46716360196248"
+      },
+      {
+        "length": "125",
+        "weightKg": [
+          31,
+          42
+        ],
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard?variant=46716360196248"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          34,
+          45
+        ],
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard?variant=46716360196248"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          50
+        ],
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard?variant=46716360196248"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          41,
+          54
+        ],
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard?variant=46716360196248"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          45,
+          64
+        ],
+        "source": "https://www.jonessnowboards.com/products/youth-prodigy-snowboard?variant=46716360196248"
+      }
+    ],
     "price": {
       "amount": 299.95,
       "maxAmount": 299.95,

@@ -25,7 +25,40 @@
       "159",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          52,
+          85
+        ],
+        "source": "https://yessnowboards.com/products/standard-xtrm-dc"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          55,
+          90
+        ],
+        "source": "https://yessnowboards.com/products/standard-xtrm-dc"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          60,
+          95
+        ],
+        "source": "https://yessnowboards.com/products/standard-xtrm-dc"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          65,
+          null
+        ],
+        "source": "https://yessnowboards.com/products/standard-xtrm-dc"
+      }
+    ],
     "price": {
       "amount": 689.95,
       "maxAmount": 689.95,
@@ -107,7 +140,40 @@
       "152",
       "155"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "146",
+        "weightKg": [
+          40,
+          70
+        ],
+        "source": "https://yessnowboards.com/products/womens-hell-yes"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          75
+        ],
+        "source": "https://yessnowboards.com/products/womens-hell-yes"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          50,
+          80
+        ],
+        "source": "https://yessnowboards.com/products/womens-hell-yes"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          55,
+          85
+        ],
+        "source": "https://yessnowboards.com/products/womens-hell-yes"
+      }
+    ],
     "price": {
       "amount": 579.95,
       "maxAmount": 579.95,
@@ -186,7 +252,32 @@
       "156",
       "159"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "154",
+        "weightKg": [
+          58,
+          85
+        ],
+        "source": "https://yessnowboards.com/products/greats-xtrm"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          58,
+          85
+        ],
+        "source": "https://yessnowboards.com/products/greats-xtrm"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          63,
+          95
+        ],
+        "source": "https://yessnowboards.com/products/greats-xtrm"
+      }
+    ],
     "price": {
       "amount": 749.95,
       "maxAmount": 749.95,
@@ -264,7 +355,40 @@
       "159",
       "161"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "155",
+        "weightKg": [
+          58,
+          85
+        ],
+        "source": "https://yessnowboards.com/products/pick-your-line-xtrm"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://yessnowboards.com/products/pick-your-line-xtrm"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://yessnowboards.com/products/pick-your-line-xtrm"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://yessnowboards.com/products/pick-your-line-xtrm"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -346,7 +470,56 @@
       "156W",
       "157"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "145",
+        "weightKg": [
+          42,
+          65
+        ],
+        "source": "https://yessnowboards.com/products/shifter-3d"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://yessnowboards.com/products/shifter-3d"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          48,
+          70
+        ],
+        "source": "https://yessnowboards.com/products/shifter-3d"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          53,
+          80
+        ],
+        "source": "https://yessnowboards.com/products/shifter-3d"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          55,
+          90
+        ],
+        "source": "https://yessnowboards.com/products/shifter-3d"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          58,
+          90
+        ],
+        "source": "https://yessnowboards.com/products/shifter-3d"
+      }
+    ],
     "price": {
       "amount": 429.95,
       "maxAmount": 429.95,
@@ -412,7 +585,40 @@
       "156",
       "159"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          45,
+          70
+        ],
+        "source": "https://yessnowboards.com/products/cream-halldor-3d"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          50,
+          75
+        ],
+        "source": "https://yessnowboards.com/products/cream-halldor-3d"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          58,
+          85
+        ],
+        "source": "https://yessnowboards.com/products/cream-halldor-3d"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          63,
+          95
+        ],
+        "source": "https://yessnowboards.com/products/cream-halldor-3d"
+      }
+    ],
     "price": {
       "amount": 579.95,
       "maxAmount": 579.95,
@@ -493,7 +699,40 @@
       "149",
       "152"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "140",
+        "weightKg": [
+          38,
+          55
+        ],
+        "source": "https://yessnowboards.com/products/womens-rival"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          40,
+          60
+        ],
+        "source": "https://yessnowboards.com/products/womens-rival"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          70
+        ],
+        "source": "https://yessnowboards.com/products/womens-rival"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          50,
+          75
+        ],
+        "source": "https://yessnowboards.com/products/womens-rival"
+      }
+    ],
     "price": {
       "amount": 529.95,
       "maxAmount": 529.95,
@@ -576,7 +815,56 @@
       "156W",
       "157"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "145",
+        "weightKg": [
+          42,
+          65
+        ],
+        "source": "https://yessnowboards.com/products/shifter-xtrm-eiki-3d"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://yessnowboards.com/products/shifter-xtrm-eiki-3d"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          48,
+          70
+        ],
+        "source": "https://yessnowboards.com/products/shifter-xtrm-eiki-3d"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          53,
+          80
+        ],
+        "source": "https://yessnowboards.com/products/shifter-xtrm-eiki-3d"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          55,
+          90
+        ],
+        "source": "https://yessnowboards.com/products/shifter-xtrm-eiki-3d"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          58,
+          90
+        ],
+        "source": "https://yessnowboards.com/products/shifter-xtrm-eiki-3d"
+      }
+    ],
     "price": {
       "amount": 579.95,
       "maxAmount": 579.95,
@@ -644,7 +932,40 @@
       "152",
       "155"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "146",
+        "weightKg": [
+          40,
+          70
+        ],
+        "source": "https://yessnowboards.com/products/womens-frenzy"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          45,
+          75
+        ],
+        "source": "https://yessnowboards.com/products/womens-frenzy"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          50,
+          80
+        ],
+        "source": "https://yessnowboards.com/products/womens-frenzy"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          55,
+          85
+        ],
+        "source": "https://yessnowboards.com/products/womens-frenzy"
+      }
+    ],
     "price": {
       "amount": 449.95,
       "maxAmount": 449.95,
@@ -728,7 +1049,64 @@
       "159W",
       "161"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          48,
+          80
+        ],
+        "source": "https://yessnowboards.com/products/sender-xtrm"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          53,
+          85
+        ],
+        "source": "https://yessnowboards.com/products/sender-xtrm"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          58,
+          90
+        ],
+        "source": "https://yessnowboards.com/products/sender-xtrm"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          60,
+          95
+        ],
+        "source": "https://yessnowboards.com/products/sender-xtrm"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          63,
+          95
+        ],
+        "source": "https://yessnowboards.com/products/sender-xtrm"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          65,
+          null
+        ],
+        "source": "https://yessnowboards.com/products/sender-xtrm"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          68,
+          null
+        ],
+        "source": "https://yessnowboards.com/products/sender-xtrm"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -795,7 +1173,56 @@
       "162",
       "165"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          48,
+          80
+        ],
+        "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          53,
+          85
+        ],
+        "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          58,
+          90
+        ],
+        "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          63,
+          95
+        ],
+        "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          68,
+          null
+        ],
+        "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d"
+      },
+      {
+        "length": "165",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -880,7 +1307,72 @@
       "162",
       "164W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          75
+        ],
+        "source": "https://yessnowboards.com/products/all-in-xtrm"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          48,
+          75
+        ],
+        "source": "https://yessnowboards.com/products/all-in-xtrm"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          52,
+          85
+        ],
+        "source": "https://yessnowboards.com/products/all-in-xtrm"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          58,
+          88
+        ],
+        "source": "https://yessnowboards.com/products/all-in-xtrm"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          60,
+          90
+        ],
+        "source": "https://yessnowboards.com/products/all-in-xtrm"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          67,
+          98
+        ],
+        "source": "https://yessnowboards.com/products/all-in-xtrm"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          65,
+          95
+        ],
+        "source": "https://yessnowboards.com/products/all-in-xtrm"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          72,
+          null
+        ],
+        "source": "https://yessnowboards.com/products/all-in-xtrm"
+      }
+    ],
     "price": {
       "amount": 579.95,
       "maxAmount": 579.95,
@@ -961,7 +1453,40 @@
       "138",
       "142"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "127",
+        "weightKg": [
+          30,
+          43
+        ],
+        "source": "https://yessnowboards.com/products/first-basic"
+      },
+      {
+        "length": "133",
+        "weightKg": [
+          34,
+          46
+        ],
+        "source": "https://yessnowboards.com/products/first-basic"
+      },
+      {
+        "length": "138",
+        "weightKg": [
+          36,
+          50
+        ],
+        "source": "https://yessnowboards.com/products/first-basic"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          38,
+          53
+        ],
+        "source": "https://yessnowboards.com/products/first-basic"
+      }
+    ],
     "price": {
       "amount": 299.95,
       "maxAmount": 299.95,
@@ -1032,7 +1557,48 @@
       "159",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          48,
+          80
+        ],
+        "source": "https://yessnowboards.com/products/airmaster-3d"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          53,
+          85
+        ],
+        "source": "https://yessnowboards.com/products/airmaster-3d"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          58,
+          90
+        ],
+        "source": "https://yessnowboards.com/products/airmaster-3d"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          63,
+          95
+        ],
+        "source": "https://yessnowboards.com/products/airmaster-3d"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          68,
+          null
+        ],
+        "source": "https://yessnowboards.com/products/airmaster-3d"
+      }
+    ],
     "price": {
       "amount": 529.95,
       "maxAmount": 529.95,
@@ -1111,7 +1677,32 @@
       "149",
       "152"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "146",
+        "weightKg": [
+          43,
+          70
+        ],
+        "source": "https://eu.yessnowboards.com/products/womens-airmaster-3d"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          48,
+          75
+        ],
+        "source": "https://eu.yessnowboards.com/products/womens-airmaster-3d"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          52,
+          78
+        ],
+        "source": "https://eu.yessnowboards.com/products/womens-airmaster-3d"
+      }
+    ],
     "price": {
       "amount": 529.95,
       "maxAmount": 529.95,

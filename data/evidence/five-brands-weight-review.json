@@ -1,0 +1,104 @@
+{
+  "checkedAt": "2026-10-28",
+  "scope": "Targeted official-source weight-table review of Arbor, YES, Salomon, Never Summer and thirtytwo. This is a source availability audit, not a claim that every page on the internet was exhausted.",
+  "brands": [
+    {
+      "brand": "Arbor",
+      "recordCount": 33,
+      "fitRowsAdded": 0,
+      "reviewedSources": [
+        "https://www.arborcollective.com/products/rain-snowboard-27",
+        "https://www.arborcollective.com/products/swoon-decon-snowboard-27",
+        "https://www.arborcollective.com/products/swoon-snowboard-27",
+        "https://www.arborcollective.com/pages/snow-catalog-archive"
+      ],
+      "findings": [
+        "2027 product pages expose available length options, but Specs table content is absent from the readable official page extraction.",
+        "Official catalog archive currently lists 2025/2026 as newest. No same-season 2026/27 official rider weight table could be verified during this review.",
+        "Search surfaced retailer 2027 weight charts and an old 2024/25 catalog hosted by a retailer; neither was merged as official current-season evidence."
+      ],
+      "action": "Keep all current fit and sizes unchanged."
+    },
+    {
+      "brand": "YES",
+      "recordCount": 15,
+      "fitRowsAdded": 72,
+      "modelsWithOfficialFit": 15,
+      "openUpperRows": 6,
+      "reviewedSources": [
+        "https://yessnowboards.com/products/standard-xtrm-dc",
+        "https://yessnowboards.com/products/womens-hell-yes",
+        "https://yessnowboards.com/products/greats-xtrm",
+        "https://yessnowboards.com/products/pick-your-line-xtrm",
+        "https://yessnowboards.com/products/shifter-3d",
+        "https://yessnowboards.com/products/cream-halldor-3d",
+        "https://yessnowboards.com/products/womens-rival",
+        "https://yessnowboards.com/products/shifter-xtrm-eiki-3d",
+        "https://yessnowboards.com/products/womens-frenzy",
+        "https://yessnowboards.com/products/sender-xtrm",
+        "https://yessnowboards.com/products/airmaster-xtrm-fridge-3d",
+        "https://yessnowboards.com/products/all-in-xtrm",
+        "https://yessnowboards.com/products/first-basic",
+        "https://yessnowboards.com/products/airmaster-3d",
+        "https://eu.yessnowboards.com/products/womens-airmaster-3d"
+      ],
+      "findings": [
+        "Official Size details tables verified against Y.26 model SKUs and existing 2025/26 records.",
+        "Use official kg column as published, including all paired lower bounds; no lower bound invented.",
+        "Frenzy 143 remains missing because its weight cell is blank. Other Frenzy lengths are present.",
+        "Women's Airmaster official EU table matches same model SKU and lengths."
+      ],
+      "action": "Prepared fit-only update and independent original-cell evidence."
+    },
+    {
+      "brand": "Salomon",
+      "recordCount": 36,
+      "fitRowsAdded": 0,
+      "reviewedSources": [
+        "https://www.salomon.com/en-us/product/huck-knife-li1304/L49292200",
+        "https://www.salomon.com/en-us/product/hps-taka-split-2-0-li3550/L47033500",
+        "https://www.salomon.com/en-gb/product/hps-taka-split-2-0-li3550/L47033500"
+      ],
+      "findings": [
+        "Huck Knife current article exposes complete geometry and length table, not per-length rider weight.",
+        "Taka Split 2.0 exposes Rider Weight Min 60 kg and Max 80 kg on official GB page (equivalent 132.3–176.4 lb US), but the extracted dimension selector has no reliable selected length. Its three length options are 155, 158, 161.",
+        "No weight row is assigned to an unconfirmed length. Existing season remains 待核实; archived FW24/25 technical tables are not transplanted into current unidentified-season articles."
+      ],
+      "action": "Keep all current fit and sizes unchanged."
+    },
+    {
+      "brand": "Never Summer",
+      "recordCount": 28,
+      "fitRowsAdded": 0,
+      "reviewedSources": [
+        "https://neversummer.com/products/mens-proto-swift-dt-snowboard",
+        "https://neversummer.com/products/mens-proto-type-3-snowboard",
+        "https://neversummer.com/products/womens-proto-type-3-snowboard",
+        "https://cdn.shopify.com/s/files/1/0627/5838/7964/files/Proto_Swift_DT_Specs.webp?v=1786941755"
+      ],
+      "findings": [
+        "Product Size chart links are images. Men's Proto Type 3 chart accessible alt text gives SIZE, WAIST, EDGE, SIDECUT, NOSE/TAIL geometry, not model-specific rider weight ranges.",
+        "Women's Proto Type 3 image alt text includes a separate Recommended Snowboard Size WEIGHT × height matrix, not a table assigning weight intervals to individual model lengths. It is not imported as model-specific fit.",
+        "Proto Swift DT image direct fetch was inaccessible via web tool. Shopify variant JSON weight values are shipping/product weights (grams), not rider weights; not used."
+      ],
+      "action": "Keep all current fit and sizes unchanged."
+    },
+    {
+      "brand": "thirtytwo",
+      "recordCount": 18,
+      "fitRowsAdded": 0,
+      "reviewedSources": [
+        "https://thirtytwo.com/products/middle-earth-pro",
+        "https://thirtytwo.com/products/atmosphere",
+        "https://thirtytwo.com/products/snafu",
+        "https://thirtytwo.com/pages/downloads"
+      ],
+      "findings": [
+        "Current T.27 product charts give board length and geometry. The inspected park, all-mountain/powder charts do not publish rider weight intervals.",
+        "Official download page lists manuals and spare parts but no current snowboard rider-weight catalog.",
+        "Search results containing retail charts or Board weight rows were not treated as official rider weight evidence."
+      ],
+      "action": "Keep all current fit and sizes unchanged."
+    }
+  ]
+}

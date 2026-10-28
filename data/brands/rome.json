@@ -31,7 +31,64 @@
       "162W",
       "165W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "152",
+        "weightKg": [
+          57,
+          77
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          63,
+          83
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          69,
+          89
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          75,
+          95
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          84,
+          104
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          90,
+          110
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-pro-2627-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 669.95,
       "maxAmount": 669.95,
@@ -117,7 +174,64 @@
       "161W",
       "164W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "151",
+        "weightKg": [
+          57,
+          77
+        ],
+        "source": "https://us.romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard?variant=46357876605059"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          63,
+          83
+        ],
+        "source": "https://us.romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard?variant=46357876605059"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          69,
+          89
+        ],
+        "source": "https://us.romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard?variant=46357876605059"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://us.romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard?variant=46357876605059"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          75,
+          95
+        ],
+        "source": "https://us.romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard?variant=46357876605059"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          84,
+          104
+        ],
+        "source": "https://us.romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard?variant=46357876605059"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          90,
+          110
+        ],
+        "source": "https://us.romesnowboards.com/products/rome-stale-crewzer-2627-mens-snowboard?variant=46357876605059"
+      }
+    ],
     "price": {
       "amount": 649.95,
       "maxAmount": 649.95,
@@ -199,7 +313,48 @@
       "159",
       "160W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          79
+        ],
+        "source": "https://romesnowboards.com/products/rome-rene-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://romesnowboards.com/products/rome-rene-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          74,
+          94
+        ],
+        "source": "https://romesnowboards.com/products/rome-rene-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://romesnowboards.com/products/rome-rene-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          80,
+          100
+        ],
+        "source": "https://romesnowboards.com/products/rome-rene-pro-2627-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 649.95,
       "maxAmount": 649.95,
@@ -283,7 +438,72 @@
       "160",
       "161W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          51,
+          71
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          70,
+          90
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          76,
+          96
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          73,
+          93
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          82,
+          102
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-pro-2627-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 649.95,
       "maxAmount": 649.95,
@@ -365,7 +585,72 @@
       "160W",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "142N",
+        "weightKg": [
+          39,
+          59
+        ],
+        "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard"
+      },
+      {
+        "length": "146N",
+        "weightKg": [
+          43,
+          63
+        ],
+        "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard"
+      },
+      {
+        "length": "150N",
+        "weightKg": [
+          47,
+          67
+        ],
+        "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          69,
+          89
+        ],
+        "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          80,
+          100
+        ],
+        "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          84,
+          104
+        ],
+        "source": "https://romesnowboards.com/products/rome-viper-pro-2627-unisex-snowboard"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -448,7 +733,48 @@
       "160",
       "163"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://eu.romesnowboards.com/products/rome-stale-fish-2627-mens-snowboard?variant=56376515330427"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://eu.romesnowboards.com/products/rome-stale-fish-2627-mens-snowboard?variant=56376515330427"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://eu.romesnowboards.com/products/rome-stale-fish-2627-mens-snowboard?variant=56376515330427"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          73,
+          93
+        ],
+        "source": "https://eu.romesnowboards.com/products/rome-stale-fish-2627-mens-snowboard?variant=56376515330427"
+      },
+      {
+        "length": "163",
+        "weightKg": [
+          79,
+          99
+        ],
+        "source": "https://eu.romesnowboards.com/products/rome-stale-fish-2627-mens-snowboard?variant=56376515330427"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -530,7 +856,40 @@
       "150",
       "153"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "144",
+        "weightKg": [
+          41,
+          61
+        ],
+        "source": "https://ca.romesnowboards.com/products/rome-womens-ravine-2627-womens-snowboard"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          44,
+          64
+        ],
+        "source": "https://ca.romesnowboards.com/products/rome-womens-ravine-2627-womens-snowboard"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          47,
+          67
+        ],
+        "source": "https://ca.romesnowboards.com/products/rome-womens-ravine-2627-womens-snowboard"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          53,
+          73
+        ],
+        "source": "https://ca.romesnowboards.com/products/rome-womens-ravine-2627-womens-snowboard"
+      }
+    ],
     "price": {
       "amount": 599.95,
       "maxAmount": 599.95,
@@ -614,7 +973,64 @@
       "162W",
       "165W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "152",
+        "weightKg": [
+          57,
+          77
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          63,
+          83
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          69,
+          89
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          75,
+          95
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          84,
+          104
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          90,
+          110
+        ],
+        "source": "https://romesnowboards.com/products/rome-ravine-2627-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 599.95,
       "maxAmount": 599.95,
@@ -697,7 +1113,56 @@
       "158",
       "159W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          52,
+          72
+        ],
+        "source": "https://romesnowboards.com/products/rome-party-mod-2627-mens-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          57,
+          77
+        ],
+        "source": "https://romesnowboards.com/products/rome-party-mod-2627-mens-snowboard"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          63,
+          83
+        ],
+        "source": "https://romesnowboards.com/products/rome-party-mod-2627-mens-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          72,
+          92
+        ],
+        "source": "https://romesnowboards.com/products/rome-party-mod-2627-mens-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          69,
+          89
+        ],
+        "source": "https://romesnowboards.com/products/rome-party-mod-2627-mens-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://romesnowboards.com/products/rome-party-mod-2627-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 599.95,
       "maxAmount": 599.95,
@@ -776,7 +1241,32 @@
       "146N",
       "150N"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "142N",
+        "weightKg": [
+          39,
+          59
+        ],
+        "source": "https://romesnowboards.com/products/rome-womens-viper-2627-womens-snowboard"
+      },
+      {
+        "length": "146N",
+        "weightKg": [
+          43,
+          63
+        ],
+        "source": "https://romesnowboards.com/products/rome-womens-viper-2627-womens-snowboard"
+      },
+      {
+        "length": "150N",
+        "weightKg": [
+          47,
+          67
+        ],
+        "source": "https://romesnowboards.com/products/rome-womens-viper-2627-womens-snowboard"
+      }
+    ],
     "price": {
       "amount": 569.95,
       "maxAmount": 569.95,
@@ -858,7 +1348,48 @@
       "160W",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://romesnowboards.com/products/rome-mens-viper-2627-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://romesnowboards.com/products/rome-mens-viper-2627-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          69,
+          89
+        ],
+        "source": "https://romesnowboards.com/products/rome-mens-viper-2627-snowboard"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          80,
+          100
+        ],
+        "source": "https://romesnowboards.com/products/rome-mens-viper-2627-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          84,
+          104
+        ],
+        "source": "https://romesnowboards.com/products/rome-mens-viper-2627-snowboard"
+      }
+    ],
     "price": {
       "amount": 569.95,
       "maxAmount": 569.95,
@@ -941,7 +1472,48 @@
       "159",
       "160W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          79
+        ],
+        "source": "https://romesnowboards.com/products/rome-rene-2627-mens-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://romesnowboards.com/products/rome-rene-2627-mens-snowboard"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          74,
+          94
+        ],
+        "source": "https://romesnowboards.com/products/rome-rene-2627-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://romesnowboards.com/products/rome-rene-2627-mens-snowboard"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          80,
+          100
+        ],
+        "source": "https://romesnowboards.com/products/rome-rene-2627-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 569.95,
       "maxAmount": 569.95,
@@ -1026,7 +1598,72 @@
       "160",
       "161W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          51,
+          71
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          70,
+          90
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          76,
+          96
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          73,
+          93
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          82,
+          102
+        ],
+        "source": "https://romesnowboards.com/products/rome-agent-2627-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 569.95,
       "maxAmount": 569.95,
@@ -1111,7 +1748,72 @@
       "159",
       "160W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          53,
+          73
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          79
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          68,
+          88
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          74,
+          94
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          80,
+          100
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-pro-2627-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 559.95,
       "maxAmount": 559.95,
@@ -1196,7 +1898,40 @@
       "147",
       "151"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "139",
+        "weightKg": [
+          36,
+          56
+        ],
+        "source": "https://us.romesnowboards.com/products/rome-hype-pro-2627-womens-snowboard?variant=46357867692163"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          40,
+          60
+        ],
+        "source": "https://us.romesnowboards.com/products/rome-hype-pro-2627-womens-snowboard?variant=46357867692163"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          44,
+          64
+        ],
+        "source": "https://us.romesnowboards.com/products/rome-hype-pro-2627-womens-snowboard?variant=46357867692163"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://us.romesnowboards.com/products/rome-hype-pro-2627-womens-snowboard?variant=46357867692163"
+      }
+    ],
     "price": {
       "amount": 549.95,
       "maxAmount": 549.95,
@@ -1289,7 +2024,96 @@
       "160W",
       "163W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138N",
+        "weightKg": [
+          35,
+          55
+        ],
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard"
+      },
+      {
+        "length": "141N",
+        "weightKg": [
+          38,
+          58
+        ],
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard"
+      },
+      {
+        "length": "144N",
+        "weightKg": [
+          41,
+          61
+        ],
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard"
+      },
+      {
+        "length": "147N",
+        "weightKg": [
+          44,
+          64
+        ],
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          53,
+          73
+        ],
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          79
+        ],
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          74,
+          94
+        ],
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          80,
+          100
+        ],
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard"
+      },
+      {
+        "length": "163W",
+        "weightKg": [
+          86,
+          106
+        ],
+        "source": "https://romesnowboards.com/products/rome-boneless-2627-unisex-snowboard"
+      }
+    ],
     "price": {
       "amount": 529.95,
       "maxAmount": 529.95,
@@ -1371,7 +2195,40 @@
       "155",
       "159"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://romesnowboards.com/products/rome-service-dog-2627-mens-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://romesnowboards.com/products/rome-service-dog-2627-mens-snowboard"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          63,
+          83
+        ],
+        "source": "https://romesnowboards.com/products/rome-service-dog-2627-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://romesnowboards.com/products/rome-service-dog-2627-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 499.95,
       "maxAmount": 499.95,
@@ -1456,7 +2313,72 @@
       "159",
       "160W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          53,
+          73
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          79
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          68,
+          88
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          74,
+          94
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          80,
+          100
+        ],
+        "source": "https://romesnowboards.com/products/rome-artifact-2627-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 499.95,
       "maxAmount": 499.95,
@@ -1541,7 +2463,56 @@
       "160",
       "161W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://romesnowboards.com/products/rome-warden-2627-mens-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://romesnowboards.com/products/rome-warden-2627-mens-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://romesnowboards.com/products/rome-warden-2627-mens-snowboard"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          76,
+          96
+        ],
+        "source": "https://romesnowboards.com/products/rome-warden-2627-mens-snowboard"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          73,
+          93
+        ],
+        "source": "https://romesnowboards.com/products/rome-warden-2627-mens-snowboard"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          82,
+          102
+        ],
+        "source": "https://romesnowboards.com/products/rome-warden-2627-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 469.95,
       "maxAmount": 469.95,
@@ -1629,7 +2600,72 @@
       "160W",
       "163W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          53,
+          73
+        ],
+        "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          79
+        ],
+        "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          74,
+          94
+        ],
+        "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          80,
+          100
+        ],
+        "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard"
+      },
+      {
+        "length": "163W",
+        "weightKg": [
+          86,
+          106
+        ],
+        "source": "https://romesnowboards.com/products/rome-mechanic-2627-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 449.95,
       "maxAmount": 449.95,
@@ -1953,7 +2989,56 @@
       "144",
       "147"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "132",
+        "weightKg": [
+          29,
+          49
+        ],
+        "source": "https://romesnowboards.com/products/rome-slapstick-2627-youth-snowboard"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          32,
+          52
+        ],
+        "source": "https://romesnowboards.com/products/rome-slapstick-2627-youth-snowboard"
+      },
+      {
+        "length": "138",
+        "weightKg": [
+          35,
+          55
+        ],
+        "source": "https://romesnowboards.com/products/rome-slapstick-2627-youth-snowboard"
+      },
+      {
+        "length": "141",
+        "weightKg": [
+          38,
+          58
+        ],
+        "source": "https://romesnowboards.com/products/rome-slapstick-2627-youth-snowboard"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          41,
+          61
+        ],
+        "source": "https://romesnowboards.com/products/rome-slapstick-2627-youth-snowboard"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          44,
+          64
+        ],
+        "source": "https://romesnowboards.com/products/rome-slapstick-2627-youth-snowboard"
+      }
+    ],
     "price": {
       "amount": 359.95,
       "maxAmount": 359.95,
@@ -2031,7 +3116,40 @@
       "110",
       "120"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "90",
+        "weightKg": [
+          8,
+          28
+        ],
+        "source": "https://romesnowboards.com/products/rome-minishred-2627-youth-snowboard"
+      },
+      {
+        "length": "100",
+        "weightKg": [
+          13,
+          33
+        ],
+        "source": "https://romesnowboards.com/products/rome-minishred-2627-youth-snowboard"
+      },
+      {
+        "length": "110",
+        "weightKg": [
+          21,
+          41
+        ],
+        "source": "https://romesnowboards.com/products/rome-minishred-2627-youth-snowboard"
+      },
+      {
+        "length": "120",
+        "weightKg": [
+          26,
+          46
+        ],
+        "source": "https://romesnowboards.com/products/rome-minishred-2627-youth-snowboard"
+      }
+    ],
     "price": {
       "amount": 249.95,
       "maxAmount": 249.95,

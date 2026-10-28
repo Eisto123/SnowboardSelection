@@ -35,7 +35,96 @@
       "158",
       "159W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "141",
+        "weightKg": [
+          44,
+          64
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          47,
+          67
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          50,
+          70
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          53,
+          73
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          57,
+          77
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard"
+      },
+      {
+        "length": "153W",
+        "weightKg": [
+          66,
+          86
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          72,
+          92
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          69,
+          89
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-team-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -117,7 +206,56 @@
       "149",
       "152"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          35,
+          55
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-womens-snowboard"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          37,
+          57
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-womens-snowboard"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          40,
+          60
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-womens-snowboard"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          43,
+          63
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-womens-snowboard"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          46,
+          66
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-womens-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          51,
+          71
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-womens-snowboard"
+      }
+    ],
     "price": {
       "amount": 459.95,
       "maxAmount": 459.95,
@@ -203,7 +341,80 @@
       "159W",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          41,
+          61
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard?variant=47145389064323"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          47,
+          67
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard?variant=47145389064323"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          51,
+          71
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard?variant=47145389064323"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard?variant=47145389064323"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard?variant=47145389064323"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          72,
+          92
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard?variant=47145389064323"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard?variant=47145389064323"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard?variant=47145389064323"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          84,
+          104
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-whatever-petrovsky-ramone-snowboard?variant=47145389064323"
+      }
+    ],
     "price": {
       "amount": 599.95,
       "maxAmount": 599.95,
@@ -287,7 +498,48 @@
       "115",
       "120"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "85",
+        "weightKg": [
+          5,
+          25
+        ],
+        "source": "https://bataleon.com/products/bataleon-minishred-2627-youth-snowboard"
+      },
+      {
+        "length": "95",
+        "weightKg": [
+          11,
+          31
+        ],
+        "source": "https://bataleon.com/products/bataleon-minishred-2627-youth-snowboard"
+      },
+      {
+        "length": "105",
+        "weightKg": [
+          16,
+          36
+        ],
+        "source": "https://bataleon.com/products/bataleon-minishred-2627-youth-snowboard"
+      },
+      {
+        "length": "115",
+        "weightKg": [
+          24,
+          44
+        ],
+        "source": "https://bataleon.com/products/bataleon-minishred-2627-youth-snowboard"
+      },
+      {
+        "length": "120",
+        "weightKg": [
+          26,
+          46
+        ],
+        "source": "https://bataleon.com/products/bataleon-minishred-2627-youth-snowboard"
+      }
+    ],
     "price": {
       "amount": 249.95,
       "maxAmount": 249.95,
@@ -372,7 +624,48 @@
       "156W",
       "157"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-mens-snowboard"
+      },
+      {
+        "length": "153W",
+        "weightKg": [
+          66,
+          86
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-mens-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-mens-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          72,
+          92
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-mens-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 499.95,
       "maxAmount": 499.95,
@@ -453,7 +746,32 @@
       "148",
       "152"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "144",
+        "weightKg": [
+          41,
+          61
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-thunderstorm-womens-snowboard?variant=46350627176579"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          65
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-thunderstorm-womens-snowboard?variant=46350627176579"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          51,
+          71
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-thunderstorm-womens-snowboard?variant=46350627176579"
+      }
+    ],
     "price": {
       "amount": 589.95,
       "maxAmount": 589.95,
@@ -537,7 +855,40 @@
       "147",
       "150"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "141",
+        "weightKg": [
+          38,
+          58
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-womens-snowboard"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          41,
+          61
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-womens-snowboard"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          44,
+          64
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-womens-snowboard"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          47,
+          67
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-womens-snowboard"
+      }
+    ],
     "price": {
       "amount": 569.95,
       "maxAmount": 569.95,
@@ -742,7 +1093,80 @@
       "159W",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          41,
+          61
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          47,
+          67
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          51,
+          71
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          72,
+          92
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          84,
+          104
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-whatever-unisex-snowboard"
+      }
+    ],
     "price": {
       "amount": 579.95,
       "maxAmount": 579.95,
@@ -829,7 +1253,56 @@
       "162",
       "164W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          79
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-tornado-x-beyond-medals-mens-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-tornado-x-beyond-medals-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-tornado-x-beyond-medals-mens-snowboard"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          80,
+          100
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-tornado-x-beyond-medals-mens-snowboard"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          77,
+          97
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-tornado-x-beyond-medals-mens-snowboard"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          88,
+          108
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-tornado-x-beyond-medals-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 649.95,
       "maxAmount": 649.95,
@@ -914,7 +1387,56 @@
       "164W",
       "167W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-turbo-mens-snowboard"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          76,
+          96
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-turbo-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-turbo-mens-snowboard"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          82,
+          102
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-turbo-mens-snowboard"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          88,
+          108
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-turbo-mens-snowboard"
+      },
+      {
+        "length": "167W",
+        "weightKg": [
+          94,
+          114
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-turbo-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 689.95,
       "maxAmount": 689.95,
@@ -997,7 +1519,40 @@
       "159",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          52,
+          72
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-surfer-mens-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-surfer-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-surfer-mens-snowboard"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          77,
+          97
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-surfer-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 1199.95,
       "maxAmount": 1199.95,
@@ -1080,7 +1635,56 @@
       "149",
       "152"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          35,
+          55
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-plus-womens-snowboard"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          37,
+          57
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-plus-womens-snowboard"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          40,
+          60
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-plus-womens-snowboard"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          43,
+          63
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-plus-womens-snowboard"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          46,
+          66
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-plus-womens-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          51,
+          71
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-push-up-plus-womens-snowboard"
+      }
+    ],
     "price": {
       "amount": 639.95,
       "maxAmount": 639.95,
@@ -1300,7 +1904,64 @@
       "162",
       "164W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          52,
+          72
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          79
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          80,
+          100
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          77,
+          97
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          88,
+          108
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-placebo-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 559.95,
       "maxAmount": 559.95,
@@ -1379,7 +2040,48 @@
       "154",
       "157"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "145",
+        "weightKg": [
+          48,
+          68
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-party-wave-mens-snowboard?variant=46350616035459"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          51,
+          71
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-party-wave-mens-snowboard?variant=46350616035459"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-party-wave-mens-snowboard?variant=46350616035459"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-party-wave-mens-snowboard?variant=46350616035459"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://us.bataleon.com/products/bataleon-2627-party-wave-mens-snowboard?variant=46350616035459"
+      }
+    ],
     "price": {
       "amount": 529.95,
       "maxAmount": 529.95,
@@ -1463,7 +2165,64 @@
       "161",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          72,
+          92
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          69,
+          89
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          75,
+          95
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          84,
+          104
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-thunderstorm-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 589.95,
       "maxAmount": 589.95,
@@ -1551,7 +2310,72 @@
       "158",
       "159W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          53,
+          73
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          57,
+          77
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard"
+      },
+      {
+        "length": "153W",
+        "weightKg": [
+          66,
+          86
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          72,
+          92
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          69,
+          89
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-stereo-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 569.95,
       "maxAmount": 569.95,
@@ -1633,7 +2457,56 @@
       "159",
       "159W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          52,
+          72
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-mens-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          57,
+          77
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-mens-snowboard"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          63,
+          83
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-mens-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-mens-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-mojo-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 459.95,
       "maxAmount": 459.95,
@@ -1720,7 +2593,64 @@
       "164W",
       "167W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          79
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          76,
+          96
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          82,
+          102
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          88,
+          108
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard"
+      },
+      {
+        "length": "167W",
+        "weightKg": [
+          94,
+          114
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-plus-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -1806,7 +2736,64 @@
       "164W",
       "167W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          79
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          65,
+          85
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          76,
+          96
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          82,
+          102
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          88,
+          108
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard"
+      },
+      {
+        "length": "167W",
+        "weightKg": [
+          94,
+          114
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-goliath-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -1889,7 +2876,56 @@
       "159W",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          52,
+          72
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-funkink-mens-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-funkink-mens-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-funkink-mens-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-funkink-mens-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-funkink-mens-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          84,
+          104
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-funkink-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 499.95,
       "maxAmount": 499.95,
@@ -2105,7 +3141,56 @@
       "159",
       "159W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-plus-mens-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-plus-mens-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          72,
+          92
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-plus-mens-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-plus-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-plus-mens-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-plus-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -2187,7 +3272,56 @@
       "159",
       "159W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-mens-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-mens-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          72,
+          92
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-mens-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          71,
+          91
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-mens-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          78,
+          98
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-twin-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 589.95,
       "maxAmount": 589.95,
@@ -2269,7 +3403,40 @@
       "140",
       "140W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "130",
+        "weightKg": [
+          26,
+          46
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-teen-youth-snowboard"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          26,
+          46
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-teen-youth-snowboard"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          26,
+          46
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-teen-youth-snowboard"
+      },
+      {
+        "length": "140W",
+        "weightKg": [
+          33,
+          53
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-evil-teen-youth-snowboard"
+      }
+    ],
     "price": {
       "amount": 389.95,
       "maxAmount": 389.95,
@@ -2352,7 +3519,56 @@
       "156W",
       "157"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          51,
+          71
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-plus-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          56,
+          76
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-plus-snowboard"
+      },
+      {
+        "length": "153W",
+        "weightKg": [
+          66,
+          86
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-plus-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          61,
+          81
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-plus-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          72,
+          92
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-plus-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-disaster-plus-snowboard"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -2434,7 +3650,40 @@
       "157",
       "161"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          52,
+          72
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-cameleon-mens-snowboard"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          79
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-cameleon-mens-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          67,
+          87
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-cameleon-mens-snowboard"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          75,
+          95
+        ],
+        "source": "https://bataleon.com/products/bataleon-2627-cameleon-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 689.95,
       "maxAmount": 689.95,
@@ -2601,7 +3850,40 @@
       "157",
       "161"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          55.8,
+          75.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-cameleon-mens-snowboard"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          63,
+          83
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-cameleon-mens-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          70.8,
+          90.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-cameleon-mens-snowboard"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          80.7,
+          100.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-cameleon-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 689.95,
       "maxAmount": 689.95,
@@ -2680,7 +3962,48 @@
       "115",
       "120"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "85",
+        "weightKg": [
+          5.9,
+          25.9
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-minishred-youth-snowboard"
+      },
+      {
+        "length": "95",
+        "weightKg": [
+          11.8,
+          31.8
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-minishred-youth-snowboard"
+      },
+      {
+        "length": "105",
+        "weightKg": [
+          16.8,
+          36.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-minishred-youth-snowboard"
+      },
+      {
+        "length": "115",
+        "weightKg": [
+          24.9,
+          44.9
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-minishred-youth-snowboard"
+      },
+      {
+        "length": "120",
+        "weightKg": [
+          26.8,
+          46.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-minishred-youth-snowboard"
+      }
+    ],
     "price": {
       "amount": 249.95,
       "maxAmount": 249.95,
@@ -2767,7 +4090,56 @@
       "149",
       "152"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          34.9,
+          54.9
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          36.7,
+          56.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          41.7,
+          61.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          44.9,
+          64.9
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          48.1,
+          68
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          53.1,
+          73
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-womens-snowboard"
+      }
+    ],
     "price": {
       "amount": 529.95,
       "maxAmount": 529.95,
@@ -2852,7 +4224,56 @@
       "149",
       "152"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          34.9,
+          54.9
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-plus-womens-snowboard"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          36.7,
+          56.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-plus-womens-snowboard"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          41.7,
+          61.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-plus-womens-snowboard"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          44.9,
+          64.9
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-plus-womens-snowboard"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          48.1,
+          68
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-plus-womens-snowboard"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          53.1,
+          73
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-push-up-plus-womens-snowboard"
+      }
+    ],
     "price": {
       "amount": 639.95,
       "maxAmount": 639.95,
@@ -2934,7 +4355,40 @@
       "140",
       "140W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "130",
+        "weightKg": [
+          34,
+          54
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-stuntwood-youth-snowboard"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          39,
+          59
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-stuntwood-youth-snowboard"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          44,
+          64
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-stuntwood-youth-snowboard"
+      },
+      {
+        "length": "140W",
+        "weightKg": [
+          45.8,
+          65.8
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-stuntwood-youth-snowboard"
+      }
+    ],
     "price": {
       "amount": 359.95,
       "maxAmount": 359.95,
@@ -3009,7 +4463,40 @@
       "159",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          55.8,
+          75.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-surfer-mens-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          66.7,
+          86.6
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-surfer-mens-snowboard"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          76.7,
+          96.6
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-surfer-mens-snowboard"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          84.8,
+          104.8
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-surfer-mens-snowboard"
+      }
+    ],
     "price": {
       "amount": 1099.95,
       "maxAmount": 1099.95,
@@ -3092,7 +4579,80 @@
       "159W",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          40.8,
+          60.8
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          49.9,
+          69.9
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          55.8,
+          75.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          60.8,
+          80.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          64.9,
+          84.8
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          71.7,
+          91.6
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          70.8,
+          90.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          76.7,
+          96.6
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          83,
+          103
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-rop-van-mierlo-unisex-snowboard"
+      }
+    ],
     "price": {
       "amount": 599.95,
       "maxAmount": 599.95,
@@ -3178,7 +4738,72 @@
       "154W",
       "156"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          40.8,
+          60.8
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard"
+      },
+      {
+        "length": "141",
+        "weightKg": [
+          44.9,
+          64.9
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          49.9,
+          69.9
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          55.8,
+          75.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          60.8,
+          80.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          65.8,
+          85.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          65.8,
+          85.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          69.9,
+          89.8
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-wallie-snowboard"
+      }
+    ],
     "price": {
       "amount": 559.95,
       "maxAmount": 559.95,
@@ -3266,7 +4891,88 @@
       "159W",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "144N",
+        "weightKg": [
+          41.7,
+          61.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard"
+      },
+      {
+        "length": "148N",
+        "weightKg": [
+          45.8,
+          65.8
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard"
+      },
+      {
+        "length": "152N",
+        "weightKg": [
+          54,
+          73.9
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          63,
+          83
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          68,
+          88
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          71.7,
+          91.6
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          79.8,
+          99.8
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          68,
+          88
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          75.7,
+          95.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          81.6,
+          101.6
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-thunderstorm-unisex-snowboard"
+      }
+    ],
     "price": {
       "amount": 589.95,
       "maxAmount": 589.95,
@@ -3352,7 +5058,80 @@
       "159W",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          40.8,
+          60.8
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          49.9,
+          69.9
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          55.8,
+          75.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          60.8,
+          80.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          64.9,
+          84.8
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          70.8,
+          90.7
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          71.7,
+          91.6
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          76.7,
+          96.6
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          83,
+          103
+        ],
+        "source": "https://bataleon.com/products/bataleon-2526-whatever-unisex-snowboard"
+      }
+    ],
     "price": {
       "amount": 579.95,
       "maxAmount": 579.95,

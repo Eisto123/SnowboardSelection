@@ -24,7 +24,16 @@
     "sizes": [
       "159"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "159",
+        "weightKg": [
+          65,
+          93
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-aeronaut-ltd-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 679.95,
       "maxAmount": 679.95,
@@ -85,7 +94,72 @@
       "158W",
       "160W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          45,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-merc-mens-snowboard-2027"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-merc-mens-snowboard-2027"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-merc-mens-snowboard-2027"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-merc-mens-snowboard-2027"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-merc-mens-snowboard-2027"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-merc-mens-snowboard-2027"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-merc-mens-snowboard-2027"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-merc-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 999.95,
       "maxAmount": 999.95,
@@ -168,7 +242,64 @@
       "165W",
       "169W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-death-mens-snowboard-2027"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-death-mens-snowboard-2027"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-death-mens-snowboard-2027"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-death-mens-snowboard-2027"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-death-mens-snowboard-2027"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-death-mens-snowboard-2027"
+      },
+      {
+        "length": "169W",
+        "weightKg": [
+          77,
+          104
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mega-death-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 1199.95,
       "maxAmount": 1199.95,
@@ -253,7 +384,80 @@
       "160W",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          52,
+          79
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-aeronaut-mens-snowboard-2027"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          56,
+          83
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-aeronaut-mens-snowboard-2027"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          61,
+          88
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-aeronaut-mens-snowboard-2027"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          65,
+          93
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-aeronaut-mens-snowboard-2027"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-aeronaut-mens-snowboard-2027"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          61,
+          88
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-aeronaut-mens-snowboard-2027"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          65,
+          93
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-aeronaut-mens-snowboard-2027"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-aeronaut-mens-snowboard-2027"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          77,
+          104
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-aeronaut-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 679.95,
       "maxAmount": 679.95,
@@ -342,7 +546,88 @@
       "161W",
       "163W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "152",
+        "weightKg": [
+          49,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-super-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-super-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-super-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-super-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-super-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-super-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-super-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-super-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-super-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "163W",
+        "weightKg": [
+          77,
+          104
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-super-d-o-a-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 799.95,
       "maxAmount": 799.95,
@@ -434,7 +719,136 @@
       "161W",
       "163W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          40,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          49,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          81,
+          108
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "164",
+        "weightKg": [
+          86,
+          111
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "151W",
+        "weightKg": [
+          49,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "153W",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      },
+      {
+        "length": "163W",
+        "weightKg": [
+          77,
+          106
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-d-o-a-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 599.95,
       "maxAmount": 599.95,
@@ -515,7 +929,40 @@
       "159",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sidewinder-mens-snowboard-2027"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sidewinder-mens-snowboard-2027"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          65,
+          93
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sidewinder-mens-snowboard-2027"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          70,
+          97
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sidewinder-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 650,
       "maxAmount": 650,
@@ -604,7 +1051,112 @@
       "152W",
       "154W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "138",
+        "weightKg": [
+          36,
+          59
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          38,
+          61
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      },
+      {
+        "length": "142",
+        "weightKg": [
+          40,
+          63
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          43,
+          65
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          47,
+          70
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          49,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          52,
+          74
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      },
+      {
+        "length": "148W",
+        "weightKg": [
+          49,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      },
+      {
+        "length": "150W",
+        "weightKg": [
+          52,
+          74
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      },
+      {
+        "length": "152W",
+        "weightKg": [
+          54,
+          79
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          56,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-birds-of-a-feather-womens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 599.95,
       "maxAmount": 599.95,
@@ -693,7 +1245,96 @@
       "159W",
       "161W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          36,
+          63
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-outerspace-living-mens-snowboard-2027"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-outerspace-living-mens-snowboard-2027"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          49,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-outerspace-living-mens-snowboard-2027"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-outerspace-living-mens-snowboard-2027"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-outerspace-living-mens-snowboard-2027"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-outerspace-living-mens-snowboard-2027"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-outerspace-living-mens-snowboard-2027"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          56,
+          83
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-outerspace-living-mens-snowboard-2027"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          61,
+          88
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-outerspace-living-mens-snowboard-2027"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          65,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-outerspace-living-mens-snowboard-2027"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          70,
+          102
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-outerspace-living-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 529.95,
       "maxAmount": 529.95,
@@ -775,7 +1416,48 @@
       "148W",
       "150W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "144",
+        "weightKg": [
+          43,
+          65
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mia-brookes-pro-womens-snowboard-2027"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mia-brookes-pro-womens-snowboard-2027"
+      },
+      {
+        "length": "148",
+        "weightKg": [
+          47,
+          70
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mia-brookes-pro-womens-snowboard-2027"
+      },
+      {
+        "length": "148W",
+        "weightKg": [
+          49,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mia-brookes-pro-womens-snowboard-2027"
+      },
+      {
+        "length": "150W",
+        "weightKg": [
+          52,
+          74
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mia-brookes-pro-womens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -866,7 +1548,88 @@
       "150W",
       "152W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "139",
+        "weightKg": [
+          36,
+          59
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-paradise-womens-snowboard-2027"
+      },
+      {
+        "length": "141",
+        "weightKg": [
+          38,
+          61
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-paradise-womens-snowboard-2027"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          40,
+          63
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-paradise-womens-snowboard-2027"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          43,
+          65
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-paradise-womens-snowboard-2027"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-paradise-womens-snowboard-2027"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          49,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-paradise-womens-snowboard-2027"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          52,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-paradise-womens-snowboard-2027"
+      },
+      {
+        "length": "148W",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-paradise-womens-snowboard-2027"
+      },
+      {
+        "length": "150W",
+        "weightKg": [
+          49,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-paradise-womens-snowboard-2027"
+      },
+      {
+        "length": "152W",
+        "weightKg": [
+          52,
+          79
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-paradise-womens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 529.95,
       "maxAmount": 529.95,
@@ -953,7 +1716,80 @@
       "158W",
       "161W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "150",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-indoor-survival-mens-snowboard-2027"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          49,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-indoor-survival-mens-snowboard-2027"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-indoor-survival-mens-snowboard-2027"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-indoor-survival-mens-snowboard-2027"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-indoor-survival-mens-snowboard-2027"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-indoor-survival-mens-snowboard-2027"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-indoor-survival-mens-snowboard-2027"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-indoor-survival-mens-snowboard-2027"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          70,
+          97
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-indoor-survival-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 629.95,
       "maxAmount": 629.95,
@@ -1039,7 +1875,72 @@
       "155W",
       "157W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          40,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-ultrafear-mens-snowboard-2027"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          45,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-ultrafear-mens-snowboard-2027"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          59,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-ultrafear-mens-snowboard-2027"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          63,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-ultrafear-mens-snowboard-2027"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          68,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-ultrafear-mens-snowboard-2027"
+      },
+      {
+        "length": "153W",
+        "weightKg": [
+          63,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-ultrafear-mens-snowboard-2027"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          68,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-ultrafear-mens-snowboard-2027"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          72,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-ultrafear-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 549.95,
       "maxAmount": 549.95,
@@ -1130,7 +2031,96 @@
       "157W",
       "159W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "145",
+        "weightKg": [
+          36,
+          54
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-pathfinder-mens-snowboard-2027"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          40,
+          63
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-pathfinder-mens-snowboard-2027"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          43,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-pathfinder-mens-snowboard-2027"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          45,
+          70
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-pathfinder-mens-snowboard-2027"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          49,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-pathfinder-mens-snowboard-2027"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-pathfinder-mens-snowboard-2027"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-pathfinder-mens-snowboard-2027"
+      },
+      {
+        "length": "153W",
+        "weightKg": [
+          49,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-pathfinder-mens-snowboard-2027"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-pathfinder-mens-snowboard-2027"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-pathfinder-mens-snowboard-2027"
+      },
+      {
+        "length": "159W",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-pathfinder-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 449.95,
       "maxAmount": 449.95,
@@ -1218,7 +2208,88 @@
       "158W",
       "160W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "148",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-dark-horse-mens-snowboard-2027"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-dark-horse-mens-snowboard-2027"
+      },
+      {
+        "length": "152",
+        "weightKg": [
+          45,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-dark-horse-mens-snowboard-2027"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-dark-horse-mens-snowboard-2027"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-dark-horse-mens-snowboard-2027"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-dark-horse-mens-snowboard-2027"
+      },
+      {
+        "length": "154W",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-dark-horse-mens-snowboard-2027"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-dark-horse-mens-snowboard-2027"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-dark-horse-mens-snowboard-2027"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-dark-horse-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 500,
       "maxAmount": 500,
@@ -1307,7 +2378,72 @@
       "151",
       "153"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "139",
+        "weightKg": [
+          36,
+          59
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-space-metal-fantasy-womens-snowboard-2027"
+      },
+      {
+        "length": "141",
+        "weightKg": [
+          38,
+          61
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-space-metal-fantasy-womens-snowboard-2027"
+      },
+      {
+        "length": "143",
+        "weightKg": [
+          40,
+          63
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-space-metal-fantasy-womens-snowboard-2027"
+      },
+      {
+        "length": "145",
+        "weightKg": [
+          43,
+          65
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-space-metal-fantasy-womens-snowboard-2027"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-space-metal-fantasy-womens-snowboard-2027"
+      },
+      {
+        "length": "149",
+        "weightKg": [
+          47,
+          70
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-space-metal-fantasy-womens-snowboard-2027"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          49,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-space-metal-fantasy-womens-snowboard-2027"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-space-metal-fantasy-womens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 449.95,
       "maxAmount": 449.95,
@@ -1394,7 +2530,64 @@
       "165W",
       "169W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-black-snowboard-of-death-mens-snowboard-2027"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-black-snowboard-of-death-mens-snowboard-2027"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-black-snowboard-of-death-mens-snowboard-2027"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-black-snowboard-of-death-mens-snowboard-2027"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-black-snowboard-of-death-mens-snowboard-2027"
+      },
+      {
+        "length": "165W",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-black-snowboard-of-death-mens-snowboard-2027"
+      },
+      {
+        "length": "169W",
+        "weightKg": [
+          77,
+          104
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-black-snowboard-of-death-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 749.95,
       "maxAmount": 749.95,
@@ -1477,7 +2670,48 @@
       "157W",
       "160W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "155",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-matriarch-mens-snowboard-2027"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-matriarch-mens-snowboard-2027"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-matriarch-mens-snowboard-2027"
+      },
+      {
+        "length": "157W",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-matriarch-mens-snowboard-2027"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-matriarch-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 730,
       "maxAmount": 730,
@@ -1562,7 +2796,72 @@
       "161W",
       "164W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "151",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-kazu-kokubo-pro-mens-snowboard-2027"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          45,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-kazu-kokubo-pro-mens-snowboard-2027"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-kazu-kokubo-pro-mens-snowboard-2027"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-kazu-kokubo-pro-mens-snowboard-2027"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          49,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-kazu-kokubo-pro-mens-snowboard-2027"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-kazu-kokubo-pro-mens-snowboard-2027"
+      },
+      {
+        "length": "161W",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-kazu-kokubo-pro-mens-snowboard-2027"
+      },
+      {
+        "length": "164W",
+        "weightKg": [
+          77,
+          104
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-kazu-kokubo-pro-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 679.95,
       "maxAmount": 679.95,
@@ -1645,7 +2944,48 @@
       "153",
       "156"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "144",
+        "weightKg": [
+          40,
+          63
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-artemis-womens-snowboard-2027"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-artemis-womens-snowboard-2027"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          49,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-artemis-womens-snowboard-2027"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-artemis-womens-snowboard-2027"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-artemis-womens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 680,
       "maxAmount": 680,
@@ -1734,7 +3074,96 @@
       "160W",
       "162W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "147",
+        "weightKg": [
+          36,
+          63
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mercury-mens-snowboard-2027"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          40,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mercury-mens-snowboard-2027"
+      },
+      {
+        "length": "153",
+        "weightKg": [
+          45,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mercury-mens-snowboard-2027"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mercury-mens-snowboard-2027"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mercury-mens-snowboard-2027"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mercury-mens-snowboard-2027"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mercury-mens-snowboard-2027"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mercury-mens-snowboard-2027"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mercury-mens-snowboard-2027"
+      },
+      {
+        "length": "160W",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mercury-mens-snowboard-2027"
+      },
+      {
+        "length": "162W",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-mercury-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 699.95,
       "maxAmount": 699.95,
@@ -1815,7 +3244,48 @@
       "164",
       "167"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "155",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-navigator-mens-snowboard-2027"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          68,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-navigator-mens-snowboard-2027"
+      },
+      {
+        "length": "161",
+        "weightKg": [
+          72,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-navigator-mens-snowboard-2027"
+      },
+      {
+        "length": "164",
+        "weightKg": [
+          77,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-navigator-mens-snowboard-2027"
+      },
+      {
+        "length": "167",
+        "weightKg": [
+          81,
+          104
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-navigator-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 649.95,
       "maxAmount": 649.95,
@@ -1894,7 +3364,32 @@
       "147",
       "151"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "143",
+        "weightKg": [
+          36,
+          59
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-navigator-wmn-womens-snowboard-2027"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          40,
+          63
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-navigator-wmn-womens-snowboard-2027"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          49,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-navigator-wmn-womens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 649.95,
       "maxAmount": 649.95,
@@ -1971,7 +3466,40 @@
       "150",
       "154"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "142",
+        "weightKg": [
+          40,
+          63
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-equalizer-by-jess-kimura-womens-snowboard-2027"
+      },
+      {
+        "length": "146",
+        "weightKg": [
+          45,
+          68
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-equalizer-by-jess-kimura-womens-snowboard-2027"
+      },
+      {
+        "length": "150",
+        "weightKg": [
+          49,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-equalizer-by-jess-kimura-womens-snowboard-2027"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-equalizer-by-jess-kimura-womens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 550,
       "maxAmount": 550,
@@ -2052,7 +3580,32 @@
       "135",
       "140"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "130",
+        "weightKg": [
+          31,
+          47
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-children-of-the-pow-kids-snowboard-2027"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          36,
+          52
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-children-of-the-pow-kids-snowboard-2027"
+      },
+      {
+        "length": "140",
+        "weightKg": [
+          40,
+          61
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-children-of-the-pow-kids-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 399.95,
       "maxAmount": 399.95,
@@ -2129,7 +3682,48 @@
       "125",
       "130"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "110",
+        "weightKg": [
+          22,
+          29
+        ],
+        "source": "https://eu.capitasnowboarding.com/products/capita-youth-brigade-mini-kids-snowboard-2027"
+      },
+      {
+        "length": "115",
+        "weightKg": [
+          22,
+          29
+        ],
+        "source": "https://eu.capitasnowboarding.com/products/capita-youth-brigade-mini-kids-snowboard-2027"
+      },
+      {
+        "length": "120",
+        "weightKg": [
+          24,
+          31
+        ],
+        "source": "https://eu.capitasnowboarding.com/products/capita-youth-brigade-mini-kids-snowboard-2027"
+      },
+      {
+        "length": "125",
+        "weightKg": [
+          27,
+          34
+        ],
+        "source": "https://eu.capitasnowboarding.com/products/capita-youth-brigade-mini-kids-snowboard-2027"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          29,
+          36
+        ],
+        "source": "https://eu.capitasnowboarding.com/products/capita-youth-brigade-mini-kids-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 380,
       "maxAmount": 380,
@@ -2213,7 +3807,40 @@
       "141",
       "144"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "135",
+        "weightKg": [
+          40,
+          52
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-youth-brigade-kids-snowboard-2027"
+      },
+      {
+        "length": "138",
+        "weightKg": [
+          43,
+          56
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-youth-brigade-kids-snowboard-2027"
+      },
+      {
+        "length": "141",
+        "weightKg": [
+          45,
+          59
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-youth-brigade-kids-snowboard-2027"
+      },
+      {
+        "length": "144",
+        "weightKg": [
+          47,
+          61
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-youth-brigade-kids-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 399.95,
       "maxAmount": 399.95,
@@ -2297,7 +3924,40 @@
       "138",
       "141"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "132",
+        "weightKg": [
+          38,
+          47
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-glow-up-by-jess-kimura-kids-snowboard-2027"
+      },
+      {
+        "length": "135",
+        "weightKg": [
+          40,
+          52
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-glow-up-by-jess-kimura-kids-snowboard-2027"
+      },
+      {
+        "length": "138",
+        "weightKg": [
+          43,
+          56
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-glow-up-by-jess-kimura-kids-snowboard-2027"
+      },
+      {
+        "length": "141",
+        "weightKg": [
+          45,
+          59
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-glow-up-by-jess-kimura-kids-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 399.95,
       "maxAmount": 399.95,
@@ -2378,7 +4038,32 @@
       "90",
       "100"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "80",
+        "weightKg": [
+          15,
+          22
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-micro-mini-kids-snowboard-2027"
+      },
+      {
+        "length": "90",
+        "weightKg": [
+          18,
+          24
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-micro-mini-kids-snowboard-2027"
+      },
+      {
+        "length": "100",
+        "weightKg": [
+          20,
+          27
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-micro-mini-kids-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 249.95,
       "maxAmount": 249.95,
@@ -2456,7 +4141,48 @@
       "125",
       "130"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "110",
+        "weightKg": [
+          29,
+          38
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-glow-up-mini-by-jess-kimura-kids-snowboard-2027"
+      },
+      {
+        "length": "115",
+        "weightKg": [
+          31,
+          40
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-glow-up-mini-by-jess-kimura-kids-snowboard-2027"
+      },
+      {
+        "length": "120",
+        "weightKg": [
+          34,
+          43
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-glow-up-mini-by-jess-kimura-kids-snowboard-2027"
+      },
+      {
+        "length": "125",
+        "weightKg": [
+          36,
+          45
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-glow-up-mini-by-jess-kimura-kids-snowboard-2027"
+      },
+      {
+        "length": "130",
+        "weightKg": [
+          36,
+          45
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-the-glow-up-mini-by-jess-kimura-kids-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 380,
       "maxAmount": 380,
@@ -2538,7 +4264,32 @@
       "158",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-powder-glider-mens-snowboard-2027"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-powder-glider-mens-snowboard-2027"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-powder-glider-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 800,
       "maxAmount": 800,
@@ -2611,7 +4362,40 @@
       "159",
       "162"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "153",
+        "weightKg": [
+          49,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-powder-twin-mens-snowboard-2027"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-powder-twin-mens-snowboard-2027"
+      },
+      {
+        "length": "159",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-powder-twin-mens-snowboard-2027"
+      },
+      {
+        "length": "162",
+        "weightKg": [
+          72,
+          99
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-powder-twin-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 599.95,
       "maxAmount": 599.95,
@@ -2685,7 +4469,40 @@
       "154",
       "157"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "149",
+        "weightKg": [
+          49,
+          72
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-powder-racers-mens-snowboard-2027"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-powder-racers-mens-snowboard-2027"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-powder-racers-mens-snowboard-2027"
+      },
+      {
+        "length": "157",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-powder-racers-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 649.95,
       "maxAmount": 649.95,
@@ -2770,7 +4587,64 @@
       "155W",
       "158W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "152",
+        "weightKg": [
+          49,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-resort-twin-mens-snowboard-2027"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          54,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-resort-twin-mens-snowboard-2027"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-resort-twin-mens-snowboard-2027"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-resort-twin-mens-snowboard-2027"
+      },
+      {
+        "length": "160",
+        "weightKg": [
+          68,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-resort-twin-mens-snowboard-2027"
+      },
+      {
+        "length": "155W",
+        "weightKg": [
+          59,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-resort-twin-mens-snowboard-2027"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          63,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-resort-twin-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 600,
       "maxAmount": 600,
@@ -2852,7 +4726,56 @@
       "156W",
       "158W"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "152",
+        "weightKg": [
+          45,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-stairmaster-mens-snowboard-2027"
+      },
+      {
+        "length": "154",
+        "weightKg": [
+          49,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-stairmaster-mens-snowboard-2027"
+      },
+      {
+        "length": "156",
+        "weightKg": [
+          54,
+          86
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-stairmaster-mens-snowboard-2027"
+      },
+      {
+        "length": "158",
+        "weightKg": [
+          59,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-stairmaster-mens-snowboard-2027"
+      },
+      {
+        "length": "156W",
+        "weightKg": [
+          59,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-stairmaster-mens-snowboard-2027"
+      },
+      {
+        "length": "158W",
+        "weightKg": [
+          63,
+          95
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-stairmaster-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 479.95,
       "maxAmount": 479.95,
@@ -2934,7 +4857,40 @@
       "151",
       "155"
     ],
-    "fit": [],
+    "fit": [
+      {
+        "length": "143",
+        "weightKg": [
+          49,
+          77
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-slush-slashers-2-0-mens-snowboard-2027"
+      },
+      {
+        "length": "147",
+        "weightKg": [
+          59,
+          81
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-slush-slashers-2-0-mens-snowboard-2027"
+      },
+      {
+        "length": "151",
+        "weightKg": [
+          68,
+          90
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-slush-slashers-2-0-mens-snowboard-2027"
+      },
+      {
+        "length": "155",
+        "weightKg": [
+          81,
+          104
+        ],
+        "source": "https://capitasnowboarding.com/products/capita-sb-slush-slashers-2-0-mens-snowboard-2027"
+      }
+    ],
     "price": {
       "amount": 430,
       "maxAmount": 430,

@@ -121,7 +121,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_alchemist_KB262025?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-alchemist-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/alchemist-mens-snowboard-kb262025",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -227,7 +237,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_copycat_KB262026?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-copycat-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/copycat-unisex-snowboard-kb262026",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -377,7 +397,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_commonwealth_KB261686?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-commonwealth-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/commonwealth-unisex-snowboard-kb261686",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -502,7 +532,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_extravision_KB261700?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-extravision-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/extravision-womens-snowboard-kb261700",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -607,7 +647,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_antidote_KB261684?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-antidote-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/antidote-unisex-snowboard-kb261684",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -740,7 +790,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_manifest_KB261688?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-manifest-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/manifest-unisex-snowboard-kb261688",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -862,7 +922,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_hypnotist_KB261691?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-hypnotist-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/hypnotist-mens-snowboard-kb261691",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -968,7 +1038,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_excavator_KB261687?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-excavator-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/excavator-unisex-snowboard-kb261687",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -1074,7 +1154,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_skypilot_KB261685?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-sky-pilot-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/sky-pilot-unisex-snowboard-kb261685",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -1244,6 +1334,15 @@
     "priceNote": null,
     "images": [
       {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_passport_KB261689?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-passport-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
+      {
         "url": "https://cdn.media.amplience.net/i/k2/k2_2627_passport_KB261689_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
         "source": "https://k2snow.com/en-us/p/passport-unisex-snowboard-kb261689",
         "credit": "K2",
@@ -1388,7 +1487,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_medium_KB261692?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-medium-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/medium-unisex-snowboard-kb261692",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -1505,7 +1614,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_almanac_KB261693?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-almanac-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/almanac-unisex-snowboard-kb261693",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -1638,7 +1757,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_embassy_KB261694?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-embassy-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/embassy-mens-snowboard-kb261694",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -1754,6 +1883,15 @@
     },
     "priceNote": null,
     "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_afterblack_KB261695?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-afterblack-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
       {
         "url": "https://cdn.media.amplience.net/i/k2/k2_2627_afterblack_KB261695_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
         "source": "https://k2snow.com/en-us/p/afterblack-mens-snowboard-kb261695",
@@ -1899,7 +2037,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_world-peace_KB261698?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-world-peace-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/world-peace-mens-snowboard-kb261698",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -2022,7 +2170,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_gateway-pop_KB261696?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-gateway-pop-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/gateway-mens-snowboard-kb261696",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -2152,7 +2310,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_courier_KB261699?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-courier-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/courier-mens-snowboard-kb261699",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -2249,6 +2417,15 @@
     },
     "priceNote": null,
     "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_dreamsicle_KB261701?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-dreamsicle-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
       {
         "url": "https://cdn.media.amplience.net/i/k2/k2_2627_dreamsicle_KB261701_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
         "source": "https://k2snow.com/en-us/p/dreamsicle-womens-snowboard-kb261701",
@@ -2377,7 +2554,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_metropolitan_KB261702?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-metropolitan-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/metropolitan-womens-snowboard-kb261702",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/metropolitan-womens-snowboard-kb261702",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -2472,7 +2659,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_chloro_KB261703?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-chloro-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/chloro-womens-snowboard-kb261703",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/chloro-womens-snowboard-kb261703",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -2530,7 +2727,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2627_passport-jr_KB262027?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-passport-jr-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/passport-jr-youth-snowboard-kb262027",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/passport-jr-youth-snowboard-kb262027",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -2588,7 +2795,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/i/k2/k2_2627_sidecar_black_KB262054_1?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-sidecar-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/sidecar-youth-snowboard-kb262054?color=black",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/sidecar-youth-snowboard-kb262054?color=black",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -2710,7 +2927,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": "官方整套分离板套装价格，不能与单板板身价格直接比较。",
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2_2526_marauder-split-package_B2302002?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-marauder-splitboard-package-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002",
+        "credit": "K2",
+        "season": "待核实",
+        "label": "官方当前图（文件标2526，图季待核）",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/marauder-unisex-splitboard-package-b2302002",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -2768,7 +2995,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2snow_2425_lil-mini_KB240324?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-lil-mini-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/lil-mini-youth-snowboard-kb240324",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/lil-mini-youth-snowboard-kb240324",
     "checkedAt": "2026-10-28",
     "status": "partial",
@@ -2823,7 +3060,17 @@
       "source": "https://k2snow.com/en-us/c/snowboards-by-collection/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/k2/k2snow_2425_lil-kat_KB240322?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/k2-lil-kat-2027.jpg",
+        "source": "https://k2snow.com/en-us/p/lil-kat-youth-snowboard-kb240322",
+        "credit": "K2",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://k2snow.com/en-us/p/lil-kat-youth-snowboard-kb240322",
     "checkedAt": "2026-10-28",
     "status": "partial",

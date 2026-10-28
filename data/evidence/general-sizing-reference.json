@@ -1,0 +1,102 @@
+{
+  "checkedAt": "2026-10-28",
+  "source": "https://ridesnowboards.com/en-us/support/how-to-choose-a-snowboard",
+  "observedRegionRedirect": "https://ridesnowboards.com/en-au/support/how-to-choose-a-snowboard",
+  "title": "Snowboard Length by Height and Weight",
+  "heightChart": [
+    {
+      "height": 152,
+      "ranges": [
+        [
+          138,
+          144
+        ],
+        [
+          142,
+          148
+        ],
+        [
+          146,
+          152
+        ]
+      ]
+    },
+    {
+      "height": 163,
+      "ranges": [
+        [
+          144,
+          150
+        ],
+        [
+          148,
+          154
+        ],
+        [
+          152,
+          158
+        ]
+      ]
+    },
+    {
+      "height": 173,
+      "ranges": [
+        [
+          150,
+          156
+        ],
+        [
+          154,
+          160
+        ],
+        [
+          158,
+          164
+        ]
+      ]
+    },
+    {
+      "height": 183,
+      "ranges": [
+        [
+          156,
+          162
+        ],
+        [
+          160,
+          166
+        ],
+        [
+          164,
+          170
+        ]
+      ]
+    }
+  ],
+  "units": {
+    "height": "cm",
+    "range": "cm",
+    "weight": "kg"
+  },
+  "bands": [
+    "<59",
+    "59–82",
+    ">82"
+  ],
+  "method": "Only for missing model charts: linear interpolation between listed heights, round outward; unknown weight uses union of all bands; intersect with actual listed lengths. No extrapolation or automatic style offsets.",
+  "limits": "152–183cm generic adult starting point, not a per-model range. Children and explicitly identified special shapes excluded; known official mismatch is never overridden.",
+  "casi": {
+    "source": "https://members.casi-acms.com/documents/Ref_Guide.pdf",
+    "section": "Appendix 8: Equipment Set-Up / Size & Weight",
+    "finding": "The inspected section prioritizes rider weight and manufacturer ranges; it does not establish a universal numerical height-to-length chart."
+  },
+  "japaneseBrands": {
+    "status": "No verifiable current per-model rider-weight range found in inspected official sources",
+    "sources": [
+      "https://www.yonex.co.jp/snowboards/pdf/26_SNOWBORDS_SPEC.pdf",
+      "https://www.ogasaka-snowboard.com/product_e.html",
+      "https://www.011artistic.com/"
+    ],
+    "excludedMisreads": "YONEX sleeve-size chart refers to protective sleeves, not rider sizing. FT/SW and product shipping weight are not rider weight."
+  }
+}

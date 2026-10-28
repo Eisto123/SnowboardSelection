@@ -26,7 +26,7 @@ export async function validate(){
   if(p.flex.kind==='converted'&&!p.flex.method)throw Error('Missing conversion method '+p.id);
   if(p.price&&(p.price.season!==p.season||p.price.maxAmount<p.price.amount))throw Error('Invalid price '+p.id);
   for(const x of p.fit)if(!p.sizes.includes(x.length)||x.weightKg[0]===null||(x.weightKg[1]!==null&&x.weightKg[0]>x.weightKg[1]))throw Error('Invalid size fit '+p.id);
-  for(const x of p.images)if(x.season!==p.season)throw Error('Image season mismatch '+p.id);
+  for(const x of p.images){if(x.season!=='待核实'&&x.season!==p.season)throw Error('Image season mismatch '+p.id);if(x.local){const bytes=await fs.readFile(new URL('../site/'+x.local.slice(2),import.meta.url));if(bytes[0]!==255||bytes[1]!==216)throw Error('Invalid cached JPEG '+p.id);}}
   for(const x of p.sizes)if(parseFloat(x)<65||parseFloat(x)>220)throw Error('Implausible length '+p.id);
  }
  return {products,files};

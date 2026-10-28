@@ -104,7 +104,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_deep-fake_RD261850?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-deep-fake-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/deep-fake-snowboard-rd261850",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -219,7 +229,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_algorhythm_RD261853?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-algorhythm-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/algorhythm-snowboard-rd261853",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -369,7 +389,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_current_RD261888?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-current-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/current-snowboard-rd261888",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -510,7 +540,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_moderator_RD261852?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-moderator-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/moderator-snowboard-rd261852",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -607,7 +647,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_superpig_RD261854?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-superpig-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/superpig-snowboard-rd261854",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -702,7 +752,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_burnout_RD261855?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-burnout-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/burnout-snowboard-rd261855",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -825,7 +885,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_berzerker_RD261856?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-berzerker-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/berzerker-snowboard-rd261856",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -924,6 +994,15 @@
     },
     "priceNote": null,
     "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_warpig_RD261857?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-warpig-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
       {
         "url": "https://cdn.media.amplience.net/i/ride/ride_2627_warpig_RD261857_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
         "source": "https://ridesnowboards.com/en-us/p/warpig-snowboard-rd261857",
@@ -1059,7 +1138,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_benchwarmer_RD261858?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-benchwarmer-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/benchwarmer-snowboard-rd261858",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -1183,7 +1272,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_vantum_RD262028?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-vantum-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/vantum-snowboard-rd262028",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -1307,6 +1406,15 @@
     },
     "priceNote": null,
     "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_shadowban_RD261861?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-shadowban-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
       {
         "url": "https://cdn.media.amplience.net/i/ride/ride_2627_shadowban_RD261861_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
         "source": "https://ridesnowboards.com/en-us/p/shadowban-snowboard-rd261861",
@@ -1461,7 +1569,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_zero_RD261859?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-zero-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/zero-snowboard-rd261859",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -1577,6 +1695,15 @@
     },
     "priceNote": null,
     "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_twinpig_RD261860?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-twinpig-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
       {
         "url": "https://cdn.media.amplience.net/i/ride/ride_2627_twinpig_RD261860_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
         "source": "https://ridesnowboards.com/en-us/p/twinpig-snowboard-rd261860",
@@ -1703,7 +1830,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_smokescreen_RD261862?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-smokescreen-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/smokescreen-snowboard-rd261862",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -1817,7 +1954,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_kink_RD261863?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-kink-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/kink-snowboard-rd261863",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -1930,7 +2077,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_manic_RD261864?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-manic-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/manic-snowboard-rd261864",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -2044,7 +2201,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_agenda_RD261865?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-agenda-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/agenda-snowboard-rd261865",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -2149,7 +2316,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_psychocandy_RD261866?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-psychocandy-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/psychocandy-snowboard-rd261866",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -2236,7 +2413,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_magic-stick_RD261867?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-magic-stick-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/magic-stick-snowboard-rd261867",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -2333,6 +2520,15 @@
     },
     "priceNote": null,
     "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_saturday_RD261868?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-saturday-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      },
       {
         "url": "https://cdn.media.amplience.net/i/ride/ride_2627_saturday_RD261868_1?w=480&fmt=auto&fmt.interlaced=true&bg=white&qlt=90&protocol=https",
         "source": "https://ridesnowboards.com/en-us/p/saturday-snowboard-rd261868",
@@ -2459,7 +2655,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_compact_RD261869?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-compact-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/compact-snowboard-rd261869",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -2545,7 +2751,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_heartbreaker_RD261870?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-heartbreaker-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/heartbreaker-snowboard-rd261870",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -2623,7 +2839,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2627_zero-jr_RD261871?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-zero-jr-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/zero-jr-snowboard-rd261871",
+        "credit": "RIDE",
+        "season": "2026/27",
+        "label": "官方产品主图",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/zero-jr-snowboard-rd261871",
     "checkedAt": "2026-10-28",
     "status": "reviewed",
@@ -2678,7 +2904,17 @@
       "source": "https://ridesnowboards.com/en-us/c/snowboards/"
     },
     "priceNote": null,
-    "images": [],
+    "images": [
+      {
+        "url": "https://cdn.media.amplience.net/s/ride/ride_2526_lowride_RD240293?w=1200&qlt=90&fmt=auto",
+        "local": "./assets/boards/ride-lowride-2027.jpg",
+        "source": "https://ridesnowboards.com/en-us/p/lowride-snowboard-rd240293",
+        "credit": "RIDE",
+        "season": "待核实",
+        "label": "官方当前图（文件标2526，图季待核）",
+        "license": "品牌版权所有；未取得独立转载授权"
+      }
+    ],
     "source": "https://ridesnowboards.com/en-us/p/lowride-snowboard-rd240293",
     "checkedAt": "2026-10-28",
     "status": "partial",
